@@ -1,0 +1,18 @@
+{
+  "name": "Golemania.net",
+  "addresses": [
+    "play.golemania.net",
+    "golemania.net"
+  ],
+  "categories": [
+    "PVP",
+    "MINIGAMES",
+    "CUSTOM"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "freelook"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

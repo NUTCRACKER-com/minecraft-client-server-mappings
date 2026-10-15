@@ -1,0 +1,14 @@
+{
+  "name": "Laavenda",
+  "addresses": [
+    "laavenda.de",
+    "ave.rip",
+    "unionmc.fun"
+  ],
+  "categories": [
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

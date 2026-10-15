@@ -1,0 +1,13 @@
+{
+  "name": "PGG Legacy",
+  "addresses": [
+    "play.pgglegacy.gr"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "RPG"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

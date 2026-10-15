@@ -1,0 +1,22 @@
+{
+  "name": "Cytooxien",
+  "addresses": [
+    "cytooxien.net",
+    "cytooxien.de",
+    "mc.cytooxien.de"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "SKYBLOCK",
+    "CITYBUILD",
+    "CREATIVE",
+    "CUSTOM"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "fovChanger",
+    "freelook"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

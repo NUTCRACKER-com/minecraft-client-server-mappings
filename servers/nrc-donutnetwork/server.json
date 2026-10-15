@@ -1,0 +1,14 @@
+{
+  "name": "DonutNetwork",
+  "addresses": [
+    "donutnetwork.eu"
+  ],
+  "categories": [
+    "PVP",
+    "KITPVP",
+    "MINIGAMES"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

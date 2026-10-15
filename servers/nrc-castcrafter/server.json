@@ -1,0 +1,20 @@
+{
+  "name": "CASTCRAFTER.DE",
+  "addresses": [
+    "castcrafter.de",
+    "play.castcrafter.de",
+    "server.castcrafter.de"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "CREATIVE",
+    "ADVENTURE",
+    "BUILD",
+    "TECHNICAL",
+    "VANILLA",
+    "MODDED"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

@@ -1,0 +1,14 @@
+{
+  "name": "MiniCraft",
+  "addresses": [
+    "play.minicraft-server.de",
+    "minicraft-server.de"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "BUILD"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

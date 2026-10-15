@@ -1,0 +1,21 @@
+{
+  "name": "AvesClub",
+  "addresses": [
+    "avesclub.net",
+    "play.avesclub.net"
+  ],
+  "categories": [
+    "PVP",
+    "MINIGAMES",
+    "KITPVP",
+    "SURVIVAL",
+    "CUSTOM"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "autoText",
+    "itemHighlight"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

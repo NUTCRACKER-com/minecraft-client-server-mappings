@@ -1,0 +1,16 @@
+{
+  "name": "BreiwalkerSMP.net",
+  "addresses": [
+    "breiwalkersmp.net",
+    "play.breiwalkersmp.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "BUILD",
+    "MODDED",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

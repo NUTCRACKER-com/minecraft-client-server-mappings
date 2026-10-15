@@ -1,0 +1,17 @@
+{
+  "name": "Pitschonix",
+  "addresses": [
+    "pitschonix.eu",
+    "play.pitschonix.eu"
+  ],
+  "categories": [
+    "HG",
+    "PVP",
+    "SURVIVAL",
+    "MINIGAMES",
+    "KITPVP"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

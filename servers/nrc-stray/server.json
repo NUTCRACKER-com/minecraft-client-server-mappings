@@ -1,0 +1,16 @@
+{
+  "name": "Stray",
+  "addresses": [
+    "stray.gg",
+    "na.stray.gg",
+    "eu.stray.gg",
+    "as.stray.gg"
+  ],
+  "categories": [
+    "PVP",
+    "UHC"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

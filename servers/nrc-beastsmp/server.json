@@ -1,0 +1,19 @@
+{
+  "name": "BeastSMP",
+  "addresses": [
+    "mc.beastsmp.de"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "CREATIVE",
+    "MINIGAMES",
+    "SKYBLOCK",
+    "BUILD",
+    "MODDED",
+    "CITYBUILD"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

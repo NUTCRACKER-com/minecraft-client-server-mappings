@@ -1,0 +1,17 @@
+{
+  "name": "Jwlyrivals.de",
+  "addresses": [
+    "jwlyrivals.de",
+    "dev.jwlyrivals.de"
+  ],
+  "categories": [
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "fovChanger",
+    "freelook"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

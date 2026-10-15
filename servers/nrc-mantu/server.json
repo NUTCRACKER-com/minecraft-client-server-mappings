@@ -1,0 +1,20 @@
+{
+  "name": "Mantu",
+  "addresses": [
+    "mantu.best"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP",
+    "ANARCHY"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "autoText",
+    "fovChanger",
+    "fullbright",
+    "noFog"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

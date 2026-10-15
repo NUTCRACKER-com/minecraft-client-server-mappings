@@ -1,0 +1,17 @@
+{
+  "name": "Icedout",
+  "addresses": [
+    "icedoutc4.de",
+    "firesmp.eu"
+  ],
+  "categories": [
+    "PVP",
+    "CUSTOM"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "noFog"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

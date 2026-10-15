@@ -1,0 +1,14 @@
+{
+  "name": "Herosmith",
+  "addresses": [
+    "herosmith.de"
+  ],
+  "categories": [
+    "PVP",
+    "MINIGAMES",
+    "KITPVP"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

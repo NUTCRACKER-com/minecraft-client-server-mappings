@@ -1,6 +1,6 @@
 # Third-party data
 
-The NUTclient backend syncs public server mappings of other clients **every 24 hours at runtime**. Their data is not stored in this repository.
+The NUTclient backend syncs public server mappings of other clients **every 24 hours at runtime**. 
 
 | Source | License | What we use |
 | --- | --- | --- |
@@ -11,3 +11,7 @@ The NUTclient backend syncs public server mappings of other clients **every 24 h
 The MIT notice above must stay if data from those two repositories is ever copied into this repository.
 Anything copied from the GPL-3.0 NoRisk repository would have to be published under GPL-3.0 as well, so it is deliberately only fetched, never copied.
 Entries in `servers/` of this repository always take priority over synced ones.
+
+## Update
+
+This repository is now licensed **GPL-3.0** (see `LICENSE`). The 95 entries in `servers/nrc-*` were imported from NoRiskClient/nrc-server-mappings (GPL-3.0, incl. their icons/banners, addresses remapped to our schema, module IDs mapped to NUTclient IDs). Lunar/Tyranis (MIT, Moonsworth, LLC) stay live-synced only.

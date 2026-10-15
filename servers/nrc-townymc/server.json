@@ -1,0 +1,16 @@
+{
+  "name": "TownyMc",
+  "addresses": [
+    "townymc.de"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "CITYBUILD"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "autoText"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

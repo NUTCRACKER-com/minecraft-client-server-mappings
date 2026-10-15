@@ -1,0 +1,18 @@
+{
+  "name": "GommeHD",
+  "addresses": [
+    "mc.gommehd.net",
+    "gommehd.net"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "fovChanger",
+    "freelook"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

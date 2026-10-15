@@ -1,0 +1,27 @@
+{
+  "name": "Cat PVP",
+  "addresses": [
+    "eu.catpvp.xyz",
+    "eu.catpvp.net",
+    "as.catpvp.xyz",
+    "as.catpvp.net",
+    "east.catpvp.xyz",
+    "east.catpvp.net",
+    "west.catpvp.xyz",
+    "west.catpvp.net",
+    "au.catpvp.net",
+    "au.catpvp.xyz",
+    "me.catpvp.xyz",
+    "me.catpvp.net",
+    "sa.catpvp.xyz",
+    "sa.catpvp.net"
+  ],
+  "categories": [
+    "UHC",
+    "PVP",
+    "KITPVP"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

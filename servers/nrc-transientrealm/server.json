@@ -1,0 +1,14 @@
+{
+  "name": "TransientRealm",
+  "addresses": [
+    "transientrealm.de",
+    "dev.transientrealm.de",
+    "build.transientrealm.de"
+  ],
+  "categories": [
+    "CITYBUILD"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

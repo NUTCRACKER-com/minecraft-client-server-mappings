@@ -1,0 +1,16 @@
+{
+  "name": "TheModCraft Network",
+  "addresses": [
+    "themodcraft.net"
+  ],
+  "categories": [
+    "MODDED",
+    "SURVIVAL",
+    "RPG",
+    "CREATIVE",
+    "MINIGAMES"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

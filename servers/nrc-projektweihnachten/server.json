@@ -1,0 +1,16 @@
+{
+  "name": "Projekt Weihnachten",
+  "addresses": [
+    "projekt-weihnachten.de",
+    "projektweihnachten.de"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "MINIGAMES",
+    "VANILLA"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

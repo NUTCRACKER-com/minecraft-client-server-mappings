@@ -1,0 +1,17 @@
+{
+  "name": "Surnex",
+  "addresses": [
+    "surnex.net",
+    "surnex.de"
+  ],
+  "categories": [
+    "BUILD",
+    "MINIGAMES"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "freelook"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

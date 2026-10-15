@@ -1,0 +1,15 @@
+{
+  "name": "WishMC",
+  "addresses": [
+    "wishmc.net",
+    "events.wishmc.net",
+    "attack.wishmc.net"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

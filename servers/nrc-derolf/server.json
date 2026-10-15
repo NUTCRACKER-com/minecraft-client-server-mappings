@@ -1,0 +1,19 @@
+{
+  "name": "derOlf.net Network",
+  "addresses": [
+    "derolf.net",
+    "derolf.de"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP",
+    "CREATIVE",
+    "MINIGAMES"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "fovChanger"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

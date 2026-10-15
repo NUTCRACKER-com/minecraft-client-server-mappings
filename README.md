@@ -34,6 +34,4 @@ Siehe [THIRD_PARTY.md](THIRD_PARTY.md).
 
 ## Lizenz
 
-Das Backend gleicht die Server täglich mit den öffentlichen Mappings von Lunar Client, Tyranis und NoRisk Client ab; Server-Besitzer müssen sich dort nicht extra eintragen.
-
-Die Daten stehen unter MIT (siehe `LICENSE`). Banner und Icons gehören den jeweiligen Servern und liegen hier nur zur Anzeige im Client.
+GPL-3.0 (siehe `LICENSE`), weil Einträge von NoRiskClient/nrc-server-mappings (GPL-3.0) enthalten sind. Banner und Icons gehören den jeweiligen Servern.

@@ -1,0 +1,15 @@
+{
+  "name": "YugtoSMP",
+  "addresses": [
+    "play.yugtosmp.xyz"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "ADVENTURE",
+    "VANILLA"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

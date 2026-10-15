@@ -1,0 +1,14 @@
+{
+  "name": "Heldeninsel.net",
+  "addresses": [
+    "heldeninsel.net"
+  ],
+  "categories": [
+    "PVP",
+    "MINIGAMES",
+    "CUSTOM"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

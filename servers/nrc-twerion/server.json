@@ -1,0 +1,17 @@
+{
+  "name": "Twerion",
+  "addresses": [
+    "twerion.net"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP",
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "freelook"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

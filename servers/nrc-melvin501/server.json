@@ -1,0 +1,19 @@
+{
+  "name": "Melvin501",
+  "addresses": [
+    "melvin501.de",
+    "mc.melvin501.de",
+    "play.melvin501.de"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "SURVIVAL",
+    "CUSTOM"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "shieldBreak"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

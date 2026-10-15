@@ -1,0 +1,20 @@
+{
+  "name": "Novablocks",
+  "addresses": [
+    "novablocks.eu"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "CUSTOM",
+    "CITYBUILD"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "autoText",
+    "freelook",
+    "fullbright"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

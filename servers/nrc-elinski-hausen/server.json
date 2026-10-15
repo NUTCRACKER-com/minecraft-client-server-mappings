@@ -1,0 +1,24 @@
+{
+  "name": "Elinski Hausen",
+  "addresses": [
+    "elinskihausen.de"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "MINIGAMES",
+    "ADVENTURE",
+    "BUILD",
+    "VANILLA",
+    "CUSTOM",
+    "CITYBUILD"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "freelook",
+    "fullbright",
+    "noFog"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

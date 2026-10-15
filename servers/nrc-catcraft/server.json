@@ -1,0 +1,14 @@
+{
+  "name": "CatCraft Survival",
+  "addresses": [
+    "play.catcraft.net",
+    "tiktok.catcraft.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "MODDED"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

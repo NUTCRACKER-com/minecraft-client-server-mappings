@@ -1,0 +1,16 @@
+{
+  "name": "SurvivalSMP",
+  "addresses": [
+    "survivalsmp.ice.lol",
+    "survivalsmpwada.ice.lol"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "VANILLA",
+    "CUSTOM"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

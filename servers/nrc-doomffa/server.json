@@ -1,0 +1,17 @@
+{
+  "name": "Doom FFA",
+  "addresses": [
+    "doomffa.net",
+    "doomnetwork.de"
+  ],
+  "categories": [
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "fovChanger",
+    "zoom"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

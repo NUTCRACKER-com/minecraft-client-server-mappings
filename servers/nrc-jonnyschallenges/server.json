@@ -1,0 +1,12 @@
+{
+  "name": "KrustenServer",
+  "addresses": [
+    "krustenburger.ggde.pro"
+  ],
+  "categories": [
+    "CUSTOM"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

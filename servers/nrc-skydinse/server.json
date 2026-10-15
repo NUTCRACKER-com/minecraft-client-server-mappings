@@ -1,0 +1,13 @@
+{
+  "name": "Skydinse",
+  "addresses": [
+    "skydinse.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "MINIGAMES"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

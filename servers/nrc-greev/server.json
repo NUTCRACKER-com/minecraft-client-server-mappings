@@ -1,0 +1,17 @@
+{
+  "name": "Greev.eu",
+  "addresses": [
+    "mc.greev.eu",
+    "greev.eu"
+  ],
+  "categories": [
+    "BUILD",
+    "CREATIVE",
+    "MINIGAMES",
+    "PVP",
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

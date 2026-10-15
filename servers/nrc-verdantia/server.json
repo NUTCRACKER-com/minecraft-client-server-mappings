@@ -1,0 +1,16 @@
+{
+  "name": "Verdantia",
+  "addresses": [
+    "verdantia.de"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "MINIGAMES",
+    "BUILD",
+    "CUSTOM",
+    "CITYBUILD"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

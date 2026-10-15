@@ -1,0 +1,13 @@
+{
+  "name": "PrimeBlocks",
+  "addresses": [
+    "primeblocks.net"
+  ],
+  "categories": [
+    "CREATIVE",
+    "CITYBUILD"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

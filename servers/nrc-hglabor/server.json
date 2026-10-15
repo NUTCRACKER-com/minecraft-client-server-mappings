@@ -1,0 +1,15 @@
+{
+  "name": "HGLabor",
+  "addresses": [
+    "hglabor.de",
+    "mc.norisk.gg"
+  ],
+  "categories": [
+    "HG",
+    "PVP",
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

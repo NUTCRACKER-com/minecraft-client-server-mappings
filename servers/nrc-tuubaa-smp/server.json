@@ -1,0 +1,17 @@
+{
+  "name": "Tuubaa SMP",
+  "addresses": [
+    "smp.tuubaa.de",
+    "br.tuubaa.de"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "VANILLA"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "noFog"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

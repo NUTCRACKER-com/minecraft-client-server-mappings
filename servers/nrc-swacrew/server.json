@@ -1,0 +1,21 @@
+{
+  "name": "Swacrew",
+  "addresses": [
+    "swacrew.net",
+    "swacrew.de",
+    "eventsystem.swacrew.net"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP",
+    "SURVIVAL",
+    "BUILD",
+    "CUSTOM"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "fovChanger"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

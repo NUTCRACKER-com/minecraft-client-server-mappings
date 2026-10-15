@@ -1,0 +1,23 @@
+{
+  "name": "BurstSMP",
+  "addresses": [
+    "burstsmp.net",
+    "burstsmp.eu",
+    "burstsmp.com",
+    "burstsmp.de",
+    "smp.burstsmp.net",
+    "pratice.burstsmp.net"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "VANILLA",
+    "CUSTOM"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "freelook"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

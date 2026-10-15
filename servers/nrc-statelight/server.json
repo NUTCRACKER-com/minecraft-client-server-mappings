@@ -1,0 +1,15 @@
+{
+  "name": "Statelight",
+  "addresses": [
+    "statelight.de"
+  ],
+  "categories": [
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "noFog"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

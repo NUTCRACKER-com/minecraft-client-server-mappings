@@ -1,0 +1,15 @@
+{
+  "name": "ClashCube",
+  "addresses": [
+    "clashcube.de"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "CITYBUILD",
+    "MINIGAMES"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

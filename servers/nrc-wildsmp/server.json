@@ -1,0 +1,20 @@
+{
+  "name": "WildSMP.de",
+  "addresses": [
+    "wildsmp.de",
+    "wildsmp.eu",
+    "justgino.de"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "ADVENTURE",
+    "CUSTOM",
+    "BUILD"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "noFog"
+  ],
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}

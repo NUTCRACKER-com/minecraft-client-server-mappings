@@ -1,0 +1,14 @@
+{
+  "name": "ZielMC",
+  "addresses": [
+    "zielmc.net",
+    "mc.zielmc.net"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+}
