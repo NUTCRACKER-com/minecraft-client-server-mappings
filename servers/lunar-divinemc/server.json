@@ -1,0 +1,12 @@
+{
+  "name": "DivineMC",
+  "addresses": [
+    "divinemc.es"
+  ],
+  "categories": [
+    "PVE",
+    "SURVIVAL",
+    "ADVENTURE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

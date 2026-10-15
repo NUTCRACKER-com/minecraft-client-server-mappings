@@ -1,0 +1,15 @@
+{
+  "name": "Cytooxien",
+  "addresses": [
+    "realms.direct"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP",
+    "SKYBLOCK",
+    "CREATIVE",
+    "TYCOON"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Anarchia",
+  "addresses": [
+    "anarchia.gg",
+    "anarhia.gg"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "BOXPVP",
+    "PVP",
+    "ONEBLOCK"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Cinderole",
+  "addresses": [
+    "cinderole.com"
+  ],
+  "categories": [
+    "PVE",
+    "ROLEPLAY"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

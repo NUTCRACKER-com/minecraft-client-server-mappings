@@ -1,0 +1,13 @@
+{
+  "name": "BeeBlocks",
+  "addresses": [
+    "beeblocks.net",
+    "beeblocks.de",
+    "beeblocks.eu"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "CREATIVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Celestial Network",
+  "addresses": [
+    "celestial-network.net"
+  ],
+  "categories": [
+    "SKYBLOCK",
+    "PRISON",
+    "MMORPG"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

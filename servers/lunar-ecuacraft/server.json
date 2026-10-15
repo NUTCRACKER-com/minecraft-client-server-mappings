@@ -1,0 +1,12 @@
+{
+  "name": "EcuaCraft",
+  "addresses": [
+    "ecuacraft.com"
+  ],
+  "categories": [
+    "PRISON",
+    "PVP",
+    "UHC"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

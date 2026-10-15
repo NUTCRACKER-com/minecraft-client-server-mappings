@@ -1,0 +1,12 @@
+{
+  "name": "Liroyo Network",
+  "addresses": [
+    "topstrix.com",
+    "liroyo.online"
+  ],
+  "categories": [
+    "PVP",
+    "MINIGAMES"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

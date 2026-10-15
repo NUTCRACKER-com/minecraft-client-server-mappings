@@ -1,0 +1,14 @@
+{
+  "name": "Mineplex",
+  "addresses": [
+    "mineplex.com",
+    "critz.gg"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP",
+    "CASUAL"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

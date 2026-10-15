@@ -1,0 +1,18 @@
+{
+  "name": "BawMC",
+  "addresses": [
+    "bawmc.net",
+    "bawmc.com.br",
+    "bawmc.com"
+  ],
+  "categories": [
+    "PVP",
+    "ANARCHY",
+    "MINIGAMES",
+    "SURVIVAL",
+    "BOXPVP",
+    "PRACTICE",
+    "CRYSTALPVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

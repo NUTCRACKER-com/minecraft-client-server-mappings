@@ -1,0 +1,15 @@
+{
+  "name": "ArcherMC",
+  "addresses": [
+    "archermc.net",
+    "archermc.org",
+    "archerpvp.us",
+    "fireprison.co"
+  ],
+  "categories": [
+    "PRISON",
+    "SURVIVAL",
+    "SKYBLOCK"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

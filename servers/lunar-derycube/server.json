@@ -1,0 +1,13 @@
+{
+  "name": "Derycube",
+  "addresses": [
+    "derycube.fr"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP",
+    "UHC"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,14 @@
+{
+  "name": "CrucibleSMP",
+  "addresses": [
+    "getcrucible.dev"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP",
+    "COMPETITIVE",
+    "ANARCHY"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

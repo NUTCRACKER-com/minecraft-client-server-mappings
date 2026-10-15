@@ -1,0 +1,15 @@
+{
+  "name": "CyloneMC",
+  "addresses": [
+    "cylonemc.net",
+    "cylonemc.com",
+    "cylone.net"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PARKOUR",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

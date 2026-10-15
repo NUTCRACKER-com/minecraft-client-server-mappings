@@ -1,0 +1,12 @@
+{
+  "name": "1st Network",
+  "addresses": [
+    "mc-1st.ro"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

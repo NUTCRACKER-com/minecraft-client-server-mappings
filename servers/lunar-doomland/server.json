@@ -1,0 +1,12 @@
+{
+  "name": "Doomland",
+  "addresses": [
+    "doomland.xyz"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP",
+    "PRISON"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

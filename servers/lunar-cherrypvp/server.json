@@ -1,0 +1,14 @@
+{
+  "name": "CherryPVP",
+  "addresses": [
+    "cherrypvp.net",
+    "elopvp.eu",
+    "teammlg.net"
+  ],
+  "categories": [
+    "PVP",
+    "UHC",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

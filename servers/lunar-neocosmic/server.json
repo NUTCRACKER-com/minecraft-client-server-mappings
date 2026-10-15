@@ -1,0 +1,14 @@
+{
+  "name": "NeoCosmic",
+  "addresses": [
+    "neocosmic.net",
+    "neocosmic.it",
+    "neocosmic.eu"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "ADVENTURE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

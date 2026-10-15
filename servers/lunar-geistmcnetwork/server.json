@@ -1,0 +1,13 @@
+{
+  "name": "GeistMC Network",
+  "addresses": [
+    "geistmc.cc",
+    "wihar.cyou"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP",
+    "PARKOUR"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MineBox Network",
+  "addresses": [
+    "minebox.es",
+    "minelc.com"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

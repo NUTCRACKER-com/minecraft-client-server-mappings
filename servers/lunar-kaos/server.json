@@ -1,0 +1,12 @@
+{
+  "name": "KaosMC Network",
+  "addresses": [
+    "kaosmc.xyz"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "PRACTICE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

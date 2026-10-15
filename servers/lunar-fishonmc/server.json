@@ -1,0 +1,11 @@
+{
+  "name": "FishOnMC",
+  "addresses": [
+    "fishonmc.net"
+  ],
+  "categories": [
+    "MINIGAMES"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

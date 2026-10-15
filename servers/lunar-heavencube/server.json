@@ -1,0 +1,12 @@
+{
+  "name": "HeavenCube",
+  "addresses": [
+    "heavencube.fr"
+  ],
+  "categories": [
+    "CREATIVE",
+    "SURVIVAL",
+    "ROLEPLAY"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

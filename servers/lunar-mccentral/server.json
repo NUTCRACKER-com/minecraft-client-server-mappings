@@ -1,0 +1,14 @@
+{
+  "name": "Minecraft Central",
+  "addresses": [
+    "mccentral.org",
+    "mc-central.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "SKYBLOCK",
+    "PRISON"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

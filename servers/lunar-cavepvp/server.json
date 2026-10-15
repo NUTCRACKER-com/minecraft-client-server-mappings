@@ -1,0 +1,14 @@
+{
+  "name": "CavePvP",
+  "addresses": [
+    "cavepvp.org",
+    "cavepvp.com"
+  ],
+  "categories": [
+    "HCF",
+    "PVP",
+    "SKYBLOCK",
+    "KITPVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

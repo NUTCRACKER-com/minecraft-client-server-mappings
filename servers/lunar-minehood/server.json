@@ -1,0 +1,12 @@
+{
+  "name": "MineHood Network",
+  "addresses": [
+    "minehood.net"
+  ],
+  "categories": [
+    "PVP",
+    "ADVENTURE",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

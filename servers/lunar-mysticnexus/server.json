@@ -1,0 +1,12 @@
+{
+  "name": "MysticNexus",
+  "addresses": [
+    "mysticnexus.net",
+    "skykingdoms.net"
+  ],
+  "categories": [
+    "COMPETITIVE",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

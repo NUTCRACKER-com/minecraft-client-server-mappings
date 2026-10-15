@@ -1,0 +1,11 @@
+{
+  "name": "Harm Server",
+  "addresses": [
+    "harmserver.nl"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "CREATIVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

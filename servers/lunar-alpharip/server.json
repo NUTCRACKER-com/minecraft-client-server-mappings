@@ -1,0 +1,13 @@
+{
+  "name": "Alpha Network",
+  "addresses": [
+    "alpha.rip"
+  ],
+  "categories": [
+    "HCF",
+    "FACTIONS",
+    "PVP",
+    "PRACTICE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

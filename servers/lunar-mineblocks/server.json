@@ -1,0 +1,12 @@
+{
+  "name": "MineBlocks",
+  "addresses": [
+    "mineblocks.fr"
+  ],
+  "categories": [
+    "SKYBLOCK",
+    "ROLEPLAY",
+    "PVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ForestMC",
+  "addresses": [
+    "forestmc.us"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PRISON",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

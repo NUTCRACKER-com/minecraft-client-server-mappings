@@ -1,0 +1,13 @@
+{
+  "name": "MyMg Network",
+  "addresses": [
+    "mymg.pl",
+    "lecraft.pl"
+  ],
+  "categories": [
+    "SKYBLOCK",
+    "MINIGAMES",
+    "CREATIVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

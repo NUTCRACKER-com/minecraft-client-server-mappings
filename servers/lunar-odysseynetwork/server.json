@@ -1,0 +1,12 @@
+{
+  "name": "Odyssey Network",
+  "addresses": [
+    "odysseynetwork.xyz"
+  ],
+  "categories": [
+    "PVP",
+    "UHC",
+    "HCF"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,11 @@
+{
+  "name": "C3SMP",
+  "addresses": [
+    "c3smp.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

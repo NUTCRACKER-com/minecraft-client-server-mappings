@@ -1,0 +1,12 @@
+{
+  "name": "FluviaMC",
+  "addresses": [
+    "fluviamc.pl"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "OPENWORLD",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

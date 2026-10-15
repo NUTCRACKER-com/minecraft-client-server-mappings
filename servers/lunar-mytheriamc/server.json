@@ -1,0 +1,11 @@
+{
+  "name": "MytheriaMC",
+  "addresses": [
+    "mytheriamc.net"
+  ],
+  "categories": [
+    "SKYBLOCK",
+    "ONEBLOCK"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

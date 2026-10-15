@@ -1,0 +1,12 @@
+{
+  "name": "Cobra Network",
+  "addresses": [
+    "cobra.rip"
+  ],
+  "categories": [
+    "PVP",
+    "HCF",
+    "UHC"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

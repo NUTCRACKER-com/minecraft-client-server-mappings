@@ -1,0 +1,11 @@
+{
+  "name": "LunarixMC",
+  "addresses": [
+    "lunarixmc.com"
+  ],
+  "categories": [
+    "KITPVP",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

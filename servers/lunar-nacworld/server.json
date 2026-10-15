@@ -1,0 +1,12 @@
+{
+  "name": "Nacworld",
+  "addresses": [
+    "nacworld.cz"
+  ],
+  "categories": [
+    "ADVENTURE",
+    "HARDCORE",
+    "CREATIVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "CPvP",
+  "addresses": [
+    "cpvp.gg"
+  ],
+  "categories": [
+    "PVP",
+    "CRYSTALPVP",
+    "MINIGAMES"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

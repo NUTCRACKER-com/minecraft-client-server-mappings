@@ -1,0 +1,11 @@
+{
+  "name": "NubeMC",
+  "addresses": [
+    "nubemc.net"
+  ],
+  "categories": [
+    "TYCOON",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

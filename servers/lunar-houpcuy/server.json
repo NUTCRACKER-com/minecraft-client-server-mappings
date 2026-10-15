@@ -1,0 +1,15 @@
+{
+  "name": "Houpcuy Network",
+  "addresses": [
+    "houpcuy.cc",
+    "neverminds.cc",
+    "1i.hk",
+    "5i.hk"
+  ],
+  "categories": [
+    "PVP",
+    "MINIGAMES",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

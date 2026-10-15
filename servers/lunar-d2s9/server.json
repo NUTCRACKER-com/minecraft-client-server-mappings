@@ -1,0 +1,11 @@
+{
+  "name": "D2S9",
+  "addresses": [
+    "d2s9.org"
+  ],
+  "categories": [
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

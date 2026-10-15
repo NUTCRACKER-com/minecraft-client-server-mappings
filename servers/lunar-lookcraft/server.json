@@ -1,0 +1,12 @@
+{
+  "name": "LookCraft",
+  "addresses": [
+    "lookcraft.es"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "ADVENTURE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

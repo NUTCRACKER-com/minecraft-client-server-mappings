@@ -1,0 +1,16 @@
+{
+  "name": "FreedomCraft Network",
+  "addresses": [
+    "freedomcraftmc.com",
+    "freedomcraft.shop",
+    "freedomcraft.wiki",
+    "freedomcraft.network"
+  ],
+  "categories": [
+    "ADVENTURE",
+    "PARKOUR",
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

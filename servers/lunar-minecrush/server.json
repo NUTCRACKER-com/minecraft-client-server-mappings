@@ -1,0 +1,16 @@
+{
+  "name": "MineCrush",
+  "addresses": [
+    "minecrush.gg",
+    "l1festee1.com",
+    "hardcore.rip",
+    "dupecrush.xyz"
+  ],
+  "categories": [
+    "PVP",
+    "HARDCORE",
+    "FACTIONS"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

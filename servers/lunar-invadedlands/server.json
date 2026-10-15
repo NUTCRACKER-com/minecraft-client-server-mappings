@@ -1,0 +1,19 @@
+{
+  "name": "InvadedLands",
+  "addresses": [
+    "invadedlands.net",
+    "skeppylovesflipflops.xyz",
+    "pvplands.net",
+    "nitro.rip"
+  ],
+  "categories": [
+    "PVP",
+    "SKYBLOCK",
+    "SURVIVAL",
+    "KITPVP",
+    "SOUPPVP",
+    "MINIGAMES"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

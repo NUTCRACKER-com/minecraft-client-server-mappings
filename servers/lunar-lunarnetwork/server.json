@@ -1,0 +1,14 @@
+{
+  "name": "Lunar Network",
+  "addresses": [
+    "lunar.gg",
+    "lunargg.dev",
+    "lunarclient.com",
+    "moonsworth.com"
+  ],
+  "categories": [
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

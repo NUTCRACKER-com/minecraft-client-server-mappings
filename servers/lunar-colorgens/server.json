@@ -1,0 +1,13 @@
+{
+  "name": "ColorGens",
+  "addresses": [
+    "colorgens.com",
+    "colorgens.net",
+    "colorgens.org"
+  ],
+  "categories": [
+    "SKYBLOCK",
+    "OPENWORLD"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

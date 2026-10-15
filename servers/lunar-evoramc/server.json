@@ -1,0 +1,12 @@
+{
+  "name": "EvoraMC",
+  "addresses": [
+    "evoramc.fr"
+  ],
+  "categories": [
+    "FACTIONS",
+    "PVP",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

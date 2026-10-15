@@ -1,0 +1,14 @@
+{
+  "name": "DoSkapMC",
+  "addresses": [
+    "doskapmc.net",
+    "doskapmc.com",
+    "doskapmc.my.id"
+  ],
+  "categories": [
+    "SKYBLOCK",
+    "SURVIVAL",
+    "MINIGAMES"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Klepa.GG",
+  "addresses": [
+    "klepa.gg",
+    "klepa.pl"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

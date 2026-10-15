@@ -1,0 +1,13 @@
+{
+  "name": "InsanityCraft",
+  "addresses": [
+    "insanitycraft.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "SKYBLOCK",
+    "FACTIONS",
+    "LIFESTEAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

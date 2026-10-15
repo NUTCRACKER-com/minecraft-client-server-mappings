@@ -1,0 +1,14 @@
+{
+  "name": "L'Antique 甦る",
+  "addresses": [
+    "antique.gg",
+    "jjk-uhc.fr",
+    "hxh-uhc.fr",
+    "host-mc.fr"
+  ],
+  "categories": [
+    "UHC",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

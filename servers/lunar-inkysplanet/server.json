@@ -1,0 +1,13 @@
+{
+  "name": "Inkys Planet",
+  "addresses": [
+    "inkysplanet.com"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "ANARCHY",
+    "SKYBLOCK",
+    "CASUAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

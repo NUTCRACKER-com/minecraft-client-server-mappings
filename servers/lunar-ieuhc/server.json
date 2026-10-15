@@ -1,0 +1,12 @@
+{
+  "name": "Inazuma-Eleven UHC",
+  "addresses": [
+    "ieuhc.fr"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "UHC"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Elemental Towny",
+  "addresses": [
+    "elementaltowny.site"
+  ],
+  "categories": [
+    "TOWNY",
+    "MMORPG",
+    "PVE",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

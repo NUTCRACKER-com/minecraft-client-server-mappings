@@ -1,0 +1,12 @@
+{
+  "name": "Pera Network",
+  "addresses": [
+    "pera.mom"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP",
+    "HARDCORE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

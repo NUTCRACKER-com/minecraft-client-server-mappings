@@ -1,0 +1,14 @@
+{
+  "name": "Infection Network",
+  "addresses": [
+    "infection.fun"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "PVE",
+    "ANARCHY",
+    "ONEBLOCK"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

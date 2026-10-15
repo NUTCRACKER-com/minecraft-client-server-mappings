@@ -1,0 +1,12 @@
+{
+  "name": "BetterPvP",
+  "addresses": [
+    "betterpvp.net"
+  ],
+  "categories": [
+    "PVP",
+    "FACTIONS",
+    "HCF"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Minemen Club",
+  "addresses": [
+    "mineman.club",
+    "icantjoinlmfao.club",
+    "euicantjoinlmfao.club",
+    "minemenclub.com",
+    "pvp.bar",
+    "zonix.us"
+  ],
+  "categories": [
+    "PRACTICE",
+    "PVP",
+    "COMPETITIVE",
+    "CRYSTALPVP",
+    "SOUPPVP",
+    "MINIGAMES"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

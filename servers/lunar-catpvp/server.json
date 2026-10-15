@@ -1,0 +1,15 @@
+{
+  "name": "CatPvP",
+  "addresses": [
+    "catpvp.xyz",
+    "catpvp.net",
+    "catpvp.com"
+  ],
+  "categories": [
+    "PRACTICE",
+    "COMPETITIVE",
+    "CRYSTALPVP",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

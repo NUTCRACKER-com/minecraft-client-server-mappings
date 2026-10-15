@@ -1,0 +1,16 @@
+{
+  "name": "Mineland Network",
+  "addresses": [
+    "batyacraft-join.online",
+    "mineland.net",
+    "mineland.pro",
+    "add-ml.online"
+  ],
+  "categories": [
+    "SKYBLOCK",
+    "CREATIVE",
+    "MINIGAMES"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

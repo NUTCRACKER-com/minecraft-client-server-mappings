@@ -1,0 +1,13 @@
+{
+  "name": "DemonicAether",
+  "addresses": [
+    "demonicaether.com"
+  ],
+  "categories": [
+    "PRISON",
+    "PVP",
+    "PVE"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

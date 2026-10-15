@@ -1,0 +1,11 @@
+{
+  "name": "Blocaste",
+  "addresses": [
+    "blocaste.com"
+  ],
+  "categories": [
+    "OPENWORLD",
+    "PARKOUR"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

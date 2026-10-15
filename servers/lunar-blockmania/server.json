@@ -1,0 +1,14 @@
+{
+  "name": "BlockMania",
+  "addresses": [
+    "blockmania.com",
+    "ezpvp.com",
+    "easypvp.com"
+  ],
+  "categories": [
+    "PARKOUR",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

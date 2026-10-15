@@ -1,0 +1,13 @@
+{
+  "name": "MCSG",
+  "addresses": [
+    "mcsg.pl"
+  ],
+  "categories": [
+    "SKYBLOCK",
+    "SURVIVAL",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

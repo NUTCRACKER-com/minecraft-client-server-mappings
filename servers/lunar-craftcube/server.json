@@ -1,0 +1,15 @@
+{
+  "name": "CraftCube",
+  "addresses": [
+    "craftcube.pl"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "ONEBLOCK",
+    "KITPVP",
+    "PRACTICE",
+    "MINIGAMES",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

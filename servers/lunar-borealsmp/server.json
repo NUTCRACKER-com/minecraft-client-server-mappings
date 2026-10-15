@@ -1,0 +1,12 @@
+{
+  "name": "BorealSMP",
+  "addresses": [
+    "borealsmp.eu"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "CASUAL",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

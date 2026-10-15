@@ -1,0 +1,13 @@
+{
+  "name": "BlzeMC",
+  "addresses": [
+    "blzesteal.net",
+    "blzemc.net"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "FACTIONS"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

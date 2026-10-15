@@ -1,0 +1,12 @@
+{
+  "name": "NZCraft Network",
+  "addresses": [
+    "nzcraft.net"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "SURVIVAL",
+    "SKYBLOCK"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

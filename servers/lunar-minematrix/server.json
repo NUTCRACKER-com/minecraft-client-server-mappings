@@ -1,0 +1,12 @@
+{
+  "name": "MineMatrix",
+  "addresses": [
+    "minematrix.lol"
+  ],
+  "categories": [
+    "SKYBLOCK",
+    "MINIGAMES",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

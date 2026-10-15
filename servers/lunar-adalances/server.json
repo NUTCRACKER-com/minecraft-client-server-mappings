@@ -1,0 +1,13 @@
+{
+  "name": "Adalances",
+  "addresses": [
+    "adalances.com"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "SKYBLOCK",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

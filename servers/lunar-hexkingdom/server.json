@@ -1,0 +1,12 @@
+{
+  "name": "HexKingdom",
+  "addresses": [
+    "hexkingdommc.it"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "VANILLA",
+    "MINIGAMES"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

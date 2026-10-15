@@ -1,0 +1,16 @@
+{
+  "name": "Nircraft",
+  "addresses": [
+    "nircraft.com",
+    "xhapy.org"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "CASUAL",
+    "MMORPG",
+    "PVP",
+    "OPENWORLD"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

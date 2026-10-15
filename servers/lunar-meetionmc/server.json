@@ -1,0 +1,14 @@
+{
+  "name": "MeeTion Network",
+  "addresses": [
+    "meetionmc.net",
+    "meetionmc.com",
+    "meetion.live"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP",
+    "PRISON"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

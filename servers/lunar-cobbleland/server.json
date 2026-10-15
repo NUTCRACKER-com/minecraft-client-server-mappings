@@ -1,0 +1,12 @@
+{
+  "name": "CobbleLand",
+  "addresses": [
+    "cobbleland.com"
+  ],
+  "categories": [
+    "ROLEPLAY",
+    "ADVENTURE"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Healed Network",
+  "addresses": [
+    "healed.lol",
+    "veraxpvp.live",
+    "verzmc.lat"
+  ],
+  "categories": [
+    "HCF",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,10 @@
+{
+  "name": "British City",
+  "addresses": [
+    "britishcity.net"
+  ],
+  "categories": [
+    "ROLEPLAY"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

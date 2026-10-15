@@ -1,0 +1,12 @@
+{
+  "name": "GunaMC Network",
+  "addresses": [
+    "gunamcnetwork.online"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "HARDCORE"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AkumaMC",
+  "addresses": [
+    "akumamc.net",
+    "akumamc.com"
+  ],
+  "categories": [
+    "PRISON",
+    "SKYBLOCK",
+    "CASUAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

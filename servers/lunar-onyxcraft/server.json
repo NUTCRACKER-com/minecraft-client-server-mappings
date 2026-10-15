@@ -1,0 +1,12 @@
+{
+  "name": "OnyxCraft",
+  "addresses": [
+    "onyxcraft.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "MINIGAMES",
+    "PRISON"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

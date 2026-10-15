@@ -1,0 +1,12 @@
+{
+  "name": "Noovlandia Network",
+  "addresses": [
+    "noovlandia.online"
+  ],
+  "categories": [
+    "PVP",
+    "PVE",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

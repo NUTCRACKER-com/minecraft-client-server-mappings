@@ -1,0 +1,11 @@
+{
+  "name": "Loot",
+  "addresses": [
+    "lootmc.org"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "SKYBLOCK"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

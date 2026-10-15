@@ -1,0 +1,16 @@
+{
+  "name": "HylexMC",
+  "addresses": [
+    "hylexmc.net"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP",
+    "SURVIVAL",
+    "PRACTICE",
+    "ONEBLOCK",
+    "LIFESTEAL"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

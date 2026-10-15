@@ -1,0 +1,12 @@
+{
+  "name": "AxelCraft",
+  "addresses": [
+    "axelcraft.pl"
+  ],
+  "categories": [
+    "SKYBLOCK",
+    "PVP",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

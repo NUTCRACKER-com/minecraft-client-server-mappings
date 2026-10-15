@@ -1,0 +1,13 @@
+{
+  "name": "Pico Craft",
+  "addresses": [
+    "picocraft.ir"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "ROLEPLAY",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

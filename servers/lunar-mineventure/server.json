@@ -1,0 +1,13 @@
+{
+  "name": "Mineventure",
+  "addresses": [
+    "mineventure.org"
+  ],
+  "categories": [
+    "PVP",
+    "HCF",
+    "FACTIONS"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

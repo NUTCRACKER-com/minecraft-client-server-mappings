@@ -1,0 +1,12 @@
+{
+  "name": "ClanAttack",
+  "addresses": [
+    "clanattack.net"
+  ],
+  "categories": [
+    "COMPETITIVE",
+    "MINIGAMES",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

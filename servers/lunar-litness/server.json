@@ -1,0 +1,13 @@
+{
+  "name": "Litness",
+  "addresses": [
+    "litness.gg"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVE",
+    "ADVENTURE"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

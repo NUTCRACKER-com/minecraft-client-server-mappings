@@ -1,0 +1,12 @@
+{
+  "name": "Ace Network",
+  "addresses": [
+    "f7lab.com"
+  ],
+  "categories": [
+    "PVP",
+    "PVE",
+    "MINIGAMES"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

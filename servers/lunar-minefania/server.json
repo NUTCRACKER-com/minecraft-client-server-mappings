@@ -1,0 +1,13 @@
+{
+  "name": "MineFania Network",
+  "addresses": [
+    "minefania.lol"
+  ],
+  "categories": [
+    "PVE",
+    "SURVIVAL",
+    "OPENWORLD"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

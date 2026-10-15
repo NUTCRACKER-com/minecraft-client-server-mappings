@@ -1,0 +1,12 @@
+{
+  "name": "Astery",
+  "addresses": [
+    "astery.us"
+  ],
+  "categories": [
+    "HCF",
+    "PVP",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

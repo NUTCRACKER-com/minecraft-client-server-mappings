@@ -1,0 +1,14 @@
+{
+  "name": "Minerel",
+  "addresses": [
+    "minerel.net",
+    "allayrival.net"
+  ],
+  "categories": [
+    "PVP",
+    "MINIGAMES",
+    "PVE"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

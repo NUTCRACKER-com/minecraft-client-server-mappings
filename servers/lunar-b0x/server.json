@@ -1,0 +1,12 @@
+{
+  "name": "B0X",
+  "addresses": [
+    "b0x.us"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "UHC",
+    "ROLEPLAY"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

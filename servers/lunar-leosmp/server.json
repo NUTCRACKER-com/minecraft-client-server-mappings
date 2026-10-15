@@ -1,0 +1,12 @@
+{
+  "name": "LeoSMP",
+  "addresses": [
+    "leosmp.net"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

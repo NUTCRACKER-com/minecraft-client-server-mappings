@@ -1,0 +1,12 @@
+{
+  "name": "Livesky",
+  "addresses": [
+    "livesky.pl"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "ADVENTURE",
+    "OPENWORLD"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

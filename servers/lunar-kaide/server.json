@@ -1,0 +1,14 @@
+{
+  "name": "Kaide Network",
+  "addresses": [
+    "kaide.gg"
+  ],
+  "categories": [
+    "CASUAL",
+    "COMPETITIVE",
+    "SURVIVAL",
+    "PVP",
+    "OPENWORLD"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "LotusMC",
+  "addresses": [
+    "lotusmc.net"
+  ],
+  "categories": [
+    "PVP",
+    "UHC"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

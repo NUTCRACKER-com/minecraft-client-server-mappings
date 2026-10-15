@@ -1,0 +1,12 @@
+{
+  "name": "ArcoMC",
+  "addresses": [
+    "arcomc.net"
+  ],
+  "categories": [
+    "HCF",
+    "UHC",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ENCUBOS",
+  "addresses": [
+    "encubos.eu"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP",
+    "PVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

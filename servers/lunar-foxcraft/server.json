@@ -1,0 +1,14 @@
+{
+  "name": "FoxCraft",
+  "addresses": [
+    "foxcraft.net",
+    "mcfoxcraft.com"
+  ],
+  "categories": [
+    "ADVENTURE",
+    "SURVIVAL",
+    "PARKOUR"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

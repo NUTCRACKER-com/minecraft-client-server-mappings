@@ -1,0 +1,13 @@
+{
+  "name": "BlocksMC",
+  "addresses": [
+    "blocksmc.com"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PRISON",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

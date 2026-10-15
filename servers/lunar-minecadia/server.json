@@ -1,0 +1,18 @@
+{
+  "name": "Minecadia",
+  "addresses": [
+    "minecadia.com",
+    "minecadia.net"
+  ],
+  "categories": [
+    "FACTIONS",
+    "SURVIVAL",
+    "PRISON",
+    "PVP",
+    "LIFESTEAL",
+    "SKYBLOCK",
+    "KITPVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

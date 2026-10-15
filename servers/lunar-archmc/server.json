@@ -1,0 +1,17 @@
+{
+  "name": "ArchMC",
+  "addresses": [
+    "arch.mc",
+    "arch.lol"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PRACTICE",
+    "KITPVP",
+    "SURVIVAL",
+    "LIFESTEAL",
+    "PVP",
+    "CREATIVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

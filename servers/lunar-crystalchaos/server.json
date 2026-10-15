@@ -1,0 +1,13 @@
+{
+  "name": "CrystalChaos",
+  "addresses": [
+    "crystalchaos.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "CRYSTALPVP",
+    "PVP",
+    "KITPVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

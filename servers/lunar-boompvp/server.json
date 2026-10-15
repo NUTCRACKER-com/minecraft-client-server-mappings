@@ -1,0 +1,14 @@
+{
+  "name": "BoomPvP",
+  "addresses": [
+    "boompvp.com"
+  ],
+  "categories": [
+    "HCF",
+    "PVP",
+    "FACTIONS",
+    "HARDCORE",
+    "KITPVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

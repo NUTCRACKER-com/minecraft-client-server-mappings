@@ -1,0 +1,19 @@
+{
+  "name": "HuntMC",
+  "addresses": [
+    "hunt-mc.com"
+  ],
+  "categories": [
+    "HARDCORE",
+    "UHC",
+    "PRACTICE",
+    "COMPETITIVE",
+    "PVP",
+    "CRYSTALPVP",
+    "KITPVP",
+    "BOXPVP",
+    "SOUPPVP",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

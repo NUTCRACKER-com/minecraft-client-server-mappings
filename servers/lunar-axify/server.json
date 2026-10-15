@@ -1,0 +1,13 @@
+{
+  "name": "Axify Network",
+  "addresses": [
+    "axifynetwork.xyz",
+    "axifynetwork.com"
+  ],
+  "categories": [
+    "PRISON",
+    "FACTIONS",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

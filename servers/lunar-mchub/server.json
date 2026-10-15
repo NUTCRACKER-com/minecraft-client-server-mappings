@@ -1,0 +1,12 @@
+{
+  "name": "MCHub",
+  "addresses": [
+    "mchub.com"
+  ],
+  "categories": [
+    "PRISON",
+    "SKYBLOCK",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

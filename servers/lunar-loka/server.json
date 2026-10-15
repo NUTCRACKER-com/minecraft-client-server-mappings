@@ -1,0 +1,14 @@
+{
+  "name": "Loka",
+  "addresses": [
+    "lokamc.com"
+  ],
+  "categories": [
+    "PVP",
+    "PVE",
+    "SURVIVAL",
+    "MMORPG",
+    "ADVENTURE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Minelibre Games",
+  "addresses": [
+    "minelibre.es",
+    "minelibregames.es",
+    "minelibre.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "ADVENTURE",
+    "PARKOUR"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,17 @@
+{
+  "name": "MineStar",
+  "addresses": [
+    "minestar.pl",
+    "minestar.gg"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP",
+    "BOXPVP",
+    "LIFESTEAL",
+    "KITPVP",
+    "PRACTICE",
+    "SKYBLOCK"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

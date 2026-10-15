@@ -1,0 +1,13 @@
+{
+  "name": "OscureMC",
+  "addresses": [
+    "oscuremc.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "ADVENTURE",
+    "OPENWORLD"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

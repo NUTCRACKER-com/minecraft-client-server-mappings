@@ -1,0 +1,12 @@
+{
+  "name": "MinePiece",
+  "addresses": [
+    "minepiece.net",
+    "mineberry.fr"
+  ],
+  "categories": [
+    "FACTIONS",
+    "ADVENTURE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

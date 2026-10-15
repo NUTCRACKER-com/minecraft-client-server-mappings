@@ -1,0 +1,11 @@
+{
+  "name": "KryxMC",
+  "addresses": [
+    "kryxmc.fr"
+  ],
+  "categories": [
+    "PVP",
+    "FACTIONS"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

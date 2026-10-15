@@ -1,0 +1,15 @@
+{
+  "name": "KaizenMC",
+  "addresses": [
+    "kaizenmc.gg",
+    "kaizenmc.com.br",
+    "kaizen.gay"
+  ],
+  "categories": [
+    "PVP",
+    "PRACTICE",
+    "COMPETITIVE",
+    "MINIGAMES"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

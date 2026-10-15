@@ -1,0 +1,17 @@
+{
+  "name": "KoksCraft.pl",
+  "addresses": [
+    "kokscraft.pl"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP",
+    "UHC",
+    "KITPVP",
+    "ANARCHY",
+    "BOXPVP",
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DeathBan Network",
+  "addresses": [
+    "deathban.es"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "HARDCORE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

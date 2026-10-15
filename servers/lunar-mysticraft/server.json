@@ -1,0 +1,15 @@
+{
+  "name": "MystiCraft",
+  "addresses": [
+    "mysticraft.xyz"
+  ],
+  "categories": [
+    "LIFESTEAL",
+    "SURVIVAL",
+    "CRYSTALPVP",
+    "PRACTICE",
+    "VANILLA",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

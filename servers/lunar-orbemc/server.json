@@ -1,0 +1,14 @@
+{
+  "name": "OrbeMC",
+  "addresses": [
+    "orbemc.net",
+    "orbemc.es",
+    "orbemc.online"
+  ],
+  "categories": [
+    "PVP",
+    "UHC",
+    "HCF"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

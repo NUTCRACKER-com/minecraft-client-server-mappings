@@ -1,0 +1,15 @@
+{
+  "name": "Hadaria",
+  "addresses": [
+    "hadaria.fr",
+    "hadaria.net",
+    "hadaria.eu",
+    "hadaria.com"
+  ],
+  "categories": [
+    "PVP",
+    "FACTIONS"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

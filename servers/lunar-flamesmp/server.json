@@ -1,0 +1,13 @@
+{
+  "name": "FlameSMP",
+  "addresses": [
+    "flamesmp.gg",
+    "flamesmp.org"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PRACTICE",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

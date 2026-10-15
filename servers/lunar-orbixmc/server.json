@@ -1,0 +1,13 @@
+{
+  "name": "OrbixMC",
+  "addresses": [
+    "orbixmc.com",
+    "orbixmc.net",
+    "orbixmc.org"
+  ],
+  "categories": [
+    "PRISON"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

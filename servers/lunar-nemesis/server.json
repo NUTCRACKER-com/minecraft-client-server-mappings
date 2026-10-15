@@ -1,0 +1,11 @@
+{
+  "name": "Nemesis",
+  "addresses": [
+    "nemesismc.fun"
+  ],
+  "categories": [
+    "PARKOUR",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

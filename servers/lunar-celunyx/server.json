@@ -1,0 +1,12 @@
+{
+  "name": "Celunyx",
+  "addresses": [
+    "celunyx.com"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP",
+    "UHC"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

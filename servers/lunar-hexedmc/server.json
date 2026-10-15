@@ -1,0 +1,15 @@
+{
+  "name": "HexedMC",
+  "addresses": [
+    "hexedmc.net",
+    "hexedmc.com",
+    "hexedmc.org",
+    "hexedmc.xyz"
+  ],
+  "categories": [
+    "PRISON",
+    "SKYBLOCK",
+    "PVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

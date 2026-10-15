@@ -1,0 +1,15 @@
+{
+  "name": "Everdawn",
+  "addresses": [
+    "everdawnmc.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVE",
+    "ADVENTURE",
+    "OPENWORLD",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

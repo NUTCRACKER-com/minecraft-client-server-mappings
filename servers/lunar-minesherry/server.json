@@ -1,0 +1,13 @@
+{
+  "name": "MineSherry",
+  "addresses": [
+    "minesherry.fun"
+  ],
+  "categories": [
+    "BOXPVP",
+    "SURVIVAL",
+    "MINIGAMES",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

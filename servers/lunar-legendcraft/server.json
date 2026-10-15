@@ -1,0 +1,12 @@
+{
+  "name": "LegendCraft",
+  "addresses": [
+    "legendcraft.it"
+  ],
+  "categories": [
+    "PVP",
+    "PVE",
+    "SKYBLOCK"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

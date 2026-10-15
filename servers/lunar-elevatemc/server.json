@@ -1,0 +1,13 @@
+{
+  "name": "ElevateMC",
+  "addresses": [
+    "elevatemc.com"
+  ],
+  "categories": [
+    "PVP",
+    "HCF",
+    "COMPETITIVE",
+    "PRACTICE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

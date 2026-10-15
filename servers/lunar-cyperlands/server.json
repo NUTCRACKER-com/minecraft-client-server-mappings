@@ -1,0 +1,13 @@
+{
+  "name": "Cyperlands",
+  "addresses": [
+    "cyperlands.net",
+    "ham5teak.xyz"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

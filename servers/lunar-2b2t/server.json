@@ -1,0 +1,13 @@
+{
+  "name": "2b2t",
+  "addresses": [
+    "2b2t.org"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "ANARCHY",
+    "HARDCORE",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

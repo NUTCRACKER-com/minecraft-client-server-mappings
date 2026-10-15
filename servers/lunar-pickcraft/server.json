@@ -1,0 +1,13 @@
+{
+  "name": "PickCraft",
+  "addresses": [
+    "pickcraft.us"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "MINIGAMES",
+    "PVP",
+    "PVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

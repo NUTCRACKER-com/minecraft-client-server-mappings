@@ -1,0 +1,13 @@
+{
+  "name": "CloudBerry",
+  "addresses": [
+    "mc-cloudberry.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP",
+    "PVE"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

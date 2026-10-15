@@ -1,0 +1,14 @@
+{
+  "name": "NyxSMP",
+  "addresses": [
+    "nyxsmp.net"
+  ],
+  "categories": [
+    "MMORPG",
+    "PVE",
+    "PVP",
+    "COMPETITIVE",
+    "ADVENTURE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

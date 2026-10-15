@@ -1,0 +1,13 @@
+{
+  "name": "MCC Island",
+  "addresses": [
+    "mccisland.com",
+    "noxcrew.online"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP",
+    "PARKOUR"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

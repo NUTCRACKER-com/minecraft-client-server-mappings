@@ -1,0 +1,12 @@
+{
+  "name": "MineBone Network",
+  "addresses": [
+    "minebone.es",
+    "minebone.net"
+  ],
+  "categories": [
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

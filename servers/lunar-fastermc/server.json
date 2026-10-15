@@ -1,0 +1,12 @@
+{
+  "name": "FasterMC",
+  "addresses": [
+    "fastermc.net"
+  ],
+  "categories": [
+    "HCF",
+    "PVP",
+    "FACTIONS"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

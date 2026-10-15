@@ -1,0 +1,13 @@
+{
+  "name": "DusDavidGames",
+  "addresses": [
+    "dusdavidgames.nl"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "SURVIVAL",
+    "CREATIVE"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Blocaria",
+  "addresses": [
+    "blocaria.fr"
+  ],
+  "categories": [
+    "FACTIONS",
+    "ADVENTURE",
+    "SKYBLOCK"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

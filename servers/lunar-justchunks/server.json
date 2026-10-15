@@ -1,0 +1,14 @@
+{
+  "name": "JustChunks",
+  "addresses": [
+    "justchunks.net",
+    "justchunks.de",
+    "justchunks.com"
+  ],
+  "categories": [
+    "PVE",
+    "ADVENTURE"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

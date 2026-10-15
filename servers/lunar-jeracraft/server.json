@@ -1,0 +1,12 @@
+{
+  "name": "Jeracraft Network",
+  "addresses": [
+    "jeracraft.net"
+  ],
+  "categories": [
+    "ADVENTURE",
+    "SURVIVAL",
+    "PVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

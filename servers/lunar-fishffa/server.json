@@ -1,0 +1,11 @@
+{
+  "name": "FishFFA Network",
+  "addresses": [
+    "fishffa.gg"
+  ],
+  "categories": [
+    "PVP",
+    "UHC"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

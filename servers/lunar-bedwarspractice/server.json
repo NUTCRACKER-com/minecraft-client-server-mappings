@@ -1,0 +1,16 @@
+{
+  "name": "Bedwars Practice",
+  "addresses": [
+    "bedwarspractice.club",
+    "bedwarspractice.net",
+    "voxyl.net"
+  ],
+  "categories": [
+    "PRACTICE",
+    "MINIGAMES",
+    "PVP",
+    "COMPETITIVE"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

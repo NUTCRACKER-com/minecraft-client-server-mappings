@@ -1,0 +1,14 @@
+{
+  "name": "HyperMC",
+  "addresses": [
+    "hyper-mc.it"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "KITPVP",
+    "MINIGAMES"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

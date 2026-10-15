@@ -1,0 +1,17 @@
+{
+  "name": "AppleMC",
+  "addresses": [
+    "applemc.fun"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "SURVIVAL",
+    "PVP",
+    "LIFESTEAL",
+    "ONEBLOCK",
+    "PRISON",
+    "BOXPVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

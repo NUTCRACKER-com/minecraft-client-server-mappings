@@ -1,0 +1,13 @@
+{
+  "name": "Killion Detention Center Revival",
+  "addresses": [
+    "killionrevival.co"
+  ],
+  "categories": [
+    "PRISON",
+    "HARDCORE",
+    "OPENWORLD"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

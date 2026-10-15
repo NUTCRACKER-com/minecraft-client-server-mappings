@@ -1,0 +1,13 @@
+{
+  "name": "BedCraftMC",
+  "addresses": [
+    "bedcraftmc.eu"
+  ],
+  "categories": [
+    "PVP",
+    "MINIGAMES",
+    "LIFESTEAL",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

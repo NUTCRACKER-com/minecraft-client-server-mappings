@@ -1,0 +1,13 @@
+{
+  "name": "PanzonesMC Network",
+  "addresses": [
+    "panzonesmc.net"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "MINIGAMES"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

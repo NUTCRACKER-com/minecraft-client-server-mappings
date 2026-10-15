@@ -1,0 +1,15 @@
+{
+  "name": "Hoplite",
+  "addresses": [
+    "hoplite.gg"
+  ],
+  "categories": [
+    "UHC",
+    "PVP",
+    "PRACTICE",
+    "COMPETITIVE",
+    "HARDCORE"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,17 @@
+{
+  "name": "BloodSymphony",
+  "addresses": [
+    "bloodsymphony.fr",
+    "bloodsymphony.com",
+    "sunaria.fr",
+    "funcloud.fr",
+    "smilecraft.fr",
+    "bloodsymphony.eu"
+  ],
+  "categories": [
+    "PVP",
+    "SKYBLOCK",
+    "FACTIONS"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

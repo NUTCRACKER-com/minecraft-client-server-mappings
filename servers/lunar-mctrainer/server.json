@@ -1,0 +1,17 @@
+{
+  "name": "McTrainer",
+  "addresses": [
+    "mctrainer.club"
+  ],
+  "categories": [
+    "PRACTICE",
+    "PVP",
+    "COMPETITIVE",
+    "CRYSTALPVP",
+    "KITPVP",
+    "UHC",
+    "CASUAL"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "BenderIL",
+  "addresses": [
+    "benderil.com"
+  ],
+  "categories": [
+    "ROLEPLAY",
+    "PVP",
+    "PVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

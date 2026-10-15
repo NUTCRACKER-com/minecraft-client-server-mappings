@@ -1,0 +1,13 @@
+{
+  "name": "MineSpice",
+  "addresses": [
+    "minespice.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "SKYBLOCK",
+    "MINIGAMES"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

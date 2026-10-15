@@ -1,0 +1,11 @@
+{
+  "name": "FantasyBlock",
+  "addresses": [
+    "fantasyblock.hu"
+  ],
+  "categories": [
+    "SKYBLOCK",
+    "MMORPG"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

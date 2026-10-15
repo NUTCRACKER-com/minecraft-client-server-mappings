@@ -1,0 +1,12 @@
+{
+  "name": "Level SMP",
+  "addresses": [
+    "levelsmp.org"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP",
+    "OPENWORLD"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

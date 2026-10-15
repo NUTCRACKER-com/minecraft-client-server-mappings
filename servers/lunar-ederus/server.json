@@ -1,0 +1,11 @@
+{
+  "name": "Ederus Network",
+  "addresses": [
+    "ederus.com"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "ONEBLOCK"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

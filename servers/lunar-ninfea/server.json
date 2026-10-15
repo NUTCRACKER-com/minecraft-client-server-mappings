@@ -1,0 +1,13 @@
+{
+  "name": "Ninfea Network",
+  "addresses": [
+    "ninfea.fun"
+  ],
+  "categories": [
+    "PVP",
+    "PARKOUR",
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

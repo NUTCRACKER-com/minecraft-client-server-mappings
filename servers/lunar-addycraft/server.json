@@ -1,0 +1,11 @@
+{
+  "name": "AddyCraft Network",
+  "addresses": [
+    "addycraft.net"
+  ],
+  "categories": [
+    "SKYBLOCK",
+    "PVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,14 @@
+{
+  "name": "MunchyMC",
+  "addresses": [
+    "munchymc.com",
+    "kitpvp.us"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PRISON",
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

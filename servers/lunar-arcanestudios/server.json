@@ -1,0 +1,13 @@
+{
+  "name": "Arcane Studios",
+  "addresses": [
+    "arcanemc.eu"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP",
+    "CREATIVE",
+    "PRISON"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

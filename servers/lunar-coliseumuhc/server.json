@@ -1,0 +1,10 @@
+{
+  "name": "Coliseum UHC",
+  "addresses": [
+    "coliseumuhc.us"
+  ],
+  "categories": [
+    "UHC"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

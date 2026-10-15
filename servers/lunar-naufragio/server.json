@@ -1,0 +1,12 @@
+{
+  "name": "Naufragio",
+  "addresses": [
+    "naufragio.es"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "PVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

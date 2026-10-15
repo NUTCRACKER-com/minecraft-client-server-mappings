@@ -1,0 +1,13 @@
+{
+  "name": "Disc Realms",
+  "addresses": [
+    "discrealms.net",
+    "discrealms.com"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "OPENWORLD",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

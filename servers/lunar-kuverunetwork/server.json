@@ -1,0 +1,12 @@
+{
+  "name": "Kuveru Network",
+  "addresses": [
+    "kuveru.com"
+  ],
+  "categories": [
+    "PVP",
+    "SKYBLOCK",
+    "FACTIONS"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

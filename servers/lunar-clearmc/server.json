@@ -1,0 +1,14 @@
+{
+  "name": "ClearMC",
+  "addresses": [
+    "clearmc.pl"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PRACTICE",
+    "KITPVP",
+    "PVP",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,19 @@
+{
+  "name": "KIG Network",
+  "addresses": [
+    "playkig.com",
+    "hive.rip",
+    "cai.rip",
+    "timv.rip",
+    "timv.ing",
+    "playkig.net",
+    "troubleinmineville.com"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP",
+    "ROLEPLAY"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

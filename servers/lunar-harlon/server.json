@@ -1,0 +1,11 @@
+{
+  "name": "Harlon City Server",
+  "addresses": [
+    "harlonserver.net"
+  ],
+  "categories": [
+    "OPENWORLD"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

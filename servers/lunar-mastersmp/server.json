@@ -1,0 +1,14 @@
+{
+  "name": "MasterSMP",
+  "addresses": [
+    "mastersmp.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "CRYSTALPVP",
+    "ANARCHY",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

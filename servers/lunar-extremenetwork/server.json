@@ -1,0 +1,14 @@
+{
+  "name": "Extreme Network",
+  "addresses": [
+    "extreme-network.eu",
+    "exmc.club"
+  ],
+  "categories": [
+    "FACTIONS",
+    "UHC",
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Guster Network",
+  "addresses": [
+    "guster.ro"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

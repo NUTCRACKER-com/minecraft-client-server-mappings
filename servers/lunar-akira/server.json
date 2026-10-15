@@ -1,0 +1,13 @@
+{
+  "name": "AKIRA",
+  "addresses": [
+    "akiramc.fr",
+    "akiramc.net"
+  ],
+  "categories": [
+    "UHC",
+    "MINIGAMES",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

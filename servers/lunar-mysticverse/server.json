@@ -1,0 +1,12 @@
+{
+  "name": "MysticVerse",
+  "addresses": [
+    "mysticverse.net"
+  ],
+  "categories": [
+    "PVP",
+    "ADVENTURE",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Build The Earth",
+  "addresses": [
+    "buildtheearth.net",
+    "nabte.net",
+    "bte-germany.de",
+    "andromedacraft.com",
+    "buildtheearth.ru",
+    "nordicbalticbte.net",
+    "alps-bte.com",
+    "btecanada.net",
+    "bteuk.net",
+    "btefrance.fr",
+    "bteoce.com",
+    "btehkmu.net",
+    "btemexca.net",
+    "bteconosur.com",
+    "bteromania.ro",
+    "bteukraine.com",
+    "btekorea.net"
+  ],
+  "categories": [
+    "CREATIVE"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

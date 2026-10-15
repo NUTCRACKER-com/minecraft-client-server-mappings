@@ -1,0 +1,14 @@
+{
+  "name": "DiamondFire",
+  "addresses": [
+    "mcdiamondfire.com",
+    "diamondfire.games"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "CREATIVE",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

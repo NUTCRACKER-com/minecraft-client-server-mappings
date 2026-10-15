@@ -1,0 +1,12 @@
+{
+  "name": "H4T SMP",
+  "addresses": [
+    "h4cp.it"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP",
+    "PVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Hyping",
+  "addresses": [
+    "hyping.fr"
+  ],
+  "categories": [
+    "PVE",
+    "ADVENTURE",
+    "SURVIVAL",
+    "SKYBLOCK",
+    "ONEBLOCK",
+    "TOWNY"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

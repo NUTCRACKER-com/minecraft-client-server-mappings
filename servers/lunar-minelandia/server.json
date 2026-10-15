@@ -1,0 +1,11 @@
+{
+  "name": "Minelandia",
+  "addresses": [
+    "minelandia.es"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

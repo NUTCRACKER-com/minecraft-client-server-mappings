@@ -1,0 +1,18 @@
+{
+  "name": "CoralMC",
+  "addresses": [
+    "coralmc.it",
+    "coralmc.eu",
+    "coralmc.net",
+    "quarantena.rip"
+  ],
+  "categories": [
+    "PVP",
+    "MINIGAMES",
+    "SURVIVAL",
+    "PRACTICE",
+    "KITPVP",
+    "ROLEPLAY"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

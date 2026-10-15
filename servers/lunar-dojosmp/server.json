@@ -1,0 +1,20 @@
+{
+  "name": "DojoSMP",
+  "addresses": [
+    "dojosmp.net",
+    "minestar.app",
+    "thaicraft.online",
+    "mc-cosmo.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "SKYBLOCK",
+    "MINIGAMES",
+    "PVP",
+    "PVE",
+    "PRACTICE",
+    "COMPETITIVE"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

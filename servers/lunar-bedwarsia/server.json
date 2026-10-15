@@ -1,0 +1,11 @@
+{
+  "name": "Bedwarsia",
+  "addresses": [
+    "bedwarsia.eu"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

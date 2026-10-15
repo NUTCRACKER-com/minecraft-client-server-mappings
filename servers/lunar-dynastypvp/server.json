@@ -1,0 +1,13 @@
+{
+  "name": "DynastyPvP",
+  "addresses": [
+    "dynastypvp.net"
+  ],
+  "categories": [
+    "FACTIONS",
+    "PVP",
+    "UHC",
+    "COMPETITIVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

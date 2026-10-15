@@ -1,0 +1,12 @@
+{
+  "name": "Gelic",
+  "addresses": [
+    "gelic.us"
+  ],
+  "categories": [
+    "PVP",
+    "HCF",
+    "MINIGAMES"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

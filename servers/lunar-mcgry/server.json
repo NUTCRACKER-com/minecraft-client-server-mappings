@@ -1,0 +1,13 @@
+{
+  "name": "MCGRY.PL",
+  "addresses": [
+    "mcgry.pl"
+  ],
+  "categories": [
+    "ANARCHY",
+    "BOXPVP",
+    "KITPVP",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

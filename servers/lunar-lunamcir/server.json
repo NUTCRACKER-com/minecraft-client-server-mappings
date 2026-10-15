@@ -1,0 +1,11 @@
+{
+  "name": "LunaMC",
+  "addresses": [
+    "lunamc.ir"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

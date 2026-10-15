@@ -1,0 +1,12 @@
+{
+  "name": "Asahi",
+  "addresses": [
+    "asahimc.fr"
+  ],
+  "categories": [
+    "UHC",
+    "MINIGAMES",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

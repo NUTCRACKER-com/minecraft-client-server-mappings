@@ -1,0 +1,14 @@
+{
+  "name": "Critical Network",
+  "addresses": [
+    "criticalnetwork.top"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PRACTICE",
+    "MMORPG",
+    "SKYBLOCK",
+    "CASUAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

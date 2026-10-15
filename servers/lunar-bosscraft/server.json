@@ -1,0 +1,12 @@
+{
+  "name": "BossCraft",
+  "addresses": [
+    "bosscraft.net"
+  ],
+  "categories": [
+    "PRISON",
+    "SKYBLOCK",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

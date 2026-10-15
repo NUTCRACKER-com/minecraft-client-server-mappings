@@ -1,0 +1,12 @@
+{
+  "name": "CoreGame.pl",
+  "addresses": [
+    "coregame.pl"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "SKYBLOCK",
+    "MINIGAMES"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

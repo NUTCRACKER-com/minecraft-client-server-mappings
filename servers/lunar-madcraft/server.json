@@ -1,0 +1,14 @@
+{
+  "name": "MadCraft Network",
+  "addresses": [
+    "madcraft.ir",
+    "madgames.ir"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "PRISON"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

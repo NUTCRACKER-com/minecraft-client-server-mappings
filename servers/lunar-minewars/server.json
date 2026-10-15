@@ -1,0 +1,13 @@
+{
+  "name": "MineWars Network",
+  "addresses": [
+    "minewars.pl",
+    "minewars.network"
+  ],
+  "categories": [
+    "SKYBLOCK",
+    "MINIGAMES",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

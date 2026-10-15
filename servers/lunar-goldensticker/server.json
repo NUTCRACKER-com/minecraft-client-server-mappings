@@ -1,0 +1,11 @@
+{
+  "name": "Golden Stickers",
+  "addresses": [
+    "goldensticker.xyz"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "BOXPVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

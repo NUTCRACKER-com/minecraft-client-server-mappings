@@ -1,0 +1,14 @@
+{
+  "name": "IGCraft",
+  "addresses": [
+    "igcraft.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP",
+    "PVE",
+    "FACTIONS"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

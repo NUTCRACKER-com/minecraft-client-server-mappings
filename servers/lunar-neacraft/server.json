@@ -1,0 +1,13 @@
+{
+  "name": "Nealand Network",
+  "addresses": [
+    "neacraft.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP",
+    "SKYBLOCK"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

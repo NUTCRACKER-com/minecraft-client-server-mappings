@@ -1,0 +1,11 @@
+{
+  "name": "LumoMC",
+  "addresses": [
+    "lumomc.pl"
+  ],
+  "categories": [
+    "PVP",
+    "PVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

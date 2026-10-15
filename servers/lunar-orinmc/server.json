@@ -1,0 +1,12 @@
+{
+  "name": "OrinMc Network",
+  "addresses": [
+    "orinmc.ro"
+  ],
+  "categories": [
+    "PVP",
+    "MINIGAMES",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

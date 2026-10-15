@@ -1,0 +1,12 @@
+{
+  "name": "OctanePvP",
+  "addresses": [
+    "octanepvp.com"
+  ],
+  "categories": [
+    "PVP",
+    "PVE"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

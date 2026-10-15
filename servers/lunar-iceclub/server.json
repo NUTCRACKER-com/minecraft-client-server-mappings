@@ -1,0 +1,12 @@
+{
+  "name": "IceClub",
+  "addresses": [
+    "iceclub.live"
+  ],
+  "categories": [
+    "PRISON",
+    "SURVIVAL",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

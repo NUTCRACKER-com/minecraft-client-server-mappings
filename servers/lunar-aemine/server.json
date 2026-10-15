@@ -1,0 +1,13 @@
+{
+  "name": "Aemine",
+  "addresses": [
+    "aemine.vn"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "SKYBLOCK",
+    "ROLEPLAY"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

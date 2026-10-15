@@ -1,0 +1,12 @@
+{
+  "name": "ParlaGames",
+  "addresses": [
+    "parlagames.co.il"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "SURVIVAL",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

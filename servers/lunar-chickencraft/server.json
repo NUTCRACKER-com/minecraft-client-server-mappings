@@ -1,0 +1,16 @@
+{
+  "name": "Chickencraft",
+  "addresses": [
+    "chickencraft.nl"
+  ],
+  "categories": [
+    "PVP",
+    "PRACTICE",
+    "KITPVP",
+    "BOXPVP",
+    "LIFESTEAL",
+    "SURVIVAL",
+    "CRYSTALPVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

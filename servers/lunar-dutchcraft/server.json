@@ -1,0 +1,12 @@
+{
+  "name": "DutchCraft",
+  "addresses": [
+    "dutchcraft.be"
+  ],
+  "categories": [
+    "HARDCORE",
+    "SURVIVAL",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

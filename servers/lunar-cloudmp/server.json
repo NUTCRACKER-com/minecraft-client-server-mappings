@@ -1,0 +1,13 @@
+{
+  "name": "CloudSMP",
+  "addresses": [
+    "cloudmp.org"
+  ],
+  "categories": [
+    "HARDCORE",
+    "SURVIVAL",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

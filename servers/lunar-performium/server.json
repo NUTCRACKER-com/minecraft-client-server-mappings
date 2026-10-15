@@ -1,0 +1,15 @@
+{
+  "name": "Performium Network",
+  "addresses": [
+    "performium.net",
+    "fluxpvp.net",
+    "skyblocknetwork.com"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "MINIGAMES",
+    "UHC"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

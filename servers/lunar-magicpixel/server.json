@@ -1,0 +1,12 @@
+{
+  "name": "MagicPixel",
+  "addresses": [
+    "magicpixel.ir"
+  ],
+  "categories": [
+    "ROLEPLAY",
+    "SURVIVAL",
+    "SKYBLOCK"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Cube-O-Slavia Network",
+  "addresses": [
+    "cube-o-slavia.eu"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "SKYBLOCK"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Nexit.lol",
+  "addresses": [
+    "nexit.lol"
+  ],
+  "categories": [
+    "PVP",
+    "MINIGAMES",
+    "SKYBLOCK"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Over-Shot.eu",
+  "addresses": [
+    "over-shot.eu"
+  ],
+  "categories": [
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

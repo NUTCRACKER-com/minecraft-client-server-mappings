@@ -1,0 +1,16 @@
+{
+  "name": "Certix",
+  "addresses": [
+    "certix.cc"
+  ],
+  "categories": [
+    "SKYBLOCK",
+    "SURVIVAL",
+    "PRISON",
+    "COBBLEMON",
+    "PVE",
+    "COMPETITIVE",
+    "CASUAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "KriptonPVP Network",
+  "addresses": [
+    "kriptonpvp.com"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "CREATIVE",
+    "SKYBLOCK"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

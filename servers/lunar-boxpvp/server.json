@@ -1,0 +1,12 @@
+{
+  "name": "BoxPvP Network",
+  "addresses": [
+    "boxpvp.net"
+  ],
+  "categories": [
+    "PVP",
+    "BOXPVP",
+    "CRYSTALPVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

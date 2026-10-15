@@ -1,0 +1,14 @@
+{
+  "name": "Hyfelia",
+  "addresses": [
+    "hyfelia.com",
+    "hyfelia.it"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "FACTIONS"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

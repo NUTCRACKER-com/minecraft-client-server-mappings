@@ -1,0 +1,14 @@
+{
+  "name": "AstralMC",
+  "addresses": [
+    "astralmc.cc"
+  ],
+  "categories": [
+    "PVP",
+    "UHC",
+    "HCF",
+    "PRACTICE",
+    "KITPVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "MigosMC",
+  "addresses": [
+    "migosmc.ru"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "SURVIVAL",
+    "ROLEPLAY"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

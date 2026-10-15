@@ -1,0 +1,11 @@
+{
+  "name": "MagicMC Network",
+  "addresses": [
+    "magicmc.us"
+  ],
+  "categories": [
+    "PVP",
+    "PVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

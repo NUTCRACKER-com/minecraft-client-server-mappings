@@ -1,0 +1,15 @@
+{
+  "name": "HyCraft Network",
+  "addresses": [
+    "hycraft.us"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "MINIGAMES",
+    "PVP",
+    "PVE",
+    "TYCOON"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Complex Gaming",
+  "addresses": [
+    "mc-complex.com"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "FACTIONS",
+    "SKYBLOCK",
+    "CREATIVE",
+    "PRISON",
+    "LIFESTEAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

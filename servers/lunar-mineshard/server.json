@@ -1,0 +1,11 @@
+{
+  "name": "MineShard",
+  "addresses": [
+    "mineshard.top"
+  ],
+  "categories": [
+    "PVP",
+    "PRACTICE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

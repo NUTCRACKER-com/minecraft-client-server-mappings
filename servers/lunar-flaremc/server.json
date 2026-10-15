@@ -1,0 +1,13 @@
+{
+  "name": "FlareMC",
+  "addresses": [
+    "flaremc.org",
+    "vflnetwork.com"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "SURVIVAL",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

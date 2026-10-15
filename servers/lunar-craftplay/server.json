@@ -1,0 +1,16 @@
+{
+  "name": "CraftPlay",
+  "addresses": [
+    "craftplay.pl"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "SURVIVAL",
+    "SKYBLOCK",
+    "ONEBLOCK",
+    "BOXPVP",
+    "PRISON",
+    "CREATIVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

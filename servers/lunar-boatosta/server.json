@@ -1,0 +1,13 @@
+{
+  "name": "BoaTosta",
+  "addresses": [
+    "boatosta.net",
+    "tostamc.it"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "ADVENTURE",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

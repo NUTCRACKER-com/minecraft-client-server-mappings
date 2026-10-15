@@ -1,0 +1,13 @@
+{
+  "name": "ExileMC",
+  "addresses": [
+    "exilemc.co"
+  ],
+  "categories": [
+    "PRISON",
+    "PVP",
+    "PVE",
+    "PARKOUR"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

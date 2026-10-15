@@ -1,0 +1,13 @@
+{
+  "name": "MineForge",
+  "addresses": [
+    "mineforge.club",
+    "mineforge.id"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "SKYBLOCK"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Raideado Land",
+  "addresses": [
+    "extremomc.site"
+  ],
+  "categories": [
+    "PARKOUR",
+    "UHC",
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

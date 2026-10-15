@@ -1,0 +1,12 @@
+{
+  "name": "AuroraMC",
+  "addresses": [
+    "auroramc.network"
+  ],
+  "categories": [
+    "PVE",
+    "SURVIVAL",
+    "ADVENTURE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

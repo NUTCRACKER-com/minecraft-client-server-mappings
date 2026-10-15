@@ -1,0 +1,13 @@
+{
+  "name": "NauticMC",
+  "addresses": [
+    "nauticmc.net",
+    "nauticbedrock.net"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "CREATIVE",
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

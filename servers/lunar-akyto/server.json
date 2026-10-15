@@ -1,0 +1,13 @@
+{
+  "name": "Akyto",
+  "addresses": [
+    "akyto.club",
+    "akyto.net",
+    "groupezk.fr",
+    "pvptemple.it"
+  ],
+  "categories": [
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

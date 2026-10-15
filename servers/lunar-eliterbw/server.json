@@ -1,0 +1,11 @@
+{
+  "name": "Elite Ranked Bedwars",
+  "addresses": [
+    "eliterbw.ir"
+  ],
+  "categories": [
+    "PVP",
+    "MINIGAMES"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

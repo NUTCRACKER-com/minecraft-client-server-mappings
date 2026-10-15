@@ -1,0 +1,16 @@
+{
+  "name": "Minehut",
+  "addresses": [
+    "minehut.com",
+    "minehut.gg"
+  ],
+  "categories": [
+    "PVP",
+    "MINIGAMES",
+    "ROLEPLAY",
+    "SURVIVAL",
+    "LIFESTEAL"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

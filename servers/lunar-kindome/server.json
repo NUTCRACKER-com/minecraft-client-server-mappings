@@ -1,0 +1,13 @@
+{
+  "name": "Kindome",
+  "addresses": [
+    "kindo.me",
+    "kindome.com.br"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "PVP",
+    "CREATIVE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

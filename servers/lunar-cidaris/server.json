@@ -1,0 +1,12 @@
+{
+  "name": "Cidaris",
+  "addresses": [
+    "cidaris.fr"
+  ],
+  "categories": [
+    "PVP",
+    "PVE",
+    "FACTIONS"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

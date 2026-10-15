@@ -1,0 +1,12 @@
+{
+  "name": "GalaxyCraft Network",
+  "addresses": [
+    "mcgalaxycraft.com"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP",
+    "PARKOUR"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

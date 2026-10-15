@@ -1,0 +1,13 @@
+{
+  "name": "1Hour 1Life",
+  "addresses": [
+    "1hour1life.net"
+  ],
+  "categories": [
+    "ROLEPLAY",
+    "SURVIVAL",
+    "OPENWORLD"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

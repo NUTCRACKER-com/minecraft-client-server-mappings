@@ -1,0 +1,14 @@
+{
+  "name": "Battle Network",
+  "addresses": [
+    "battle.rip",
+    "battlemc.rip"
+  ],
+  "categories": [
+    "HCF",
+    "UHC",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

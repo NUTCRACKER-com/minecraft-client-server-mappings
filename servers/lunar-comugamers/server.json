@@ -1,0 +1,18 @@
+{
+  "name": "ComuGamers Network",
+  "addresses": [
+    "comugamers.net",
+    "comugamers.com",
+    "comugamers.eu",
+    "comugamers.org",
+    "cgm.rs",
+    "edaters.network"
+  ],
+  "categories": [
+    "PVP",
+    "MINIGAMES",
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

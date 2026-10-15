@@ -1,0 +1,12 @@
+{
+  "name": "Infinity Smart",
+  "addresses": [
+    "infinitysmart.eu"
+  ],
+  "categories": [
+    "MINIGAMES",
+    "SURVIVAL",
+    "ADVENTURE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BrothersPvP",
+  "addresses": [
+    "brotherspvp.net"
+  ],
+  "categories": [
+    "PRISON",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

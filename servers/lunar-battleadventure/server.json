@@ -1,0 +1,13 @@
+{
+  "name": "Battle Adventure",
+  "addresses": [
+    "battle-adventure.eu",
+    "eliacube.eu"
+  ],
+  "categories": [
+    "PVP",
+    "FACTIONS",
+    "MINIGAMES"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

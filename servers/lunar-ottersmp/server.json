@@ -1,0 +1,13 @@
+{
+  "name": "OtterSMP",
+  "addresses": [
+    "ottersmp.com"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "ROLEPLAY",
+    "PVE"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

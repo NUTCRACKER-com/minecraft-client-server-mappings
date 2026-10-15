@@ -1,0 +1,12 @@
+{
+  "name": "EVAPRISONS",
+  "addresses": [
+    "evaprisons.com"
+  ],
+  "categories": [
+    "PRISON",
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,15 @@
+{
+  "name": "HappyMC",
+  "addresses": [
+    "happymc.fun"
+  ],
+  "categories": [
+    "LIFESTEAL",
+    "BOXPVP",
+    "MINIGAMES",
+    "PARKOUR",
+    "PVP",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

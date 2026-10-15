@@ -1,0 +1,13 @@
+{
+  "name": "Pink Prison",
+  "addresses": [
+    "pinkprison.net",
+    "pinkprison.com"
+  ],
+  "categories": [
+    "PRISON",
+    "PVP",
+    "MINIGAMES"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

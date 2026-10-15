@@ -1,0 +1,12 @@
+{
+  "name": "HCRival",
+  "addresses": [
+    "hcrival.net"
+  ],
+  "categories": [
+    "PVP",
+    "HCF"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

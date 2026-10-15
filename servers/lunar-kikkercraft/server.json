@@ -1,0 +1,12 @@
+{
+  "name": "KikkerCraft",
+  "addresses": [
+    "kikkercraft.nl"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "CREATIVE",
+    "SKYBLOCK"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

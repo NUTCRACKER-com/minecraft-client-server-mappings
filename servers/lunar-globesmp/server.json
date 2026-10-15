@@ -1,0 +1,11 @@
+{
+  "name": "GlobeSMP",
+  "addresses": [
+    "globesmp.org"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "OPENWORLD"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

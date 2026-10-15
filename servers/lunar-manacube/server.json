@@ -1,0 +1,17 @@
+{
+  "name": "ManaCube",
+  "addresses": [
+    "manacube.com",
+    "manacube.net"
+  ],
+  "categories": [
+    "PVP",
+    "PARKOUR",
+    "SKYBLOCK",
+    "PRISON",
+    "KITPVP",
+    "CREATIVE",
+    "SURVIVAL"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Kira Network",
+  "addresses": [
+    "kiramc.com"
+  ],
+  "categories": [
+    "PVP",
+    "HCF"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

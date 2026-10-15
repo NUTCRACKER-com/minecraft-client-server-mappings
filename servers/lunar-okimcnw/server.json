@@ -1,0 +1,13 @@
+{
+  "name": "OkiMC Network",
+  "addresses": [
+    "okimc.us"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL",
+    "PVE"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

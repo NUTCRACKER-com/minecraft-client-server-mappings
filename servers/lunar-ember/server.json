@@ -1,0 +1,15 @@
+{
+  "name": "Ember",
+  "addresses": [
+    "emberpvp.es",
+    "emberpvp.club",
+    "pvpsurge.com",
+    "varant.es"
+  ],
+  "categories": [
+    "PVP",
+    "FACTIONS"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

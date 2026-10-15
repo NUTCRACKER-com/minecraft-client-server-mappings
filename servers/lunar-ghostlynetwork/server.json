@@ -1,0 +1,16 @@
+{
+  "name": "Ghostly Network",
+  "addresses": [
+    "edaters.live",
+    "ghostly.live"
+  ],
+  "categories": [
+    "PVP",
+    "UHC",
+    "HCF",
+    "PRACTICE",
+    "MINIGAMES"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

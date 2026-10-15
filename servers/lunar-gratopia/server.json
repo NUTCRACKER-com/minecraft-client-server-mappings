@@ -1,0 +1,12 @@
+{
+  "name": "Gratopia",
+  "addresses": [
+    "gratopia.gg"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "PVP",
+    "ADVENTURE"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

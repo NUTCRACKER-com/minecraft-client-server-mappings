@@ -1,0 +1,15 @@
+{
+  "name": "FadeRealms",
+  "addresses": [
+    "faderealms.net",
+    "faderealms.com",
+    "fadesmp.net",
+    "fadesmp.com"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "SKYBLOCK",
+    "MINIGAMES"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

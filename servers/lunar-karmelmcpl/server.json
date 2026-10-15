@@ -1,0 +1,11 @@
+{
+  "name": "KarmelMC.pl",
+  "addresses": [
+    "karmelmc.pl"
+  ],
+  "categories": [
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

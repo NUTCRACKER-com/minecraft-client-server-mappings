@@ -1,0 +1,11 @@
+{
+  "name": "Oceania Prestige",
+  "addresses": [
+    "oceprestige.net",
+    "oceprestige.com"
+  ],
+  "categories": [
+    "PVP"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "CobelPvP Network",
+  "addresses": [
+    "cobelpvp.com"
+  ],
+  "categories": [
+    "PVP",
+    "HCF",
+    "FACTIONS"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

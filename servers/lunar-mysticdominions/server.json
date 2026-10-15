@@ -1,0 +1,13 @@
+{
+  "name": "Mystic Dominions",
+  "addresses": [
+    "mysticdominions.com"
+  ],
+  "categories": [
+    "SURVIVAL",
+    "ROLEPLAY",
+    "FACTIONS"
+  ],
+  "icon": "icon.png",
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

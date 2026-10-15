@@ -1,0 +1,10 @@
+{
+  "name": "Dropcraft",
+  "addresses": [
+    "dropcraft.ru"
+  ],
+  "categories": [
+    "MINIGAMES"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}

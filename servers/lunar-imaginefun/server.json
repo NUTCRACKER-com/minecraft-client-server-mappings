@@ -1,0 +1,15 @@
+{
+  "name": "ImagineFun",
+  "addresses": [
+    "imaginefun.net",
+    "imagineeringfun.net",
+    "minecraftdisneyland.com"
+  ],
+  "categories": [
+    "CASUAL",
+    "MINIGAMES",
+    "ADVENTURE",
+    "OPENWORLD"
+  ],
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+}
