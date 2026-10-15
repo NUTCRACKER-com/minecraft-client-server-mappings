@@ -24,10 +24,12 @@ Einträge aus **diesem** Repo haben immer Vorrang.
 | `icon` / `banner` | nein | Dateiname im selben Ordner |
 | `rulesUrl` | nein | Link zu den Regeln / der Mod-Liste des Servers |
 | `disabledModules` | nein | Modul-IDs, die dort ausgeschaltet werden ([alle IDs](docs/modules.md)) |
-| `notes` | nein | Kurze Begründung (wird intern angezeigt) |
+| `notes` | nein | Short reason, **must be written in English** (shown to players) |
 
 Gesperrte Module lassen sich auf dem Server nicht einschalten und kommen beim Verlassen automatisch zurück.
 
 ## Lizenz
+
+Das Backend gleicht die Server täglich mit den öffentlichen Mappings von Lunar Client, Tyranis und NoRisk Client ab; Server-Besitzer müssen sich dort nicht extra eintragen.
 
 Die Daten stehen unter MIT (siehe `LICENSE`). Banner und Icons gehören den jeweiligen Servern und liegen hier nur zur Anzeige im Client.

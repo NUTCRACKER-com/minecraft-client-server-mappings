@@ -22,6 +22,7 @@ for (const d of fs.readdirSync(dir)) {
   }
   for (const m of s.disabledModules || []) if (!known.has(m)) fail(d + ": unbekannte Modul-ID " + m + " (siehe docs/modules.md)");
   for (const f of [s.icon, s.banner]) if (f && !fs.existsSync(path.join(base, f))) fail(d + ": Datei " + f + " fehlt");
+  if (s.notes && /[äöüßÄÖÜ]|(und|der|die|das|nicht|keine|Regeln)/.test(s.notes)) fail(d + ": notes must be written in English");
   if (s.rulesUrl && !s.rulesUrl.startsWith("https://")) fail(d + ": rulesUrl muss mit https:// beginnen");
 }
 if (errors) { console.error(errors + " Fehler"); process.exit(1); }
