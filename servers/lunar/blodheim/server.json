@@ -8,5 +8,47 @@
     "PVP",
     "CASUAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Norwegian Minecraft server that offers a unique survival experience.",
+  "website": "https://blodheim.no/",
+  "store": "https://butikk.blodheim.no/",
+  "socials": {
+    "twitter": "blodheim",
+    "discord": "https://discord.gg/2wpy3yUJwm",
+    "youtube": "@Blodheim",
+    "instagram": "blodheimmc",
+    "tiktok": "@blodheimmc"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "26.1.2",
+  "regions": [
+    "AF",
+    "AS",
+    "EU",
+    "NA",
+    "OC",
+    "SA"
+  ],
+  "languages": [
+    "no"
+  ],
+  "gameTypes": [
+    "Competitive",
+    "PvP",
+    "Casual"
+  ],
+  "colors": {
+    "primary": "#c40007",
+    "secondary": "#fa1920"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blodheim/logo.png"
 }

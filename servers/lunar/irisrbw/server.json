@@ -7,5 +7,26 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A competitive Persian Minecraft Ranked Bedwars Server",
+  "socials": {
+    "discord": "https://discord.gg/n8FrrQJYm6"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#000000",
+    "secondary": "#1a1a1a"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/irisrbw/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/irisrbw/background.png"
 }

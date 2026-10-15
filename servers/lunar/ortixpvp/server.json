@@ -8,5 +8,24 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play HCF and PvP on OrtixPVP.",
+  "store": "https://store.ortixpvp.com/",
+  "versions": [
+    "1.7.10",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "HCF",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#AA00AA",
+    "secondary": "#FF55FF"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/ortixpvp/background.png"
 }

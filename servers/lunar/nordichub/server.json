@@ -8,5 +8,33 @@
     "PRISON"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and Prison on NordicHub.",
+  "website": "https://portal.nordichub/",
+  "store": "https://nordichubdk.tebex.io/",
+  "socials": {
+    "discord": "https://discord.com/invite/t8Wwzmu67Y"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#d9d19e",
+    "secondary": "#4d311e"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nordichub/background.png"
 }

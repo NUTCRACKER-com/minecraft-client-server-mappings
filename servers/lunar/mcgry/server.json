@@ -9,5 +9,36 @@
     "KITPVP",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Polish anarchy network with BoxPvP, KitPvP, SkyPvP and mace fights.",
+  "website": "https://mcgry.pl",
+  "store": "https://mcgry.pl/sklep",
+  "socials": {
+    "discord": "https://discord.gg/mcgry",
+    "tiktok": "@mcgrypl"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "Anarchy",
+    "BoxPvP",
+    "KitPvP",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ffb000",
+    "secondary": "#fbcb08"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mcgry/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mcgry/background.png"
 }

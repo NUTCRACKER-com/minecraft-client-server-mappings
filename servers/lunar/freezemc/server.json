@@ -8,5 +8,34 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "FreezeMC is the chillest Minecraft Network out there!",
+  "socials": {
+    "discord": "https://discord.gg/V96rBF3Tyv"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "26.1.2",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#0099ff",
+    "secondary": "#add6ff"
+  }
 }

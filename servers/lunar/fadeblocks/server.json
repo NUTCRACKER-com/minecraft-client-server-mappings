@@ -9,5 +9,34 @@
     "ADVENTURE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Community-driven gameplay shaped by player feedback and ideas.",
+  "website": "https://fadeblocks.com/",
+  "socials": {
+    "twitter": "FadeBlocks",
+    "discord": "https://discord.com/invite/KtZbQshydJ",
+    "youtube": "FadeblocksNetwork",
+    "instagram": "fadeblocks",
+    "reddit": "fadeblocks",
+    "tiktok": "@fadeblocks"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.6",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#2ed8fb",
+    "secondary": "#326dcd"
+  }
 }

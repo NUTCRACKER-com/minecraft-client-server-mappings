@@ -8,5 +8,34 @@
     "HCF",
     "FACTIONS"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The best 2016 PvP Experience.",
+  "website": "https://cobelpvp.com/",
+  "store": "https://cobelpvp.tebex.io/",
+  "socials": {
+    "twitter": "CobelPvPNetwork",
+    "discord": "https://discord.gg/aUAKqkBkb9"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.7.10",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#FFAA00",
+    "secondary": "#FFFF55"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cobelpvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cobelpvp/banner.png"
 }

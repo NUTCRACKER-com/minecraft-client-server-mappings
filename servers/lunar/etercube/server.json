@@ -8,5 +8,40 @@
     "PVP",
     "FACTIONS"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and Factions on Etercube.",
+  "website": "https://etercube.fr",
+  "socials": {
+    "discord": "https://discord.gg/cAWNkX5Am5",
+    "twitter": "etercube",
+    "youtube": "@etercube",
+    "tiktok": "@etercube"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#0090ff",
+    "secondary": "#FFFFFF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/etercube/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/etercube/background.png"
 }

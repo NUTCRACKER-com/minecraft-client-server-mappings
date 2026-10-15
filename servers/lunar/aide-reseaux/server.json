@@ -7,5 +7,32 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience survival gameplay on Aide Reseaux.",
+  "socials": {
+    "twitter": "AideReseaux",
+    "discord": "https://discord.gg/reseaux",
+    "youtube": "@AideReseaux",
+    "instagram": "aidereseaux",
+    "twitch": "aidereseaux",
+    "tiktok": "@aidereseaux"
+  },
+  "versions": [
+    "1.21.4"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#6CC349",
+    "secondary": "#01A8F4"
+  },
+  "video": "DVPvWcdp53I"
 }

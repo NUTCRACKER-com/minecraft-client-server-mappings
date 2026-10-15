@@ -8,5 +8,26 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play HCF and PvP on HCGames.",
+  "website": "http://hcgames.org/",
+  "store": "https://store.hcgames.org/",
+  "socials": {
+    "twitter": "HCGamesNetwork"
+  },
+  "versions": [
+    "1.20.*",
+    "1.19.*",
+    "1.18.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "gameTypes": [
+    "HCF",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#DD5353",
+    "secondary": "#FFFFFF"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hcgames/background.png"
 }

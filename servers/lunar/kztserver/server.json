@@ -8,5 +8,41 @@
     "PVP",
     "CREATIVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Japanese server where you can enjoy a variety of games",
+  "website": "https://site.kztmc.net/",
+  "store": "https://store.kztmc.net/",
+  "wiki": "https://wiki.kztmc.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/Qzv5qMy2Fd",
+    "youtube": "kztserver"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Creative"
+  ],
+  "colors": {
+    "primary": "#ffaa00",
+    "secondary": "#ffffff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kztserver/logo.png"
 }

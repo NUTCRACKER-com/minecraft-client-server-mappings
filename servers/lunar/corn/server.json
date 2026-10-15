@@ -8,5 +8,33 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Semi-Vanilla Fairplay With No Landclaims",
+  "website": "https://corn.gg",
+  "store": "https://svanilla-survival.tebex.io",
+  "socials": {
+    "discord": "https://discord.gg/NvU4ct757u"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#e7bf05",
+    "secondary": "#71a92c"
+  },
+  "compliance": {
+    "rules": "https://corn.gg/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/corn/logo.png"
 }

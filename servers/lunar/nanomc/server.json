@@ -8,5 +8,33 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival and PvP on NanoMC.",
+  "website": "https://nanomc.pl/",
+  "store": "https://nanomc.pl/#modes",
+  "socials": {
+    "discord": "https://discord.com/invite/eFbpaR9Dz8",
+    "youtube": "nanomc",
+    "instagram": "gmfeq",
+    "tiktok": "@nanomcpl"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#31caf3",
+    "secondary": "#d9dee2"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nanomc/background.png"
 }

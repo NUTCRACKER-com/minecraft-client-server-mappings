@@ -7,5 +7,37 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The benchmark for PvP 1.20",
+  "website": "https://www.gemoria.net",
+  "store": "https://store.gemoria.net",
+  "socials": {
+    "telegram": "gemoria_official",
+    "discord": "https://discord.com/invite/AZXqPFxZMh"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#822894",
+    "secondary": "#ffffff"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.gemoria.net/privacy",
+    "rules": "https://www.gemoria.net/regolamento"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gemoria/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gemoria/background.png"
 }

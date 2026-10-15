@@ -7,5 +7,33 @@
     "FACTIONS",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Factions and PvP on ChromePvP.",
+  "website": "https://chromepvp.fr/",
+  "store": "https://chromepvp.fr/shop",
+  "socials": {
+    "discord": "https://discord.gg/6AJKqX6MJX"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Factions",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#cfcfcf",
+    "secondary": "#434343"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/chromepvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/chromepvp/background.png"
 }

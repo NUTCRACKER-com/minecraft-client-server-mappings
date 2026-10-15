@@ -6,5 +6,31 @@
   "categories": [
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "HyplexMC is a server skyblock!",
+  "website": "https://www.hyplexmc.net",
+  "store": "https://store.hyplexmc.net",
+  "socials": {
+    "discord": "https://discord.gg/v8r6ChanPY",
+    "tiktok": "@hyplexofficialaccount"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#FFB000",
+    "secondary": "#FFDF29"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hyplexmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hyplexmc/background.png"
 }

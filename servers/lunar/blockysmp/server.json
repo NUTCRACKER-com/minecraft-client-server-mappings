@@ -8,5 +8,37 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A feature-packed economy SMP with custom features, PvP, and community events.",
+  "website": "https://blockysmp.net",
+  "store": "https://store.blockysmp.net",
+  "socials": {
+    "discord": "https://discord.gg/blockysmp",
+    "youtube": "@officialblockysmp",
+    "instagram": "officialblockysmp",
+    "tiktok": "@official_blockysmp"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#F4BE25",
+    "secondary": "#FF8000"
+  },
+  "compliance": {
+    "support": "https://discord.gg/blockysmp"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blockysmp/background.png"
 }

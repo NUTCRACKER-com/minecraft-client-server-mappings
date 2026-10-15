@@ -6,5 +6,39 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Server Vanilla Java & Bedrock",
+  "website": "https://minelands.xyz",
+  "socials": {
+    "discord": "https://discord.com/invite/PEemHmvSpq",
+    "telegram": "minelandsofficial",
+    "youtube": "@minelands8",
+    "instagram": "minelands.server"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#ffda33",
+    "secondary": "#2aaad1"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minelands/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minelands/background.png"
 }

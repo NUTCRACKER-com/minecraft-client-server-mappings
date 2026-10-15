@@ -7,5 +7,27 @@
     "PVP",
     "HCF"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft HCF & Other",
+  "socials": {
+    "discord": "https://discord.gg/dcB8dvaCUZ"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF"
+  ],
+  "colors": {
+    "primary": "#34bd34",
+    "secondary": "#17a417"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/galanthusmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/galanthusmc/background.png"
 }

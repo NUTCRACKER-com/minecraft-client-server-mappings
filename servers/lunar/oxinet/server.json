@@ -7,5 +7,33 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Belgian/EU Network: Bedwars, Survival & much more!",
+  "store": "https://oxinet.craftingstore.net",
+  "socials": {
+    "discord": "https://discord.gg/Tfg65f7N8k",
+    "tiktok": "@lotusbest",
+    "youtube": "@oxinet-mc",
+    "instagram": "oxinet.mc"
+  },
+  "versions": [
+    "1.21.10"
+  ],
+  "primaryVersion": "1.21.10",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#ffffff",
+    "secondary": "#004469"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/oxinet/logo.png"
 }

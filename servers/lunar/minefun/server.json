@@ -8,5 +8,31 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival and PvP on MineFun Network.",
+  "store": "https://tienda.minefun.net/",
+  "socials": {
+    "twitter": "ntminefun",
+    "discord": "https://discord.gg/minefun",
+    "tiktok": "@minefunnetwork"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.19.2",
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#6CF70C",
+    "secondary": "#0CF7F0"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minefun/background.png"
 }

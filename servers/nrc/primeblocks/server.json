@@ -9,5 +9,34 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://wiki.primeblocks.net",
+  "store": "https://store.primeblocks.net",
+  "socials": {
+    "discord": "https://discord.gg/primeblocks",
+    "youtube": "https://www.youtube.com/watch?v=eMDDvSUXZY8"
+  },
+  "gamemodes": {
+    "cb1": {
+      "name": "CB-1",
+      "versions": [
+        "1.20"
+      ],
+      "description": ""
+    },
+    "cb2": {
+      "name": "CB-2",
+      "versions": [
+        "1.20"
+      ],
+      "description": ""
+    },
+    "cb3": {
+      "name": "CB-3",
+      "versions": [
+        "1.20"
+      ],
+      "description": ""
+    }
+  }
 }

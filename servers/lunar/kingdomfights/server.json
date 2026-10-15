@@ -6,5 +6,38 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "KingdomFights, the best Events & War Simulation server in the Netherlands!",
+  "website": "https://shop.kingdomfights.nl/",
+  "socials": {
+    "discord": "https://discord.gg/wQK6bvRCEG",
+    "youtube": "@KingdomFights"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "nl",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#FFAA00",
+    "secondary": "#FFFF55"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kingdomfights/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kingdomfights/background.png"
 }

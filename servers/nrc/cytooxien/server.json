@@ -16,7 +16,97 @@
   "banner": "banner.png",
   "disabledModules": [
     "fovChanger",
-    "freelook"
+    "freelook",
+    "nameInfo"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "TNT_TIMER"
+  ],
+  "website": "https://www.cytooxien.de",
+  "store": "https://shop.cytooxien.de",
+  "socials": {
+    "x": "https://twitter.com/Cytooxien",
+    "discord": "https://cxn.link/discord",
+    "teamspeak": "https://ts.cytooxien.de"
+  },
+  "gamemodes": {
+    "onlyup": {
+      "name": "Only Up!",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "skyblock": {
+      "name": "Skyblock",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "realms": {
+      "name": "Realms",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "minecraftparty": {
+      "name": "Minecraft Party",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "timejump": {
+      "name": "Timejump",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "smash": {
+      "name": "Smash",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "bedwars": {
+      "name": "Bedwars",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "ultimateknockout": {
+      "name": "Ultimate Knockout",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "creative": {
+      "name": "Creative",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "cactustycoon": {
+      "name": "Cactus Tycoon",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "randomitembattle": {
+      "name": "Random Item Battle",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    }
+  }
 }

@@ -8,5 +8,44 @@
     "PARKOUR",
     "FACTIONS"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Parkour, and more on Bloster Network.",
+  "store": "https://bloster.tebex.io",
+  "socials": {
+    "twitter": "blosternetwork",
+    "tiktok": "@blosternetwork",
+    "discord": "https://discord.com/invite/TcMmjfYvbG"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Parkour",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#FF0000",
+    "secondary": "#FF9100"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bloster/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bloster/background.png"
 }

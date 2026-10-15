@@ -7,5 +7,35 @@
     "PVE",
     "ROLEPLAY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A roleplay server full of cool adventures",
+  "store": "https://cinderole.tebex.io",
+  "socials": {
+    "discord": "https://discord.gg/UUFenb557J"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvE",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#a04fd6",
+    "secondary": "#d565f7"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cinderole/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cinderole/background.png"
 }

@@ -9,5 +9,46 @@
     "PVP",
     "PARKOUR"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play unique minigames from Noxcrew's popular MC Championship event for FREE!",
+  "website": "https://mccisland.net/",
+  "store": "https://store.mccisland.net/",
+  "socials": {
+    "twitter": "mccisland_",
+    "discord": "https://discord.com/invite/mcc",
+    "youtube": "Noxcrew",
+    "instagram": "mccisland",
+    "reddit": "mccisland",
+    "tiktok": "@mcchampionship_"
+  },
+  "versions": [
+    "1.21.4",
+    "1.21.5",
+    "1.21.6",
+    "1.21.7",
+    "1.21.8",
+    "1.21.9"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Parkour"
+  ],
+  "colors": {
+    "primary": "#f9e28b",
+    "secondary": "#15ddfd"
+  },
+  "compliance": {
+    "privacyPolicy": "https://noxcrew.com/privacy-notice",
+    "termsOfService": "https://noxcrew.com/terms-of-service",
+    "rules": "https://mcchampionship.com/help/rules/",
+    "support": "https://support.mccisland.net"
+  },
+  "video": "7c1zWQoitig",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mccisland/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mccisland/background.png"
 }

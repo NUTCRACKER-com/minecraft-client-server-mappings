@@ -8,5 +8,33 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "French anarchy SMP with pumpkin gardens, casino, crates and events.",
+  "website": "https://kazusmp.fr",
+  "store": "https://kazusmp.fr/#boutique",
+  "socials": {
+    "discord": "https://discord.gg/kazusmp"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Anarchy",
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#E67E22",
+    "secondary": "#131F3B"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kazusmp/logo.png"
 }

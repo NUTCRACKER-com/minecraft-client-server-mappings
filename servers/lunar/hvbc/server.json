@@ -6,5 +6,29 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A practice server for legit players",
+  "socials": {
+    "discord": "https://discord.gg/hvbc"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.7.10",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#001FFF",
+    "secondary": "#000000"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hvbc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hvbc/background.png"
 }

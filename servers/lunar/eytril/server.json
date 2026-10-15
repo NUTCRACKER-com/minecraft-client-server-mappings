@@ -7,5 +7,29 @@
     "PVP",
     "HCF"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and HCF on Eytril.",
+  "website": "https://eytril.org/",
+  "socials": {
+    "twitter": "EytrilMC",
+    "discord": "https://discord.com/invite/rbNJ7sKyEP"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF"
+  ],
+  "colors": {
+    "primary": "#FF55FF",
+    "secondary": "#AA00AA"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/eytril/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/eytril/background.png"
 }

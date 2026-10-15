@@ -7,5 +7,40 @@
     "SURVIVAL",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Are you looking for paradise to play? You've found the right place!",
+  "store": "https://store.paradisegaming.it/",
+  "socials": {
+    "telegram": "paradisegamingcommunity",
+    "discord": "https://discord.com/invite/paradise-gaming-2k-758059663714418698",
+    "instagram": "mc.paradisegaming.it",
+    "tiktok": "@mc.paradisegaming.it"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#ff0000",
+    "secondary": "#ffffff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/paradisegaming/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/paradisegaming/background.png"
 }

@@ -8,5 +8,30 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Skyblock and PvP on CraftLime.",
+  "website": "https://craftlime.net/",
+  "store": "https://craftlime.net/giris-yap?redirect=/sepet",
+  "socials": {
+    "discord": "https://discord.com/invite/lime",
+    "youtube": "CraftLimeN",
+    "instagram": "craftlimenw"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*"
+  ],
+  "primaryVersion": "1.16.5",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ffcc00",
+    "secondary": "#333333"
+  }
 }

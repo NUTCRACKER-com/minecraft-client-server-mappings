@@ -6,5 +6,24 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience survival gameplay on lovvermc.",
+  "store": "https://lovver.tebex.io/",
+  "versions": [
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.6",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#ff4c46",
+    "secondary": "#ff46c1"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lovver/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lovver/background.png"
 }

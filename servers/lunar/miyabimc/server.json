@@ -7,5 +7,28 @@
     "PVP",
     "UHC"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Miyabimc is a japanese pvp server",
+  "socials": {
+    "discord": "https://discord.gg/aHdjnxRpaw",
+    "twitter": "onudonn",
+    "youtube": "@onudon"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#65318e",
+    "secondary": "#ffffff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/miyabimc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/miyabimc/background.png"
 }

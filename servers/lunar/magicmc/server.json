@@ -7,5 +7,32 @@
     "PVP",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and PvE on MagicMC Network.",
+  "socials": {
+    "discord": "https://discord.gg/magicmc"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.19",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#9D46DC",
+    "secondary": "#C985FC"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/magicmc/logo.png"
 }

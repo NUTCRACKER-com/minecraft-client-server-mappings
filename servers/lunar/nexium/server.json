@@ -7,5 +7,27 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Join now on nexium.it",
+  "website": "https://www.nexium.it",
+  "store": "https://store.nexium.it",
+  "versions": [
+    "1.21.1",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#5454FC",
+    "secondary": "#3232C9"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nexium/background.png"
 }

@@ -8,5 +8,39 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft server network supporting versions 1.8 - 1.21.",
+  "website": "https://craftmc.pl/index.php/",
+  "store": "https://craftmc.pl/index.php/page/index/Patnoci",
+  "socials": {
+    "discord": "https://discord.com/invite/CSpsZbX",
+    "youtube": "kawa_1996",
+    "facebook": "CraftPLMC"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#ffd541",
+    "secondary": "#efeff0"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/craftmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/craftmc/background.png"
 }

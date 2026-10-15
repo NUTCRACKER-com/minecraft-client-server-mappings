@@ -8,5 +8,37 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play HCF, PvP, and more on Clunith Nodes.",
+  "store": "https://store.clunith.com/",
+  "socials": {
+    "twitter": "ClunithShop",
+    "discord": "https://discord.gg/PAuR3ASNdq"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "HCF",
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#43f1f6",
+    "secondary": "#dc7eed"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/clunith/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/clunith/background.png"
 }

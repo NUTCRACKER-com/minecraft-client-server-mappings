@@ -6,5 +6,34 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience survival gameplay on ForgeMC.",
+  "website": "https://www.forgemc.org/",
+  "store": "https://store.forgemc.org/",
+  "socials": {
+    "discord": "https://discord.com/invite/forgemc",
+    "youtube": "@ForgeMC"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#74d4d8",
+    "secondary": "#de82fa"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/forgemc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/forgemc/background.png"
 }

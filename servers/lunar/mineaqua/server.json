@@ -10,5 +10,51 @@
     "SKYBLOCK",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Premium experience for everyone!",
+  "website": "https://mineaqua.net/",
+  "store": "https://tienda.mineaqua.net/",
+  "wiki": "https://mineaqua.net/foro/",
+  "socials": {
+    "twitter": "MineAquaNetwork",
+    "discord": "https://discord.gg/XvemNRr",
+    "youtube": "mineaquanet",
+    "instagram": "mineaquanetwork",
+    "tiktok": "@mineaquanetwork"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#2196f3",
+    "secondary": "#2F63AB"
+  },
+  "compliance": {
+    "privacyPolicy": "https://mineaqua.net/privacy",
+    "termsOfService": "https://mineaqua.net/terms",
+    "rules": "https://mineaqua.net/reglas",
+    "support": "https://mineaqua.net/soporte"
+  },
+  "video": "GIPEhBajR6E",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mineaqua/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mineaqua/banner.gif"
 }

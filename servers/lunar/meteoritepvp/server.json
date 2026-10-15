@@ -8,5 +8,26 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "One of the best quality factions server!",
+  "store": "https://buy.meteoritepvp.com/",
+  "socials": {
+    "discord": "https://discord.gg/hmmRFRyRY3"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Factions",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#00ffff",
+    "secondary": "#ffd700"
+  }
 }

@@ -10,5 +10,50 @@
     "MINIGAMES",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A new era of Minecraft minigames",
+  "website": "https://www.laels.club",
+  "store": "https://loja.laels.club",
+  "socials": {
+    "twitter": "laelsclub",
+    "discord": "https://discord.gg/sGB3brndzj",
+    "youtube": "@laelsclub",
+    "instagram": "laels.club",
+    "tiktok": "@laelsclub"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "pt-BR",
+    "pt-PT"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#4B32D7",
+    "secondary": "#005CB3"
+  },
+  "compliance": {
+    "privacyPolicy": "https://laels.club/privacy",
+    "termsOfService": "https://laels.club/terms",
+    "rules": "https://laels.club/regras"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/laels/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/laels/background.png"
 }

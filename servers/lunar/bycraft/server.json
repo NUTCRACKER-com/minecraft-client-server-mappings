@@ -8,5 +8,35 @@
     "SKYBLOCK",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Skyblock, and more on ByCraft Network.",
+  "store": "https://tienda.bycraft.net/",
+  "socials": {
+    "discord": "https://discord.gg/bycraft-network-866746377651748865",
+    "youtube": "bycraftnetwork",
+    "tiktok": "@bycraft_network"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ffffff",
+    "secondary": "#18FFEA"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bycraft/logo.png"
 }

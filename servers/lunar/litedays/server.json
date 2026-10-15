@@ -9,5 +9,40 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A bunch of fun gamemodes to enjoy",
+  "website": "https://litedays.net/",
+  "store": "https://litedays.net/#shop",
+  "socials": {
+    "discord": "https://discord.com/invite/Xm3ydXMcpZ",
+    "telegram": "litedays_project"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#FFAC00",
+    "secondary": "#FFCF00"
+  },
+  "compliance": {
+    "rules": "https://docs.google.com/document/d/1KmtMEP9WYZ0RdHk_Cn4-NnkV4VVQkI07JYE_y9icSng/",
+    "support": "https://litedays.net/help"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/litedays/logo.png"
 }

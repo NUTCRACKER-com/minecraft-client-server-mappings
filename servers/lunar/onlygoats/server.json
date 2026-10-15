@@ -7,5 +7,23 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play exciting minigames on OnlyGoats.",
+  "socials": {
+    "discord": "https://discord.gg/wUEDnWdGjk"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#a6050d",
+    "secondary": "#2007e3"
+  }
 }

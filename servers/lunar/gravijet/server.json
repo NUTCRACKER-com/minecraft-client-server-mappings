@@ -7,5 +7,44 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Practice, Fastbuilder, CrystalFFA, LetsKnock, etc.",
+  "website": "https://gravijet.net/",
+  "store": "https://store.gravijet.net",
+  "socials": {
+    "discord": "https://discord.com/invite/pWphUWy9mJ",
+    "youtube": "@gravijet"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA",
+    "EU",
+    "AS",
+    "AF",
+    "OC",
+    "SA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#2aff00",
+    "secondary": "#024bff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gravijet/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gravijet/banner.png"
 }

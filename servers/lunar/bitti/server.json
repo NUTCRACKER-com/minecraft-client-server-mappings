@@ -9,5 +9,32 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Versatile Finnish minigame server.",
+  "website": "https://b1tti.fi",
+  "store": "https://kauppa.b1tti.fi",
+  "socials": {
+    "discord": "https://discord.com/invite/SFPPAJqK2V",
+    "youtube": "bitpixls"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Creative",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#f23f32",
+    "secondary": "#fba700"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bitti/banner.gif"
 }

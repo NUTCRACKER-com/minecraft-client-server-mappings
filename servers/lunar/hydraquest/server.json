@@ -8,5 +8,33 @@
     "SURVIVAL",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "HydraQuest is a network of fun servers to play!",
+  "store": "https://store.hydraquest.net/",
+  "socials": {
+    "discord": "https://discord.gg/86FAdxH3pE"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#FF4900",
+    "secondary": "#FFB293"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hydraquest/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hydraquest/banner.png"
 }

@@ -8,5 +8,44 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "OP Factions and Survival built for 1.8 PvP. Raid, cannon, conquer.",
+  "website": "https://blockademc.org",
+  "store": "https://blockademc.org/store",
+  "socials": {
+    "discord": "https://discord.gg/gZN8dfwTUz"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Factions",
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#003ffb",
+    "secondary": "#ffffff"
+  },
+  "compliance": {
+    "rules": "https://blockademc.org/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blockademc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blockademc/background.png"
 }

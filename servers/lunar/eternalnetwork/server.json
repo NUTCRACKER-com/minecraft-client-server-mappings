@@ -6,5 +6,31 @@
   "categories": [
     "PRISON"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "OP Prison with deep progression, custom enchants, and a unique feel.",
+  "website": "https://eternalnetwork.club/",
+  "store": "https://store.eternalnetwork.club/",
+  "socials": {
+    "discord": "https://discord.gg/eternalnetwork"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#FFAA00",
+    "secondary": "#55FF55"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/eternalnetwork/logo.png"
 }

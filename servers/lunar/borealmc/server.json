@@ -7,5 +7,29 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Test your combat skills on BorealMC.",
+  "store": "https://store.borealmc.club/",
+  "socials": {
+    "discord": "https://discord.com/invite/borealmc"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#a0cbfe",
+    "secondary": "#091a32"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/borealmc/logo.png"
 }

@@ -7,5 +7,28 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience survival gameplay on KarmelMC.pl.",
+  "website": "https://karmelmc.pl/",
+  "socials": {
+    "instagram": "karmelmcpl",
+    "youtube": "@karmelmcpl",
+    "tiktok": "@karmelmcpl",
+    "discord": "https://discord.gg/aqxfaqjRnS"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.3",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#FFA751",
+    "secondary": "#FFE259"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/karmelmcpl/background.png"
 }

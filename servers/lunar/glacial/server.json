@@ -7,5 +7,27 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "We're your home with multiple gamemodes!",
+  "store": "https://store.glacial.cc/",
+  "socials": {
+    "twitter": "GlacialDotCC",
+    "discord": "https://discord.gg/glacialdotcc"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#8c03c2",
+    "secondary": "#ff00f2"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/glacial/background.png"
 }

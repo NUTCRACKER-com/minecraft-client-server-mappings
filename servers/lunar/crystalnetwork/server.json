@@ -9,5 +9,35 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The ultimate cannoning server for Minecraft Factions.",
+  "store": "https://store.crystaldev.co/",
+  "socials": {
+    "discord": "https://discord.com/invite/KwENm47jnG"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Creative",
+    "Factions",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#72f17a",
+    "secondary": "#3c88f0"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/crystalnetwork/background.png"
 }

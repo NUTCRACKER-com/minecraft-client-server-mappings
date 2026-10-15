@@ -6,5 +6,36 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Quality SMP Server since 2022",
+  "website": "https://cytonetwork.net",
+  "store": "https://store.cytonetwork.net",
+  "socials": {
+    "twitter": "CytoNetwork",
+    "discord": "https://discord.gg/PjnHUMkqBM"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.3",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#1f57f8",
+    "secondary": "#01bdfa"
+  },
+  "compliance": {
+    "privacyPolicy": "https://cytonetwork.net/help/privacy-policy",
+    "termsOfService": "https://cytonetwork.net/help/terms",
+    "rules": "https://cytonetwork.net/threads/rules-information.68"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cytonetwork/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cytonetwork/background.png"
 }

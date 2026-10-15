@@ -9,5 +9,36 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Join 360,000+ players on Darkup.cz! Best CZ/SK Minecraft server for PC.",
+  "website": "https://darkup.cz/",
+  "store": "https://darkup.cz/obchod",
+  "socials": {
+    "discord": "https://discord.com/invite/UjDGaTm7yp",
+    "instagram": "darkup.cz",
+    "tiktok": "@darkup.cz",
+    "facebook": "darkup.cz"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#00c6ff",
+    "secondary": "#007cff"
+  }
 }

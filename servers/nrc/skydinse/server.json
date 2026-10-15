@@ -9,5 +9,10 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://www.skydinse.net/de",
+  "store": "https://www.skydinse.net/de/store",
+  "socials": {
+    "discord": "https://discord.gg/xjNeech4pN"
+  }
 }

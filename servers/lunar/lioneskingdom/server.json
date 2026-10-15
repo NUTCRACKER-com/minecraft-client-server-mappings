@@ -9,5 +9,42 @@
     "FACTIONS"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Come enjoy with us!",
+  "store": "https://tienda.lioneskingdom.net",
+  "socials": {
+    "twitter": "lioneskingdomnetwork",
+    "tiktok": "@lioneskingdomnetwork",
+    "discord": "https://discord.gg/tzHPTTYfht"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#ffdf14",
+    "secondary": "#b69665"
+  }
 }

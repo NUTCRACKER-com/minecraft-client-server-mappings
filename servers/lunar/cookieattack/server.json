@@ -8,5 +8,33 @@
     "OPENWORLD",
     "ROLEPLAY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "German SMP Server with special Features!",
+  "website": "https://www.cookieattack.de",
+  "socials": {
+    "twitter": "CookieTeamCA",
+    "discord": "https://discord.com/invite/NEJVfUG3Sy",
+    "youtube": "@cookieteamca",
+    "instagram": "cookie.teamca"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "de"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Open World",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#fda929",
+    "secondary": "#000000"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cookieattack/logo.png"
 }

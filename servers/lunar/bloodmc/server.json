@@ -8,5 +8,33 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Roleplay, PvP and Survival on BloodMC.",
+  "socials": {
+    "discord": "https://discord.gg/KdTWg8DU9Y"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "Roleplay",
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#ff0000",
+    "secondary": "#000000"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bloodmc/logo.png"
 }

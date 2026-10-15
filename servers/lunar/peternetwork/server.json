@@ -10,5 +10,41 @@
     "SURVIVAL",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Explore Olympus: the battleground for champions on Java and Bedrock.",
+  "website": "https://www.olympusmc.it/",
+  "store": "https://store.olympusmc.it/",
+  "socials": {
+    "discord": "https://discord.com/invite/GnCqFqCsjj",
+    "instagram": "olympusmc_",
+    "twitch": "tvpeter",
+    "telegram": "olympusmc_network",
+    "tiktok": "@tvpeterr"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#f8dd01",
+    "secondary": "#ffffff"
+  },
+  "video": "M6B3AjzW0tc",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/peternetwork/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/peternetwork/background.png"
 }

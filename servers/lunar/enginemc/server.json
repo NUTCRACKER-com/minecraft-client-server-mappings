@@ -8,5 +8,34 @@
     "SURVIVAL",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Italian network with Cobblemon, Survival and Minigames",
+  "website": "https://www.enginemc.net",
+  "store": "https://store.enginemc.net",
+  "socials": {
+    "discord": "https://discord.gg/ZRuDMs6HKR"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Cobblemon",
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#7ac70c",
+    "secondary": "#1e6fd9"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/enginemc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/enginemc/background.png"
 }

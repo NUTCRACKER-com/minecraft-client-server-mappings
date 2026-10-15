@@ -7,5 +7,31 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The best earthsmp server!",
+  "store": "https://sklep.cubicmc.pl",
+  "socials": {
+    "discord": "https://discord.com/invite/jBD6VhGz5t"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#fc03ad",
+    "secondary": "#ffffff"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cubicmc/background.png"
 }

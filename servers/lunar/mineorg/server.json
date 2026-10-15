@@ -8,5 +8,23 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "MineOrg is a Minecraft mini-game server.",
+  "website": "https://mineorg.fr",
+  "versions": [
+    "1.8.9"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#00BFFF",
+    "secondary": "#0000FF"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mineorg/background.png"
 }

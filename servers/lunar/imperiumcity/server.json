@@ -8,5 +8,33 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Italian server based on the Imperial-themed pvp.",
+  "store": "https://store.imperiumcity.it/",
+  "socials": {
+    "discord": "https://discord.gg/yKSt2JSa3W",
+    "telegram": "ImperiumCity"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.16.5",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#BB0606",
+    "secondary": "#F0B115"
+  }
 }

@@ -10,5 +10,36 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play SMP, minigames and more on MortalMC.",
+  "website": "https://mortalmc.org/",
+  "store": "https://store.mortalmc.org/",
+  "socials": {
+    "twitter": "MortalMC_ORG",
+    "discord": "https://discord.gg/BduxskgaWW",
+    "youtube": "MortalMCServer"
+  },
+  "versions": [
+    "26.2",
+    "26.1.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Survival",
+    "Skyblock",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#f02c16",
+    "secondary": "#782723"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mortalmc/background.png"
 }

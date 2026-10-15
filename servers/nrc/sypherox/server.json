@@ -10,5 +10,38 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "HEALTH_INDICATORS"
+  ],
+  "website": "https://sypherox.dev",
+  "socials": {
+    "discord": "https://discord.gg/aG4QYP8u5p"
+  },
+  "gamemodes": {
+    "syphismp": {
+      "name": "Syphi SMP",
+      "versions": [
+        "26.3<*"
+      ],
+      "description": ""
+    },
+    "skywarsffa": {
+      "name": "SkyWars FFA",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "duels": {
+      "name": "Duels",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    }
+  },
+  "disabledModules": [
+    "nameInfo"
+  ]
 }

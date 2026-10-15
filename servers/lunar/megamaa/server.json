@@ -9,5 +9,33 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "MegaGreat experiences at MegaMaa!",
+  "website": "https://megamaa.com",
+  "socials": {
+    "youtube": "MegaMaaMC",
+    "discord": "https://discord.com/invite/mp6XzgmMwg",
+    "twitter": "MegaMaa",
+    "tiktok": "@megamaamc"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Parkour",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#35FF58",
+    "secondary": "#F6FF35"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/megamaa/background.png"
 }

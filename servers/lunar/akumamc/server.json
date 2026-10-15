@@ -9,5 +9,43 @@
     "SKYBLOCK",
     "CASUAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Java and Bedrock compatible server with OP Prison and Skyblock gamemodes",
+  "website": "https://akumamc.net/",
+  "store": "https://store.akumamc.net/",
+  "socials": {
+    "twitter": "AkumaMC_Net",
+    "discord": "https://discord.gg/akumamc",
+    "youtube": "@AkumaMCNet"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.5",
+  "regions": [
+    "AF",
+    "AS",
+    "EU",
+    "NA",
+    "OC",
+    "SA"
+  ],
+  "gameTypes": [
+    "Prison",
+    "Skyblock",
+    "Casual"
+  ],
+  "colors": {
+    "primary": "#ffbc28",
+    "secondary": "#80573c"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/akumamc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/akumamc/background.png"
 }

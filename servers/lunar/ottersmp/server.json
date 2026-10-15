@@ -9,5 +9,44 @@
     "PVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The pinnacle of SMP content",
+  "website": "https://www.ottersmp.com",
+  "store": "https://store.ottersmp.com",
+  "wiki": "https://wiki.ottersmp.com",
+  "socials": {
+    "twitch": "jazmine_mc_06",
+    "youtube": "@jazmine_13",
+    "discord": "https://discord.com/invite/ottersmp"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Roleplay",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#FE9957",
+    "secondary": "#A34837"
+  },
+  "compliance": {
+    "privacyPolicy": "https://store.ottersmp.com/tebex-privacy",
+    "termsOfService": "https://store.ottersmp.com/terms",
+    "rules": "https://ottersmp.com/axolotlsmp-rules/"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/ottersmp/banner.gif"
 }

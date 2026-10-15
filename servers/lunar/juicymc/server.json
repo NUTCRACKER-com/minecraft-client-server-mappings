@@ -6,5 +6,30 @@
   "categories": [
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Welcome to JuicyMC, the ultimate Skyblock x Generator tycoon server!",
+  "store": "https://store.juicymc.net/",
+  "socials": {
+    "discord": "https://discord.gg/53FruSEyy4"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#FCA800",
+    "secondary": "#FCFC54"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/juicymc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/juicymc/background.png"
 }

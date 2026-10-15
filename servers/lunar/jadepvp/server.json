@@ -9,5 +9,30 @@
     "UHC"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Home of Minecraft Hardcore Factions",
+  "socials": {
+    "discord": "https://discord.gg/R8TNfawUMn"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#e67e26",
+    "secondary": "#fff000"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/jadepvp/background.png"
 }

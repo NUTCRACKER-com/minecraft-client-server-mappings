@@ -7,5 +7,25 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience survival gameplay on ChillSMP.",
+  "store": "https://shop.chillsmp.org/",
+  "socials": {
+    "discord": "https://discord.com/invite/npYxzyrEUV"
+  },
+  "versions": [
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#2495e9",
+    "secondary": "#a6c9e0"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/chillsmp/background.png"
 }

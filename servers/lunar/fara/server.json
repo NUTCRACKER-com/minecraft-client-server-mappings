@@ -8,5 +8,38 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The next generation of Minecraft Minigames.",
+  "website": "https://faramc.uk",
+  "store": "https://store.faramc.uk",
+  "socials": {
+    "twitter": "FaraMCX",
+    "youtube": "FaraMCYT",
+    "discord": "https://www.discord.com/invite/2H5Z66StvM"
+  },
+  "versions": [
+    "1.8.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#800080",
+    "secondary": "#6a5acd"
+  },
+  "compliance": {
+    "privacyPolicy": "https://faramc.uk/privacy",
+    "termsOfService": "https://faramc.uk/terms",
+    "rules": "https://faramc.uk/rules"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fara/background.png"
 }

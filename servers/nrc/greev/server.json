@@ -13,5 +13,217 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://greev.eu",
+  "socials": {
+    "x": "https://x.com/greeveu",
+    "instagram": "https://instgram.com/greev.eu",
+    "discord": "https://discord.com/invite/taAbPpq",
+    "teamspeak": "ts3://ts.greev.eu"
+  },
+  "gamemodes": {
+    "clutch": {
+      "name": "Clutch",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "fastbridge": {
+      "name": "FastBridge",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "freebuild": {
+      "name": "Freebuild",
+      "versions": [
+        ">1.21.4"
+      ],
+      "description": ""
+    },
+    "knockpvp": {
+      "name": "KnockPVP",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "knockpvp-lab": {
+      "name": "KnockPVP Lab",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "minesweeper": {
+      "name": "Minesweeper",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "MLGRush": {
+      "name": "MLGRush",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "plotworld": {
+      "name": "PlotWorld",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "plotworldnew": {
+      "name": "PlotWorld 1.21",
+      "versions": [
+        ">1.21.4"
+      ],
+      "description": ""
+    },
+    "reduce": {
+      "name": "Reduce",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "1vs1": {
+      "name": "1vs1",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "bowspleef": {
+      "name": "BowSpleef",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "cores": {
+      "name": "Cores",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "cwduel": {
+      "name": "CWDuel",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "jumpleague": {
+      "name": "JumpLeague",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "luckyblockbattle": {
+      "name": "LuckyBlockBattle",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "mazesg": {
+      "name": "MazeSG",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "mlgrush": {
+      "name": "MLGRush",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "murder": {
+      "name": "Murder",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "oneline": {
+      "name": "Oneline",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "qsg": {
+      "name": "QSG",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "quake": {
+      "name": "Quake",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "rush": {
+      "name": "Rush",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "spleef": {
+      "name": "Spleef",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "sumo": {
+      "name": "Sumo",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "tntrun": {
+      "name": "TNTRun",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    },
+    "voelkerball": {
+      "name": "Völkerball",
+      "versions": [
+        ">1.8.9"
+      ],
+      "description": ""
+    }
+  }
 }

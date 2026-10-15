@@ -6,5 +6,35 @@
   "categories": [
     "PRISON"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Where the legends of OP Prison and Gens are born",
+  "website": "https://oplegends.com/",
+  "store": "https://store.oplegends.com/",
+  "socials": {
+    "twitter": "OPLegendsMC",
+    "discord": "https://discord.com/invite/oplegends"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.6",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#e3c285",
+    "secondary": "#e52b36"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/oplegends/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/oplegends/background.png"
 }

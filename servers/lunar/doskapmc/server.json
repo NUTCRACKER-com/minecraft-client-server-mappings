@@ -10,5 +10,41 @@
     "SURVIVAL",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Bring fun and stay connected with your friends!",
+  "website": "https://www.doskapmc.web.id/",
+  "store": "https://www.doskapmc.web.id/donate",
+  "socials": {
+    "discord": "https://discord.gg/doskapmc",
+    "tiktok": "@doscaffgm",
+    "instagram": "doscaff.gm",
+    "youtube": "doskapmc"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#FF55FF",
+    "secondary": "#AA00AA"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/doskapmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/doskapmc/banner.gif"
 }

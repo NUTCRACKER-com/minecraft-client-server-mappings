@@ -7,5 +7,34 @@
     "HCF",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive HCF Server",
+  "website": "https://www.leashpvp.net",
+  "store": "https://store.leashpvp.net",
+  "socials": {
+    "twitter": "LeashPvP",
+    "discord": "https://discord.gg/tuBVjPtjAB"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "HCF",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#00F0FF",
+    "secondary": "#09D3C3"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/leashpvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/leashpvp/background.png"
 }

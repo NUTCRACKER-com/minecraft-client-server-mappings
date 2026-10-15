@@ -9,5 +9,34 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "HEALTH_INDICATORS"
+  ],
+  "gamemodes": {
+    "duels": {
+      "name": "Duels",
+      "versions": [
+        "1.21.4 - 1.21.11"
+      ],
+      "description": "Spiel gegen Personen entweder Unranked oder mit ELO mit HugoSMP Kits"
+    },
+    "swordffa": {
+      "name": "SwordFFA",
+      "versions": [
+        "1.21.4 - 1.21.11"
+      ],
+      "description": "Klassisches SwordFFA"
+    },
+    "caveffa": {
+      "name": "CaveFFA",
+      "versions": [
+        "1.21.4 - 1.21.11"
+      ],
+      "description": "Erstell ein eigenes Kit und Fighte in einer Arena"
+    }
+  },
+  "disabledModules": [
+    "nameInfo"
+  ]
 }

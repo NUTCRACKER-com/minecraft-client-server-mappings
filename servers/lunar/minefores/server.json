@@ -8,5 +8,32 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A premium experience totally free of charge",
+  "website": "https://minefores.com/",
+  "store": "https://store.minefores.com/",
+  "socials": {
+    "twitter": "Minefores",
+    "discord": "https://discord.com/invite/4rW3xwMQKF",
+    "youtube": "mineforesnetwork"
+  },
+  "versions": [
+    "1.21.1"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ff8833",
+    "secondary": "#ffffff"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minefores/background.png"
 }

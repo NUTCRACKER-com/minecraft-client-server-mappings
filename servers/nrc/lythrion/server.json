@@ -10,5 +10,25 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://lythrion.net/",
+  "socials": {
+    "discord": "https://discord.gg/akM4pUPycV"
+  },
+  "gamemodes": {
+    "Citybuild": {
+      "name": "CITYBUILD RPG",
+      "versions": [
+        "1.21 -> 1.21.1"
+      ],
+      "description": "Experience an island with an abundance of RPG elements"
+    },
+    "Survival": {
+      "name": "RPG",
+      "versions": [
+        "1.21 ->"
+      ],
+      "description": "Experience rich RPG gameplay"
+    }
+  }
 }

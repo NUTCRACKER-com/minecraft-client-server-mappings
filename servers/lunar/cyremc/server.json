@@ -8,5 +8,37 @@
     "UHC",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A competitive PvP server striving to give the best player experience possible.",
+  "website": "https://www.cyremc.us/",
+  "store": "https://store.cyremc.us/",
+  "socials": {
+    "discord": "https://discord.gg/XRn2AbW6SM"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "HCF",
+    "UHC",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#dedede",
+    "secondary": "#1c44b4"
+  },
+  "compliance": {
+    "rules": "https://www.cyremc.us/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cyremc/logo.png"
 }

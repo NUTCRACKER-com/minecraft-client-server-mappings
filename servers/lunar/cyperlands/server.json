@@ -9,5 +9,36 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Cyperlands is THE Survival Minecraft server that will never disappoint you.",
+  "website": "https://www.cyperlands.net",
+  "store": "https://shop.cyperlands.net",
+  "socials": {
+    "discord": "https://discord.gg/cyperlands"
+  },
+  "versions": [
+    "1.21.*",
+    "1.20.*",
+    "1.19.*",
+    "1.18.*",
+    "1.17.*",
+    "1.16.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "AS",
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#44a1e3",
+    "secondary": "#9ee3ff"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cyperlands/background.png"
 }

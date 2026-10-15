@@ -8,5 +8,27 @@
     "PRISON",
     "CREATIVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "LOKAPSOS | Your community!",
+  "store": "https://store.lokapsos.es",
+  "socials": {
+    "twitter": "mclokapsos",
+    "discord": "https://discord.gg/lokapsos-network-discord-oficial-472153211613216778"
+  },
+  "versions": [
+    "1.8.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "Survival",
+    "Prison",
+    "Creative"
+  ],
+  "colors": {
+    "primary": "#FF55FF",
+    "secondary": "#55FF55"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lokapsos/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lokapsos/background.png"
 }

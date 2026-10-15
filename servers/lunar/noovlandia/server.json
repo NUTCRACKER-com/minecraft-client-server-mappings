@@ -8,5 +8,41 @@
     "PVE",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Explore our awesome worlds and get cool new adventures",
+  "store": "https://noovlandia.tebex.io",
+  "socials": {
+    "discord": "https://discord.gg/8QujueGCa8"
+  },
+  "versions": [
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "PvE",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#778dfd",
+    "secondary": "#111424"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/noovlandia/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/noovlandia/background.png"
 }

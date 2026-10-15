@@ -7,5 +7,32 @@
     "MINIGAMES",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames and PvP on LunaMC.",
+  "website": "https://lunamc.ir/",
+  "store": "https://store.lunamc.ir/",
+  "socials": {
+    "discord": "https://discord.gg/GTJUGeTX6v",
+    "youtube": "@Luna.Network"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#1fbede",
+    "secondary": "#fcf4eb"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lunamcir/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lunamcir/background.png"
 }

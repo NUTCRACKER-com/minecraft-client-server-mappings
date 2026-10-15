@@ -7,5 +7,27 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Spanish-speaking Minecraft network focused on Survival OP, PvP",
+  "store": "https://tienda.bearcraft.es/",
+  "socials": {
+    "discord": "https://discord.gg/bearcraft",
+    "tiktok": "@bearcraft"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "SA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#1A1A1A"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bearcraft/logo.png"
 }

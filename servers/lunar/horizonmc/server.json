@@ -7,5 +7,23 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Hungary's best minecraft server!",
+  "versions": [
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#B148FA",
+    "secondary": "#8639FF"
+  }
 }

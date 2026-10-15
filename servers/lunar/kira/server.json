@@ -8,5 +8,29 @@
     "HCF"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive PvP network striving to be the best",
+  "store": "https://store.kiramc.com",
+  "socials": {
+    "twitter": "KiraHCF",
+    "discord": "https://discord.com/invite/6ThCzSpVMe"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF"
+  ],
+  "colors": {
+    "primary": "#5f45d3",
+    "secondary": "#3f3957"
+  }
 }

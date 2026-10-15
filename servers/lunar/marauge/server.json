@@ -7,5 +7,34 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "1.26.3 Duels network!",
+  "website": "https://marauge.net/",
+  "store": "https://store.marauge.net/",
+  "socials": {
+    "twitter": "maraugenet",
+    "discord": "https://discord.gg/Marauge"
+  },
+  "versions": [
+    "26.3",
+    "26.2",
+    "26.1.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "26.3",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#FF3B5C",
+    "secondary": "#FF8A2A"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/marauge/logo.png"
 }

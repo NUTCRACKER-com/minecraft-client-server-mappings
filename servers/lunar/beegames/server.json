@@ -9,5 +9,36 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Creative, and more on BeeGames.",
+  "website": "https://www.beegames.eu/",
+  "store": "https://store.beegames.eu/",
+  "socials": {
+    "discord": "https://discord.com/invite/NEEN8MkUr4",
+    "instagram": "beegames.eu",
+    "tiktok": "@beegames.eu",
+    "facebook": "beegames.eu"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Creative",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#e27720",
+    "secondary": "#232323"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/beegames/background.png"
 }

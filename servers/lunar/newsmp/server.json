@@ -6,5 +6,32 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "NewSMP is a public SMP open to everyone, the actual season is v4.5",
+  "website": "https://newsmp.fr",
+  "socials": {
+    "discord": "https://discord.gg/zecUG8YvuK"
+  },
+  "versions": [
+    "26.1.2"
+  ],
+  "primaryVersion": "26.1.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#cd00ff",
+    "secondary": "#ffffff"
+  },
+  "compliance": {
+    "rules": "https://docs.google.com/document/d/1uhLYyZgnG25HHzMuhIZO4ZS0xee7mfZ_zdcnJnFiRcY/"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/newsmp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/newsmp/background.png"
 }

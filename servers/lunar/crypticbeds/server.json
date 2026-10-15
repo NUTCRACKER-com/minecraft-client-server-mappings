@@ -8,5 +8,38 @@
     "MINIGAMES",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive Bedwars experience, optimized for fun.",
+  "website": "https://crypticbeds.fun",
+  "store": "https://shop.crypticbeds.fun",
+  "socials": {
+    "discord": "https://discord.gg/TJ43sEghQv"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ff55ff",
+    "secondary": "#55ffff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/crypticbeds/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/crypticbeds/background.png"
 }

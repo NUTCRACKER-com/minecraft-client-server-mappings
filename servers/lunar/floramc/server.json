@@ -8,5 +8,37 @@
     "MINIGAMES",
     "ADVENTURE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A fast-paced cracked server with fun PvP and custom modes",
+  "website": "https://floramc.club",
+  "store": "https://store.floramc.club",
+  "socials": {
+    "instagram": "floramc.club",
+    "youtube": "@FloraMC-club",
+    "discord": "https://discord.gg/floramc"
+  },
+  "versions": [
+    "1.8.*",
+    "1.16.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#89E4D5",
+    "secondary": "#1BB32D"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/floramc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/floramc/background.png"
 }

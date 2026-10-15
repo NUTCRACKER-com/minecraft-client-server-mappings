@@ -10,5 +10,37 @@
     "MMORPG",
     "ADVENTURE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The Original Conquest Server",
+  "website": "https://lokamc.com/",
+  "store": "https://store.lokamc.com/",
+  "socials": {
+    "twitter": "LokaMinecraft",
+    "discord": "https://discord.com/invite/PcQafJD",
+    "youtube": "Lokamc",
+    "instagram": "lokaminecraft",
+    "twitch": "lokaminecraft",
+    "reddit": "lokamc",
+    "facebook": "lokaminecraft"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "PvE",
+    "Survival",
+    "MMORPG",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#eca723",
+    "secondary": "#b024bd"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/loka/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/loka/banner.gif"
 }

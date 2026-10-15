@@ -15,5 +15,45 @@
     "SOUPPVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Brazilian Hardcore, UHC and Practice PvP server",
+  "website": "https://hunt-mc.com",
+  "store": "https://loja.hunt-mc.com",
+  "socials": {
+    "discord": "https://discord.com/invite/6fkuKZMtKf",
+    "youtube": "@Hunt-mc-com",
+    "instagram": "huntmcnetwork",
+    "tiktok": "@huntmc.com"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "pt-BR",
+    "pt-PT",
+    "en"
+  ],
+  "gameTypes": [
+    "Hardcore",
+    "UHC",
+    "Practice",
+    "Competitive",
+    "PvP",
+    "Crystal PvP",
+    "KitPvP",
+    "BoxPvP",
+    "Soup PvP",
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#0040F0",
+    "secondary": "#0066FF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/huntmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/huntmc/background.png"
 }

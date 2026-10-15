@@ -9,5 +9,39 @@
     "PRISON",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and Minigames on Bridger Land.",
+  "website": "https://bridger.land/",
+  "store": "https://store.bridger.land/",
+  "socials": {
+    "twitter": "Bridger_Land",
+    "discord": "https://discord.com/invite/6TkXDKkejp",
+    "youtube": "UCERl5BIhV4gjbVnQEv80VuQ"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA",
+    "EU",
+    "AS"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Parkour",
+    "Prison",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#f7b204",
+    "secondary": "#9c451f"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bridgerland/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bridgerland/banner.gif"
 }

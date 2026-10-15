@@ -10,5 +10,38 @@
     "PVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "CityBuild Server by Alphastein",
+  "website": "https://iostein.net/",
+  "store": "https://store.iostein.net/",
+  "socials": {
+    "twitter": "iostein",
+    "discord": "https://discord.com/invite/ZtaybmZqwG",
+    "youtube": "iostein",
+    "instagram": "iosteinde",
+    "tiktok": "@iostein"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "de"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#1C894F",
+    "secondary": "#60AC83"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/iostein/background.png"
 }

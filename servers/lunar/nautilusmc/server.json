@@ -8,5 +8,43 @@
     "MINIGAMES",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "NautilusMC is a quiet server, suitable for players who want to relax.",
+  "website": "https://nautilus.tebex.io/",
+  "store": "https://nautilus.tebex.io/",
+  "socials": {
+    "discord": "https://discord.gg/g9K4ZwGrBX",
+    "tiktok": "@play.nautilusmc.it",
+    "instagram": "play.nautilusmc.it"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU",
+    "NA",
+    "SA"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Creative",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#FFB741",
+    "secondary": "#FFDC41"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nautilusmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nautilusmc/background.png"
 }

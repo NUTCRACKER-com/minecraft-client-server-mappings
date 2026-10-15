@@ -8,5 +8,29 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive Minecraft PvP Server.",
+  "website": "https://lynxmc.club",
+  "store": "https://lynxmc.club",
+  "socials": {
+    "discord": "https://discord.gg/JGBDf4gBf2"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#04c1f9",
+    "secondary": "#22cbf0"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lynx/background.png"
 }

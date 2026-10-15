@@ -7,5 +7,29 @@
     "ROLEPLAY"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Immerse yourself in roleplay on Monumenta.",
+  "website": "https://playmonumenta.com/",
+  "socials": {
+    "twitter": "MonumentaMMO",
+    "discord": "https://discord.com/invite/Monumenta",
+    "youtube": "UCuSkVxnMZ1ZwzGM_ANffxZQ",
+    "reddit": "MonumentaMMO"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.18.2",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#ecb94f",
+    "secondary": "#372826"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/monumenta/background.png"
 }

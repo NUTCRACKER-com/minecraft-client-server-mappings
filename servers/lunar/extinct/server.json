@@ -8,5 +8,28 @@
     "PRISON"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Rise through the ranks on Extinct.",
+  "website": "https://www.playextinct.net/",
+  "store": "https://www.store.playextinct.net/",
+  "socials": {
+    "discord": "https://discord.gg/JQ3DEGM7qj"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#80C53E",
+    "secondary": "#78472e"
+  }
 }

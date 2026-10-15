@@ -7,5 +7,24 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience survival gameplay on LiteHub.eu.",
+  "website": "https://lite-hub.eu/",
+  "socials": {
+    "discord": "https://discord.com/invite/XgwHZXqnpb"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#08b810",
+    "secondary": "#08b810"
+  }
 }

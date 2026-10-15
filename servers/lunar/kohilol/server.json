@@ -6,5 +6,23 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Test your combat skills on KohiLOL.",
+  "socials": {
+    "discord": "https://discord.gg/8YabCFcr7f",
+    "youtube": "@kohilol"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.7.10",
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#05fa0d",
+    "secondary": "#faf205"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kohilol/logo.png"
 }

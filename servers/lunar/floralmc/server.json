@@ -7,5 +7,26 @@
     "PRISON"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Rise through the ranks on FloralMC.",
+  "website": "https://floralmc.xyz",
+  "store": "https://floralmc.tebex.io",
+  "socials": {
+    "discord": "http://discord.gg/ncTcaYAGCs"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#8ba2d2",
+    "secondary": "#6A83B6"
+  }
 }

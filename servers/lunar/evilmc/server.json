@@ -9,5 +9,33 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "EvilMC is a network focused on PvP like UHC, HCF & Kitmap.",
+  "website": "https://evilmc.us",
+  "store": "https://store.evilmc.us",
+  "socials": {
+    "twitter": "EvilMC"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "HCF",
+    "UHC",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#BA0202",
+    "secondary": "#FFFFFF"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/evilmc/background.png"
 }

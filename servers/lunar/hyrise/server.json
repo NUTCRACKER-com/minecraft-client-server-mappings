@@ -8,5 +8,42 @@
     "SURVIVAL",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Fight without limits.",
+  "website": "https://www.hyrise.fun",
+  "store": "https://store.hyrise.fun",
+  "socials": {
+    "twitter": "HyRiseNetwork",
+    "youtube": "HyRiseNetwork",
+    "discord": "https://discord.gg/hyrise/"
+  },
+  "versions": [
+    "1.7.*",
+    "1.12.*",
+    "1.21.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#44a1e3",
+    "secondary": "#a854de"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.hyrise.fun/privacy",
+    "termsOfService": "https://www.hyrise.fun/terms",
+    "rules": "https://www.hyrise.fun/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hyrise/logo.png"
 }

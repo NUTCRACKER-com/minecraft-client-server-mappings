@@ -9,5 +9,40 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A passion project created with the player experience in mind",
+  "website": "https://mc.marcloud.net",
+  "store": "https://mc.marcloud.net/store",
+  "socials": {
+    "discord": "https://discord.gg/yaftWcn"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#0082c9",
+    "secondary": "#ffffff"
+  },
+  "compliance": {
+    "privacyPolicy": "https://mc.marcloud.net/privacy",
+    "termsOfService": "https://mc.marcloud.net/tos",
+    "rules": "https://mc.marcloud.net/rules",
+    "support": "https://mc.marcloud.net/support"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/marcloud/background.png"
 }

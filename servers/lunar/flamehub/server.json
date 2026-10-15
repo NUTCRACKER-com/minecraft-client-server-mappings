@@ -7,5 +7,39 @@
     "MINIGAMES",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Join the world of adventure today",
+  "website": "https://flamehub.pl/",
+  "store": "https://flamehub.pl/shop/kupno-doladowania",
+  "socials": {
+    "discord": "https://discord.com/invite/XUG4YJ8aqp"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ca280c",
+    "secondary": "#f9db75"
+  },
+  "compliance": {
+    "privacyPolicy": "https://flamehub.pl/policy",
+    "rules": "https://flamehub.pl/regulamin"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/flamehub/logo.png"
 }

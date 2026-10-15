@@ -7,5 +7,25 @@
     "SKYBLOCK"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Build your island empire on Mine Freeze.",
+  "store": "https://store.minefreeze.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/kkxDG7gxcT"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.18.2",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#7bd7f7",
+    "secondary": "#043b65"
+  }
 }

@@ -8,5 +8,25 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and Survival on Arcadia.",
+  "store": "https://arcadia.tebex.io/",
+  "socials": {
+    "discord": "https://discord.com/invite/ShXcCEstVx"
+  },
+  "versions": [
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#e4cc85",
+    "secondary": "#367a33"
+  }
 }

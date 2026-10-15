@@ -7,5 +7,26 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "One of the best Polish Survivals.",
+  "website": "https://pieselcraft.pl",
+  "store": "https://sklep.pieselcraft.pl",
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#ffce42",
+    "secondary": "#ffce42"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pieselcraft/background.png"
 }

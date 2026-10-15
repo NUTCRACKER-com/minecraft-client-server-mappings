@@ -7,5 +7,31 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Join Pig SMP, a player-driven Minecraft server, for unique gameplay, fun",
+  "website": "https://www.pigsmp.uk/",
+  "socials": {
+    "discord": "https://discord.gg/mHUJXrNmTK",
+    "youtube": "@ChiefWarPig",
+    "tiktok": "@chiefwarpig"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.3",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#DE05E1",
+    "secondary": "#1769FF"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pigsmp/background.png"
 }

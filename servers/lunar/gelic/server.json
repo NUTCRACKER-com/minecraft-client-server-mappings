@@ -8,5 +8,34 @@
     "HCF",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP, HCF, and more on Gelic.",
+  "store": "https://store.gelic.us/",
+  "socials": {
+    "twitter": "GelicNetwork",
+    "discord": "https://discord.com/invite/rpbmaHCC3C"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.9"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#33B2FF",
+    "secondary": "#A7DDFE"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gelic/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gelic/background.png"
 }

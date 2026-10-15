@@ -8,5 +8,26 @@
     "MINIGAMES",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play UHC, Minigames, and more on Asahi.",
+  "socials": {
+    "discord": "https://discord.gg/ZYZ5QjWjDG"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "UHC",
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#FFA955",
+    "secondary": "#EFEEEA"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/asahi/logo.png"
 }

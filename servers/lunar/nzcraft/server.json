@@ -8,5 +8,35 @@
     "SURVIVAL",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames, Survival, and more on NZCraft Network.",
+  "store": "https://tienda.nzcraft.net/",
+  "socials": {
+    "twitter": "NzcraftSurvival",
+    "discord": "https://discord.com/invite/9WGVngH",
+    "tiktok": "@nzcraftserver"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#e8abed",
+    "secondary": "#0441af"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nzcraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nzcraft/background.png"
 }

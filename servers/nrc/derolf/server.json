@@ -13,7 +13,40 @@
   "icon": "icon.png",
   "banner": "banner.png",
   "disabledModules": [
-    "fovChanger"
+    "fovChanger",
+    "nameInfo"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "TNT_TIMER",
+    "ARROW_TRAIL"
+  ],
+  "website": "https://web.derolf.net",
+  "socials": {
+    "youtube": "https://www.youtube.com/@derOlf.de-networks",
+    "discord": "https://discord.com/invite/E38aZKcQJJ"
+  },
+  "gamemodes": {
+    "PVP": {
+      "name": "PVP",
+      "versions": [
+        "1.21.4+"
+      ],
+      "description": "Spiele Gegen andere PVP!"
+    },
+    "SMP": {
+      "name": "derOlfSMP",
+      "versions": [
+        "1.21.11+"
+      ],
+      "description": "Verdinne Geld und Töte andere!"
+    },
+    "Parkour": {
+      "name": "Parkour",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Teste deine Jump Geschwindigkeit gegen andere."
+    }
+  }
 }

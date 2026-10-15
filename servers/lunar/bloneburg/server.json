@@ -9,5 +9,32 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Bloneburg is a Dutch server focused on survival, Skyblock, and more!",
+  "website": "https://bloneburg.nl/",
+  "socials": {
+    "discord": "https://discord.gg/kvswa6K9pn",
+    "youtube": "BloneBurg",
+    "instagram": "bloneburg",
+    "tiktok": "@bloneburg"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "nl"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#7dacff",
+    "secondary": "#375bc8"
+  }
 }

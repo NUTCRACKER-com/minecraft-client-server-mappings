@@ -10,5 +10,40 @@
     "ANARCHY"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames and PvP on AgeraPvP Club.",
+  "website": "https://agerapvp.club/",
+  "store": "https://agerapvp.club/",
+  "socials": {
+    "discord": "https://discord.gg/qeV59SXJfU",
+    "telegram": "agerapvpclub"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Anarchy"
+  ],
+  "colors": {
+    "primary": "#00c5ff",
+    "secondary": "#ffffff"
+  },
+  "compliance": {
+    "rules": "https://cdn.content.abelix.club/static/agerapvp/rules.pdf",
+    "support": "https://support.agerapvp.club"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/agerapvp/banner.png"
 }

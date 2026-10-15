@@ -8,5 +8,28 @@
     "ADVENTURE",
     "OPENWORLD"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Adventure, and more on Iricraft.",
+  "store": "https://Iricraft.site/store",
+  "socials": {
+    "discord": "https://discord.gg/We83Kx89Kw"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Adventure",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#930031",
+    "secondary": "#facc48"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/iricraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/iricraft/background.png"
 }

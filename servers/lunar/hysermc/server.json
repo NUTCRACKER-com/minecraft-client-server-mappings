@@ -8,5 +8,34 @@
     "SURVIVAL",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft Prison & Others",
+  "website": "https://web.hysermc.pro",
+  "store": "https://store.hysermc.pro",
+  "socials": {
+    "discord": "https://discord.gg/8bUs6UuX79"
+  },
+  "versions": [
+    "1.8.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#fc03ec",
+    "secondary": "#ba03fc"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hysermc/logo.png"
 }

@@ -6,5 +6,31 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft but on the moon!",
+  "website": "https://www.moonwar.eu",
+  "socials": {
+    "tiktok": "@moonwar",
+    "discord": "https://discord.gg/invite/moonwar"
+  },
+  "versions": [
+    "1.21.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#fee076",
+    "secondary": "#ffffff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/moonwar/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/moonwar/background.png"
 }

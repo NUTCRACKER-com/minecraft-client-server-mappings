@@ -14,5 +14,46 @@
     "freelook",
     "itemHighlight"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "WEATHER_CHANGER",
+    "TIME_CHANGER"
+  ],
+  "website": "https://expeditioncraft.de/",
+  "socials": {
+    "discord": "https://discord.gg/HCsmd9qApm",
+    "youtube": "https://www.youtube.com/@expeditioncraftMC",
+    "instagram": "https://www.instagram.com/expeditioncraft.mc/",
+    "tiktok": "https://www.tiktok.com/@expeditioncraft"
+  },
+  "gamemodes": {
+    "hideandseek": {
+      "name": "Hide'N'Seek",
+      "versions": [
+        "1.21.4 - 1.21.11"
+      ],
+      "description": "Hide before the Seeker finds you!"
+    },
+    "lasertag": {
+      "name": "Lasertag",
+      "versions": [
+        "1.21.4 - 1.21.11"
+      ],
+      "description": "Shoot, but don't get shot!"
+    },
+    "tntrun": {
+      "name": "TNT-Run",
+      "versions": [
+        "1.21.4 - 1.21.11"
+      ],
+      "description": "Run before the sand falls."
+    },
+    "gokart": {
+      "name": "Gokart Race",
+      "versions": [
+        "1.21.4 - 1.21.11"
+      ],
+      "description": "Race faster than anyone else."
+    }
+  }
 }

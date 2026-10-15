@@ -10,5 +10,33 @@
     "CREATIVE",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Prison, Skyblock, and more on FreakyVille.",
+  "website": "https://www.freakyville.net/",
+  "store": "https://freakyvillemc.buycraft.net/",
+  "socials": {
+    "twitter": "FreakyVilleMC",
+    "discord": "https://discord.com/invite/qf6F6Zz",
+    "tiktok": "@freakyvillemc",
+    "facebook": "freakyvillemc"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "Prison",
+    "Skyblock",
+    "Creative",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#fdc713",
+    "secondary": "#aa5c16"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/freakyville/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/freakyville/background.png"
 }

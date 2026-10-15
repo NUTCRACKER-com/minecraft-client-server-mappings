@@ -8,5 +8,24 @@
     "OPENWORLD"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The most unique Survial Experience!",
+  "store": "https://shop.minewild.net",
+  "socials": {
+    "discord": "https://discord.gg/minewild"
+  },
+  "versions": [
+    "1.20.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "gameTypes": [
+    "Survival",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#70bc6d",
+    "secondary": "#bca36d"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minewild/background.png"
 }

@@ -8,5 +8,34 @@
     "SKYBLOCK",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Skyblock, and more on Melonya.",
+  "website": "https://melonya.net/",
+  "store": "https://melonya.net/store",
+  "socials": {
+    "discord": "https://discord.gg/melonya"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#dcdc00",
+    "secondary": "#fff9c8"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/melonya/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/melonya/background.png"
 }

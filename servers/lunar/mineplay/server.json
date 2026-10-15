@@ -9,5 +9,34 @@
     "PVP",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Mineplay.pl - Best Polish Skyblock, Oneblock, KitPvP, Anarchy FFA server.",
+  "website": "https://mineplay.pl/",
+  "store": "https://mineplay.pl/sklep",
+  "socials": {
+    "youtube": "mateulusz",
+    "instagram": "mateulusz"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#f69908",
+    "secondary": "#b3c5d1"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mineplay/logo.png"
 }

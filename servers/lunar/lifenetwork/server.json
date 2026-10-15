@@ -9,5 +9,36 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A fun server with Lifesteal, Bedwars, and more!",
+  "website": "https://lifenetworkmc.com/",
+  "store": "https://store.lifenetworkmc.com/",
+  "socials": {
+    "discord": "https://discord.gg/f3FRqzgzq4",
+    "youtube": "@LifeNetworkServer"
+  },
+  "versions": [
+    "1.16.5",
+    "1.17.1",
+    "1.18.2",
+    "1.19.4",
+    "1.20.6"
+  ],
+  "primaryVersion": "1.20.6",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#ff3131",
+    "secondary": "#ff914d"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lifenetwork/backround.png"
 }

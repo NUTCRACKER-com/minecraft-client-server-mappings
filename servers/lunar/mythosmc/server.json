@@ -7,5 +7,29 @@
     "SURVIVAL",
     "OPENWORLD"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Greek mythology themed Survival with custom features and adventures.",
+  "socials": {
+    "discord": "https://discord.gg/xDwGkp9e4"
+  },
+  "versions": [
+    "26.2.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#D4AF37",
+    "secondary": "#6A3FA0"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mythosmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mythosmc/background.png"
 }

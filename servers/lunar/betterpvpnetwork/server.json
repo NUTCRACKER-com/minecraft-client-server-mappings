@@ -8,5 +8,41 @@
     "FACTIONS",
     "HCF"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A custom Clans/Factions server",
+  "website": "https://betterpvp.net",
+  "store": "https://betterpvp.net/store",
+  "socials": {
+    "discord": "https://discord.gg/xNY89VKCUD",
+    "youtube": "BTRPVP",
+    "instagram": "betterpvpclans",
+    "tiktok": "@betterpvp2"
+  },
+  "versions": [
+    "1.21.11",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Factions",
+    "HCF"
+  ],
+  "colors": {
+    "primary": "#D8DB0D",
+    "secondary": "#156E08"
+  },
+  "compliance": {
+    "rules": "https://betterpvp.net/rules"
+  },
+  "video": "MpjLQJiqU1U",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/betterpvpnetwork/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/betterpvpnetwork/background.png"
 }

@@ -8,5 +8,26 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play HCF and PvP on KaloMC.",
+  "website": "https://kalomc.org/",
+  "store": "https://store.kalomc.org/",
+  "socials": {
+    "twitter": "KaloNetworkOrg",
+    "discord": "https://discord.com/invite/EnKTgauS24/",
+    "telegram": "kalonetworkorg"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "HCF",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#faf206",
+    "secondary": "#ffffff"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kalomc/background.png"
 }

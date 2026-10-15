@@ -9,5 +9,30 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, PvP, and more on MazerClub.",
+  "store": "https://store.mazerclub.com/",
+  "socials": {
+    "discord": "https://discord.com/invite/Rpfecpuuzf",
+    "youtube": "mazer-club5697",
+    "telegram": "mazer_club",
+    "tiktok": "@mazerclub",
+    "facebook": "mazerclub"
+  },
+  "versions": [
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#ecb94f",
+    "secondary": "#372826"
+  }
 }

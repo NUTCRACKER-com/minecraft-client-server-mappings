@@ -10,5 +10,33 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP, Prison, and more on AcentraMC.",
+  "website": "https://acentramc.com/",
+  "store": "https://store.acentramc.com/",
+  "socials": {
+    "discord": "https://discord.com/invite/4vPVeNdekf",
+    "youtube": "UCndobW90gOlBP2dSxBBfMkg",
+    "tiktok": "@acentramc"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "PvP",
+    "Prison",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#fba41e",
+    "secondary": "#393335"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/acentra/banner.gif"
 }

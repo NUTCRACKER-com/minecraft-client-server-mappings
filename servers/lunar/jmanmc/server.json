@@ -8,5 +8,38 @@
     "MINIGAMES",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "JmanMC is a Minecraft network with SMP, events, and active streams.",
+  "website": "https://jmanmc.net",
+  "store": "https://store.jmanmc.net",
+  "socials": {
+    "discord": "https://discord.gg/zhKG6v6UC4",
+    "twitter": "Jmannumber101",
+    "youtube": "@Jmannumber101"
+  },
+  "versions": [
+    "1.21",
+    "1.21.1",
+    "1.21.8"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "EU",
+    "NA",
+    "OC"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#313A93",
+    "secondary": "#35B1EE"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/jmanmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/jmanmc/background.png"
 }

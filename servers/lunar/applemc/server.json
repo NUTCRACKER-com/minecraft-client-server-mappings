@@ -13,5 +13,37 @@
     "BOXPVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames, Survival, and more on AppleMC.",
+  "website": "https://applemc.fun/",
+  "store": "https://store.applemc.fun/",
+  "socials": {
+    "twitter": "AppleMCSMP",
+    "discord": "https://discord.com/invite/applemc"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.18.2",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Survival",
+    "PvP",
+    "Lifesteal",
+    "OneBlock",
+    "Prison",
+    "BoxPvP"
+  ],
+  "colors": {
+    "primary": "#de1313",
+    "secondary": "#290000"
+  }
 }

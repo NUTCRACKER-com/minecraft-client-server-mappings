@@ -7,5 +7,50 @@
     "PARKOUR"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "the HARDEST minecraft parkour server",
+  "website": "https://server.pro/server/10958320",
+  "socials": {
+    "discord": "https://discord.com/invite/SBpeRAXQAx"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU",
+    "NA",
+    "OC",
+    "SA",
+    "AF",
+    "AS"
+  ],
+  "languages": [
+    "en",
+    "es-EN",
+    "it",
+    "tr",
+    "ar",
+    "zh-CN",
+    "nl",
+    "fr",
+    "de",
+    "el",
+    "ja",
+    "ko",
+    "lt",
+    "no",
+    "pl",
+    "pt-PT",
+    "pt-BR",
+    "sv-SE"
+  ],
+  "gameTypes": [
+    "Parkour"
+  ],
+  "colors": {
+    "primary": "#00FFBE",
+    "secondary": "#0188FF"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/linkcraft/background.png"
 }

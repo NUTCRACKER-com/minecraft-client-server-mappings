@@ -9,5 +9,43 @@
     "ROLEPLAY"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP, Survival, and more on Fenix Network.",
+  "store": "https://tienda.fenixmc.net",
+  "socials": {
+    "twitter": "fenixmcnett",
+    "discord": "https://discord.com/invite/REGvVEazT7",
+    "tiktok": "@fenixmcnet"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#fbac26",
+    "secondary": "#fddb4c"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fenixmcnetwork/background.png"
 }

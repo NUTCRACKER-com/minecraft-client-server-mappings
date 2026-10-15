@@ -7,5 +7,26 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Add EPSMP on bedrock to join!",
+  "socials": {
+    "discord": "https://discord.gg/MUztNyH43a"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#0055FF",
+    "secondary": "#FFFFFF"
+  }
 }

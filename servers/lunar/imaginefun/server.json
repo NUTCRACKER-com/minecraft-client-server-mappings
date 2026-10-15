@@ -11,5 +11,39 @@
     "ADVENTURE",
     "OPENWORLD"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience Disneyland in Minecraft with realistic rides, live shows and more!",
+  "website": "https://imaginefun.net/",
+  "store": "https://buy.imaginefun.net/",
+  "socials": {
+    "twitter": "imagine_fun",
+    "discord": "https://discord.gg/disneyland",
+    "youtube": "imaginefun",
+    "instagram": "imaginefun",
+    "twitch": "ImagineFunLive",
+    "tiktok": "@imagine_fun"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Casual",
+    "Minigames",
+    "Adventure",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#e1cc31",
+    "secondary": "#515382"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/imaginefun/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/imaginefun/background.png"
 }

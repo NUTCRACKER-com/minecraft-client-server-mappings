@@ -9,5 +9,38 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Skyblock, and more on Hexaterra Network.",
+  "store": "https://hexaterra.tebex.io/",
+  "socials": {
+    "twitter": "Hexaterra",
+    "discord": "https://discord.gg/r3VMhGbzT4",
+    "youtube": "UC1234567890abcdef",
+    "instagram": "Hexaterra",
+    "tiktok": "@Hexaterra",
+    "facebook": "Hexaterra"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA",
+    "SA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#113FB8",
+    "secondary": "#5C0069"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hexaterra/background.png"
 }

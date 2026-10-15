@@ -7,5 +7,40 @@
     "SKYBLOCK",
     "MMORPG"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "An extensive Skyblock MMORPG experience, playable in English and Hungarian.",
+  "website": "https://fantasyblock.hu",
+  "store": "https://store.fantasyblock.hu",
+  "socials": {
+    "discord": "https://discord.com/invite/ppmzMJF5KY"
+  },
+  "versions": [
+    "26.1",
+    "26.1.1",
+    "26.1.2",
+    "26.2"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "MMORPG"
+  ],
+  "colors": {
+    "primary": "#F2B01E",
+    "secondary": "#7B4DFF"
+  },
+  "compliance": {
+    "privacyPolicy": "https://cdn.fantasyblock.hu/docs/adatvedelmi-tajekoztato.pdf",
+    "termsOfService": "https://cdn.fantasyblock.hu/docs/aszf.pdf",
+    "rules": "https://cdn.fantasyblock.hu/docs/szabalyzat.pdf",
+    "support": "https://dc.fantasyblock.hu"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fantasyblock/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fantasyblock/background.png"
 }

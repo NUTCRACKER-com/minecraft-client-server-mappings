@@ -9,5 +9,31 @@
     "PVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Maxicraft is a unique custom minigames server to play with your friends.",
+  "socials": {
+    "discord": "https://discord.gg/XneC58n6u3",
+    "youtube": "maxicraftmc",
+    "tiktok": "@play.maxicraft.net"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "OC"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#eb5454",
+    "secondary": "#ff8c00"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/maxicraft/background.png"
 }

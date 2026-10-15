@@ -8,5 +8,35 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft servers for Java and Bedrock with numerous gamemodes.",
+  "website": "https://megaplanet.net/",
+  "store": "https://tienda.megaplanet.net/",
+  "socials": {
+    "twitter": "ServeMegaPlanet",
+    "discord": "https://discord.com/invite/2jRDxt6YcT",
+    "youtube": "servidormegaplanet",
+    "instagram": "megaplanetsv",
+    "twitch": "svmegaplanet",
+    "facebook": "serverMEGAPlanet"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#fdfdfb",
+    "secondary": "#0f3935"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/megaplanet/banner.gif"
 }

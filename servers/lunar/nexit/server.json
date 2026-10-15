@@ -9,5 +9,38 @@
     "SKYBLOCK"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Next level of Minigames",
+  "website": "https://nexit.lol",
+  "store": "https://store.nexit.lol",
+  "wiki": "https://wiki.nexit.lol",
+  "socials": {
+    "discord": "https://discord.com/invite/NXqePhXXpV",
+    "youtube": "nexitserver",
+    "tiktok": "@play.nexit.lol"
+  },
+  "versions": [
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21"
+  ],
+  "primaryVersion": "1.20.3",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#2cd7fd",
+    "secondary": "#b2c7ed"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nexit/background.png"
 }

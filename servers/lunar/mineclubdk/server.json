@@ -8,5 +8,42 @@
     "OPENWORLD"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Danish network where players create and host their own servers",
+  "website": "https://mineclub.dk",
+  "store": "https://mineclub.dk/butik",
+  "socials": {
+    "discord": "https://discord.gg/ePxVMN5ACh",
+    "youtube": "@MineClubDK",
+    "tiktok": "@mineclubdk"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Casual",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#ff9d05",
+    "secondary": "#ffe25c"
+  },
+  "compliance": {
+    "termsOfService": "https://mineclub.dk/handelsbetingelser"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mineclubdk/background.png"
 }

@@ -6,5 +6,28 @@
   "categories": [
     "PRISON"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive Prison server.",
+  "store": "https://tienda.abbyspvp.com/",
+  "socials": {
+    "discord": "https://discord.gg/abbyspvp"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#990000",
+    "secondary": "#e60000"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/abbyspvp/logo.png"
 }

@@ -12,5 +12,37 @@
     "TOWNY"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Hyping is THE Minecraft Oneblock & Survival server in France.",
+  "website": "https://playhyping.com/",
+  "store": "https://playhyping.com/shop/oneblock",
+  "socials": {
+    "twitter": "playHyping",
+    "discord": "https://discord.gg/hyping",
+    "youtube": "@PlayHyping",
+    "instagram": "playhyping",
+    "tiktok": "@playHyping"
+  },
+  "versions": [
+    "1.20.4"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "PvE",
+    "Adventure",
+    "Survival",
+    "Skyblock",
+    "OneBlock",
+    "Towny"
+  ],
+  "colors": {
+    "primary": "#00D1FF",
+    "secondary": "#FADD54"
+  }
 }

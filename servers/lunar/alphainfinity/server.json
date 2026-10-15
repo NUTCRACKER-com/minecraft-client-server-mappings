@@ -8,5 +8,34 @@
     "SURVIVAL",
     "CREATIVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Alpha Infinity, aim for the Alpha rank, with quests, unique worlds.",
+  "website": "https://alpha-infinity.fr/",
+  "socials": {
+    "discord": "https://discord.com/invite/v7RYMbt"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Parkour",
+    "Survival",
+    "Creative"
+  ],
+  "colors": {
+    "primary": "#13527b",
+    "secondary": "#291f37"
+  },
+  "video": "lefZCHsjomg",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/alphainfinity/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/alphainfinity/background.png"
 }

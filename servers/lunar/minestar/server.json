@@ -13,5 +13,42 @@
     "PRACTICE",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames, PvP, and more on MineStar.",
+  "website": "https://minestar.pl/",
+  "store": "https://minestar.pl/shop",
+  "socials": {
+    "discord": "https://discord.com/invite/V7MEnGJdWM",
+    "tiktok": "@minestar.pl",
+    "facebook": "minestarpl"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.16.5",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "BoxPvP",
+    "Lifesteal",
+    "KitPvP",
+    "Practice",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#ffc10c",
+    "secondary": "#3f241a"
+  },
+  "compliance": {
+    "rules": "https://minestar.pl/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minestar/logo.png"
 }

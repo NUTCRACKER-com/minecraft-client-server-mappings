@@ -7,5 +7,36 @@
     "SURVIVAL",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival and Skyblock on Ace MC.",
+  "website": "https://www.acemc.co/",
+  "store": "https://store.acemc.co/",
+  "socials": {
+    "discord": "https://discord.com/invite/acemc",
+    "youtube": "@AceNetworkMC"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#74d4d8",
+    "secondary": "#de82fa"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/acemc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/acemc/background.png"
 }

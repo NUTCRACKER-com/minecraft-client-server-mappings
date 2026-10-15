@@ -9,5 +9,36 @@
     "CREATIVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames, Survival, and more on DusDavidGames.",
+  "website": "https://dusdavidgames.nl/",
+  "store": "https://shop.dusdavidgames.nl/",
+  "socials": {
+    "twitter": "DDG_Server",
+    "discord": "https://discord.com/invite/aTw2x89",
+    "instagram": "ddgserver",
+    "tiktok": "@ddg_server",
+    "facebook": "DDGServer"
+  },
+  "versions": [
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Survival",
+    "Creative"
+  ],
+  "colors": {
+    "primary": "#e0e0e0",
+    "secondary": "#b70404"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/dusdavidgames/background.png"
 }

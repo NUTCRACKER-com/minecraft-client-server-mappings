@@ -7,5 +7,31 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and Survival on JuicePvP.",
+  "socials": {
+    "discord": "https://discord.gg/juicepvp"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#FBF213",
+    "secondary": "#4535FF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/juicepvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/juicepvp/background.png"
 }

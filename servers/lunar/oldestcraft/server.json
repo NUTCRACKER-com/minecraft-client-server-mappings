@@ -8,5 +8,37 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Network is beautifull!",
+  "website": "https://oldestcraft.online",
+  "socials": {
+    "discord": "https://discord.gg/af26sDsUtn"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#2f7cdb",
+    "secondary": "#e9aa65"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/oldestcraft/logo.png"
 }

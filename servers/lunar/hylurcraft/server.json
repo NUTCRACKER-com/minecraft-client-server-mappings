@@ -8,5 +8,40 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, PvP, and more on HylurCraft Network.",
+  "store": "https://tienda.hylurcraft.art/",
+  "socials": {
+    "discord": "https://discord.gg/WHp6F6Kqa4",
+    "tiktok": "@hylurcraft_network"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.18.1",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#51FF00",
+    "secondary": "#337C10"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hylurcraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hylurcraft/background.png"
 }

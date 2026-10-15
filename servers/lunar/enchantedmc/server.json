@@ -9,5 +9,38 @@
     "PRISON",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Enchanted network with custom textured Skyblock, Prison, and Gens.",
+  "website": "http://www.enchantedmc.net/",
+  "store": "https://store.enchantedmc.net/",
+  "socials": {
+    "twitter": "EnchantedHQ",
+    "discord": "http://discord.gg/enchantedmc"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Tycoon",
+    "Skyblock",
+    "Prison",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#f75ab9",
+    "secondary": "#e2c50c"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/enchantedmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/enchantedmc/background.png"
 }

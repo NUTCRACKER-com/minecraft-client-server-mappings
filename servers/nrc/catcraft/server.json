@@ -10,5 +10,20 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://catcraft.net",
+  "store": "https://store.catcraft.com",
+  "socials": {
+    "discord": "https://discord.gg/catcraft",
+    "tiktok": "https://www.tiktok.com/@catcraftmc"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "versions": [
+        "1.21.11"
+      ],
+      "description": "Classic survival with friendly community and shops"
+    }
+  }
 }

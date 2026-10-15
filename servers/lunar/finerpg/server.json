@@ -7,5 +7,28 @@
     "ROLEPLAY"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Immerse yourself in roleplay on FineRPG.",
+  "website": "https://finerpg.pl/",
+  "store": "https://finerpg.pl/shop/finerpg",
+  "socials": {
+    "discord": "https://discord.com/invite/BDBX5whcwZ"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#6fd7e5",
+    "secondary": "#1f0c0b"
+  }
 }

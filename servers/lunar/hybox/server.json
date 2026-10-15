@@ -7,5 +7,38 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival and PvP on Hybox.",
+  "website": "https://hybox.gg/",
+  "store": "https://tienda.hybox.gg/",
+  "socials": {
+    "twitter": "hyboxnetwork",
+    "discord": "https://discord.com/invite/sBp5PuTV3J"
+  },
+  "versions": [
+    "1.19.*",
+    "1.12.*",
+    "1.16.*",
+    "1.18.*",
+    "1.17.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.19.2",
+  "regions": [
+    "EU",
+    "SA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#79E1E7",
+    "secondary": "#E6D125"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hybox/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hybox/background.png"
 }

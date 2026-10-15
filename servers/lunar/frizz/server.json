@@ -7,5 +7,51 @@
     "HARDCORE",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Made up of passionate players who are exploring Hardcore Games!",
+  "website": "https://frizzmc.com/",
+  "store": "https://loja.frizzmc.com/",
+  "socials": {
+    "discord": "https://discord.com/invite/Frizzmc",
+    "youtube": "@frizzmchg",
+    "instagram": "frizzmchg",
+    "tiktok": "@frizzmc.hg"
+  },
+  "versions": [
+    "1.7.10",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "pt-BR",
+    "pt-PT",
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Hardcore",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#01C2FE",
+    "secondary": "#FFC200"
+  },
+  "compliance": {
+    "privacyPolicy": "https://frizzmc.com/privacidade",
+    "termsOfService": "https://frizzmc.com/termos",
+    "rules": "https://frizzmc.com/regras",
+    "support": "https://ajuda.frizzmc.com"
+  },
+  "video": "Dzkzb-XLERE",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/frizz/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/frizz/background.png"
 }

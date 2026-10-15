@@ -9,5 +9,35 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Discover the unique world of Nevora. Join our growing community today!",
+  "website": "https://nevoramc.fr",
+  "store": "https://nevoramc.fr/shop",
+  "socials": {
+    "discord": "https://discord.gg/k7fcGb66nv"
+  },
+  "versions": [
+    "1.21",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Adventure",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#FF5555",
+    "secondary": "#5555FF"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nevora/background.png"
 }

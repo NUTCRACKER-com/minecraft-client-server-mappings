@@ -8,5 +8,35 @@
     "SURVIVAL",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Tycoon, SMP, and more on HydraMC.",
+  "website": "https://hydramc.org/",
+  "store": "https://store.hydramc.org/",
+  "socials": {
+    "twitter": "HydraMCOrg",
+    "discord": "https://discord.gg/BduxskgaWW"
+  },
+  "versions": [
+    "26.2",
+    "26.1.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Tycoon",
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#009CCF",
+    "secondary": "#FFFFFF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hydramc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hydramc/background.png"
 }

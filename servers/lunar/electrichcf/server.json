@@ -7,5 +7,29 @@
     "PVP",
     "HCF"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft HCF & Other",
+  "store": "https://store.electrichcf.com",
+  "socials": {
+    "telegram": "electrichcfnet",
+    "discord": "https://discord.com/invite/UUEMM2WCAf"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF"
+  ],
+  "colors": {
+    "primary": "#ff5900",
+    "secondary": "#bfff00"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/electrichcf/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/electrichcf/background.png"
 }

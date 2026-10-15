@@ -12,5 +12,16 @@
     "freelook",
     "noFog"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "FREE_LOOK",
+    "NO_FOG"
+  ],
+  "store": "https://store.neromc.net/",
+  "socials": {
+    "discord": "https://discord.gg/NkWhec7HNq",
+    "youtube": "https://www.youtube.com/@ItssVibesTV",
+    "instagram": "https://www.instagram.com/itssvibestv/",
+    "tiktok": "https://www.tiktok.com/@neromc_net"
+  }
 }

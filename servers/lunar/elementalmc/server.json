@@ -9,5 +9,30 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Factions, and more on ElementalMC.",
+  "store": "https://korraemc.tebex.io/",
+  "socials": {
+    "tiktok": "@play.elementalmc.live",
+    "discord": "https://discord.gg/JkCNDyRyMT",
+    "youtube": "KorraElementalMC",
+    "reddit": "ElementalMC"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Factions",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#5A08FB",
+    "secondary": "#FFFFFF"
+  }
 }

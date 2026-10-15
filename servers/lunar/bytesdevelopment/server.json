@@ -7,5 +7,31 @@
     "PRISON"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Minecraft Prison server.",
+  "store": "https://store.bytesdevelopment.xyz",
+  "socials": {
+    "twitter": "iSixyyy",
+    "telegram": "iSixy",
+    "discord": "https://discord.gg/DsZmeR2KfB"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#2c98b0",
+    "secondary": "#ffffff"
+  },
+  "video": "7EV4cPuJvXE"
 }

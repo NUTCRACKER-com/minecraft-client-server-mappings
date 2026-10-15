@@ -8,5 +8,35 @@
     "PVP",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A competitive team-oriented gamemode with custom PvP, events and prizes.",
+  "website": "https://archaic.gg/",
+  "store": "https://store.archaic.gg/",
+  "socials": {
+    "twitter": "joinArchaic",
+    "discord": "https://discord.com/invite/archaic"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#c546de",
+    "secondary": "#eb8cff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/archaic/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/archaic/background.png"
 }

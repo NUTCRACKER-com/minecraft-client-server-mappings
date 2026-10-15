@@ -8,5 +8,32 @@
     "UHC"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive UHC Server",
+  "website": "https://www.ghoulpvp.club",
+  "store": "https://store.ghoulpvp.club",
+  "socials": {
+    "discord": "https://discord.com/invite/DrQjAv5zKy"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#FF0000",
+    "secondary": "#B20000"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/ghoulpvp/background.png"
 }

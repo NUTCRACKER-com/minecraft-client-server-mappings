@@ -8,5 +8,29 @@
     "ADVENTURE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Roleplay and Adventure on CobbleLand.",
+  "store": "https://store.cobbleland.com/",
+  "socials": {
+    "discord": "https://discord.com/invite/4PFCCkdWmY"
+  },
+  "versions": [
+    "1.20.1"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Roleplay",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#f43728",
+    "secondary": "#9d9b95"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cobbleland/background.png"
 }

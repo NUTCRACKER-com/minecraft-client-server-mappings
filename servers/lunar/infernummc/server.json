@@ -6,5 +6,27 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Test your combat skills on InfernumMC.",
+  "store": "https://tienda.infernummc.net/",
+  "socials": {
+    "discord": "https://discord.gg/7N58kVKHNH"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20",
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#de1010",
+    "secondary": "#b63913"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/infernummc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/infernummc/background.png"
 }

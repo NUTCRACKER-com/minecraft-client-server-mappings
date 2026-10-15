@@ -14,5 +14,40 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Your online community. We host endless fun in our modalities!",
+  "website": "https://www.comugamers.com/",
+  "store": "https://store.comugamers.com/",
+  "socials": {
+    "twitter": "ComuGamers",
+    "discord": "https://discord.com/invite/D4YRQ9R",
+    "youtube": "UCEThoQ97WEDd4cVUnv3gYjw",
+    "instagram": "comugamers",
+    "facebook": "ComuGamers",
+    "tiktok": "@comugamers"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "languages": [
+    "en",
+    "es-EN",
+    "fr"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#026694",
+    "secondary": "#f6f6f7"
+  }
 }

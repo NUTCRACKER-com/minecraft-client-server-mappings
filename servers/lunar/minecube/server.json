@@ -9,5 +9,33 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "High-quality Minecraft server with original features.",
+  "website": "https://minecube.pl",
+  "store": "https://sklep.minecube.pl",
+  "wiki": "https://wiki.minecube.pl",
+  "socials": {
+    "discord": "https://discord.com/invite/kXdJe7uEbP",
+    "tiktok": "@minecubepl"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.5",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#007FFF",
+    "secondary": "#FFFFFF"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minecube/background.png"
 }

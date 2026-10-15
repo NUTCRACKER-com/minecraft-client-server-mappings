@@ -12,5 +12,33 @@
     "CRYSTALPVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, PvP, and more on LifeStealSMP.",
+  "store": "https://store.lifestealsmp.com/",
+  "socials": {
+    "discord": "https://discord.com/invite/lifestealsmp"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Lifesteal",
+    "PvP",
+    "PvE",
+    "Crystal PvP"
+  ],
+  "colors": {
+    "primary": "#ff0b0b",
+    "secondary": "#600101"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lifestealsmp/background.png"
 }

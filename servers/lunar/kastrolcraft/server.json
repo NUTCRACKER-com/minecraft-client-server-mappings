@@ -8,5 +8,33 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Quality Survival, unique GenBlock, great community and much more!",
+  "website": "https://kastrolcraft.cz/home",
+  "store": "https://kastrolcraft.cz/obchod",
+  "socials": {
+    "instagram": "kastrolcraft",
+    "youtube": "kastrolcraft",
+    "tiktok": "@mc.kastrolcraft.cz",
+    "discord": "https://discord.com/invite/RaZhVsKnME"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#FB0101",
+    "secondary": "#FFFFFF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kastrolcraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kastrolcraft/banner.gif"
 }

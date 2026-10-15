@@ -8,5 +8,42 @@
     "MINIGAMES",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "MineWarsMC is a competitive Minecraft server of PvP, Minigames, and SMP.",
+  "website": "https://www.minewarsmc.it/",
+  "socials": {
+    "discord": "https://discord.com/invite/7bJeFtt8Vq",
+    "youtube": "@MinewarsMc884"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#1387ca",
+    "secondary": "#262d37"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.minewarsmc.it/privacy",
+    "termsOfService": "https://www.minewarsmc.it/terms"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minewarsmc/logo.png"
 }

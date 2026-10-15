@@ -7,5 +7,28 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The biggest pvp academy in Minecraft Java Edition",
+  "store": "https://loja.academymc.com.br",
+  "socials": {
+    "twitter": "AcademyMc_",
+    "discord": "https://discord.gg/academymc"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.7.10",
+  "regions": [
+    "SA"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ecdbc4",
+    "secondary": "#2d576c"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/academymc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/academymc/background.png"
 }

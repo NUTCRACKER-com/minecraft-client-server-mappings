@@ -7,5 +7,31 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A PvP server like no other",
+  "website": "https://kohi.net",
+  "socials": {
+    "twitter": "KohiNetwork",
+    "discord": "https://discord.gg/kohinetwork",
+    "reddit": "kohi"
+  },
+  "versions": [
+    "1.21.4",
+    "1.21.5"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#4a4a4a",
+    "secondary": "#262626"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kohi/logo.png"
 }

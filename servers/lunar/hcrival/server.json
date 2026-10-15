@@ -8,5 +8,33 @@
     "HCF"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The Ultimate Hardcore Factions Experience.",
+  "store": "https://store.hcrival.net",
+  "socials": {
+    "twitter": "HCRival_NET",
+    "telegram": "HCRivalNetwork",
+    "discord": "https://discord.gg/hcrival"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF"
+  ],
+  "colors": {
+    "primary": "#F13134",
+    "secondary": "#FFFFFF"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hcrival/banner.gif"
 }

@@ -9,5 +9,38 @@
     "PARKOUR"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A refined twist on popular gamemodes with a strong community focus",
+  "website": "https://www.mythic.gg",
+  "store": "https://store.mythic.gg",
+  "socials": {
+    "discord": "https://discord.gg/wK5zbUbPbE",
+    "twitter": "MythicGGNetwork",
+    "youtube": "@MythicGGNetwork",
+    "instagram": "mythicggnetwork",
+    "tiktok": "@MythicGG"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.10",
+  "regions": [
+    "OC"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Parkour"
+  ],
+  "colors": {
+    "primary": "#aa00aa",
+    "secondary": "#bb86fc"
+  },
+  "compliance": {
+    "rules": "https://www.mythic.gg/rules"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mythicgg/background.png"
 }

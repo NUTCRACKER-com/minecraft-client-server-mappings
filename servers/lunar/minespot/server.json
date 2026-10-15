@@ -7,5 +7,30 @@
     "PRISON"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft's best and largest classic prison server",
+  "store": "https://shop.minespot.org/",
+  "socials": {
+    "discord": "https://discord.gg/minespot",
+    "tiktok": "@minespotjail"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#2ba45e",
+    "secondary": "#28bb68"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minespot/background.png"
 }

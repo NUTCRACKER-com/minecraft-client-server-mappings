@@ -15,5 +15,37 @@
     "ROLEPLAY"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Trouble in Mineville, Cowboys and Indians, Block Party, Gravity, and more!",
+  "website": "https://playkig.com/",
+  "store": "https://store.playkig.com/",
+  "socials": {
+    "twitter": "kignetwork",
+    "discord": "https://discord.com/invite/gYJaRRV",
+    "youtube": "UCvyq5B5hzk0gX_TEzFQ2vjA"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#0b173d",
+    "secondary": "#d0a003"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kig/background.png"
 }

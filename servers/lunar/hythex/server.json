@@ -7,5 +7,36 @@
     "PRISON",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Home of Minecraft Prison",
+  "website": "https://www.hythex.net/",
+  "store": "https://www.hythex.net/store",
+  "socials": {
+    "twitter": "HythexStudios",
+    "discord": "https://discord.gg/hythex"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "SA"
+  ],
+  "gameTypes": [
+    "Prison",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ecb845",
+    "secondary": "#522e23"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hythex/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hythex/background.png"
 }

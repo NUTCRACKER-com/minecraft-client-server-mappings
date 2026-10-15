@@ -8,5 +8,30 @@
     "SKYBLOCK"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The oldest server in Poland featuring Survival!",
+  "website": "https://www.opencraft.pl/",
+  "socials": {
+    "discord": "https://discord.gg/XD9RnGg",
+    "facebook": "opencraftPL"
+  },
+  "versions": [
+    "1.21.4"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#44aa06",
+    "secondary": "#040404"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/opencraft/background.png"
 }

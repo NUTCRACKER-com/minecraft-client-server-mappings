@@ -9,5 +9,49 @@
     "FACTIONS",
     "LIFESTEAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival SMP, Skyblock, Factions, Lifesteal, and more!",
+  "website": "https://insanitycraft.net/",
+  "store": "https://store.insanitycraft.net/",
+  "socials": {
+    "twitter": "insanitycraftMC",
+    "discord": "https://discord.com/invite/X4GVwDW",
+    "youtube": "UC0oNHWiHQVnOj5ZP1zHXMEA",
+    "instagram": "insanitycraftmc",
+    "reddit": "InsanityCraftMC",
+    "tiktok": "@insanitycraft"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "Factions",
+    "Lifesteal"
+  ],
+  "colors": {
+    "primary": "#f2c92d",
+    "secondary": "#a5de55"
+  },
+  "compliance": {
+    "privacyPolicy": "https://insanitycraft.net/privacy/",
+    "termsOfService": "https://insanitycraft.net/terms/",
+    "rules": "https://insanitycraft.net/rules/"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/insanitycraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/insanitycraft/background.png"
 }

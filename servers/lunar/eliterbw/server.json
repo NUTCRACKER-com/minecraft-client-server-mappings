@@ -7,5 +7,27 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and Minigames on Elite Ranked Bedwars.",
+  "website": "https://eliterbw.ir/",
+  "store": "http://store.eliterbw.ir/",
+  "socials": {
+    "discord": "https://discord.gg/5HVv59Xg95"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#1fbede",
+    "secondary": "#fafdff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/eliterbw/logo.png"
 }

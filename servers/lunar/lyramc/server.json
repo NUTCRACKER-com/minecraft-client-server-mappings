@@ -7,5 +7,33 @@
     "SURVIVAL",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Your new Home for Survival.",
+  "store": "https://store.lyramc.net",
+  "socials": {
+    "discord": "https://discord.com/invite/9dEpseEd5p",
+    "tiktok": "@lyramcnet"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#F893CA",
+    "secondary": "#F3D88F"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lyramc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lyramc/background.png"
 }

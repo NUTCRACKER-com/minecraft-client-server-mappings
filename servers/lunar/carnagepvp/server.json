@@ -8,5 +8,33 @@
     "FACTIONS"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Build your faction and conquer on CarnagePvP.",
+  "store": "https://store.carnagepvp.me/",
+  "socials": {
+    "discord": "https://discord.com/invite/carnagepvp"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#5f1913",
+    "secondary": "#ed9b01"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/carnagepvp/background.png"
 }

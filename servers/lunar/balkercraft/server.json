@@ -9,5 +9,37 @@
     "MINIGAMES",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play fun Gamemodes on a Hungarian Minecraft Server",
+  "website": "https://balkercraft.eu/",
+  "store": "https://shop.balkercraft.eu",
+  "socials": {
+    "tiktok": "@balkercraft",
+    "discord": "https://discord.gg/balkercraft",
+    "facebook": "balkercraft"
+  },
+  "versions": [
+    "1.8.*",
+    "1.16.5",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#ff8023",
+    "secondary": "#fed526"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/balkercraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/balkercraft/banner.gif"
 }

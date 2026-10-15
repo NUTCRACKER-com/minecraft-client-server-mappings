@@ -8,5 +8,31 @@
     "PVE",
     "PRISON"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Boxmining done right, and much much more to come.",
+  "store": "http://box.coreboxx.store",
+  "socials": {
+    "discord": "https://discord.gg/9n2EeWa22N"
+  },
+  "versions": [
+    "1.21"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "PvE",
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#CF69FF",
+    "secondary": "#C0E6D5"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/coreboxx/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/coreboxx/background.png"
 }

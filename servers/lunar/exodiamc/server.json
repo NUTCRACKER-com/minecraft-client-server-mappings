@@ -7,5 +7,38 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Spanish-speaking server that offers fair gameplay for everyone.",
+  "website": "https://play.exodiamc.net",
+  "store": "https://tienda.exodiamc.net",
+  "socials": {
+    "instagram": "exodia_network",
+    "discord": "https://discord.com/invite/gmip"
+  },
+  "versions": [
+    "1.8.*",
+    "1.21"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#f59842",
+    "secondary": "#ffc363"
+  },
+  "compliance": {
+    "privacyPolicy": "https://tienda.exodiamc.net/privacy",
+    "termsOfService": "https://tienda.exodiamc.net/terms",
+    "rules": "https://rules.exodiamc.net/"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/exodiamc/logo.png"
 }

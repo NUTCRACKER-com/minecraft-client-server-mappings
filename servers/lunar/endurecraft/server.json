@@ -6,5 +6,37 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Server specialized in survival, with daily events and new game modes coming.",
+  "website": "https://discord.endurecraft.lat",
+  "socials": {
+    "tiktok": "@endurecraft.lat",
+    "twitter": "EndureCraft",
+    "instagram": "EndureCraft",
+    "facebook": "EndureCraft",
+    "youtube": "@EndureCraft"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#A020F0",
+    "secondary": "#8A2BE2"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/endurecraft/logo.png"
 }

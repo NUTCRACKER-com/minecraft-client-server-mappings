@@ -9,5 +9,36 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Librecraft is the best place to play Minecraft in Spanish",
+  "website": "https://librecraft.com/",
+  "store": "https://tienda.librecraft.com/",
+  "socials": {
+    "twitter": "LibreCraftMC",
+    "discord": "https://discord.com/invite/v9H6xd6",
+    "youtube": "UCFTDLW_Q-TVrwc5fOpKW_tg",
+    "facebook": "librecraftnetwork"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#87b60a",
+    "secondary": "#0a1a2a"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/librecraft/background.png"
 }

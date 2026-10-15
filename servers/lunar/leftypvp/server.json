@@ -8,5 +8,38 @@
     "KITPVP",
     "PARKOUR"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Non-Premium Minecraft server with Skyblock, KitPvP & Dodgeball",
+  "store": "https://store.leftypvp.net",
+  "socials": {
+    "discord": "https://discord.gg/leftypvp-tm-559660275184304129"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "KitPvP",
+    "Parkour"
+  ],
+  "colors": {
+    "primary": "#FFFF00",
+    "secondary": "#FFA500"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/leftypvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/leftypvp/background.png"
 }

@@ -7,5 +7,41 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Hyperium is a Minecraft server created by players for players!",
+  "website": "https://hyperium.pl/",
+  "socials": {
+    "discord": "https://discord.com/invite/vG6gC4H3mp",
+    "tiktok": "@hyperium.pl",
+    "facebook": "61571672626141"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#4897eb",
+    "secondary": "#cdd0d9"
+  },
+  "compliance": {
+    "privacyPolicy": "https://hyperium.pl/subpage/2839",
+    "termsOfService": "https://hyperium.pl/subpage/2838"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hyperium/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hyperium/background.png"
 }

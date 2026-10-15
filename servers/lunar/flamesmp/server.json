@@ -9,5 +9,43 @@
     "PRACTICE",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive PvP, Survival & Events!",
+  "website": "https://flamesmp.gg",
+  "store": "https://store.flamesmp.gg",
+  "socials": {
+    "discord": "https://discord.gg/flamesmp"
+  },
+  "versions": [
+    "26.1.*",
+    "26.2.*",
+    "1.21.11",
+    "1.21.10",
+    "1.21.9",
+    "1.21.8",
+    "1.21.7",
+    "1.21.6",
+    "1.21.5",
+    "1.21.4"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Practice",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ff7000",
+    "secondary": "#f92228"
+  },
+  "compliance": {
+    "rules": "https://flamesmp.gg/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/flamesmp/logo.png"
 }

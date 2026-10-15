@@ -7,5 +7,30 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Survival Multiplayer Server",
+  "socials": {
+    "discord": "https://discord.com/invite/5Rcqa76ZCk"
+  },
+  "versions": [
+    "1.20.4",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#36ff33",
+    "secondary": "#ffffff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/krapaosmp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/krapaosmp/background.png"
 }

@@ -8,5 +8,36 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "French Minecraft server with PvP, Factions & more!",
+  "website": "https://evoramc.fr",
+  "store": "https://evoramc.fr/tebex",
+  "socials": {
+    "discord": "https://discord.gg/FVJNx6g74V"
+  },
+  "versions": [
+    "1.8.9",
+    "1.20",
+    "1.20.1",
+    "1.20.4"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "gameTypes": [
+    "Factions",
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#941C45",
+    "secondary": "#6B1E74"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/evoramc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/evoramc/background.png"
 }

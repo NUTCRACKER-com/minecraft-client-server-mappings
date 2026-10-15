@@ -7,5 +7,30 @@
     "SURVIVAL",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Italian Minecraft server with Survival and seasonal events.",
+  "website": "https://aurelismc.lovable.app/",
+  "socials": {
+    "discord": "https://discord.gg/Nyf694Ze84"
+  },
+  "versions": [
+    "1.21.1"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#F59E0B",
+    "secondary": "#8B5CF6"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/aurelismc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/aurelismc/background.png"
 }

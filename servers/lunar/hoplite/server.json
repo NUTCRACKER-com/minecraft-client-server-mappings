@@ -11,5 +11,59 @@
     "HARDCORE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Minecraft PvP network with innovative new gamemodes and proximity voice chat",
+  "website": "https://www.hoplite.gg/",
+  "store": "https://store.hoplite.gg/",
+  "socials": {
+    "twitter": "hoplitenetwork",
+    "discord": "https://discord.com/invite/hoplite",
+    "youtube": "UCX3dkuHYteQRdAUlhmu8qaQ"
+  },
+  "versions": [
+    "1.21.11",
+    "26.1",
+    "26.1.1",
+    "26.1.2"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA",
+    "EU",
+    "AS"
+  ],
+  "languages": [
+    "en",
+    "es-EN",
+    "it",
+    "tr",
+    "ar",
+    "zh-CN",
+    "nl",
+    "fr",
+    "de",
+    "el",
+    "ja",
+    "pl",
+    "pt-BR",
+    "sv-SE"
+  ],
+  "gameTypes": [
+    "UHC",
+    "PvP",
+    "Practice",
+    "Competitive",
+    "Hardcore"
+  ],
+  "colors": {
+    "primary": "#fcc694",
+    "secondary": "#fa3635"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.hoplite.gg/privacy",
+    "termsOfService": "https://www.hoplite.gg/terms-of-service",
+    "rules": "https://www.hoplite.gg/rules",
+    "support": "https://www.hoplite.gg/contact-us"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hoplite/background.png"
 }

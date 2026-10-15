@@ -8,5 +8,25 @@
     "PVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A new type of gamemode combining Factions and Skyblock!",
+  "socials": {
+    "discord": "https://discord.gg/nxs96RmeBs"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#f9e931",
+    "secondary": "#cb4a36"
+  }
 }

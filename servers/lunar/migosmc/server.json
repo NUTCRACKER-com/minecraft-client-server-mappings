@@ -8,5 +8,29 @@
     "SURVIVAL",
     "ROLEPLAY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames, Survival, and more on MigosMC.",
+  "website": "http://migosmc.ru/",
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.2",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Survival",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#f4f3f5",
+    "secondary": "#e71736"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/migosmc/logo.png"
 }

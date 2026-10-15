@@ -6,5 +6,35 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Cyoria SMP: Start from zero and become an emperor in this survival.",
+  "website": "https://www.cyoriasmp.com/",
+  "store": "https://www.cyoriasmp.com/store",
+  "socials": {
+    "discord": "https://discord.gg/zJvqw9B3r3"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#00AAFF",
+    "secondary": "#000000"
+  },
+  "compliance": {
+    "rules": "https://www.cyoriasmp.com/terms"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cyoriasmp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cyoriasmp/background.png"
 }

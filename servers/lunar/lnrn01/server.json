@@ -8,5 +8,24 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A premium Minecraft experience offering PvP, Minigames, and more.",
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#15f00e",
+    "secondary": "#090b1a"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lnrn01/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lnrn01/background.png"
 }

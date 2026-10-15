@@ -8,5 +8,35 @@
     "PVP",
     "ROLEPLAY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, PvP, and more on PixelMC.",
+  "socials": {
+    "discord": "https://discord.gg/9qWAkYr6s2",
+    "telegram": "PixelMC_Ir"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#28C2FB",
+    "secondary": "#9BDEFF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pixelmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pixelmc/background.png"
 }

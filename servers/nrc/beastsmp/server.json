@@ -15,5 +15,9 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://beastsmp.de",
+  "socials": {
+    "discord": "https://discord.gg/z9CKRqqS"
+  }
 }

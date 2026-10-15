@@ -9,5 +9,32 @@
     "PVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "HydoxMC have a competitive Lifesteal to play with friends!",
+  "store": "https://store.hydoxmc.net/",
+  "socials": {
+    "discord": "https://discord.gg/2XzCa8MyHA"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#ffaa00",
+    "secondary": "#f7ff55"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hydoxmc/banner.png"
 }

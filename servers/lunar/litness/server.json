@@ -9,5 +9,43 @@
     "ADVENTURE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Survival network with quests, farming, economy, custom bosses and events.",
+  "website": "https://litness.gg",
+  "store": "https://litness.gg/store",
+  "socials": {
+    "discord": "https://discord.gg/RBcqkxgZyD",
+    "instagram": "playlitness",
+    "tiktok": "@playlitness",
+    "telegram": "playlitness"
+  },
+  "versions": [
+    "26.2.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en",
+    "it",
+    "de",
+    "fr",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvE",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#A83E00",
+    "secondary": "#F3E3CC"
+  },
+  "compliance": {
+    "privacyPolicy": "https://litness.gg/privacy",
+    "termsOfService": "https://litness.gg/tos",
+    "rules": "https://litness.gg/rules"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/litness/background.png"
 }

@@ -10,5 +10,33 @@
     "PARKOUR"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Adventure, Survival, and more on FoxCraft.",
+  "website": "https://www.mcfoxcraft.com/",
+  "store": "http://store.foxcraft.net",
+  "socials": {
+    "twitter": "mcFoxCraft",
+    "discord": "https://discord.com/invite/ZpNuSdC"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Adventure",
+    "Survival",
+    "Parkour"
+  ],
+  "colors": {
+    "primary": "#f3893b",
+    "secondary": "#5a9b3c"
+  }
 }

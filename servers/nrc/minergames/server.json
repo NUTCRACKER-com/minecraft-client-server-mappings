@@ -11,10 +11,19 @@
   "banner": "banner.png",
   "disabledModules": [
     "autoText",
+    "shieldStatus",
     "fovChanger",
-    "hitboxes",
     "noFog",
-    "shieldBreak"
+    "nameInfo",
+    "hitColor",
+    "hitboxes"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "JumpReset"
+  ],
+  "website": "https://minergames.net",
+  "socials": {
+    "discord": "https://discord.minergames.net"
+  }
 }

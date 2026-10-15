@@ -7,5 +7,28 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience survival gameplay on BlobSMP.",
+  "store": "https://store.blobsmp.net/",
+  "socials": {
+    "discord": "https://discord.gg/3kUE3UT7DY"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#ff06e6",
+    "secondary": "#fd2177"
+  }
 }

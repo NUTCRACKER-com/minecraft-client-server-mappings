@@ -16,5 +16,44 @@
     "MINIGAMES",
     "ONEBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play BedWars, Factions & more on JartexNetwork.",
+  "website": "https://jartexnetwork.com/",
+  "store": "https://store.jartexnetwork.com/",
+  "socials": {
+    "twitter": "JartexNetwork",
+    "discord": "https://discord.gg/buVY59eQyz",
+    "youtube": "UCfDU_v9ky0rK2Pndf5v88oA",
+    "instagram": "jartex.network",
+    "facebook": "JartexNetwork"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1"
+  ],
+  "primaryVersion": "1.19.4",
+  "gameTypes": [
+    "Factions",
+    "Skyblock",
+    "Prison",
+    "Survival",
+    "KitPvP",
+    "Lifesteal",
+    "Tycoon",
+    "Minigames",
+    "OneBlock"
+  ],
+  "colors": {
+    "primary": "#f7d331",
+    "secondary": "#d78207"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/jartexnetwork/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/jartexnetwork/banner.gif"
 }

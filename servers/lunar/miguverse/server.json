@@ -8,5 +8,34 @@
     "SKYBLOCK"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival and Skyblock on MiguVerse.",
+  "store": "https://tienda.miguvt.com/",
+  "socials": {
+    "twitter": "MiguVerse",
+    "discord": "https://discord.com/invite/GQrKehchqz"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#bd34eb",
+    "secondary": "#ab34eb"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/miguverse/background.png"
 }

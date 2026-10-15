@@ -6,5 +6,34 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Muffinized Network is a network of servers that provide a unique PvP experience.",
+  "website": "https://muffinized.net/",
+  "store": "https://store.muffinized.net",
+  "socials": {
+    "twitter": "MuffinizedMC",
+    "youtube": "UCrQWvNyjZY8FmL9gG3QGamQ",
+    "discord": "https://discord.com/invite/XpsCQjbEst"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#4542ff",
+    "secondary": "#030303"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/muffinized/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/muffinized/background.png"
 }

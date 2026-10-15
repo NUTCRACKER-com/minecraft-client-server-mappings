@@ -9,5 +9,29 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Spanish Prison & PvP network with custom content.",
+  "store": "https://store.mysticpvp.net",
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA",
+    "SA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "Prison",
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#5A2B7B",
+    "secondary": "#F23840"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mysticpvp/background.png"
 }

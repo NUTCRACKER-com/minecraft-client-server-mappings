@@ -7,5 +7,36 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minigames server.",
+  "website": "https://www.cyre.lol",
+  "store": "https://cyre.lol/store",
+  "socials": {
+    "twitter": "CyreNetwork",
+    "discord": "https://discord.gg/FutCtDAhzj"
+  },
+  "versions": [
+    "1.7.10",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#FFAA00",
+    "secondary": "#FFFFFF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cyre/logo.png"
 }

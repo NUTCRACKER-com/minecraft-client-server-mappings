@@ -8,5 +8,32 @@
     "UHC"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive UHC Server",
+  "website": "https://www.orbitmc.cc",
+  "store": "https://store.orbitmc.cc",
+  "socials": {
+    "discord": "https://discord.gg/krcEfUCKn2"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#00B3FF",
+    "secondary": "#0083BC"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/orbituhc/background.png"
 }

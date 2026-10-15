@@ -9,5 +9,29 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://www.knightarmy.de/",
+  "socials": {
+    "x": "https://x.com/knightarmyde",
+    "discord": "https://discord.gg/knightarmy",
+    "youtube": "https://www.youtube.com/@knightarmyde",
+    "instagram": "https://www.instagram.com/knightarmy.de",
+    "tiktok": "https://www.tiktok.com/@knightarmy.de"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "versions": [
+        "1.21.4<*"
+      ],
+      "description": ""
+    },
+    "skyblock": {
+      "name": "Skyblock",
+      "versions": [
+        "1.21.4<*"
+      ],
+      "description": ""
+    }
+  }
 }

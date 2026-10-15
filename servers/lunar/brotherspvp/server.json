@@ -7,5 +7,31 @@
     "PRISON",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft server PrisonOP and Survival",
+  "store": "https://brotherspvp.tebex.io/",
+  "socials": {
+    "discord": "https://discord.gg/xNQUa5vnHH"
+  },
+  "versions": [
+    "1.8.9"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "Prison",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#FFB600",
+    "secondary": "#B89C00"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/brotherspvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/brotherspvp/background.png"
 }

@@ -11,5 +11,40 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The #1 Spanish-speaking Minecraft PvP server for more than 6 years",
+  "website": "https://www.holypvp.net/",
+  "store": "https://store.holypvp.net/",
+  "socials": {
+    "twitter": "holypvpnet",
+    "discord": "https://discord.gg/U4zmtsD7zn",
+    "tiktok": "@holypvpnet",
+    "instagram": "holypvpnet"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "HCF",
+    "UHC",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#dedede",
+    "secondary": "#e6b511"
+  },
+  "compliance": {
+    "rules": "https://www.holypvp.net/rules"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/holyhcf/background.png"
 }

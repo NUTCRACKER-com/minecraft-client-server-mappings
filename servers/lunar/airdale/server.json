@@ -7,5 +7,37 @@
   "categories": [
     "PRISON"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A classic prison server rebuilt for a new era.",
+  "website": "https://airidale.net",
+  "store": "https://store.airidale.net",
+  "socials": {
+    "twitter": "AiridaleMC",
+    "discord": "https://discord.gg/airidale",
+    "tiktok": "@airidalemc"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#1b7198",
+    "secondary": "#4a5458"
+  },
+  "compliance": {
+    "termsOfService": "https://store.airidale.net/terms/checkout",
+    "privacyPolicy": "https://store.airidale.net/terms/privacy"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/airdale/logo.png"
 }

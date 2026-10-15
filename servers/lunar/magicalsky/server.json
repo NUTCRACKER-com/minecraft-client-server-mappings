@@ -6,5 +6,33 @@
   "categories": [
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "MagicalSky is a skyblock mixing magic, complex machines and exciting quests",
+  "website": "https://www.magicalsky.fr/",
+  "store": "https://www.magicalsky.fr/boutique",
+  "socials": {
+    "twitter": "magicalskymc",
+    "discord": "https://discord.gg/bAJSn6XMJu",
+    "youtube": "@magical_sky",
+    "instagram": "magicalskymc",
+    "tiktok": "@magicalskymc"
+  },
+  "versions": [
+    "1.20.4"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#7C0FC8",
+    "secondary": "#D929F9"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/magicalsky/logo.png"
 }

@@ -9,5 +9,35 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Minigames, and more on LUCKYVN.",
+  "website": "https://luckyvn.com",
+  "store": "https://luckyvn.com/nap-the",
+  "socials": {
+    "discord": "https://discord.com/invite/luckyvn",
+    "facebook": "MCLuckyVN"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#d7f7a1",
+    "secondary": "#fd1c1d"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/luckyvn/background.png"
 }

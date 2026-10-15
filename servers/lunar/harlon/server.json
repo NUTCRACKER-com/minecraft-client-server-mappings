@@ -7,5 +7,29 @@
     "OPENWORLD"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Explore the open world on Harlon City Server.",
+  "website": "http://harlonserver.net/",
+  "socials": {
+    "twitter": "HarlonServer",
+    "discord": "https://discord.com/invite/qMmk8MuEBz",
+    "youtube": "UCUsBniuYo4fKNWy-PcAoDNg",
+    "instagram": "harlonserver",
+    "tiktok": "@harlonserver"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "gameTypes": [
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#06b10e",
+    "secondary": "#06b10e"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/harlon/banner.gif"
 }

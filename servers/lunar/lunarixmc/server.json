@@ -7,5 +7,38 @@
     "KITPVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Italian network with KitPvP and SMP modes, for Java 1.8-1.21.",
+  "store": "https://shop.lunarixmc.com",
+  "socials": {
+    "discord": "https://discord.gg/dTgqaDZmZ8"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it",
+    "en"
+  ],
+  "gameTypes": [
+    "KitPvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#FFC61E",
+    "secondary": "#16357A"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lunarixmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lunarixmc/background.png"
 }

@@ -10,5 +10,32 @@
     "CASUAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Java & Bedrock Server known for minigames and community",
+  "website": "http://mineplex.com/",
+  "store": "https://mineplex.com/store",
+  "socials": {
+    "twitter": "mineplex",
+    "discord": "https://discord.com/invite/mineplex",
+    "youtube": "MineplexGamesOfficial",
+    "instagram": "mineplexofficial",
+    "tiktok": "@playmineplex"
+  },
+  "versions": [
+    "1.8.9",
+    "1.21.11",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Casual"
+  ],
+  "colors": {
+    "primary": "#f38910",
+    "secondary": "#38b1dc"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mineplex/background.png"
 }

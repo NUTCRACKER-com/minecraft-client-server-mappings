@@ -7,5 +7,28 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A tool that connects everyday work into one space.",
+  "website": "https://universal-dirigible-6e3.notion.site/Guide-Page-cbd7d089fd974470befe31d9eeba0d20",
+  "store": "https://skhcs.com/bldsv",
+  "socials": {
+    "discord": "https://discord.com/invite/bldsv"
+  },
+  "versions": [
+    "1.12.2"
+  ],
+  "primaryVersion": "1.12.2",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#740a2c",
+    "secondary": "#ffffff"
+  }
 }

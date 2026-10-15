@@ -7,5 +7,30 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A cross-platform Survival SMP with a passionate community.",
+  "website": "https://embersmp.org/",
+  "store": "https://store.embersmp.org/",
+  "socials": {
+    "discord": "https://discord.gg/embersmp"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#ff4a05",
+    "secondary": "#fec63d"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/embersmp/background.png"
 }

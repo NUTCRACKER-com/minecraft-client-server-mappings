@@ -8,5 +8,36 @@
     "MINIGAMES",
     "UHC"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP, Minigames, and more on Erisium.",
+  "website": "https://erisium.com/",
+  "store": "https://store.erisium.com/",
+  "socials": {
+    "twitter": "Erisium",
+    "discord": "https://discord.com/invite/cRJckZc",
+    "youtube": "Erisium",
+    "instagram": "erisium",
+    "tiktok": "@Erisium",
+    "facebook": "erisium"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#9332f5",
+    "secondary": "#110e2e"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/erisium/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/erisium/background.png"
 }

@@ -7,5 +7,33 @@
     "SURVIVAL",
     "HARDCORE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A modern Minecraft server",
+  "website": "https://deathban.es/",
+  "store": "https://tienda.deathban.es/",
+  "socials": {
+    "twitter": "deathban_",
+    "discord": "https://discord.com/invite/sjYRuGC7y5"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.19",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Hardcore"
+  ],
+  "colors": {
+    "primary": "#ff3344",
+    "secondary": "#ffffff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/deathban/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/deathban/background.png"
 }

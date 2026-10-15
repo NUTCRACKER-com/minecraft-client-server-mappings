@@ -7,5 +7,32 @@
     "SURVIVAL",
     "PARKOUR"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival and Parkour on LovyMC Network.",
+  "store": "https://tienda.lovymc.com/",
+  "socials": {
+    "twitter": "lovymcnetwork",
+    "discord": "https://discord.com/invite/9bNBxBNEUE",
+    "youtube": "UCkffITHR2IDkuTPbB67ZBKQ",
+    "tiktok": "@lovymc.network",
+    "facebook": "LovymcNetwork"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "gameTypes": [
+    "Survival",
+    "Parkour"
+  ],
+  "colors": {
+    "primary": "#fbda00",
+    "secondary": "#fd9000"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lovymc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lovymc/background.png"
 }

@@ -10,5 +10,53 @@
     "MINIGAMES",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The premium experience, in non-premium! Est. 2017",
+  "website": "https://www.blitzmc.us",
+  "store": "https://tienda.blitzmc.us",
+  "socials": {
+    "twitter": "BlitzMCNT",
+    "telegram": "blitzmcnetwork",
+    "discord": "https://discord.gg/eGeDVEF9TA",
+    "instagram": "blitzmcnetwork",
+    "youtube": "blitzmcnetwork"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA",
+    "EU",
+    "SA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#52d7f7",
+    "secondary": "#f3f3f3"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.blitzmc.us/privacyPolicy",
+    "termsOfService": "https://www.blitzmc.us/terms",
+    "rules": "https://www.blitzmc.us/rules"
+  },
+  "video": "kVdMru9WWbU",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blitzmcnetwork/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blitzmcnetwork/background.png"
 }

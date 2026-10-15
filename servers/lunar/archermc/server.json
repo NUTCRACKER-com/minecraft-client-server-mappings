@@ -11,5 +11,39 @@
     "SURVIVAL",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Welcome to ArcherMC. We are a Minecraft server that has been online since 2016.",
+  "website": "https://archermc.net/",
+  "store": "https://buy.archermc.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/archer",
+    "youtube": "Archernetwork",
+    "tiktok": "@archernetwork"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Prison",
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#b91a17",
+    "secondary": "#e96a2f"
+  },
+  "video": "79iSDvBBOpI",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/archermc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/archermc/background.png"
 }

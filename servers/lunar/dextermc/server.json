@@ -6,5 +6,36 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive Lifesteal server",
+  "website": "https://www.dextermc.it",
+  "store": "https://store.dextermc.it",
+  "socials": {
+    "twitter": "DexterMC",
+    "telegram": "dextermc",
+    "discord": "https://discord.gg/dextermc"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#44a1e3",
+    "secondary": "#a854de"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.dextermc.it/privacy",
+    "termsOfService": "https://www.dextermc.it/termini",
+    "rules": "https://www.dextermc.it/regole"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/dextermc/logo.png"
 }

@@ -7,5 +7,32 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "ASIA SMP NETWORK",
+  "socials": {
+    "discord": "https://discord.com/invite/N2vKqVqcVJ"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en",
+    "ko",
+    "ja",
+    "zh-CN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#00ffff",
+    "secondary": "#00bfff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/miraimc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/miraimc/background.png"
 }

@@ -7,5 +7,32 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Spanish Minecraft server featuring diverse gamemodes and competitive events",
+  "store": "https://tienda.astreosmc.net",
+  "socials": {
+    "discord": "https://www.discord.gg/astreos"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "26.1.2"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#44a1e3",
+    "secondary": "#a854de"
+  },
+  "video": "jxKG6d7LqqQ",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/astreosnetwork/logo.png"
 }

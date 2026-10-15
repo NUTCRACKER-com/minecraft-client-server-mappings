@@ -7,5 +7,33 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A sharded Minecraft SMP server and PVP that allows Bedrock",
+  "store": "https://store.c3smp.net",
+  "socials": {
+    "discord": "https://discord.gg/c3gaming",
+    "youtube": "@colin3dge",
+    "tiktok": "@colin3dge"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.7",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#00FF00",
+    "secondary": "#228B22"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/c3smp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/c3smp/banner.png"
 }

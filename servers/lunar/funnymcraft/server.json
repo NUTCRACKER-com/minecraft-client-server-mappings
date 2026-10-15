@@ -6,5 +6,34 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "CzechoSlovakian survival server",
+  "website": "http://funnymcraft.eu",
+  "store": "http://vip.funnymcraft.eu",
+  "socials": {
+    "instagram": "funnymcraft.eu",
+    "discord": "https://discord.gg/85ZYQ7wQAf",
+    "tiktok": "@funnymcraft.eu"
+  },
+  "versions": [
+    "1.20.*",
+    "1.19.*",
+    "1.18.*"
+  ],
+  "primaryVersion": "1.20",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#d8f218",
+    "secondary": "#182af2"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/funnymcraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/funnymcraft/background.png"
 }

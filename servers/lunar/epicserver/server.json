@@ -7,5 +7,43 @@
     "SURVIVAL",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Explore, fight and survive. Join now!",
+  "store": "https://tienda.epicserver.es",
+  "socials": {
+    "discord": "https://discord.com/invite/W6dNB3ZVRw"
+  },
+  "versions": [
+    "1.21.4",
+    "1.21.3",
+    "1.21.1",
+    "1.21",
+    "1.20.6",
+    "1.20.5",
+    "1.20.4",
+    "1.20.3",
+    "1.20.2",
+    "1.20.1",
+    "1.20",
+    "1.19.4",
+    "1.19.3",
+    "1.19.2"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#FFCF00",
+    "secondary": "#FFFFFF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/epicserver/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/epicserver/background.png"
 }

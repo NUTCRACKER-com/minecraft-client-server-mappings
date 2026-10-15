@@ -10,5 +10,28 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://minicraft-server.de",
+  "socials": {
+    "youtube": "https://youtube.com/minicraftserver",
+    "instagram": "https://instagram.com/minicraftserver",
+    "x": "https://x.com/minicraftserver",
+    "discord": "https://minicraft-server.de/discord"
+  },
+  "gamemodes": {
+    "freebuild": {
+      "name": "Freebuild",
+      "versions": [
+        "1.21.8<*"
+      ],
+      "description": "As long as you don't bother anyone, you can build anywhere. There is no general plot protection. OldSchool Freebuild like in 2011."
+    },
+    "citybuild": {
+      "name": "Citybuild",
+      "versions": [
+        "1.21.8<*"
+      ],
+      "description": "Choose a protected plot within one of our four cities."
+    }
+  }
 }

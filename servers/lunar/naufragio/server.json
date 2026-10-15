@@ -8,5 +8,37 @@
     "SURVIVAL",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Why don't you come in? - The best server.",
+  "website": "https://naufragio.es/",
+  "store": "https://tienda.naufragio.es",
+  "socials": {
+    "twitter": "NaufragioNET",
+    "discord": "https://discord.com/invite/qHQUmCgbnH"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#4cd5ff",
+    "secondary": "#3297b6"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/naufragio/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/naufragio/background.png"
 }

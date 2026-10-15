@@ -8,5 +8,32 @@
     "SKYBLOCK",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Join our server to play our OneBlock",
+  "website": "https://www.fruitmc.it/",
+  "store": "https://store.fruitmc.it/",
+  "socials": {
+    "discord": "https://discord.gg/wbvUWUk6jd"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#fc1b02",
+    "secondary": "#FEFEFE"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fruitmc/logo.png"
 }

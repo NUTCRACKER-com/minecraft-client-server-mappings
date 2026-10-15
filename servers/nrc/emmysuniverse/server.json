@@ -10,5 +10,15 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "ITEM_MODEL"
+  ],
+  "website": "https://emmysuniverse.net",
+  "socials": {
+    "discord": "https://discord.gg/pc2kh8GX2Z"
+  },
+  "disabledModules": [
+    "nameInfo"
+  ]
 }

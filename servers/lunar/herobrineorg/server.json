@@ -9,5 +9,32 @@
     "SKYBLOCK"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Minigames, and more on Herobrine.org.",
+  "website": "https://www.herobrine.org/",
+  "store": "https://shop.herobrine.org/",
+  "socials": {
+    "twitter": "herobrinedotorg",
+    "discord": "https://discord.com/invite/herobrine"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "Survival",
+    "Minigames",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#bb8b73",
+    "secondary": "#2e1f0e"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/herobrineorg/banner.gif"
 }

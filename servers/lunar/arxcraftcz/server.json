@@ -8,5 +8,29 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Czech survival with PvP, economy, quests, and custom RPG features.",
+  "website": "https://arxcraft.cz/",
+  "store": "https://store.arxcraft.cz/",
+  "socials": {
+    "discord": "https://discord.com/invite/h6N4aJNfAt",
+    "youtube": "@arxcraftcz",
+    "instagram": "arxcraftcz",
+    "tiktok": "@arxcraftcz"
+  },
+  "versions": [
+    "1.21.4"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#FCE040",
+    "secondary": "#111111"
+  }
 }

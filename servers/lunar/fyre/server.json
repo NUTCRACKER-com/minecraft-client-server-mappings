@@ -8,5 +8,32 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play HCF and PvP on Fyre.",
+  "store": "https://store.fyre.cc/",
+  "socials": {
+    "twitter": "FyreServices",
+    "discord": "https://discord.com/invite/fyregames",
+    "telegram": "fyregames"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "HCF",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#f26109",
+    "secondary": "#eeba51"
+  }
 }

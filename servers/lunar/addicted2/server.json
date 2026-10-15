@@ -9,5 +9,33 @@
     "FACTIONS"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Skyblock, Minigames, and more on Addicted2 Network.",
+  "website": "https://addicted2.ro/",
+  "store": "http://store.addicted2.ro/",
+  "socials": {
+    "discord": "https://discord.com/invite/addicted2",
+    "instagram": "addicted2ro"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Minigames",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#d73131",
+    "secondary": "#d1d2d2"
+  }
 }

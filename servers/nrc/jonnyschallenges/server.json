@@ -8,5 +8,14 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "gamemodes": {
+    "customchallenges": {
+      "name": "Challenges",
+      "versions": [
+        "1.21.8"
+      ],
+      "description": ""
+    }
+  }
 }

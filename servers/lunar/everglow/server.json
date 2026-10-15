@@ -8,5 +8,40 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Generator islands and a Survival SMP with clans - on Java and Bedrock",
+  "socials": {
+    "discord": "https://discord.gg/everglownetwork",
+    "tiktok": "@everglownetwork"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*",
+    "26.3.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "gameTypes": [
+    "Tycoon",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#3cff6e",
+    "secondary": "#00e5ff"
+  },
+  "compliance": {
+    "privacyPolicy": "https://admin.everglow.network/legal#privacy"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/everglow/banner.png"
 }

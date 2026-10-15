@@ -10,5 +10,37 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive Duels, Meetups, FFAs and Events",
+  "website": "https://www.noxora.net",
+  "store": "https://shop.noxora.net",
+  "socials": {
+    "twitter": "NoxoraNET",
+    "youtube": "@NoxoraNET",
+    "discord": "https://discord.gg/EjszGsFbfv"
+  },
+  "versions": [
+    "1.21.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.21.5",
+  "regions": [
+    "AF",
+    "EU"
+  ],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHC",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#9331ab",
+    "secondary": "#250535"
+  },
+  "video": "gNdbw59esvw",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/noxora/background.png"
 }

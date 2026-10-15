@@ -13,5 +13,19 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "HEALTH_INDICATORS"
+  ],
+  "website": "https://www.pitschonix.eu",
+  "socials": {
+    "discord": "https://discord.gg/92xE2whxzm",
+    "youtube": "https://www.youtube.com/@Pitschonix?sub_confirmation=1",
+    "x": "https://x.com/pitschonix",
+    "instagram": "https://www.instagram.com/pitschonix/",
+    "tiktok": "https://www.tiktok.com/@pitschonix"
+  },
+  "disabledModules": [
+    "nameInfo"
+  ]
 }

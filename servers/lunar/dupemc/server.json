@@ -6,5 +6,33 @@
   "categories": [
     "FACTIONS"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Build your faction and conquer on DupeMC.",
+  "website": "https://dupemc.net/",
+  "store": "https://store.dupemc.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/Xvn7Ab3c48"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#16bdf5",
+    "secondary": "#55FF55"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/dupemc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/dupemc/background.png"
 }

@@ -8,5 +8,70 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://www.cubecraft.net",
+  "store": "https://store.cubecraft.net",
+  "socials": {
+    "youtube": "https://www.youtube.com/user/cubecraftgamesserver",
+    "tiktok": "https://www.tiktok.com/@cubecrafttiktok",
+    "discord": "https://discord.gg/cubecraft"
+  },
+  "gamemodes": {
+    "eggwars": {
+      "name": "EggWars",
+      "versions": [
+        "1.21"
+      ],
+      "description": ""
+    },
+    "luckyislands": {
+      "name": "Lucky Islands",
+      "versions": [
+        "1.21"
+      ],
+      "description": ""
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "versions": [
+        "1.21"
+      ],
+      "description": ""
+    },
+    "skyblock": {
+      "name": "SkyBlock",
+      "versions": [
+        "1.21"
+      ],
+      "description": ""
+    },
+    "ffa": {
+      "name": "Free for All",
+      "versions": [
+        "1.21"
+      ],
+      "description": ""
+    },
+    "parkour": {
+      "name": "Parkour",
+      "versions": [
+        "1.21"
+      ],
+      "description": ""
+    },
+    "pillarsoffortune": {
+      "name": "Pillars of Fortune",
+      "versions": [
+        "1.21"
+      ],
+      "description": ""
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "versions": [
+        "1.21"
+      ],
+      "description": ""
+    }
+  }
 }

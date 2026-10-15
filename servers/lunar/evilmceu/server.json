@@ -7,5 +7,33 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Advanced server network",
+  "website": "https://evilmc.eu",
+  "store": "https://sklep.evilmc.eu",
+  "socials": {
+    "discord": "https://discord.com/invite/PMccjB8AdJ"
+  },
+  "versions": [
+    "1.21.11"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#9F27F5",
+    "secondary": "#9F27F5"
+  },
+  "compliance": {
+    "privacyPolicy": "https://evilmc.eu/polityka-prywatnosci",
+    "termsOfService": "https://evilmc.eu/regulamin",
+    "rules": "https://evilmc.eu/polityka-regulamin"
+  }
 }

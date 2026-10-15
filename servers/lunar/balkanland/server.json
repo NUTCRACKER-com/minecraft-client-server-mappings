@@ -9,5 +9,33 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and Survival on BalkanLand Network.",
+  "website": "https://play.balkanland.xyz",
+  "store": "https://store.balkanland.xyz",
+  "socials": {
+    "discord": "https://discord.gg/balkanland-1079043253124477040",
+    "tiktok": "@balkanland8"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#8F41DC",
+    "secondary": "#52257D"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/balkanland/background.png"
 }

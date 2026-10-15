@@ -9,5 +9,16 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "HEALTH_INDICATORS"
+  ],
+  "store": "https://shop.hugosmp.net",
+  "socials": {
+    "tiktok": "https://tiktok.com/@letshugosmp",
+    "discord": "https://discord.gg/hugosmp"
+  },
+  "disabledModules": [
+    "nameInfo"
+  ]
 }

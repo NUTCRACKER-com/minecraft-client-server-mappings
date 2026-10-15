@@ -8,5 +8,37 @@
     "ADVENTURE",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A French Boxed server with unique gameplay and adventure features.",
+  "website": "https://blocaria.fr/",
+  "store": "https://store.blocaria.fr/",
+  "socials": {
+    "tiktok": "@tk.blocaria.fr",
+    "discord": "https://discord.com/invite/blocaria"
+  },
+  "versions": [
+    "1.20.4",
+    "1.21.5"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Factions",
+    "Adventure",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#3a1d8c",
+    "secondary": "#f09f19"
+  },
+  "compliance": {
+    "rules": "https://wiki.blocaria.fr/informations-importantes/reglement-ig"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blocaria/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blocaria/background.png"
 }

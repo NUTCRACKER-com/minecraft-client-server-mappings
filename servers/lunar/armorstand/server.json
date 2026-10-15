@@ -7,5 +7,29 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A server to sharpen your PvP skills.",
+  "socials": {
+    "discord": "https://discord.gg/XxkwHTr7NB"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*",
+    "26.3.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA",
+    "EU",
+    "AS"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#fcad6d",
+    "secondary": "#f0f0f0"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/armorstand/background.png"
 }

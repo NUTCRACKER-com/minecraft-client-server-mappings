@@ -12,5 +12,35 @@
     "COMPETITIVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames and PvP on Bedwars Practice.",
+  "store": "https://store.bedwarspractice.club/",
+  "socials": {
+    "twitter": "BedwarsPractice",
+    "discord": "https://discord.com/invite/TUeUnkqXnY"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Practice",
+    "Minigames",
+    "PvP",
+    "Competitive"
+  ],
+  "colors": {
+    "primary": "#8C1615",
+    "secondary": "#413420"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bedwarspractice/banner.png"
 }

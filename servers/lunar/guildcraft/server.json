@@ -9,5 +9,42 @@
     "SKYBLOCK",
     "PRISON"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience a new era of Minecraft at GuildCraft with custom-built plugins.",
+  "website": "https://guildcraft.net",
+  "store": "https://store.guildcraft.net",
+  "socials": {
+    "discord": "https://discord.com/invite/guildcraft",
+    "tiktok": "@guildcraft"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#C89A3C",
+    "secondary": "#2F6F73"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/guildcraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/guildcraft/background.png"
 }

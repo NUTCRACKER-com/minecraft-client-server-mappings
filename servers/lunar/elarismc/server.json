@@ -8,5 +8,38 @@
     "KITPVP",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A French Minigames & FFA server: BrainFFA, BedWars, ArenaFight",
+  "website": "https://blockpvp.fr",
+  "socials": {
+    "discord": "https://discord.gg/elarismc"
+  },
+  "versions": [
+    "1.8.9",
+    "1.12.2",
+    "1.16.5",
+    "1.17.1",
+    "1.18.2",
+    "1.19.4",
+    "1.20.4",
+    "1.21.1"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "KitPvP",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#EFABD0",
+    "secondary": "#FF52AF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/elarismc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/elarismc/background.png"
 }

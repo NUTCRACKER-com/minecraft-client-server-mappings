@@ -9,5 +9,31 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Minecraft Minigame Network with many features, that you've never seen before!",
+  "website": "https://horizonlegacy.net",
+  "socials": {
+    "discord": "https://discord.com/invite/vDF5nyqCSD"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "de",
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#cc00f0",
+    "secondary": "#f00000"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/horizonlegacy/background.png"
 }

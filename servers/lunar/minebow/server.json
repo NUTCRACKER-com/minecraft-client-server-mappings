@@ -8,5 +8,31 @@
     "PVE",
     "ADVENTURE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "MineBow Network server page.",
+  "website": "https://minebow.net/",
+  "store": "https://tienda.minebow.net/",
+  "socials": {
+    "twitter": "minebow",
+    "discord": "https://discord.com/invite/minebow",
+    "telegram": "minebow",
+    "tiktok": "@minebownetwork"
+  },
+  "versions": [
+    "1.8.*",
+    "1.16.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "PvP",
+    "PvE",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#db213a",
+    "secondary": "#3f3e4c"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minebow/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minebow/background.png"
 }

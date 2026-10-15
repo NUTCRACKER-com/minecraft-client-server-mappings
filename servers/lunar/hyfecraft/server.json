@@ -8,5 +8,32 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Protect The Core (PTC) server",
+  "socials": {
+    "facebook": "hyfecraft"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA",
+    "SA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#295FC1",
+    "secondary": "#E31523"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hyfecraft/logo.png"
 }

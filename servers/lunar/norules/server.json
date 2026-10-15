@@ -7,5 +7,29 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Test your combat skills on No Rules.",
+  "website": "https://s2no-rules.pl/",
+  "store": "https://s2no-rules.pl/",
+  "socials": {
+    "discord": "https://discord.com/invite/DPkHH42",
+    "facebook": "s2noRules"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ffffff",
+    "secondary": "#ad6f4b"
+  }
 }

@@ -8,5 +8,39 @@
     "SKYBLOCK",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Skyblock, and more on Minevia Network.",
+  "website": "https://minevia.net/",
+  "store": "https://minevia.net/store",
+  "socials": {
+    "discord": "https://discord.com/invite/minevia",
+    "youtube": "minevianetwork",
+    "instagram": "minevianetwork"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#3494E6",
+    "secondary": "#EC6EAD"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minevia/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minevia/background.png"
 }

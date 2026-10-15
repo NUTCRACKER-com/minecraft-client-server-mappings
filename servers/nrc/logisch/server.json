@@ -9,5 +9,11 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://www.logisch.tv",
+  "socials": {
+    "youtube": "https://www.youtube.com/@LogischXD",
+    "tiktok": "https://www.tiktok.com/@logisch.official",
+    "discord": "https://discord.gg/zlogischsw-community-875735246618910770"
+  }
 }

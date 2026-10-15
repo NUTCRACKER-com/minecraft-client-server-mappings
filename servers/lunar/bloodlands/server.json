@@ -7,5 +7,37 @@
     "HCF",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Upcoming HCF Server",
+  "website": "https://bloodlands.org/",
+  "store": "https://store.bloodlands.org/",
+  "socials": {
+    "discord": "https://discord.com/invite/t7jZZvmEY8"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "HCF",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#8B0000",
+    "secondary": "#ffffff"
+  },
+  "compliance": {
+    "privacyPolicy": "https://store.bloodlands.org/privacy",
+    "termsOfService": "https://store.bloodlands.org/terms",
+    "rules": "https://bloodlands.org/rules/"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bloodlands/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bloodlands/banner.gif"
 }

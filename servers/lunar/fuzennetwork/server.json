@@ -10,5 +10,35 @@
     "SKYBLOCK"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Server focused on PvP minigames and PvP survival modes.",
+  "website": "https://fuzen.gg/",
+  "wiki": "https://docs.fuzen.gg/",
+  "socials": {
+    "discord": "https://discord.gg/fuzen-comunidad-mc-599015976712798249",
+    "twitter": "FuzenNetwork",
+    "facebook": "FuzenNetwork",
+    "instagram": "fuzennetwork/",
+    "tiktok": "@fuzenmc"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#FCB508",
+    "secondary": "#AD180A"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fuzennetwork/background.png"
 }

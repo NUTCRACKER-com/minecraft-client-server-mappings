@@ -8,5 +8,39 @@
     "SURVIVAL",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The sound of change",
+  "store": "https://tienda.echolabs.lat",
+  "socials": {
+    "discord": "https://discord.gg/e2duex4hqm"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#ff6000",
+    "secondary": "#e00200"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/echolabs/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/echolabs/background.png"
 }

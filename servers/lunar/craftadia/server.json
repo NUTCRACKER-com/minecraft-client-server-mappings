@@ -6,5 +6,27 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft Survival on a whole new level | play.craftadia.com",
+  "website": "https://craftadia.com/",
+  "store": "https://store.craftadia.com/",
+  "socials": {
+    "twitter": "CraftadiaMC",
+    "discord": "https://discord.com/invite/YCUFS8qJMn"
+  },
+  "versions": [
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#955e22",
+    "secondary": "#372826"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/craftadia/logo.png"
 }

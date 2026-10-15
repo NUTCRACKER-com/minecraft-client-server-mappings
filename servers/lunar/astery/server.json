@@ -8,5 +8,36 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play HCF, PvP, and more on Astery.",
+  "store": "https://store.astery.us",
+  "socials": {
+    "twitter": "AsteryNw",
+    "discord": "https://discord.gg/J7tqPCs4Uh"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "HCF",
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#61bff7",
+    "secondary": "#bfe5fc"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/astery/logo.png"
 }

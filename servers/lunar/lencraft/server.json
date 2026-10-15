@@ -8,5 +8,32 @@
     "MINIGAMES",
     "HARDCORE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The best FullPvP and BedWars 1.8.9 server",
+  "website": "https://lencraft.net",
+  "socials": {
+    "discord": "https://discord.gg/SBK5MsYwYm"
+  },
+  "versions": [
+    "1.8.9"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Hardcore"
+  ],
+  "colors": {
+    "primary": "#FF5555",
+    "secondary": "#FFFFFF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lencraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lencraft/background.png"
 }

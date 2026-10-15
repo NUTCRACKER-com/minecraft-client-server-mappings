@@ -8,5 +8,28 @@
     "UHC"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Want to compete against other players or just have a good time? Join us!",
+  "store": "https://store.orientalpvp.net",
+  "socials": {
+    "twitter": "orientalpvp",
+    "discord": "https://discord.gg/XNwsmsBb3B"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#00AAAA",
+    "secondary": "#FF55FF"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/orientalnetwork/background.png"
 }

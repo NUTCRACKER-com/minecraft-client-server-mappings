@@ -10,5 +10,45 @@
     "ADVENTURE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Explore endless dungeons, collect upgradeable gear and climb the leaderboards!",
+  "website": "https://justchunks.net",
+  "store": "https://justchunks.net/shop",
+  "socials": {
+    "twitter": "JustChunks",
+    "discord": "https://discord.com/invite/wf94dAA",
+    "youtube": "@JustChunks",
+    "instagram": "justchunks",
+    "twitch": "justchunks",
+    "reddit": "JustChunks",
+    "tiktok": "@justchunksnet",
+    "facebook": "JustChunks"
+  },
+  "versions": [
+    "26.2.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "gameTypes": [
+    "PvE",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#24be62",
+    "secondary": "#161616"
+  },
+  "compliance": {
+    "privacyPolicy": "https://justchunks.net/legal/privacy",
+    "termsOfService": "https://justchunks.net/legal/terms",
+    "rules": "https://justchunks.net/rules",
+    "support": "https://justchunks.net/help"
+  },
+  "video": "FYM9Uze_WTE",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/justchunks/background.png"
 }

@@ -11,5 +11,27 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://wishmc.net",
+  "socials": {
+    "discord": "https://wishmc.net/discord",
+    "youtube": "https://youtube.com/@wishmcnet",
+    "instagram": "https://instagram.com/wishmcnet"
+  },
+  "gamemodes": {
+    "lasertag": {
+      "name": "Lasertag",
+      "versions": [
+        ">1.21"
+      ],
+      "description": ""
+    },
+    "wishattack": {
+      "name": "Wish Attack 4",
+      "versions": [
+        ">1.21"
+      ],
+      "description": ""
+    }
+  }
 }

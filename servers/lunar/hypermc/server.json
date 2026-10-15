@@ -10,5 +10,29 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The leading Italian server for competitive play and custom survival modes.",
+  "website": "https://www.hyper-mc.it",
+  "socials": {
+    "discord": "https://discord.gg/Bgut9vVz8X",
+    "youtube": "HyperMC Official",
+    "tiktok": "@hypermc_official",
+    "twitch": "HyperMC_Network"
+  },
+  "versions": [
+    "1.21",
+    "1.21.8"
+  ],
+  "primaryVersion": "1.21.8",
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "KitPvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#ff2a2a",
+    "secondary": "#1a1a1e"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hypermc/background.png"
 }

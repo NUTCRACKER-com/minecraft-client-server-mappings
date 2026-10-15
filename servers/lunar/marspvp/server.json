@@ -8,5 +8,34 @@
     "HCF",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive PvP with events and unique gamemodes.",
+  "socials": {
+    "twitter": "MarsNetworkOf",
+    "discord": "https://discord.gg/DDfEdRX8xu",
+    "youtube": "MarsNetworkOf"
+  },
+  "versions": [
+    "1.8.*",
+    "1.16.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#e75000",
+    "secondary": "#32CD32"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/marspvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/marspvp/background.png"
 }

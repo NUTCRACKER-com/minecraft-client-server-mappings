@@ -11,10 +11,20 @@
   "icon": "icon.png",
   "banner": "banner.png",
   "disabledModules": [
-    "autoText",
     "fovChanger",
     "fullbright",
-    "noFog"
+    "noFog",
+    "autoText",
+    "nameInfo"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "TNT_TIMER",
+    "WEATHER_CHANGER",
+    "TIME_CHANGER"
+  ],
+  "website": "https://mantu.best",
+  "socials": {
+    "discord": "https://discord.gg/mantu"
+  }
 }

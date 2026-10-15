@@ -6,5 +6,30 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Java Minecraft Server, with survival mode",
+  "website": "https://nordicnetwork.es",
+  "store": "https://tienda.nordicnetwork.es/",
+  "socials": {
+    "tiktok": "@realnordicmc",
+    "discord": "https://discord.gg/B9vj8HdjEj",
+    "youtube": "@nordicminecraft"
+  },
+  "versions": [
+    "1.21.11"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU",
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#4498DB",
+    "secondary": "#4498DB"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nordicnetwork/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nordicnetwork/background.png"
 }

@@ -13,5 +13,44 @@
     "CASUAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Ranked PvP, training exercises, leaderboards, and bot duels.",
+  "website": "https://mctrainer.club",
+  "socials": {
+    "discord": "https://discord.gg/KWbWY8RA8t",
+    "youtube": "@mctrainerclub",
+    "instagram": "mctrainerclub",
+    "tiktok": "@mctrainerclub"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Practice",
+    "PvP",
+    "Competitive",
+    "Crystal PvP",
+    "KitPvP",
+    "UHC",
+    "Casual"
+  ],
+  "colors": {
+    "primary": "#00D9FF",
+    "secondary": "#007BFF"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mctrainer/background.png"
 }

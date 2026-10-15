@@ -12,5 +12,54 @@
     "LIFESTEAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The largest Minecraft network connecting millions of servers.",
+  "website": "https://minehut.com/",
+  "store": "https://app.minehut.com/shop/credits/",
+  "socials": {
+    "twitter": "minehut",
+    "discord": "https://discord.com/invite/minehut",
+    "youtube": "Minehut",
+    "instagram": "minehutmc",
+    "tiktok": "@minehut",
+    "reddit": "minehut",
+    "facebook": "MinehutServers"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Roleplay",
+    "Survival",
+    "Lifesteal"
+  ],
+  "colors": {
+    "primary": "#488aff",
+    "secondary": "#8beac9"
+  },
+  "compliance": {
+    "privacyPolicy": "https://app.minehut.com/privacy-policy",
+    "termsOfService": "https://app.minehut.com/terms-of-service",
+    "rules": "https://forums.minehut.com/rules/"
+  },
+  "video": "jzOIURoz1v4",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minehut/banner.png"
 }

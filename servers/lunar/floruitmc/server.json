@@ -7,5 +7,28 @@
     "MINIGAMES",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames and Survival on Floruit MC.",
+  "website": "https://floruitmc.com/",
+  "store": "https://floruitmc.com/shop",
+  "socials": {
+    "discord": "https://discord.gg/kGrUnWB3Dy"
+  },
+  "versions": [
+    "1.20.4"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "SA"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#f2cb02",
+    "secondary": "#8f52ff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/floruitmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/floruitmc/background.png"
 }

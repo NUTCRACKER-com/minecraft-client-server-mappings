@@ -7,5 +7,39 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival and PvP on Futurium.",
+  "website": "https://futurium.com.br/",
+  "store": "https://futurium.com.br/loja/",
+  "socials": {
+    "twitter": "Futuriumnetwork",
+    "discord": "https://discord.com/invite/NQJbwmJv6M",
+    "youtube": "FuturiumNetwork",
+    "instagram": "futurium_network",
+    "facebook": "FuturiumNetwork"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "pt-PT"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ecb94f",
+    "secondary": "#372826"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/futurium/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/futurium/background.png"
 }

@@ -8,5 +8,30 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and Minigames on Cool Crafter.",
+  "website": "https://coolcrafter.club/",
+  "store": "https://coolcrafter.club/store/",
+  "socials": {
+    "twitter": "coolcrafterclub",
+    "discord": "https://discord.gg/7bdBCXgX4y",
+    "youtube": "coolcrafterclub"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#ffb133",
+    "secondary": "#52ec1e"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/coolcrafter/banner.gif"
 }

@@ -8,5 +8,32 @@
     "HCF"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and HCF on KoraMC.",
+  "store": "https://store.koramc.cc/",
+  "socials": {
+    "twitter": "KoraMCNetwork",
+    "discord": "https://discord.gg/koramc"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.9"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF"
+  ],
+  "colors": {
+    "primary": "#FF0000",
+    "secondary": "#8B0000"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/koramc/background.png"
 }

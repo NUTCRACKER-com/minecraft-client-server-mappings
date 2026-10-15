@@ -8,5 +8,28 @@
     "PVP",
     "FACTIONS"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play HCF, PvP, and more on FasterMC.",
+  "store": "https://store.fastermc.net/",
+  "socials": {
+    "discord": "https://discord.gg/7p8aCDUte3"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "HCF",
+    "PvP",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#00AAAA",
+    "secondary": "#55FFFF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fastermc/logo.png"
 }

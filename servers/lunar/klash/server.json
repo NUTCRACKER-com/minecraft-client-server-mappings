@@ -8,5 +8,32 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A network of minigames and gamemodes to adventure!",
+  "website": "https://klash.dev",
+  "socials": {
+    "twitter": "klashdevelopment",
+    "discord": "https://discord.gg/fBSuJ2AqPa"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Parkour",
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#ff6f00",
+    "secondary": "#6B2F35"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/klash/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/klash/background.png"
 }

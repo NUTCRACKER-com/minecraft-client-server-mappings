@@ -9,5 +9,47 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "an Italian server with 3 fun modes!",
+  "website": "https://decamc.net",
+  "store": "https://store.decamc.net",
+  "socials": {
+    "discord": "https://discord.gg/K6cfj8Vy3j",
+    "youtube": "@DecaMC",
+    "telegram": "DecaMC",
+    "tiktok": "@decamc.net"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#55FFFF",
+    "secondary": "#00AAAA"
+  },
+  "compliance": {
+    "rules": "https://decamc.net/regole",
+    "support": "https://supporto.decamc.net"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/decamc/background.png"
 }

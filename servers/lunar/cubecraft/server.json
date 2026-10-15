@@ -10,5 +10,35 @@
     "PARKOUR"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames and PvP on CubeCraft Games.",
+  "website": "https://www.cubecraft.net/",
+  "store": "https://store.cubecraft.net/",
+  "socials": {
+    "twitter": "CubeCraftGames",
+    "discord": "https://discord.com/invite/cubecraft",
+    "youtube": "cubecraftgamesserver",
+    "instagram": "cubecraftgames",
+    "tiktok": "@cubecrafttiktok",
+    "facebook": "CubeCraftGames"
+  },
+  "versions": [
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA",
+    "AS"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Skyblock",
+    "Parkour"
+  ],
+  "colors": {
+    "primary": "#1e89eb",
+    "secondary": "#ffffff"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cubecraft/banner.gif"
 }

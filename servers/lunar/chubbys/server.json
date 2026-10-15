@@ -8,5 +8,35 @@
     "PVP",
     "FACTIONS"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Semi-anarchic survival with PvP, events and total freedom. Join us!",
+  "website": "https://chubbys.club",
+  "store": "https://store.chubbys.club",
+  "socials": {
+    "discord": "https://discord.com/invite/59a7mpFb8u"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.6",
+  "regions": [
+    "SA",
+    "NA",
+    "EU",
+    "AS"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#ff007f",
+    "secondary": "#8e3a59"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/chubbys/logo.png"
 }

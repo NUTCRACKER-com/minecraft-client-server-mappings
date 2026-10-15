@@ -9,5 +9,28 @@
     "UHC"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP, Minigames, and more on Juddho.",
+  "socials": {
+    "discord": "https://discord.com/invite/GmptZQfBRa"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#a06de8",
+    "secondary": "#6d34bc"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/juddho/background.png"
 }

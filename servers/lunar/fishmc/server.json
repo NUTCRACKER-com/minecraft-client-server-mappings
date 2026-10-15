@@ -9,5 +9,28 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "SkyBlock, PvE & Survival",
+  "socials": {
+    "discord": "https://discord.com/invite/fishmc"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "PvE",
+    "Skyblock",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#FCB454",
+    "secondary": "#FCB454"
+  }
 }

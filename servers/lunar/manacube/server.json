@@ -13,5 +13,48 @@
     "CREATIVE",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Timeless gamemodes, original features, active community",
+  "website": "https://manacube.com/",
+  "store": "https://store.manacube.com/",
+  "wiki": "https://manacube.wiki/",
+  "socials": {
+    "twitter": "ManaCubeMC",
+    "discord": "https://discord.com/invite/manacube",
+    "youtube": "manacube",
+    "instagram": "manacubemc",
+    "tiktok": "@manacubemc"
+  },
+  "versions": [
+    "1.8.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Parkour",
+    "Skyblock",
+    "Prison",
+    "KitPvP",
+    "Creative",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#1b96a8",
+    "secondary": "#124656"
+  },
+  "compliance": {
+    "rules": "https://manacube.com/rules",
+    "support": "https://manacube.com/support/"
+  },
+  "video": "YpNGlgZn2u4",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/manacube/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/manacube/background.png"
 }

@@ -7,5 +7,34 @@
     "PVP",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A wonderful server full of adventures - Play Now!",
+  "store": "https://tienda.mineblaz.net/",
+  "socials": {
+    "discord": "https://discord.gg/mineblaz"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#ff5e00",
+    "secondary": "#ff0000"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mineblaznw/logo.png"
 }

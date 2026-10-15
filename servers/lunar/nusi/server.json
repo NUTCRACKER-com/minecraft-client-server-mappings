@@ -6,5 +6,28 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Test your combat skills on Nusi.",
+  "store": "https://sklep.nusi.pl/",
+  "socials": {
+    "discord": "https://discord.com/invite/AJqSH5WKSu"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.17.1",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#fbbd21",
+    "secondary": "#40b3de"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nusi/logo.png"
 }

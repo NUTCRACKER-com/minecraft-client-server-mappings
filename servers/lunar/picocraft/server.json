@@ -9,5 +9,28 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Survival, Roleplay, and Practice PvP Minecraft server",
+  "socials": {
+    "discord": "https://discord.gg/J2wfneTt7E",
+    "youtube": "@PicoCraft-Network"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "gameTypes": [
+    "Survival",
+    "Roleplay",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#F2E253",
+    "secondary": "#D36A2C"
+  }
 }

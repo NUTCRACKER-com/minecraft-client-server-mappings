@@ -8,5 +8,41 @@
     "MINIGAMES",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Hemerald is a quiet server, suitable for players who want to relax.",
+  "website": "https://www.hemerald.net/",
+  "store": "https://shop.hemerald.net/",
+  "socials": {
+    "discord": "https://discord.gg/hemerald",
+    "telegram": "hemeraldnetwork",
+    "tiktok": "@hemeraldnetwork"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU",
+    "NA",
+    "SA"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#e617e2",
+    "secondary": "#318fe0"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hemerald/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hemerald/background.png"
 }

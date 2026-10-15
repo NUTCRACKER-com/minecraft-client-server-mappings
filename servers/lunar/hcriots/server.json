@@ -9,5 +9,32 @@
     "UHC"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Home of Old HCF.",
+  "store": "https://store.hcriots.net",
+  "socials": {
+    "twitter": "HCRiots_net",
+    "discord": "https://discord.gg/ePVv9apzcr"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#ff2d00",
+    "secondary": "#000000"
+  }
 }

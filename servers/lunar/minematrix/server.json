@@ -8,5 +8,48 @@
     "MINIGAMES",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Adventure & MiniGames Server - Cracked accounts allowed, 20+ gamemodes",
+  "website": "https://minematrix.lol",
+  "store": "https://store.minematrix.lol",
+  "socials": {
+    "discord": "https://discord.com/invite/4UA2s9bS4T"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#AA00AA",
+    "secondary": "#FF55FF"
+  },
+  "compliance": {
+    "privacyPolicy": "https://minematrix.lol/privacy",
+    "termsOfService": "https://minematrix.lol/terms",
+    "rules": "https://minematrix.lol/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minematrix/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minematrix/banner.gif"
 }

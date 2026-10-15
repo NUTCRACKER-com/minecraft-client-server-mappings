@@ -8,5 +8,40 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "SMP that allows Bedrock",
+  "website": "https://europesmp.eu",
+  "store": "https://europesmp.eu/store",
+  "socials": {
+    "twitter": "EuorpeSMP",
+    "discord": "https://discord.com/invite/europesmp",
+    "youtube": "EuropeSMP",
+    "tiktok": "@EuropeSMP"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Hardcore",
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#1d8ff7",
+    "secondary": "#cac5be"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/europesmp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/europesmp/background.png"
 }

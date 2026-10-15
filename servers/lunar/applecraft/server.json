@@ -7,5 +7,28 @@
     "SURVIVAL",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A modern server that aims to enhance vanilla gameplay in fun and exciting ways.",
+  "website": "https://www.applecraft.org/",
+  "store": "https://shop.applecraft.org/",
+  "socials": {
+    "discord": "https://discord.com/invite/applecraft"
+  },
+  "versions": [
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#ffd95f",
+    "secondary": "#5fba6f"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/applecraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/applecraft/background.png"
 }

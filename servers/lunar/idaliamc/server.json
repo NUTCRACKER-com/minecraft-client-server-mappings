@@ -8,5 +8,39 @@
     "PVE",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Argentine-Venezuelan server dedicated to entertainment and fair play.",
+  "store": "https://idalia.buycraft.net/",
+  "socials": {
+    "discord": "https://discord.gg/vG2v8Dcyfd",
+    "youtube": "@idaliamc"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvE",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#0ab0b1",
+    "secondary": "#bbbbbb"
+  },
+  "video": "dJkq3NYxO3Y",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/idaliamc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/idaliamc/background.png"
 }

@@ -9,5 +9,30 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Adventure, PvP, and Survival — multiple gamemodes await!",
+  "website": "https://www.anantix.network/",
+  "socials": {
+    "discord": "https://discord.gg/SFWZjzxjDM"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Adventure",
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#8faceb",
+    "secondary": "#3495eb"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/anantix/background.png"
 }

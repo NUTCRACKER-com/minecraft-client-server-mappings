@@ -7,5 +7,25 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Newwind is a survival Minecraft server. Join now!",
+  "website": "https://newwindserver.com/",
+  "store": "https://store.newwindserver.com/",
+  "socials": {
+    "discord": "https://discord.com/invite/newwind-593948695804772352"
+  },
+  "versions": [
+    "1.20"
+  ],
+  "primaryVersion": "1.20",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#f4f4f4",
+    "secondary": "#0c0c0c"
+  }
 }

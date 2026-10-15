@@ -8,5 +8,39 @@
     "SURVIVAL",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Practice, Lifesteal, Nightbox & BoxPvP! Join us for events and epic adventures!",
+  "website": "https://www.gigamc.it/",
+  "store": "https://store.gigamc.it/",
+  "socials": {
+    "discord": "https://discord.gg/gigamc"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.7",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#f7b500",
+    "secondary": "#00bcd4"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gigamc/logo.png"
 }

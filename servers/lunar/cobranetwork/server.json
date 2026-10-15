@@ -9,5 +9,31 @@
     "FACTIONS"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience the best factions with optimized cannoning and stable PvP!",
+  "website": "https://cobranetwork.net/",
+  "store": "https://store.cobranetwork.net/",
+  "socials": {
+    "discord": "https://discord.gg/cobranetwork"
+  },
+  "versions": [
+    "1.8.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#DB1E1E",
+    "secondary": "#942626"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cobranetwork/background.png"
 }

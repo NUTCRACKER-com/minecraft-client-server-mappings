@@ -9,5 +9,37 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP, Survival, and more on EternityMC.net.",
+  "website": "https://eternitymc.net/",
+  "store": "https://store.eternitymc.net/",
+  "socials": {
+    "instagram": "eternitymcnet",
+    "tiktok": "@eternitymc.net",
+    "discord": "https://discord.com/invite/7Y3my2J7nQ",
+    "youtube": "@eternitymcnet"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#00aaaa",
+    "secondary": "#55ffff"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/eternitymcnet/background.png"
 }

@@ -9,5 +9,40 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Network made for the players, by the players",
+  "website": "https://www.nebulamc.net",
+  "store": "https://store.nebulamc.net/",
+  "socials": {
+    "twitter": "nebulamc_net",
+    "discord": "https://discord.gg/enderman",
+    "youtube": "@nebulamcnet",
+    "instagram": "nebulamcnet",
+    "tiktok": "@nebulamc.net"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#A147B3",
+    "secondary": "#E5ADEF"
+  },
+  "compliance": {
+    "rules": "https://www.nebulamc.net/rules",
+    "support": "https://www.nebulamc.net/blog"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nebula/background.png"
 }

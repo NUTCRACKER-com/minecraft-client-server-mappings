@@ -6,5 +6,25 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience survival gameplay on Historica Nations.",
+  "store": "https://shop.historica.me/",
+  "socials": {
+    "discord": "https://discord.com/invite/Hu38HV7faP"
+  },
+  "versions": [
+    "1.19.4"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#d751e4",
+    "secondary": "#c0881b"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/historicanations/logo.png"
 }

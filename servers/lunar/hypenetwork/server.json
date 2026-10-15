@@ -8,5 +8,39 @@
     "PRISON",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Skyblock, Prison and Survival server with a custom TexturePack!",
+  "website": "https://hypenetwork.fr/",
+  "store": "https://boutique.hypenetwork.fr/",
+  "socials": {
+    "twitter": "HypeNetworkFR",
+    "tiktok": "@hypenetwork_",
+    "youtube": "hypenetworkfr",
+    "discord": "https://discord.gg/hypenetwork"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.16.5",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Prison",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#EAE60F",
+    "secondary": "#0FC5EA"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hypenetwork/logo.png"
 }

@@ -11,5 +11,21 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://unitysmp.de",
+  "store": "https://unitysmp.de/gems",
+  "socials": {
+    "discord": "https://discord.gg/unitysmp",
+    "youtube": "https://www.youtube.com/@unitysmpde",
+    "tiktok": "https://www.tiktok.com/@unitysmp.de"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "versions": [
+        "1.21.11"
+      ],
+      "description": "Survival Gameplay without Claiming and custom Textures."
+    }
+  }
 }

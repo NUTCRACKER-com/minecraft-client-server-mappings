@@ -12,5 +12,20 @@
   "disabledModules": [
     "noFog"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "NO_FOG"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/9v2BHGEn"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Classic Survival with economy"
+    }
+  }
 }

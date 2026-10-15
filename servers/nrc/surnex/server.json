@@ -11,7 +11,35 @@
   "icon": "icon.png",
   "banner": "banner.png",
   "disabledModules": [
+    "nameInfo",
     "freelook"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "HEALTH_INDICATORS"
+  ],
+  "website": "https://surnex.net",
+  "store": "https://shop.surnex.net",
+  "socials": {
+    "x": "https://twitter.com/SurnexNET",
+    "discord": "https://dc.surnex.net",
+    "tiktok": "https://tiktok.com/@surnex.net",
+    "youtube": "https://youtube.com/@SurnexNET"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "Citybuild",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "knockit": {
+      "name": "KnockIT",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    }
+  }
 }

@@ -7,5 +7,36 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "CrewMate, the best survival game in Italy!",
+  "website": "https://sito.crewmate.it",
+  "store": "https://sito.crewmate.it/store",
+  "wiki": "https://sito.crewmate.it/wiki",
+  "socials": {
+    "discord": "https://discord.gg/UEgTHadT4B",
+    "tiktok": "@crewmate"
+  },
+  "versions": [
+    "1.21.5"
+  ],
+  "primaryVersion": "1.21.5",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#0E43EB",
+    "secondary": "#0E43EB"
+  },
+  "compliance": {
+    "privacyPolicy": "https://sito.crewmate.it/index.php?route=/privacy/",
+    "termsOfService": "https://sito.crewmate.it/index.php?route=/terms/",
+    "rules": "https://sito.crewmate.it/index.php?route=/forum/topic/2-regolamento/"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/crewmate/background.png"
 }

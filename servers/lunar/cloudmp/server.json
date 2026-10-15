@@ -9,5 +9,40 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Hardcore Minecraft Server and SMP that allows Bedrock",
+  "website": "https://cloudmp.org",
+  "store": "https://store.cloudmp.org",
+  "socials": {
+    "discord": "https://discord.com/invite/duvY9RgyWb",
+    "youtube": "DevSamCpvp",
+    "tiktok": "@DevSamCpvp"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA",
+    "SA",
+    "AF",
+    "EU",
+    "AS",
+    "OC"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Hardcore",
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#bac1d0",
+    "secondary": "#e3e3e3"
+  }
 }

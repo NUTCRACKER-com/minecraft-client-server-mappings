@@ -7,5 +7,27 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play the best Lifesteal, Earth, Events & More!",
+  "store": "https://store.mineheart.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/mineheart"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#e62f85",
+    "secondary": "#c9c7c9"
+  }
 }

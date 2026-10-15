@@ -7,5 +7,32 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "CatCraft is a Minecraft: Java and Bedrock Edition server that aims to expand",
+  "website": "https://catcraft.net/",
+  "store": "https://store.catcraft.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/TxybAUYpEN",
+    "youtube": "UCCZXxI4WQAaR9sl4tW9-GVQ",
+    "tiktok": "@catcraftmc"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20"
+  ],
+  "primaryVersion": "1.20",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#1ea4ea",
+    "secondary": "#4f4f54"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/catcraft/background.png"
 }

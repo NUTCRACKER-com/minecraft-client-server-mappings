@@ -8,5 +8,41 @@
     "PRISON",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Multi-gamemode Network featuring casual gamemodes and minigames.",
+  "website": "https://jailmine.org/",
+  "store": "https://store.jailmine.org/",
+  "socials": {
+    "twitter": "JailMineNetwork",
+    "discord": "https://discord.com/invite/5zZyPKnpMM",
+    "youtube": "JailMine",
+    "tiktok": "@JailMine"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Prison",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#AA0000",
+    "secondary": "#FFFFFF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/jailmine/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/jailmine/banner.gif"
 }

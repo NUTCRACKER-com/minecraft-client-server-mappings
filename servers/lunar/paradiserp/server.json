@@ -8,5 +8,34 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "An Italian Roleplay, PvP, and Minigames network server.",
+  "website": "https://paradiseroleplay.it",
+  "socials": {
+    "discord": "https://discord.gg/5UFM42cd9h"
+  },
+  "versions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it",
+    "en"
+  ],
+  "gameTypes": [
+    "Roleplay",
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#FF8C00",
+    "secondary": "#FFA500"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/paradiserp/logo.png"
 }

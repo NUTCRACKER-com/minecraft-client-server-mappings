@@ -8,5 +8,33 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and Survival on 1st Network.",
+  "website": "https://mc-1st.ro",
+  "store": "https://store.mc-1st.ro",
+  "socials": {
+    "tiktok": "@1st.ro",
+    "discord": "https://discord.com/invite/VH5fQkWBR5"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#FF0000",
+    "secondary": "#FF0000"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mc1stro/background.png"
 }

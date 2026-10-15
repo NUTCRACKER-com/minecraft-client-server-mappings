@@ -8,5 +8,32 @@
     "FACTIONS",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "cristo.gg is the best server to play on with a map of Italy.",
+  "store": "https://store.cristo.gg/",
+  "socials": {
+    "discord": "https://discord.com/invite/cristogg",
+    "instagram": "cristopuntogg"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Factions",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#7412c4",
+    "secondary": "#15171a"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cristogg/logo.png"
 }

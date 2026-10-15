@@ -8,5 +8,36 @@
     "UHC",
     "HCF"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "PvP Network for players, by players.",
+  "website": "https://odysseynetwork.xyz",
+  "store": "https://odyssey-network.tebex.io/",
+  "socials": {
+    "discord": "https://discord.gg/NsX5QUnX",
+    "youtube": "OdysseyNetwork.oficial",
+    "tiktok": "@odysseynetwork.mc",
+    "instagram": "odyssey.network.mc"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHC",
+    "HCF"
+  ],
+  "colors": {
+    "primary": "#00f3ff",
+    "secondary": "#002bff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/odysseynetwork/logo.png"
 }

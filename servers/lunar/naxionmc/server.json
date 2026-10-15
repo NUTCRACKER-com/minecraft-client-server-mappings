@@ -7,5 +7,30 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and Survival on NaxionMC Network.",
+  "store": "https://tienda.naxionmc.club",
+  "socials": {
+    "discord": "https://discord.gg/5Hm3uQPhjZ"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.7",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#ff0000",
+    "secondary": "#ff0000"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/naxionmc/logo.png"
 }

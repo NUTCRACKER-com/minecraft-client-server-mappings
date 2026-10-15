@@ -8,5 +8,27 @@
     "PVP",
     "OPENWORLD"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Semi-hardcore survival focused on PvP, exploration, and player conflict.",
+  "versions": [
+    "1.21.11"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#6F3CC3",
+    "secondary": "#D9F4F2"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hollowsmp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hollowsmp/background.png"
 }

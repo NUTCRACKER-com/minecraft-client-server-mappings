@@ -7,5 +7,36 @@
     "PRISON",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "BuzzMC is a 1.16+ Java Minecraft Server. Come join the fun at play.buzzmc.org!",
+  "website": "https://minecraftprisonservers.com/",
+  "store": "https://store.buzzmc.org/",
+  "socials": {
+    "discord": "https://discord.com/invite/buzzmc-854946974822563861",
+    "tiktok": "@buzzmcserver"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Prison",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#fabc44",
+    "secondary": "#99c2d4"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/buzzmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/buzzmc/background.png"
 }

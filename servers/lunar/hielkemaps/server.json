@@ -7,5 +7,26 @@
     "PARKOUR"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft Maps by Hielke.",
+  "website": "https://hielkemaps.com/",
+  "socials": {
+    "twitter": "HielkeMaps",
+    "discord": "https://discord.gg/gHj7BmdEcN",
+    "youtube": "HielkeMinecraft"
+  },
+  "versions": [
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Parkour"
+  ],
+  "colors": {
+    "primary": "#7abfe8",
+    "secondary": "#000000"
+  }
 }

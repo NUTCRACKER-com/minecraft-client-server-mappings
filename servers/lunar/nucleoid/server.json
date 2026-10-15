@@ -8,5 +8,32 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Nucleoid is an effort to build a fully open-source Minecraft minigames server",
+  "website": "https://nucleoid.xyz/",
+  "socials": {
+    "twitter": "nucleoidmc",
+    "discord": "https://discord.com/invite/MVsm5Pu"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.18.2",
+  "regions": [
+    "EU",
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#180527",
+    "secondary": "#0C6F47"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nucleoid/background.png"
 }

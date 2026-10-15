@@ -8,5 +8,32 @@
     "CASUAL",
     "OPENWORLD"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Family-friendly survival SMP with jobs, economy, claims, and quests.",
+  "socials": {
+    "twitter": "denxycraft",
+    "discord": "https://discord.gg/gcBQYTcAJ3",
+    "youtube": "@DenxyCraft"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Casual",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#FF69B4",
+    "secondary": "#FFFFFF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/denxycraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/denxycraft/background.png"
 }

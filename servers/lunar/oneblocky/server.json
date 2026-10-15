@@ -9,5 +9,32 @@
     "ADVENTURE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The best Oneblock SMP Network!",
+  "store": "https://store.oneblocky.com",
+  "socials": {
+    "discord": "https://discord.gg/oneblocky"
+  },
+  "versions": [
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Survival",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#50D5FF",
+    "secondary": "#F44952"
+  }
 }

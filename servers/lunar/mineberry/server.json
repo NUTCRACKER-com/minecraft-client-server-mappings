@@ -10,5 +10,36 @@
     "PVP",
     "ANARCHY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Official MineBerry Website",
+  "website": "https://mineberry.org/",
+  "store": "https://store.mineberry.org/",
+  "socials": {
+    "twitter": "mineberry_mc",
+    "telegram": "mineberry",
+    "discord": "https://discord.gg/38BpaBT"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Minigames",
+    "PvP",
+    "Anarchy"
+  ],
+  "colors": {
+    "primary": "#ecb94f",
+    "secondary": "#372826"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mineberry/logo.png"
 }

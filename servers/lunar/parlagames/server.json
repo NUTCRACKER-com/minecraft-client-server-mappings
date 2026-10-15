@@ -8,5 +8,33 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames, Survival, and more on ParlaGames.",
+  "store": "https://shop.parlagames.co.il/",
+  "socials": {
+    "twitter": "Parlamentum",
+    "discord": "https://discord.com/invite/QhHd34c",
+    "youtube": "parlamentum",
+    "instagram": "Parlamentum",
+    "tiktok": "@parlamentum"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.18.2",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ecb94f",
+    "secondary": "#372826"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/parlagames/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/parlagames/background.png"
 }

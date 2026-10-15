@@ -8,5 +8,31 @@
     "ROLEPLAY"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Factions and Roleplay on NationsGlory.",
+  "website": "https://nationsglory.com/",
+  "store": "https://nationsglory.com/store",
+  "socials": {
+    "twitter": "nationsglory",
+    "discord": "https://discord.com/invite/xb4r8FpBXY",
+    "twitch": "nationsgloryfr",
+    "instagram": "NationsGloryFR",
+    "tiktok": "@nationsgloryfr",
+    "facebook": "NationsGloryOfficiel"
+  },
+  "versions": [
+    "1.19"
+  ],
+  "primaryVersion": "1.19",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Factions",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#ecb94f",
+    "secondary": "#372826"
+  }
 }

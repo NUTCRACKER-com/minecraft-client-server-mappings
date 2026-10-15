@@ -7,5 +7,34 @@
     "PVP",
     "UHC"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The Best Practice Server for PvP",
+  "socials": {
+    "twitter": "FishFFA",
+    "discord": "https://discord.gg/7UrzE9TSp6",
+    "youtube": "FishFFANetwork"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*",
+    "1.19.*",
+    "1.18.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#00C5FC",
+    "secondary": "#FFAA00"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fishffa/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fishffa/background.png"
 }

@@ -7,5 +7,24 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Eartho is a Minecraft server that is based on the Earth.",
+  "website": "https://eartho.net/",
+  "socials": {
+    "discord": "https://discord.gg/gaFuC4heSJ"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#f1c40f",
+    "secondary": "#3498db"
+  }
 }

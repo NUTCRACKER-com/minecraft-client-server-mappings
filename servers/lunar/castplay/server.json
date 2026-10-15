@@ -7,5 +7,33 @@
     "SURVIVAL",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival and Skyblock on Castplay.",
+  "website": "https://castplay.pl/",
+  "store": "https://castplay.pl/sklep/SURVIVAL",
+  "socials": {
+    "discord": "https://discord.com/invite/9NNP2YSbDS",
+    "tiktok": "@castplaypl",
+    "facebook": "castplaypl"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#bde2ff",
+    "secondary": "#001d80"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/castplay/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/castplay/background.png"
 }

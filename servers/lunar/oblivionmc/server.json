@@ -6,5 +6,26 @@
   "categories": [
     "ROLEPLAY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Best Network Server in italy!",
+  "website": "https://site.oblivionrp.it",
+  "versions": [
+    "1.19.4"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#480077",
+    "secondary": "#480077"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/oblivionmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/oblivionmc/background.png"
 }

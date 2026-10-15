@@ -8,5 +8,39 @@
     "PVP",
     "COMPETITIVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive Minecraft minigames: HungerGames, SkyWars, TurfWars and more",
+  "website": "https://pharogames.net",
+  "store": "https://pharogames.net/store",
+  "socials": {
+    "twitter": "pharogames",
+    "discord": "https://discord.gg/u3RwhRBwv3"
+  },
+  "versions": [
+    "1.21.11"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Competitive"
+  ],
+  "colors": {
+    "primary": "#00E5FF",
+    "secondary": "#A76BFF"
+  },
+  "compliance": {
+    "privacyPolicy": "https://pharogames.net/privacy",
+    "termsOfService": "https://pharogames.net/terms",
+    "rules": "https://pharogames.net/rules",
+    "support": "https://pharogames.net/support"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pharogames/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pharogames/background.png"
 }

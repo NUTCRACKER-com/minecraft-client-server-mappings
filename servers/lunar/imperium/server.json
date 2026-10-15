@@ -8,5 +8,38 @@
     "SURVIVAL",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Come and check out our server!",
+  "store": "https://loja.rede-imperium.com",
+  "socials": {
+    "discord": "https://discord.com/invite/xjpH98hSMT"
+  },
+  "versions": [
+    "1.20.*",
+    "1.19.*",
+    "1.18.*",
+    "1.17.*",
+    "1.16.*",
+    "1.12.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "pt-BR",
+    "pt-PT"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#ed5ae2",
+    "secondary": "#53004d"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/imperium/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/imperium/background.png"
 }

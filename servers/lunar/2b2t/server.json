@@ -9,5 +9,29 @@
     "HARDCORE",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience survival gameplay on 2b2t.",
+  "store": "https://shop.2b2t.org/",
+  "versions": [
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.12.2",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Anarchy",
+    "Hardcore",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ceb19e",
+    "secondary": "#000000"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/2b2t/logo.png"
 }

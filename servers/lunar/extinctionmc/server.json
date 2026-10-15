@@ -6,5 +6,28 @@
   "categories": [
     "FACTIONS"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Minecraft Factions Server.",
+  "store": "https://extinctionmc.tebex.io/",
+  "socials": {
+    "discord": "https://discord.gg/extinction"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#006600",
+    "secondary": "#00ff00"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/extinctionmc/logo.png"
 }

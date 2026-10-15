@@ -6,5 +6,29 @@
   "categories": [
     "HCF"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "HyzelMC | Server!",
+  "store": "https://store.hyzelmc.live/",
+  "socials": {
+    "discord": "https://discord.com/invite/hyzelmc"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "HCF"
+  ],
+  "colors": {
+    "primary": "#98f5f9",
+    "secondary": "#060270"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hyzelmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hyzelmc/background.png"
 }

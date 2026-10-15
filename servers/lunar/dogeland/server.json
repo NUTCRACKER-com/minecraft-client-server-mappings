@@ -8,5 +8,29 @@
     "PVP",
     "OPENWORLD"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Vietnamese Survival SMP with lootboxes, daily quests, seasons and PvP events",
+  "website": "https://dogeland.vn",
+  "store": "https://dogeland.vn/store",
+  "socials": {
+    "discord": "https://discord.gg/fEkF3cSCBq"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#FFC107",
+    "secondary": "#3B2A10"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/dogeland/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/dogeland/background.png"
 }

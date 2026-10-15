@@ -10,5 +10,35 @@
     "PRISON"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP, Survival, and more on MadCraft Network.",
+  "website": "https://madcraft.ir/",
+  "socials": {
+    "discord": "https://discord.gg/hRjhTkVPq9",
+    "telegram": "madcraft",
+    "instagram": "madcraft.ir"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#fb9409",
+    "secondary": "#463f3a"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/madcraft/background.png"
 }

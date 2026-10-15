@@ -8,5 +8,43 @@
     "ROLEPLAY",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "French OneBlock, start on one block, face phases, bosses, quests.",
+  "website": "https://mineblocks.fr",
+  "store": "https://store.mineblocks.fr",
+  "wiki": "https://mineblocks.fr/wiki",
+  "socials": {
+    "discord": "https://discord.gg/mineblocks",
+    "youtube": "@MineblocksFR",
+    "tiktok": "@mineblocks.fr"
+  },
+  "versions": [
+    "1.21.4"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Roleplay",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#e67e22",
+    "secondary": "#e94560"
+  },
+  "compliance": {
+    "termsOfService": "https://mineblocks.fr/cgu"
+  },
+  "video": "gpxtmw8sZQ0",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mineblocks/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mineblocks/background.png"
 }

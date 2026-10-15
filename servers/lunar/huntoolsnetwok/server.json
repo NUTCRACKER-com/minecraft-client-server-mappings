@@ -8,5 +8,35 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A network that provides a variety of gamemodes, including PvP and Minigames.",
+  "website": "https://www.huntools-bot.xyz",
+  "store": "https://www.huntools-bot.xyz/premium",
+  "socials": {
+    "discord": "https://discord.gg/QvbtnzFzU5"
+  },
+  "versions": [
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.2"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#55FFFF",
+    "secondary": "#ffffff"
+  }
 }

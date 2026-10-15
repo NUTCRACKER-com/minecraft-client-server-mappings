@@ -13,5 +13,37 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames, PvP, and more on KoksCraft.pl.",
+  "website": "https://kokscraft.pl/",
+  "store": "https://kokscraft.pl/sklep/",
+  "socials": {
+    "discord": "https://discord.com/invite/kokscraft",
+    "instagram": "kokscraft.mc",
+    "facebook": "kokscraftpl",
+    "tiktok": "@kokscraftpl"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "UHC",
+    "KitPvP",
+    "Anarchy",
+    "BoxPvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#f2e295",
+    "secondary": "#0b1205"
+  }
 }

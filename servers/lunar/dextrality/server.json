@@ -8,5 +8,42 @@
     "SKYBLOCK",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Skyblock, and more on Dextrality Network.",
+  "store": "https://tienda.dextrality.net/",
+  "socials": {
+    "twitter": "DextralityEarth",
+    "discord": "https://discord.com/invite/jwS2HxcJFH",
+    "youtube": "@DextralityEarth",
+    "instagram": "dextralityearth",
+    "twitch": "dextrality_earth",
+    "tiktok": "@dextrality_earth",
+    "facebook": "DextralityEarth"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.17.1",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#5fb5e1",
+    "secondary": "#bcc628"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/dextrality/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/dextrality/background.png"
 }

@@ -7,5 +7,30 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Formed by passionate players who venture into Minigames!",
+  "website": "https://leaguemc.club/",
+  "store": "https://loja.leaguemc.club",
+  "socials": {
+    "discord": "https://discord.gg/bgn8dPPq3g"
+  },
+  "versions": [
+    "1.8.9"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "pt-BR",
+    "pt-PT"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#e81713",
+    "secondary": "#050001"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/leaguemc/background.png"
 }

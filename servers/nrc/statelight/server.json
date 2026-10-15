@@ -9,7 +9,16 @@
   "icon": "icon.png",
   "banner": "banner.png",
   "disabledModules": [
+    "nameInfo",
     "noFog"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "HEALTH_INDICATORS"
+  ],
+  "store": "https://store.statelight.de/",
+  "socials": {
+    "tiktok": "https://www.tiktok.com/@statelightsmp",
+    "discord": "https://discord.gg/rgTgN5ASCn"
+  }
 }

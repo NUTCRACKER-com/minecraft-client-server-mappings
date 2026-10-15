@@ -9,5 +9,26 @@
     "FACTIONS"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Skyblock, and more on Pixel Play.",
+  "website": "https://pixelplay.gg/",
+  "versions": [
+    "1.21.1"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "SA",
+    "NA",
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#2ecc71",
+    "secondary": "#4be08c"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pixelplay/background.png"
 }

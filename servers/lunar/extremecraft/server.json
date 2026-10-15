@@ -9,5 +9,38 @@
     "FACTIONS"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "One of the largest Minecraft networks in the world! Join today and play with",
+  "website": "https://www.extremecraft.net/",
+  "store": "https://www.extremecraft.net/store/",
+  "socials": {
+    "discord": "https://discord.com/invite/bhZKakC",
+    "youtube": "ExtremeCraftOfficial",
+    "instagram": "extremecraftofficial",
+    "reddit": "extremecraft"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#e55771",
+    "secondary": "#d8d8d8"
+  }
 }

@@ -7,5 +7,32 @@
     "SURVIVAL",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Vietnamese survival and skyblock Minecraft server.",
+  "socials": {
+    "discord": "https://discord.gg/xYg7namJYT"
+  },
+  "versions": [
+    "1.21.1",
+    "1.21.4",
+    "1.21.5",
+    "1.21.8",
+    "1.21.11"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#00AEEF",
+    "secondary": "#111827"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kingora/logo.png"
 }

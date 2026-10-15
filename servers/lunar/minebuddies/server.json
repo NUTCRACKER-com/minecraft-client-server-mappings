@@ -7,5 +7,25 @@
     "SKYBLOCK"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Build your island empire on MineBuddies.",
+  "store": "https://store.minebuddies.org/",
+  "socials": {
+    "discord": "https://discord.gg/minebuddies"
+  },
+  "versions": [
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#54d0f8",
+    "secondary": "#00204b"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minebuddies/background.png"
 }

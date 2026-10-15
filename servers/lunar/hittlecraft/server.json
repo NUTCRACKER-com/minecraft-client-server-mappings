@@ -7,5 +7,33 @@
     "PVP",
     "PRISON"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft server featuring PrisonOP and KitPvP gamemodes",
+  "store": "https://store.hittlecraft.net",
+  "socials": {
+    "discord": "https://discord.gg/m8V9pns6dB",
+    "twitter": "hittlecraft1"
+  },
+  "versions": [
+    "1.8.9",
+    "1.21.4"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#FF8C00",
+    "secondary": "#FFD700"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hittlecraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hittlecraft/background.png"
 }

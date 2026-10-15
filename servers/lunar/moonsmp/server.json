@@ -8,5 +8,21 @@
     "ADVENTURE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Moon SMP is a Minecraft server with fun twists and active community",
+  "socials": {
+    "discord": "https://discord.com/invite/moonsmp"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "gameTypes": [
+    "Survival",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#6900bf",
+    "secondary": "#003cff"
+  }
 }

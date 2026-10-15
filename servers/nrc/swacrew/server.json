@@ -15,7 +15,77 @@
   "icon": "icon.png",
   "banner": "banner.png",
   "disabledModules": [
-    "fovChanger"
+    "fovChanger",
+    "nameInfo"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "TNT_TIMER"
+  ],
+  "website": "https://www.swacrew.net",
+  "store": "https://shop.swacrew.net",
+  "socials": {
+    "x": "https://twitter.com/SwacrewNET",
+    "discord": "https://discord.swacrew.net",
+    "tiktok": "https://www.tiktok.com/@swacrew",
+    "youtube": "https://www.youtube.com/@SwacrewNET"
+  },
+  "gamemodes": {
+    "eventserver": {
+      "name": "Eventserver",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "training": {
+      "name": "Training",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "citybuild": {
+      "name": "Citybuild",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "swacrewgames": {
+      "name": "SwacrewGames",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "target": {
+      "name": "Target",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "kitffa": {
+      "name": "KitFFA",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "vorbau": {
+      "name": "Vorbau",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    }
+  }
 }

@@ -9,5 +9,32 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play HCF, Survival, and more on Aquatic Network.",
+  "website": "https://www.aquaticnet.xyz",
+  "store": "https://aquatic.tebex.io/",
+  "socials": {
+    "discord": "https://discord.gg/fqW6mUVJpw"
+  },
+  "versions": [
+    "1.8.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "HCF",
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#015DF2",
+    "secondary": "#01F2A5"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/aquatic/background.png"
 }

@@ -156,6 +156,134 @@
     "notes": {
       "type": "string",
       "maxLength": 400
+    },
+    "description": {
+      "type": "string",
+      "maxLength": 600
+    },
+    "website": {
+      "type": "string",
+      "pattern": "^https?://"
+    },
+    "store": {
+      "type": "string",
+      "pattern": "^https?://"
+    },
+    "wiki": {
+      "type": "string",
+      "pattern": "^https?://"
+    },
+    "socials": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string",
+        "maxLength": 300
+      },
+      "maxProperties": 20
+    },
+    "gamemodes": {
+      "type": "object",
+      "maxProperties": 60,
+      "additionalProperties": {
+        "type": "object",
+        "required": [
+          "name"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "versions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "description": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "versions": {
+      "type": "array",
+      "maxItems": 200,
+      "items": {
+        "type": "string",
+        "maxLength": 40
+      }
+    },
+    "regions": {
+      "type": "array",
+      "maxItems": 200,
+      "items": {
+        "type": "string",
+        "maxLength": 40
+      }
+    },
+    "languages": {
+      "type": "array",
+      "maxItems": 200,
+      "items": {
+        "type": "string",
+        "maxLength": 40
+      }
+    },
+    "gameTypes": {
+      "type": "array",
+      "maxItems": 200,
+      "items": {
+        "type": "string",
+        "maxLength": 40
+      }
+    },
+    "otherDisabledModules": {
+      "type": "array",
+      "maxItems": 200,
+      "items": {
+        "type": "string",
+        "maxLength": 40
+      }
+    },
+    "primaryVersion": {
+      "type": "string",
+      "maxLength": 20
+    },
+    "colors": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "primary": {
+          "type": "string",
+          "pattern": "^#[0-9a-fA-F]{6}$"
+        },
+        "secondary": {
+          "type": "string",
+          "pattern": "^#[0-9a-fA-F]{6}$"
+        }
+      }
+    },
+    "compliance": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string",
+        "pattern": "^https?://"
+      }
+    },
+    "video": {
+      "type": "string",
+      "maxLength": 40
+    },
+    "iconUrl": {
+      "type": "string",
+      "pattern": "^https://",
+      "maxLength": 400
+    },
+    "bannerUrl": {
+      "type": "string",
+      "pattern": "^https://",
+      "maxLength": 400
     }
   }
 }

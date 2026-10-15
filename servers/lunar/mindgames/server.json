@@ -10,5 +10,42 @@
     "COMPETITIVE",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Massive 100-player UHC tournaments, custom events, scrims and more.",
+  "website": "https://mindofneo.com/",
+  "store": "https://mindofneo.com/shop",
+  "socials": {
+    "twitter": "themindgamesmc",
+    "discord": "https://discord.gg/mindofneo",
+    "youtube": "@NeosMindMc"
+  },
+  "versions": [
+    "1.21.11"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "UHC",
+    "PvP",
+    "Practice",
+    "Competitive",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#ff00ff",
+    "secondary": "#7f00ff"
+  },
+  "compliance": {
+    "privacyPolicy": "https://mindofneo.com/privacy",
+    "termsOfService": "https://mindofneo.com/terms-of-service",
+    "rules": "https://mindofneo.com/rules",
+    "support": "https://discord.gg/mindofneo"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mindgames/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mindgames/background.png"
 }

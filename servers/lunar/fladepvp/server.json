@@ -7,5 +7,32 @@
     "PVP",
     "UHC"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and UHC on Flade Network.",
+  "store": "https://store.fladepvp.cc",
+  "socials": {
+    "twitter": "FladePvPNet",
+    "discord": "https://discord.gg/fladepvp"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.9"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#ffd700",
+    "secondary": "#ffffff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fladepvp/logo.png"
 }

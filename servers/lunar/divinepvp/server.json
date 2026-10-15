@@ -6,5 +6,29 @@
   "categories": [
     "HCF"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Hardcore factions on DivinePvP.",
+  "store": "https://bolt.divinepvp.hu",
+  "socials": {
+    "discord": "https://discord.com/invite/aNS7n8fuvU"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "HCF"
+  ],
+  "colors": {
+    "primary": "#2f00c5",
+    "secondary": "#3d85c6"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/divinepvp/logo.png"
 }

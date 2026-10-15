@@ -8,5 +8,20 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Server PvP/Factions 1.8+ French",
+  "website": "https://elowyr.fr",
+  "store": "https://boutique.elowyr.fr",
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "Factions",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#F1C40F",
+    "secondary": "#F5E417"
+  }
 }

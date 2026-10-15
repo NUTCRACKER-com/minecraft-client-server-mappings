@@ -8,5 +8,30 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival and PvP on CelestyMC.",
+  "website": "https://celestymc.it/",
+  "store": "https://store.celestymc.it/",
+  "socials": {
+    "telegram": "RoosterHall",
+    "discord": "https://discord.com/invite/383wg9EM"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.17.1",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#cceeff",
+    "secondary": "#335a77"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/celestymc/background.png"
 }

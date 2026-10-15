@@ -8,5 +8,33 @@
     "ROLEPLAY",
     "CREATIVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play games, design your own island and live out the vacation of your dreams!",
+  "website": "https://playhideaway.com/",
+  "store": "https://store.playhideaway.com/",
+  "socials": {
+    "twitter": "PlayHideaway",
+    "discord": "https://discord.gg/2sYDJjxHJx",
+    "youtube": "playhideaway",
+    "instagram": "playhideaway",
+    "tiktok": "@playhideaway"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Roleplay",
+    "Creative"
+  ],
+  "colors": {
+    "primary": "#ffd05e",
+    "secondary": "#1b7301"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hideaway/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hideaway/background.png"
 }

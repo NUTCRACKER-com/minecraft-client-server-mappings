@@ -8,5 +8,34 @@
     "VANILLA",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Italian Minecraft network with Survival, SMP and Minigames",
+  "website": "https://hexkingdommc.it",
+  "store": "https://storehexkingdommc.it",
+  "socials": {
+    "discord": "https://discord.gg/MTt9jUAF67"
+  },
+  "versions": [
+    "1.21.9",
+    "1.21.10",
+    "1.21.11"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Vanilla",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#7B16D9",
+    "secondary": "#15111F"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hexkingdom/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hexkingdom/background.png"
 }

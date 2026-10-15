@@ -12,7 +12,78 @@
   "banner": "banner.png",
   "disabledModules": [
     "fovChanger",
-    "freelook"
+    "freelook",
+    "nameInfo"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "HEALTH_INDICATORS"
+  ],
+  "website": "https://www.timolia.de/",
+  "store": "https://shop.timolia.de/",
+  "socials": {
+    "x": "https://x.com/TimoliaTeam",
+    "discord": "https://discord.gg/timolia-minecraft-netzwerk-407554118887014402",
+    "youtube": "https://www.youtube.com/@Timolia",
+    "instagram": "https://www.instagram.com/timolianetwork",
+    "tiktok": "https://www.tiktok.com/@timolianetwork"
+  },
+  "gamemodes": {
+    "jumpworld": {
+      "name": "JumpWorld",
+      "versions": [
+        "1.20<*"
+      ],
+      "description": ""
+    },
+    "pvp-modern": {
+      "name": "PvP Modern",
+      "versions": [
+        "1.20<*"
+      ],
+      "description": ""
+    },
+    "pvp-classic": {
+      "name": "PvP Classic",
+      "versions": [
+        "1.8<*"
+      ],
+      "description": ""
+    },
+    "freebuild": {
+      "name": "Freebuild",
+      "versions": [
+        "1.21.4<*"
+      ],
+      "description": ""
+    },
+    "4rena": {
+      "name": "4rena",
+      "versions": [
+        "1.8<*"
+      ],
+      "description": ""
+    },
+    "castles": {
+      "name": "Castles",
+      "versions": [
+        "1.8<*"
+      ],
+      "description": ""
+    },
+    "splun": {
+      "name": "Splun",
+      "versions": [
+        "1.20<*"
+      ],
+      "description": ""
+    },
+    "survivalquest": {
+      "name": "SurvivalQuest",
+      "versions": [
+        "1.21.4<*"
+      ],
+      "description": ""
+    }
+  }
 }

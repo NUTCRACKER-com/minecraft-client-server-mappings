@@ -7,5 +7,26 @@
     "HCF",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Network for PvP players!",
+  "store": "https://store.moonlymc.com/",
+  "socials": {
+    "twitter": "MoonlyMCNetwork",
+    "discord": "https://discord.com/invite/36WngD7NYp"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "HCF",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#42c2f5",
+    "secondary": "#ffffff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/moonlymc/logo.png"
 }

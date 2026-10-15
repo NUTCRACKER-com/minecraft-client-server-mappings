@@ -9,5 +9,29 @@
     "FACTIONS"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "OblivionPvP is a competitive HCF and PvP network featuring custom content.",
+  "store": "https://store.oblivionpvp.net/",
+  "socials": {
+    "discord": "https://discord.gg/oblivionpvp"
+  },
+  "versions": [
+    "1.8.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#7F3AE5",
+    "secondary": "#9863E7"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/oblivionpvp/background.png"
 }

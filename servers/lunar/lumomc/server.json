@@ -7,5 +7,36 @@
     "PVP",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Jump in and start your adventure on top-tier gamemodes!",
+  "website": "https://www.lumomc.pl/",
+  "store": "https://www.lumomc.pl/#shop",
+  "socials": {
+    "tiktok": "@LumoMC",
+    "youtube": "LumoMC",
+    "discord": "https://discord.com/invite/FzJ8w8KjCV"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "PvP",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#b347ff",
+    "secondary": "#cb81ff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lumomc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lumomc/background.png"
 }

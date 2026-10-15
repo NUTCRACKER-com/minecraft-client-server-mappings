@@ -8,5 +8,32 @@
     "OPENWORLD",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A world full of magic, secrets, and epic adventures. Ready to become a hero?",
+  "store": "https://sklep.fluviamc.pl",
+  "socials": {
+    "discord": "https://discord.com/invite/MEChcQ7pQk",
+    "tiktok": "@fluviamc"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Open World",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#8DADFF",
+    "secondary": "#FFFFFF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fluviamc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fluviamc/background.png"
 }

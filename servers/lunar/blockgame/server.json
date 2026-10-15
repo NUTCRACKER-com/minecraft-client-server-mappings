@@ -9,5 +9,37 @@
     "UHC"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "BlockGame is the home of the best legacy combat experience.",
+  "website": "https://blockgame.us/",
+  "store": "https://store.blockgame.us/",
+  "socials": {
+    "twitter": "blockgameus",
+    "discord": "https://discord.gg/jjnsAsf62e"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#458BEF",
+    "secondary": "#164072"
+  },
+  "compliance": {
+    "privacyPolicy": "https://blockgame.us/privacy",
+    "termsOfService": "https://blockgame.us/terms",
+    "rules": "https://blockgame.us/rules"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blockgame/background.png"
 }

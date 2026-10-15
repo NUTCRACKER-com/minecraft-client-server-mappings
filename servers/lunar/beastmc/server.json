@@ -6,5 +6,31 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Test your combat skills on BeastMC Network.",
+  "website": "https://beastmc.xyz",
+  "store": "https://tienda.beastmc.xyz",
+  "socials": {
+    "twitter": "BeastMCNW",
+    "discord": "https://discord.gg/yA2FdZuAQj"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20",
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#FF0000",
+    "secondary": "#FF6B6B"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/beastmc/logo.png"
 }

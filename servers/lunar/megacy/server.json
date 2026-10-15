@@ -8,5 +8,35 @@
     "PVP",
     "ROLEPLAY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Megacy - Geopolitical 1.8 Siegewar!",
+  "store": "https://store.megacy.net/",
+  "socials": {
+    "discord": "https://discord.gg/megacy"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "NA",
+    "EU",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#F8B01A",
+    "secondary": "#000000"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/megacy/logo.png"
 }

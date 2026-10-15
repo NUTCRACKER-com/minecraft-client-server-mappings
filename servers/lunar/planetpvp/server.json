@@ -7,5 +7,29 @@
     "PVP",
     "FACTIONS"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Welcome to the legendary Minecraft PvP faction server.",
+  "website": "https://planetpvp.fr/",
+  "store": "https://boutique.planetpvp.fr/",
+  "socials": {
+    "discord": "https://discord.com/invite/3RBK7sr8Gw",
+    "youtube": "UCvwVubglX67GOADdGHVbVJQ"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#e5b543",
+    "secondary": "#372826"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/planetpvp/logo.png"
 }

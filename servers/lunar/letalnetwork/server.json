@@ -6,5 +6,28 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Spanish-speaking Survival server with custom PvP events",
+  "socials": {
+    "discord": "https://discord.gg/letal"
+  },
+  "versions": [
+    "1.21.1"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#C21B2E",
+    "secondary": "#1A0508"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/letalnetwork/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/letalnetwork/background.png"
 }

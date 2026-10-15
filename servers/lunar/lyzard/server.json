@@ -9,5 +9,34 @@
     "HCF"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP, Survival, and more on Lyzard.",
+  "store": "https://store.lyzard.cc/",
+  "socials": {
+    "discord": "https://discord.com/invite/lyzard",
+    "telegram": "LyzardNetwork"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "HCF"
+  ],
+  "colors": {
+    "primary": "#fe4c44",
+    "secondary": "#000000"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lyzard/background.png"
 }

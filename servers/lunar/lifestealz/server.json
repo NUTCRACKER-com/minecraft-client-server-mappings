@@ -8,5 +8,39 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play now at LifeStealz.net",
+  "website": "https://www.lifestealz.net",
+  "store": "https://store.lifestealz.net",
+  "socials": {
+    "discord": "https://discord.gg/LifeStealz"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#8B1A1A",
+    "secondary": "#C02E2E"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.lifestealz.net/privacy",
+    "termsOfService": "https://www.lifestealz.net/terms",
+    "rules": "https://www.lifestealz.net/rules"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lifestealz/banner.png"
 }

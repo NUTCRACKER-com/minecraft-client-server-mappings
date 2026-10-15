@@ -8,5 +8,37 @@
     "SURVIVAL",
     "ADVENTURE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Begin your divine journey.",
+  "store": "https://tienda.divinemc.es/",
+  "socials": {
+    "discord": "https://discord.gg/divinemc",
+    "tiktok": "@divinemcnt"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "NA",
+    "SA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvE",
+    "Survival",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#A968FE",
+    "secondary": "#A596FF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/divinemc/logo.png"
 }

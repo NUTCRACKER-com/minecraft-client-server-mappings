@@ -9,5 +9,38 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Minigames, and more on Archipelago Network.",
+  "website": "https://www.archipelago.top",
+  "store": "https://store.archipelago.top",
+  "socials": {
+    "discord": "https://discord.gg/archipelago-network",
+    "tiktok": "@archipelago_network"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.2",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#0BB0FF",
+    "secondary": "#06D6A0"
+  }
 }

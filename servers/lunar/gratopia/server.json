@@ -8,5 +8,35 @@
     "PVP",
     "ADVENTURE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Gratopia is an economy survival server that supports both Java & Bedrock",
+  "store": "https://store.gratopia.gg",
+  "wiki": "https://wiki.gratopia.gg",
+  "socials": {
+    "discord": "https://discord.gg/gratopia",
+    "tiktok": "@gratmc"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1"
+  ],
+  "primaryVersion": "26.1",
+  "regions": [
+    "EU",
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#ffc940",
+    "secondary": "#8c94ff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gratopia/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gratopia/background.png"
 }

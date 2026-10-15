@@ -9,5 +9,40 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "FusionMC is an Italian Minecraft server that is expanding throughout Europe.",
+  "website": "https://www.fusionmc.it/",
+  "store": "https://store.fusionmc.it/",
+  "socials": {
+    "discord": "https://discord.com/invite/KQtHr9TPda",
+    "instagram": "fusionmc.it",
+    "telegram": "FusionMCEu"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#42A4BD",
+    "secondary": "#242C47"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fusionmc/logo.png"
 }

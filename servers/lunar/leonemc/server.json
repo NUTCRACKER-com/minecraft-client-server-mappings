@@ -12,5 +12,38 @@
     "PRACTICE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Test your combat skills on LeoneMC.",
+  "store": "https://shop.leonemc.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/leonemc"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Crystal PvP",
+    "BoxPvP",
+    "Lifesteal",
+    "Practice"
+  ],
+  "colors": {
+    "primary": "#8bc4f5",
+    "secondary": "#fc46a8"
+  }
 }

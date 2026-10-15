@@ -6,5 +6,30 @@
   "categories": [
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Discover Skyblock in a different way",
+  "store": "https://store.angelsky.fr/",
+  "socials": {
+    "discord": "https://discord.gg/mwvc7cT56z"
+  },
+  "versions": [
+    "1.18.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.18.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#e67e22",
+    "secondary": "#0dcaf0"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/angelsky/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/angelsky/background.png"
 }

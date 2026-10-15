@@ -14,7 +14,29 @@
   "icon": "icon.png",
   "banner": "banner.png",
   "disabledModules": [
-    "noFog"
+    "noFog",
+    "nameInfo"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "HEALTH_INDICATORS"
+  ],
+  "website": "https://vanitymc.de",
+  "store": "https://shop.vanitymc.de",
+  "socials": {
+    "youtube": "https://yt.vanitymc.de",
+    "instagram": "https://insta.vanitymc.de",
+    "tiktok": "https://tiktok.vanitymc.de",
+    "x": "https://x.vanitymc.de",
+    "discord": "https://discord.vanitymc.de"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "versions": [
+        "26.1<*"
+      ],
+      "description": "Survival-Modus mit geschützen Grundstücken und eigenen Funktionen."
+    }
+  }
 }

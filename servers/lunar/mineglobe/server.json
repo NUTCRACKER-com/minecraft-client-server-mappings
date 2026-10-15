@@ -8,5 +8,28 @@
     "SKYBLOCK"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival and Skyblock on MineGlobe Network.",
+  "website": "https://mineglobe.org/",
+  "store": "https://store.mineglobe.org/",
+  "socials": {
+    "twitter": "MineGlobe",
+    "discord": "https://discord.com/invite/mineglobe",
+    "tiktok": "@headedog"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "gameTypes": [
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#f0a134",
+    "secondary": "#64dacc"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mineglobe/banner.gif"
 }

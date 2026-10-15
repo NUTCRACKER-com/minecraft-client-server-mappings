@@ -8,5 +8,38 @@
     "ADVENTURE",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Embark on epic quests, face legendary creatures, and join brave souls!",
+  "website": "https://store.mysticverse.net/",
+  "store": "https://store.mysticverse.net/",
+  "socials": {
+    "telegram": "MysticVerseNews",
+    "discord": "https://discord.com/invite/6RSuMVAUxN",
+    "instagram": "mysticverse_official",
+    "youtube": "MysticVerseofficial",
+    "tiktok": "@mysticverse_official"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Adventure",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#aa00aa",
+    "secondary": "#aa00aa"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mysticverse/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mysticverse/background.png"
 }

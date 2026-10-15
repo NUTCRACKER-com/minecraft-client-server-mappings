@@ -7,5 +7,36 @@
     "ADVENTURE",
     "ROLEPLAY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Adventure server dedicated to Pixelmon fans!",
+  "website": "https://pixelmonrealms.com/",
+  "store": "https://store.pixelmonrealms.com/",
+  "socials": {
+    "discord": "https://discord.com/invite/pixelmonrealms"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Adventure",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#beb8c3",
+    "secondary": "#f4e24e"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pixelmonrealms/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pixelmonrealms/background.png"
 }

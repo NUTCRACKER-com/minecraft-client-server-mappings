@@ -10,5 +10,40 @@
     "HARDCORE",
     "KITPVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play HCF-style faction PvP and events on BoomPvP.",
+  "website": "https://boompvp.com/",
+  "store": "https://store.boompvp.com/",
+  "socials": {
+    "discord": "https://discord.gg/boompvp"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "AF",
+    "AS",
+    "EU",
+    "NA",
+    "OC",
+    "SA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "HCF",
+    "PvP",
+    "Factions",
+    "Hardcore",
+    "KitPvP"
+  ],
+  "colors": {
+    "primary": "#d946ef",
+    "secondary": "#ffffff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/boompvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/boompvp/background.png"
 }

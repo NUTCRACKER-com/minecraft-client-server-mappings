@@ -8,5 +8,35 @@
     "COMPETITIVE",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Non-Premium Minecraft server with SkyPvP and Survival",
+  "store": "https://store.mysticnexus.net/",
+  "socials": {
+    "discord": "https://discord.gg/jzwPKXc"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Competitive",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#b00b69",
+    "secondary": "#ea48a4"
+  },
+  "compliance": {
+    "rules": "https://mysticnexus.net/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mysticnexus/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mysticnexus/background.png"
 }

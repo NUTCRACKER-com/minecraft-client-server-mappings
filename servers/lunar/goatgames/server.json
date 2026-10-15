@@ -11,5 +11,38 @@
     "COMPETITIVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive & exciting minigames server: FFA, Team fights, Tournaments and more",
+  "website": "https://goatgamesmc.com",
+  "store": "https://goatgamesmc.com/store",
+  "socials": {
+    "discord": "https://discord.com/invite/2CmpVCYYDy"
+  },
+  "versions": [
+    "1.21.11"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "UHC",
+    "PvP",
+    "Practice",
+    "Competitive"
+  ],
+  "colors": {
+    "primary": "#B7FF62",
+    "secondary": "#ffffff"
+  },
+  "compliance": {
+    "privacyPolicy": "https://goatgamesmc.com/privacy",
+    "termsOfService": "https://goatgamesmc.com/terms",
+    "support": "https://discord.com/invite/2CmpVCYYDy"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/goatgames/background.png"
 }

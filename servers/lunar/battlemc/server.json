@@ -7,5 +7,27 @@
     "PVP",
     "UHC"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "PotPvP competitive based server",
+  "store": "https://store.battle.lat",
+  "socials": {
+    "discord": "https://discord.com/invite/XNpJvW3GYm"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.9"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#ffb800",
+    "secondary": "#ffe900"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/battlemc/logo.png"
 }

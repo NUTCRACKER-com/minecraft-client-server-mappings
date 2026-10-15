@@ -7,5 +7,34 @@
     "PRISON",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The future begins now!",
+  "website": "https://hyvel.net/",
+  "store": "https://hyvel.net/store",
+  "socials": {
+    "discord": "https://discord.gg/YtuGjjbZVy"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "SA",
+    "EU"
+  ],
+  "languages": [
+    "pt-BR",
+    "pt-PT"
+  ],
+  "gameTypes": [
+    "Prison",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#02e8b5",
+    "secondary": "#f0c300"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hyvel/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hyvel/background.png"
 }

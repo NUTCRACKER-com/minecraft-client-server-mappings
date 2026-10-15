@@ -7,5 +7,28 @@
     "ROLEPLAY"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Immerse yourself in roleplay on PersianCraft.",
+  "socials": {
+    "discord": "https://discord.gg/FDUJRyeWEN"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#f96205",
+    "secondary": "#000000"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/persiancraft/background.png"
 }

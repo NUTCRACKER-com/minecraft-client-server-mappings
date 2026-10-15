@@ -8,5 +8,28 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play UHC and PvP on Curve Network.",
+  "website": "https://curve.rip/",
+  "store": "https://curve.rip/store",
+  "socials": {
+    "twitter": "CurveUHC",
+    "discord": "https://discord.com/invite/pN3xFBZ7Dq"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "UHC",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#acacac",
+    "secondary": "#0c0b10"
+  }
 }

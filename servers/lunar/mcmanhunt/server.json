@@ -8,5 +8,34 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Server Network Focused on Many Minigames, Manhunt being the server's namesake",
+  "store": "https://store.mcmanhunt.com/",
+  "socials": {
+    "twitter": "manhuntnetwork",
+    "discord": "https://discord.gg/invite/manhunt",
+    "instagram": "mcmanhunt",
+    "tiktok": "@4nt_mcmanhunt"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.1"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#e8a107",
+    "secondary": "#2d2626"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mcmanhunt/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mcmanhunt/banner.gif"
 }

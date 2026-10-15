@@ -7,5 +7,41 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "ArticalMC is the best server of Kitpvp OP.",
+  "website": "https://www.articalmc.it/",
+  "store": "https://store.articalmc.it/",
+  "socials": {
+    "discord": "https://discord.com/invite/3YjpjBahw9",
+    "instagram": "artical.it",
+    "telegram": "ArticalMC",
+    "tiktok": "@play.articalmc.it"
+  },
+  "versions": [
+    "1.7.10",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#00ffff",
+    "secondary": "#262d37"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/articalmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/articalmc/background.png"
 }

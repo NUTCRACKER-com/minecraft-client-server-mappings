@@ -7,5 +7,36 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and Survival on Gorium Network.",
+  "website": "https://gorium.net/",
+  "store": "https://store.gorium.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/GeQuBB9M2E",
+    "youtube": "UCJH3zxoGpZBmut0quxE244g",
+    "twitter": "goriumnetwork"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.17.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#d93e18",
+    "secondary": "#636261"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gorium/logo.png"
 }

@@ -9,5 +9,40 @@
     "ADVENTURE",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Join BoaTosta Network: build, explore, play and have fun with us!",
+  "website": "https://boatosta.net/",
+  "store": "https://store.boatosta.net/",
+  "socials": {
+    "telegram": "BoaTostaStudios",
+    "discord": "https://discord.com/invite/Yxw4NpU2qc",
+    "instagram": "boatostastudios"
+  },
+  "versions": [
+    "1.21.3",
+    "1.21.4",
+    "1.21.5"
+  ],
+  "primaryVersion": "1.21.3",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Adventure",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#5DD420",
+    "secondary": "#FFE259"
+  },
+  "compliance": {
+    "rules": "https://boatosta.net/rules.html",
+    "support": "https://discord.com/invite/Yxw4NpU2qc"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/boatosta/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/boatosta/background.png"
 }

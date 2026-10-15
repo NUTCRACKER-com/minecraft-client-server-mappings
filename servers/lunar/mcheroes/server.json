@@ -8,5 +8,34 @@
     "SKYBLOCK"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play the Next-Generation of Minecraft Servers, With Dungeons & Skyblock!",
+  "website": "https://mcheroes.net/",
+  "store": "https://mcheroes.paynow.store/",
+  "socials": {
+    "twitter": "playmcheroes",
+    "discord": "https://discord.gg/jfkD2MH5tD",
+    "youtube": "playmcheroes",
+    "instagram": "playmcheroes",
+    "tiktok": "@playmcheroes"
+  },
+  "versions": [
+    "1.21.11"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#001414",
+    "secondary": "#008cd3"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mcheroes/background.png"
 }

@@ -10,5 +10,36 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Home of Competitive Minecraft PvP",
+  "website": "https://www.lunar.gg/",
+  "store": "https://store.lunar.gg/",
+  "socials": {
+    "twitter": "LunarNetwork",
+    "discord": "https://discord.com/invite/4ceEJuH",
+    "telegram": "LunarNetwork"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#44a1e3",
+    "secondary": "#a854de"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lunarnetwork/background.png"
 }

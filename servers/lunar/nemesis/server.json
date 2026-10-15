@@ -7,5 +7,29 @@
     "PARKOUR",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Parkour and PvP on Nemesis.",
+  "socials": {
+    "discord": "https://discord.gg/puhEDnWVFg"
+  },
+  "versions": [
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.12.2",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Parkour",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ffffff",
+    "secondary": "#3deaff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nemesis/logo.png"
 }

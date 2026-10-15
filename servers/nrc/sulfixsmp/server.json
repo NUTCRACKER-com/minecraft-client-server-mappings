@@ -8,5 +8,14 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "HEALTH_INDICATORS"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/pUnr2GGtms"
+  },
+  "disabledModules": [
+    "nameInfo"
+  ]
 }

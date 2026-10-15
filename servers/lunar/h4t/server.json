@@ -8,5 +8,28 @@
     "PVP",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Chill Vanilla+ SMP with survival, PvE and PvP.",
+  "website": "https://h4cp.it/",
+  "socials": {
+    "discord": "https://discord.gg/vKKGNMY5zJ"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#37674c",
+    "secondary": "#e9a825"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/h4t/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/h4t/banner.png"
 }

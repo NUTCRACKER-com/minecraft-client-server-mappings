@@ -9,5 +9,31 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A great finnish Minecraft server.",
+  "website": "https://minehalli.fi/",
+  "socials": {
+    "discord": "https://discord.gg/rKzPkDwEMe",
+    "youtube": "minehalli"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#2aff00",
+    "secondary": "#00dbff"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minehalli/background.png"
 }

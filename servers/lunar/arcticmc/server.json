@@ -8,5 +8,49 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "UHC Network featuring Hosted UHC, Tourneys, UHC Meetups, Arena and Hub Minigames",
+  "store": "https://store.arcticmc.net/",
+  "socials": {
+    "twitter": "ArcticUHC",
+    "discord": "https://discord.com/invite/uTj6Nvy",
+    "youtube": "ArcticUHC",
+    "tiktok": "@arcticuhc",
+    "instagram": "arcticuhc"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1",
+    "26.1.1",
+    "26.1.2"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU",
+    "NA"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "gameTypes": [
+    "UHC",
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#AA0000",
+    "secondary": "#97D35A"
+  },
+  "compliance": {
+    "rules": "https://store.arcticmc.net/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/arcticmc/logo.png"
 }

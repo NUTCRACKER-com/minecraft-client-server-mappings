@@ -11,5 +11,36 @@
     "UHC"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Minigames, and more on Performium Network.",
+  "website": "https://performium.net/",
+  "store": "https://store.performium.net/",
+  "socials": {
+    "twitter": "performium",
+    "discord": "https://discord.com/invite/43kJeeqyzr",
+    "youtube": "UCepS4nC_90eBruv_TvXs0sQ",
+    "facebook": "Performium"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Minigames",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#bd101b",
+    "secondary": "#77140c"
+  }
 }

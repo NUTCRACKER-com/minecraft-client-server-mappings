@@ -11,5 +11,27 @@
     "FACTIONS"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and Factions on Ember.",
+  "store": "https://store.emberpvp.es/",
+  "socials": {
+    "discord": "https://discord.gg/hcfactions"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "PvP",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#f62c22",
+    "secondary": "#fa5e12"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/ember/background.png"
 }

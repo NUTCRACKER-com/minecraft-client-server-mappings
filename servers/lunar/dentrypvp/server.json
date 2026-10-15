@@ -9,5 +9,33 @@
     "HARDCORE",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play DentryPvP for the real old factions experience",
+  "website": "https://dentrypvp.com/",
+  "store": "https://dentrypvp.com/store",
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "HCF",
+    "Factions",
+    "Hardcore",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#AB8102",
+    "secondary": "#FAC864"
+  },
+  "compliance": {
+    "privacyPolicy": "https://dentrypvp.com/privacy",
+    "termsOfService": "https://dentrypvp.com/terms",
+    "rules": "https://dentrypvp.com/rules",
+    "support": "https://dentrypvp.com/support"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/dentrypvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/dentrypvp/background.png"
 }

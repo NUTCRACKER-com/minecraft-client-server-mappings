@@ -8,5 +8,27 @@
     "SKYBLOCK",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Prison, Skyblock, and more on BossCraft.",
+  "store": "https://www.bosscraft.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/bosscraft"
+  },
+  "versions": [
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.2",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Prison",
+    "Skyblock",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#ff2c32",
+    "secondary": "#5dadf2"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bosscraft/logo.png"
 }

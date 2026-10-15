@@ -9,5 +9,37 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The house of Destroy the Nexus",
+  "website": "https://www.minecub.es",
+  "store": "https://tienda.minecub.net",
+  "socials": {
+    "discord": "https://discord.gg/minecub",
+    "tiktok": "@minecubtv",
+    "youtube": "@Minecub",
+    "twitter": "@Minecub"
+  },
+  "versions": [
+    "1.8.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#75d32c",
+    "secondary": "#979c96"
+  }
 }

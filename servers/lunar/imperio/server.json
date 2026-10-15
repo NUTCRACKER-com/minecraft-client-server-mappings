@@ -8,5 +8,31 @@
     "PVP",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, PvP, and much more on ImperioHispano",
+  "store": "https://tienda.imperiohispano.net/",
+  "socials": {
+    "twitter": "ServerHispano",
+    "discord": "https://discord.gg/imperio",
+    "youtube": "SrBigos",
+    "twitch": "bigos"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#ff9c00",
+    "secondary": "#fff600"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/imperio/logo.png"
 }

@@ -10,5 +10,36 @@
     "FACTIONS"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "SMP server focused on creativity, exploration, and immersive storytelling",
+  "socials": {
+    "twitter": "play_igcraft",
+    "discord": "https://discord.com/invite/e5GZ4e8th5",
+    "youtube": "@play.igcraft",
+    "tiktok": "@play.igcraft"
+  },
+  "versions": [
+    "26.2.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "NA",
+    "SA",
+    "EU"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "PvE",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#8bdbf8",
+    "secondary": "#74d935"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/igcraft/banner.png"
 }

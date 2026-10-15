@@ -10,5 +10,38 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Create your own minigames entirely in Minecraft, no coding knowledge required!",
+  "website": "https://mcdiamondfire.com/",
+  "store": "https://store.mcdiamondfire.com/",
+  "socials": {
+    "discord": "https://discord.com/invite/pDHBbBD",
+    "youtube": "@DiamondFireMC"
+  },
+  "versions": [
+    "1.21.11",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Creative",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#528dba",
+    "secondary": "#f37d20"
+  },
+  "compliance": {
+    "rules": "https://mcdiamondfire.com/rules/"
+  },
+  "video": "SnahMFEgvRI",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/diamondfire/background.png"
 }

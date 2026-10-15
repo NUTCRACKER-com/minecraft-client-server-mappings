@@ -8,5 +8,38 @@
     "MINIGAMES",
     "PRISON"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Where the Minecraft experience evolves..",
+  "website": "https://www.onyxcraft.net/",
+  "store": "https://tienda.onyxcraft.net/",
+  "socials": {
+    "discord": "https://discord.gg/UxZkgZeBQ6"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Minigames",
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#FF0000",
+    "secondary": "#FF6B6B"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/onyxcraft/logo.png"
 }

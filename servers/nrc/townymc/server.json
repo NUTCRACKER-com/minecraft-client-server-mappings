@@ -10,7 +10,37 @@
   "icon": "icon.png",
   "banner": "banner.png",
   "disabledModules": [
-    "autoText"
+    "autoText",
+    "nameInfo"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "ARROW_TRAIL",
+    "TNT_TIMER",
+    "WEATHER_CHANGER",
+    "TIME_CHANGER"
+  ],
+  "website": "https://townymc.de",
+  "store": "https://shop.townymc.de",
+  "socials": {
+    "discord": "https://discord.gg/yZvnSKfpzA",
+    "youtube": "https://www.youtube.com/@townymc-de",
+    "tiktok": "https://www.tiktok.com/@townymc_de"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "Citybuild",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Erschaffe dein eigenes Imperium und Baue Städte, sammle Ressourcen und verwirkliche deine Ideen."
+    },
+    "minigames": {
+      "name": "Minigames",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Fordere andere Spieler heraus und erlebe abwechslungsreiche Minispiele voller Spaß"
+    }
+  }
 }

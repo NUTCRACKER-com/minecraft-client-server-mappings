@@ -9,5 +9,45 @@
     "CREATIVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Award winning Minecraft server with minigames and survival!",
+  "website": "https://mc-barbercraft.com/",
+  "store": "https://store.mc-barbercraft.com/",
+  "socials": {
+    "discord": "https://discord.gg/PxnJ7MDeqW",
+    "youtube": "barbercraft",
+    "instagram": "mc.barbercraft",
+    "reddit": "barbercraft",
+    "tiktok": "@barbercraft",
+    "facebook": "mc.barbercraft"
+  },
+  "versions": [
+    "1.8.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.16.5",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Creative"
+  ],
+  "colors": {
+    "primary": "#0b50ef",
+    "secondary": "#78a4f6"
+  },
+  "compliance": {
+    "privacyPolicy": "https://mc-barbercraft.com/legal/privacy",
+    "termsOfService": "https://mc-barbercraft.com/legal/tos"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/barbercraft/banner.gif"
 }

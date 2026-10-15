@@ -8,5 +8,31 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Skyblock and Survival on BankMC.",
+  "store": "https://bankmc.pl/",
+  "socials": {
+    "discord": "https://discord.com/invite/ZKPYRrm6tb",
+    "tiktok": "@bankmcpl"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.16.5",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#ffffff",
+    "secondary": "#03071a"
+  }
 }

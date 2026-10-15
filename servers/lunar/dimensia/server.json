@@ -8,5 +8,32 @@
     "ADVENTURE",
     "ROLEPLAY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A server from an other dimension",
+  "website": "https://dimensia.fr/",
+  "socials": {
+    "discord": "https://discord.gg/yRvbJmgGzY"
+  },
+  "versions": [
+    "1.21.3",
+    "1.21.4"
+  ],
+  "primaryVersion": "1.21.3",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Adventure",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#642DE9",
+    "secondary": "#B393FF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/dimensia/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/dimensia/background.png"
 }

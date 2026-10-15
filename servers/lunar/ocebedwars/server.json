@@ -6,5 +6,28 @@
   "categories": [
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play exciting minigames on OCE Bedwars.",
+  "website": "https://www.ocebedwars.com/",
+  "store": "https://ocebedwars.tebex.io/",
+  "socials": {
+    "twitter": "OCEBedwars",
+    "discord": "https://discord.gg/a7unSQs5pG"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "OC"
+  ],
+  "gameTypes": [
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#FFAA00",
+    "secondary": "#55FFFF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/ocebedwars/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/ocebedwars/background.png"
 }

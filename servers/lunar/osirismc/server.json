@@ -7,5 +7,24 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "OsirisMC NetWork - Survival",
+  "store": "https://tienda.osirismc.net/",
+  "socials": {
+    "discord": "https://discord.gg/AQc6xGUj3A"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#e5be01",
+    "secondary": "#e5be70"
+  }
 }

@@ -8,5 +8,46 @@
     "SURVIVAL",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Minecraft server based in Romania with a lot of gamemodes!",
+  "website": "https://gods-realm.ro/",
+  "store": "https://magazin.gods-realm.ro/",
+  "wiki": "https://gods-realm.ro/ghid-survival-classic",
+  "socials": {
+    "twitter": "GodsRealm.Network",
+    "youtube": "@GodsRealm.Network",
+    "tiktok": "@godsrealm.network",
+    "discord": "https://discord.gg/gods-realm"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#FFC624",
+    "secondary": "#FED348"
+  },
+  "compliance": {
+    "privacyPolicy": "https://magazin.gods-realm.ro/terms/privacy",
+    "termsOfService": "https://magazin.gods-realm.ro/terms/checkout",
+    "rules": "https://gods-realm.ro/reguli"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/godsrealm/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/godsrealm/banner.gif"
 }

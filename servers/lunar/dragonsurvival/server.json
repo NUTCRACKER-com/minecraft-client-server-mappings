@@ -9,5 +9,29 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Test your combat skills on DragonSurvival.EU.",
+  "website": "https://dragon-survival.eu/",
+  "store": "https://dragon-survival.eu/shop",
+  "socials": {
+    "instagram": "dragonsurvivalmc",
+    "facebook": "DragonSurvivalMC"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#f0db85",
+    "secondary": "#262a26"
+  }
 }

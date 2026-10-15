@@ -7,5 +7,40 @@
     "SURVIVAL",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Feel the real adventure!",
+  "website": "https://www.lootmc.org",
+  "store": "https://store.lootmc.org",
+  "socials": {
+    "tiktok": "@lootmc.org",
+    "instagram": "lootmcorg",
+    "discord": "https://discord.com/invite/7WXZbf637K"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#ffffff",
+    "secondary": "#ffc300"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.lootmc.org/privacy",
+    "termsOfService": "https://www.lootmc.org/terms",
+    "rules": "https://www.lootmc.org/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/loot/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/loot/background.png"
 }

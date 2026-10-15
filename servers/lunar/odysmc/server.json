@@ -8,5 +8,33 @@
     "ADVENTURE",
     "OPENWORLD"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Medieval themed server offering classic gamemodes!",
+  "website": "https://odysmc.com/",
+  "store": "https://tienda.odysmc.com/",
+  "socials": {
+    "twitter": "OdysMC",
+    "discord": "https://discord.com/invite/odysmc"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.2",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Adventure",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#800080",
+    "secondary": "#FFC0CB"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/odysmc/logo.png"
 }

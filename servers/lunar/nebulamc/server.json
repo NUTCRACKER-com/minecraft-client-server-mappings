@@ -8,5 +8,35 @@
     "HCF",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP, HCF, and more on NebulaMC.",
+  "website": "https://web.nebulamc.cc",
+  "store": "https://nebulamc.tebex.io/",
+  "socials": {
+    "twitter": "NebulaMC_CC",
+    "discord": "https://discord.com/invite/ASsCRBzDSy"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#CA2F8F",
+    "secondary": "#FF7DCF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nebulamc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nebulamc/background.png"
 }

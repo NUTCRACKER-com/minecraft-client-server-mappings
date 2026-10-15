@@ -8,5 +8,43 @@
     "PVE",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The real towny in Italy",
+  "website": "https://f7lab.com/",
+  "store": "https://acegamers-network.tebex.io/",
+  "socials": {
+    "instagram": "acegamersmc",
+    "tiktok": "@acegamersmc",
+    "discord": "https://discord.gg/njcQtUgDfY"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "it",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "PvE",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#ff0000",
+    "secondary": "#ffe400"
+  },
+  "compliance": {
+    "rules": "https://docs.google.com/document/d/1Thtqb8bUFFcC-FMFb025cje-4Uv9J2ucBRsd4NXKOjM/edit?usp=sharing"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/acegamersnetwork/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/acegamersnetwork/background.png"
 }

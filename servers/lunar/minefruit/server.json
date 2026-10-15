@@ -10,5 +10,30 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Skyblock, and more on MineFruit.",
+  "store": "https://store.minefruit.org/",
+  "socials": {
+    "discord": "https://discord.com/invite/minefruit"
+  },
+  "versions": [
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ed7d1b",
+    "secondary": "#f9fff8"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minefruit/background.png"
 }

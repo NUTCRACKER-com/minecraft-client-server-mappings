@@ -8,5 +8,27 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Factions and PvP on Minerium.",
+  "website": "https://minerium.fr/",
+  "store": "https://minerium.fr/shop/categories/credits",
+  "socials": {
+    "discord": "https://discord.gg/KrTh3qZF5q"
+  },
+  "versions": [
+    "1.8.9"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Factions",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ff9d2e",
+    "secondary": "#87231a"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minerium/background.png"
 }

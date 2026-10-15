@@ -8,5 +8,39 @@
     "SURVIVAL",
     "ROLEPLAY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Minecraft network for everyone with Kingdom, WarSimulation, SMP and much more!",
+  "website": "https://www.eladornetwork.nl",
+  "store": "https://store.eladornetwork.nl",
+  "socials": {
+    "twitter": "eladornetwork",
+    "discord": "https://discord.gg/3mjN3P97z4",
+    "instagram": "eladornetwork",
+    "youtube": "@EladorNetwork",
+    "tiktok": "@eladornetwork"
+  },
+  "versions": [
+    "1.12.2",
+    "1.18.2",
+    "1.20.1"
+  ],
+  "primaryVersion": "1.18.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en",
+    "nl"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#27de64",
+    "secondary": "#08782f"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/eladornetwork/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/eladornetwork/background.png"
 }

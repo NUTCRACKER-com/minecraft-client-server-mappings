@@ -9,5 +9,35 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Skyblock, PvP, and more on Fakepixel Network.",
+  "website": "https://fakepixel.fun/",
+  "store": "https://world.fakepixel.shop",
+  "socials": {
+    "discord": "https://discord.com/invite/fakepixel"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#f7bf20",
+    "secondary": "#232a28"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fakepixel/background.png"
 }

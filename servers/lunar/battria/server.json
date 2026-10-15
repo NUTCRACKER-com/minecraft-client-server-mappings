@@ -9,5 +9,30 @@
     "PVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Home of the most immersive Towny experience",
+  "socials": {
+    "discord": "https://discord.gg/sgeFyxn7Xv"
+  },
+  "versions": [
+    "1.21.8",
+    "1.21.11"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Roleplay",
+    "PvP",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#FF00CC",
+    "secondary": "#951AD9"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/battria/banner.png"
 }

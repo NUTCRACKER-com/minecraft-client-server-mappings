@@ -8,5 +8,34 @@
     "PRISON",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Home of Competitive Minecraft PvP",
+  "website": "https://www.elytaria.club",
+  "store": "https://store.elytaria.club",
+  "socials": {
+    "telegram": "elytariaclub",
+    "discord": "https://discord.gg/elytaria"
+  },
+  "versions": [
+    "1.8.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Prison",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#44a1e3",
+    "secondary": "#a854de"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/elytariaclub/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/elytariaclub/background.png"
 }

@@ -10,5 +10,44 @@
     "FACTIONS"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A New Minecraft Italian Server",
+  "website": "https://www.hyfelia.it",
+  "store": "https://store.hyfelia.it",
+  "socials": {
+    "twitter": "HyfeliaNetwork",
+    "telegram": "Hyfelia",
+    "discord": "https://discord.com/invite/gEfWG3CZ2d"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#914ad9",
+    "secondary": "#ffffff"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hyfelia/background.png"
 }

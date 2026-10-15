@@ -7,5 +7,41 @@
     "SURVIVAL",
     "BOXPVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Crossplay survival SMP and BoxPvP network for Java and Bedrock.",
+  "website": "https://www.goldensticker.xyz",
+  "socials": {
+    "discord": "https://discord.gg/txJ7EwyJcz",
+    "youtube": "@GoldenStickersxyz"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "BoxPvP"
+  ],
+  "colors": {
+    "primary": "#FFA600",
+    "secondary": "#1188FF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/goldensticker/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/goldensticker/background.png"
 }

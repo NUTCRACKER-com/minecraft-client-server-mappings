@@ -8,5 +8,34 @@
     "PVE",
     "ADVENTURE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, PvE, and more on HoneyMC.",
+  "website": "https://honeymc.net/",
+  "store": "https://honeymc.net/shop",
+  "socials": {
+    "twitter": "joinHoneyMC",
+    "discord": "https://discord.com/invite/kKHzYHWxrq"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvE",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#DA6D01",
+    "secondary": "#E0D40D"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/honeymc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/honeymc/background.png"
 }

@@ -9,5 +9,37 @@
     "OPENWORLD",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Build your raft, fish the seas, and sail with your crew!",
+  "website": "https://orebound.net",
+  "store": "https://orebound.net/store",
+  "socials": {
+    "discord": "https://discord.gg/orebound",
+    "tiktok": "@vertcode",
+    "instagram": "vertcodemc"
+  },
+  "versions": [
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "26.1.2",
+  "regions": [
+    "EU",
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Adventure",
+    "Open World",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#fdb700",
+    "secondary": "#fee60c"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/orebound/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/orebound/background.png"
 }

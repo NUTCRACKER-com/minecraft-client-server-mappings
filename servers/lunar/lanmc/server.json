@@ -9,5 +9,31 @@
     "SKYBLOCK"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Join our server for thrilling Survival, Duels, and exciting Skyblock adventures!",
+  "website": "https://lanmc.pl",
+  "store": "https://lanmc.pl/sklep",
+  "socials": {
+    "discord": "https://discord.gg/czC3AaVH2Z"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#a357ff",
+    "secondary": "#10eeff"
+  }
 }

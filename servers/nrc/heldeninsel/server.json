@@ -10,5 +10,29 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://heldeninsel.net",
+  "store": "https://heldeninsel.shop",
+  "socials": {
+    "discord": "https://discord.gg/heldeninsel",
+    "youtube": "https://www.youtube.com/@heldeninselnet",
+    "tiktok": "https://www.tiktok.com/@heldeninsel",
+    "x": "https://x.com/heldeninsel"
+  },
+  "gamemodes": {
+    "duels": {
+      "name": "Duels",
+      "versions": [
+        "1.21.11"
+      ],
+      "description": "Competitive duels across many kits"
+    },
+    "speedhelden": {
+      "name": "SpeedHelden",
+      "versions": [
+        "1.21.11"
+      ],
+      "description": "A 3 hearts battle royale"
+    }
+  }
 }

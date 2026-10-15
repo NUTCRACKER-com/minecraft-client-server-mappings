@@ -6,5 +6,36 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Server open, join now!",
+  "store": "https://tienda.asterial.us/",
+  "socials": {
+    "twitter": "AsterialNT",
+    "tiktok": "@AsterialNT",
+    "discord": "https://discord.gg/asterial"
+  },
+  "versions": [
+    "1.16.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#e29e71",
+    "secondary": "#c07bd4"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/asterial/logo.png"
 }

@@ -8,5 +8,29 @@
     "UHC",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "AkaiUHC is a UHC and Minigames french server.",
+  "store": "https://shop.akai-uhc.fr/",
+  "versions": [
+    "1.8.9"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHC",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#d44c0d",
+    "secondary": "#f57e1d"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/akai/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/akai/background.png"
 }

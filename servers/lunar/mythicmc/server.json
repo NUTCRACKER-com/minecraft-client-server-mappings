@@ -7,5 +7,27 @@
     "HCF",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play HCF and PvP on MythicMC.",
+  "website": "https://mythicmc.cc/",
+  "store": "https://mythicmc.tebex.io/",
+  "socials": {
+    "twitter": "MythicNetworkCC",
+    "discord": "https://discord.com/invite/m3MEKKagxC/",
+    "telegram": "MythicMCcc"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "HCF",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#AA00AA",
+    "secondary": "#555555"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mythicmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mythicmc/background.png"
 }

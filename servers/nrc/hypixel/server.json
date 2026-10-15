@@ -14,7 +14,169 @@
   "banner": "banner.png",
   "disabledModules": [
     "fovChanger",
-    "freelook"
+    "freelook",
+    "nameInfo"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "TNT_TIMER"
+  ],
+  "website": "https://hypixel.net",
+  "store": "https://store.hypixel.net",
+  "socials": {
+    "youtube": "https://www.youtube.com/channel/UCHoVdy7-tYfrZtfhnSDK3JA",
+    "instagram": "https://instagram.com/hypixelofficial",
+    "x": "https://x.com/HypixelNetwork",
+    "discord": "https://discord.com/invite/hypixel",
+    "teamspeak": "ts3://ts.hypixel.net"
+  },
+  "gamemodes": {
+    "skyblock": {
+      "name": "SkyBlock",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Hypixel's SkyBlock experience."
+    },
+    "bedwars": {
+      "name": "Bed Wars",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Multiple Bed Wars modes including Solo, Doubles, 3v3v3v3, 4v4v4v4, Practice, and Dream modes."
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "versions": [
+        "ALL"
+      ],
+      "description": "SkyWars with Solo, Teams, Mega and Doubles modes."
+    },
+    "murder_mystery": {
+      "name": "Murder Mystery",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Murder Mystery Classic, Infection, Assassins, and Double Up."
+    },
+    "duels": {
+      "name": "Duels",
+      "versions": [
+        "ALL"
+      ],
+      "description": "1v1 and team duels including UHC, SkyWars, OP, Bridge, Boxing, and more."
+    },
+    "arcade": {
+      "name": "Arcade Games",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Mini arcade games like Hole in the Wall, Zombies, Party Games, Creeper Attack, Pixel Party, Dropper, and more."
+    },
+    "warlords": {
+      "name": "Warlords",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Team-based PvP with Capture the Flag, Domination, and TDM."
+    },
+    "mega_walls": {
+      "name": "Mega Walls",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Large-scale PvP Mega Walls with Standard and Faceoff modes."
+    },
+    "blitz_sg": {
+      "name": "Blitz Survival Games",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Classic Hunger Games style survival mode."
+    },
+    "tnt_games": {
+      "name": "TNT Games",
+      "versions": [
+        "ALL"
+      ],
+      "description": "TNT Run, PVP Run, Bow Spleef, TNT Tag, and Wizards."
+    },
+    "the_pit": {
+      "name": "The Pit",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Open world PvP pit experience."
+    },
+    "classic_games": {
+      "name": "Classic Games",
+      "versions": [
+        "ALL"
+      ],
+      "description": "VampireZ, Quake, Paintball, Arena, Walls, Turbo Kart Racers."
+    },
+    "cops_and_crims": {
+      "name": "Cops and Crims",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Defusal, Deathmatch, Gun Game modes."
+    },
+    "build_battle": {
+      "name": "Build Battle",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Solo, Teams, Pro Mode, and Guess The Build."
+    },
+    "uhc": {
+      "name": "UHC Champions",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Solo, Teams, and Events modes."
+    },
+    "speed_uhc": {
+      "name": "Speed UHC",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Fast-paced UHC Solo and Team modes."
+    },
+    "smash_heroes": {
+      "name": "Smash Heroes",
+      "versions": [
+        "ALL"
+      ],
+      "description": "1v1v1v1, 2v2, 2v2v2, 1v1, and Friends Mode."
+    },
+    "housing": {
+      "name": "Housing",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Creative plot world building mode."
+    },
+    "tournament_hall": {
+      "name": "Tournament Hall",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Special tournament events."
+    },
+    "smp": {
+      "name": "SMP",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Survival Multiplayer servers."
+    },
+    "wool_wars": {
+      "name": "Wool Wars",
+      "versions": [
+        "ALL"
+      ],
+      "description": "PvP minigame involving wool blocks."
+    }
+  }
 }

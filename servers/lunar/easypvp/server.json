@@ -10,5 +10,47 @@
     "SKYBLOCK",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "French UHC and PvP network: UHC, Werewolf, Practice and Skyblock",
+  "website": "https://easypvp.fr",
+  "store": "https://easypvp.tebex.store",
+  "socials": {
+    "discord": "https://discord.gg/8E5PF7N"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*",
+    "26.3.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "UHC",
+    "PvP",
+    "Practice",
+    "Skyblock",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#00F0F0",
+    "secondary": "#080789"
+  },
+  "compliance": {
+    "rules": "https://easypvp.fr/reglement.html"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/easypvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/easypvp/background.png"
 }

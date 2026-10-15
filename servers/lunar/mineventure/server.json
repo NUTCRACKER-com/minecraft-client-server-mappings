@@ -9,5 +9,42 @@
     "FACTIONS"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP, HCF, and more on Mineventure.",
+  "website": "https://mineventure.org/",
+  "store": "https://store.mineventure.org/",
+  "socials": {
+    "discord": "https://discord.com/invite/hcf",
+    "twitter": "MineVentureORG"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#AA0000",
+    "secondary": "#FF5555"
+  },
+  "compliance": {
+    "privacyPolicy": "https://mineventure.org/privacy",
+    "termsOfService": "https://mineventure.org/terms",
+    "rules": "https://mineventure.org/rules/"
+  }
 }

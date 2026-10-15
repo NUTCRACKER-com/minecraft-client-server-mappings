@@ -8,5 +8,13 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://mythora.de",
+  "store": "https://shop.mythora.de",
+  "socials": {
+    "discord": "https://discord.gg/mythora",
+    "youtube": "https://www.youtube.com/@mythorade",
+    "tiktok": "https://www.tiktok.com/@mythora.de",
+    "instagram": "https://www.instagram.com/mythora.de/"
+  }
 }

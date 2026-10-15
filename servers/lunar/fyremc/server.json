@@ -8,5 +8,30 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames and PvP on FyreMC.",
+  "website": "https://www.fyremc.hu/",
+  "store": "https://mcshop.hu/fyremc",
+  "socials": {
+    "discord": "https://discord.com/invite/XZa4ke3",
+    "youtube": "UCDwa5NVfQlRWXEItEHYij3w",
+    "instagram": "fyremcofficial",
+    "facebook": "fyremcofficial"
+  },
+  "versions": [
+    "1.18.2"
+  ],
+  "primaryVersion": "1.18.2",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#fac827",
+    "secondary": "#cb2511"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fyremc/background.png"
 }

@@ -8,5 +8,40 @@
     "MINIGAMES",
     "HARDCORE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Gen Raiding | Tycoon | Dungeons",
+  "website": "https://miscmc.net",
+  "store": "https://store.miscmc.net",
+  "socials": {
+    "discord": "https://discord.gg/miscmc",
+    "youtube": "@MiscMC",
+    "tiktok": "@MiscC"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Hardcore"
+  ],
+  "colors": {
+    "primary": "#b940ff",
+    "secondary": "#b940ff"
+  },
+  "compliance": {
+    "privacyPolicy": "https://miscmc.net/privacy",
+    "termsOfService": "https://miscmc.net/tos",
+    "rules": "https://miscmc.net/rules",
+    "support": "https://discord.gg/miscmc"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/miscmc/logo.png"
 }

@@ -8,5 +8,39 @@
     "SURVIVAL",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Join thousands of players on MagicPixel — Survival, SkyMine, SMP & Roleplay!",
+  "website": "https://magicpixel.ir",
+  "store": "https://www.magicpixel.ir/dashboard/store",
+  "socials": {
+    "discord": "https://discord.gg/pzCmCKtv95",
+    "instagram": "magicpixel.ir"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Roleplay",
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#893bf6",
+    "secondary": "#cd3bf6"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/magicpixel/logo.png"
 }

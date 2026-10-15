@@ -9,5 +9,42 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Brazilian Towny Server",
+  "website": "https://docs.farlands.net.br",
+  "store": "https://loja.farlands.net.br",
+  "socials": {
+    "tiktok": "@farlandsservidor",
+    "discord": "https://discord.com/invite/UPNhAeEK4k"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "NA",
+    "EU",
+    "SA"
+  ],
+  "languages": [
+    "en",
+    "es-EN",
+    "pt-BR"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Roleplay",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#00b200",
+    "secondary": "#4c4cff"
+  },
+  "compliance": {
+    "termsOfService": "https://loja.farlands.net.br/termos",
+    "rules": "https://docs.farlands.net.br/towny"
+  },
+  "video": "1pgfZjdPZfE",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/farlands/background.png"
 }

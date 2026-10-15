@@ -7,5 +7,32 @@
     "SKYBLOCK",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Elenox Network - Skyblock & Survival | French server",
+  "website": "https://www.elenox.net/",
+  "store": "https://www.elenox.net/store",
+  "socials": {
+    "twitter": "ElesiaSAS",
+    "discord": "https://discord.com/invite/elenox",
+    "youtube": "Elesia",
+    "instagram": "elenox_network",
+    "tiktok": "@elenox_network"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.3",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#f48e09",
+    "secondary": "#8f949a"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/elenox/logo.png"
 }

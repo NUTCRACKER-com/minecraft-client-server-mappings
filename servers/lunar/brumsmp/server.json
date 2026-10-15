@@ -8,5 +8,33 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A popular Minecraft Server and SMP featuring unique survival and PvP experiences",
+  "website": "https://info.brumsmp.net",
+  "store": "https://store.brumsmp.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/brumsmp",
+    "youtube": "BrumSMP",
+    "tiktok": "@brumsmp"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ffaa00",
+    "secondary": "#ffffff"
+  }
 }

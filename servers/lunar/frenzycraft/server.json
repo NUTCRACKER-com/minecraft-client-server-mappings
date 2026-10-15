@@ -9,5 +9,27 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A competitive Minecraft network featuring Prison and Skyblock.",
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en",
+    "sv-SE"
+  ],
+  "gameTypes": [
+    "Prison",
+    "Skyblock",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#EF3B32",
+    "secondary": "#28C7D9"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/frenzycraft/background.png"
 }

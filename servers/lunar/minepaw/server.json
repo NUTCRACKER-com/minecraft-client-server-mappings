@@ -8,5 +8,38 @@
     "SURVIVAL",
     "CREATIVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Full of vibes & fun!",
+  "website": "https://www.minepaw.net",
+  "store": "https://store.minepaw.net",
+  "socials": {
+    "discord": "https://discord.gg/EKx2bRqaVx"
+  },
+  "versions": [
+    "1.8.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Survival",
+    "Creative"
+  ],
+  "colors": {
+    "primary": "#FFA500",
+    "secondary": "#FFFFFF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minepaw/logo.png"
 }

@@ -8,5 +8,26 @@
     "MINIGAMES",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "French minigame network featuring UHC, PvP, and more.",
+  "socials": {
+    "discord": "https://discord.gg/uxZdQsWPsJ"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "UHC",
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#FFAA00",
+    "secondary": "#FFFF55"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nebuleuse/logo.png"
 }

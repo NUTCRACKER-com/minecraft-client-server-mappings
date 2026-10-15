@@ -7,5 +7,27 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience survival gameplay on Ethernix.cz.",
+  "website": "https://ethernix.cz/",
+  "store": "https://platby.hostify.cz/47548/",
+  "socials": {
+    "discord": "https://discord.gg/mHYjwhkgNR",
+    "tiktok": "@ethernixcz",
+    "instagram": "ethernixcz"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#00ccff",
+    "secondary": "#ffffff"
+  }
 }

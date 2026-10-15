@@ -8,5 +8,30 @@
     "SKYBLOCK",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The hub for the ultimate SkyBlock, Prison, and Survival experience.",
+  "website": "https://mchub.com/",
+  "store": "https://buy.mchub.com/",
+  "socials": {
+    "discord": "https://discord.com/invite/mchub"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Prison",
+    "Skyblock",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#a8b5b7",
+    "secondary": "#78b36f"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mchub/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mchub/background.png"
 }

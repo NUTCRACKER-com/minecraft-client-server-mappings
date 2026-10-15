@@ -11,5 +11,37 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Finnish Minecraft server that encaptures you! >w<",
+  "website": "https://www.karanteeni.net/",
+  "socials": {
+    "discord": "https://discord.gg/fZqqysM",
+    "youtube": "@Karanteeni",
+    "twitch": "KaranteeniServer",
+    "tiktok": "@karanteeniserver"
+  },
+  "versions": [
+    "26.2"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Casual",
+    "Creative",
+    "KitPvP",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#FFAA00",
+    "secondary": "#FFFF55"
+  },
+  "compliance": {
+    "rules": "https://www.karanteeni.net/saannot"
+  }
 }

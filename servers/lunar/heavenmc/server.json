@@ -6,5 +6,36 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Test your combat skills on HeavenMC.",
+  "website": "http://www,heavenmc.com.br/",
+  "store": "http://loja.heavenmc.com.br/",
+  "socials": {
+    "twitter": "heavenminigames",
+    "instagram": "heavenminigames",
+    "tiktok": "@heavenminigames",
+    "youtube": "@heavenminigames",
+    "discord": "https://discord.com/invite/Z2TceKfgyG"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "pt-BR"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#82ccf8",
+    "secondary": "#0051b1"
+  },
+  "video": "-NtbbXR0ubE",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/heavenmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/heavenmc/background.png"
 }

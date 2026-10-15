@@ -8,5 +8,31 @@
     "PVP",
     "OPENWORLD"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "5 Levels = 1 extra Heart",
+  "website": "http://shop.levelsmp.org",
+  "socials": {
+    "discord": "https://discord.gg/mb4ApHunU5"
+  },
+  "versions": [
+    "1.21"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#6AE565",
+    "secondary": "#D93E3E"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/levelsmp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/levelsmp/background.png"
 }

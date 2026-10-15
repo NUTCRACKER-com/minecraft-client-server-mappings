@@ -7,5 +7,41 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "EgoMC: SMP adventures",
+  "website": "https://web.egomc.net",
+  "store": "https://store.egomc.net",
+  "socials": {
+    "discord": "https://discord.gg/MmpYXcx8gG"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "ar",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#441A6E",
+    "secondary": "#7415D1"
+  },
+  "compliance": {
+    "privacyPolicy": "https://web.egomc.net/privacy",
+    "termsOfService": "https://web.egomc.net/terms",
+    "rules": "https://web.egomc.net/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/egomc/logo.png"
 }

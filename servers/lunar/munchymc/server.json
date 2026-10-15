@@ -10,5 +10,39 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The Official MunchyMC website that is home to the very best Minecraft minigames.",
+  "website": "https://www.munchymc.com/",
+  "store": "https://shop.munchymc.com/",
+  "socials": {
+    "twitter": "munchy_mc",
+    "discord": "https://discord.com/invite/munchymc",
+    "youtube": "UCN4LdcieqEuK8P3S_qyJgjQ",
+    "reddit": "MunchyMC",
+    "tiktok": "@munchy_mc"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Prison",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#b65606",
+    "secondary": "#779970"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/munchymc/banner.gif"
 }

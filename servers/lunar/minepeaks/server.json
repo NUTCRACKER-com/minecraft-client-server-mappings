@@ -8,5 +8,35 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play HCF, Survival, and more on MinePeaks.",
+  "store": "https://store.minepeaks.com/",
+  "socials": {
+    "twitter": "MinePeaks",
+    "discord": "https://discord.gg/KXwhR59SAZ"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "HCF",
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#2993C4",
+    "secondary": "#00a3a5"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minepeaks/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minepeaks/background.png"
 }

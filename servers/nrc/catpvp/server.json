@@ -23,5 +23,26 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://www.catpvp.xyz/",
+  "store": "https://store.catpvp.xyz/",
+  "socials": {
+    "discord": "https://discord.gg/cYZqwmFYFF"
+  },
+  "gamemodes": {
+    "duels": {
+      "name": "Kit Duels",
+      "versions": [
+        ">1.21"
+      ],
+      "description": "Duels with a large variety of kits, with a fully fledged Queue, ELO and Ranking System"
+    },
+    "sandbox": {
+      "name": "Sandbox",
+      "versions": [
+        ">1.21"
+      ],
+      "description": "Create your own kits and fight other players"
+    }
+  }
 }

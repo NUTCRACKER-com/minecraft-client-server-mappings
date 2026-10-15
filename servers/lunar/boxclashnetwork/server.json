@@ -7,5 +7,35 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A fun BoxSMP Minecraft network that listens to the community.",
+  "website": "https://boxclash.org",
+  "store": "https://store.boxclash.org",
+  "socials": {
+    "tiktok": "@playboxclash",
+    "youtube": "@boxclashnetwork",
+    "instagram": "playboxclash",
+    "discord": "https://discord.com/invite/ajazug8xPT"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.3",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#3EED72",
+    "secondary": "#16E9DC"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/boxclashnetwork/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/boxclashnetwork/background.png"
 }

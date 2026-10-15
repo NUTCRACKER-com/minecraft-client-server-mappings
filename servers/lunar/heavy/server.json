@@ -9,5 +9,32 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Factions, Creative, and more on Heavy.",
+  "store": "https://loja.redeheavy.com.br",
+  "socials": {
+    "discord": "https://discord.gg/redeheavy"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "pt-BR",
+    "pt-PT"
+  ],
+  "gameTypes": [
+    "Factions",
+    "Creative",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#f89900",
+    "secondary": "#f89900"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/heavy/background.png"
 }

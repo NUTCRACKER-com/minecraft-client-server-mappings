@@ -9,5 +9,35 @@
     "MINIGAMES",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play UHC, Minigames, and more on AKIRA.",
+  "website": "https://akiramc.net",
+  "store": "https://akiramc.net/store",
+  "socials": {
+    "twitter": "AkiraServ",
+    "discord": "https://discord.com/invite/akiramc"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr",
+    "en",
+    "de"
+  ],
+  "gameTypes": [
+    "UHC",
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#FFAA00",
+    "secondary": "#FFFF55"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/akira/logo.png"
 }

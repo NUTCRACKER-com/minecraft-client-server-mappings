@@ -7,5 +7,29 @@
     "PVP",
     "PRACTICE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A competitive Minecraft PvP network featuring Bridge Training and Practice PvP.",
+  "versions": [
+    "1.8.9",
+    "1.12.2",
+    "1.16.5",
+    "1.21"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Practice"
+  ],
+  "colors": {
+    "primary": "#00A8FF",
+    "secondary": "#0066FF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mineshard/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mineshard/background.png"
 }

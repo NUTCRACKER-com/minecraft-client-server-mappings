@@ -7,5 +7,31 @@
     "UHC",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A 1.7.10 and 1.8.9 UHC and Practice server.",
+  "store": "https://store.blitzmc.net/",
+  "socials": {
+    "discord": "https://discord.gg/eXdjsB5d5w"
+  },
+  "versions": [
+    "1.7.10",
+    "1.8.9"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "UHC",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ffcc00",
+    "secondary": "#000000"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blitzmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blitzmc/background.png"
 }

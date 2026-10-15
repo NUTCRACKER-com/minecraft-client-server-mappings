@@ -13,5 +13,13 @@
   "disabledModules": [
     "noFog"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "ARROW_TRAIL",
+    "TNT_TIMER",
+    "TIME_CHANGER"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/nc8hbSA4Pj"
+  }
 }

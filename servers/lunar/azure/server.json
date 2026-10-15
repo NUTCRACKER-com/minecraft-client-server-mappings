@@ -8,5 +8,31 @@
     "UHC"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and UHC on Azure Network.",
+  "store": "https://store.azurepvp.cc",
+  "socials": {
+    "twitter": "AzurePvPCC",
+    "discord": "https://discord.gg/Mp2UkpVA6T"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.9"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#00ffcc",
+    "secondary": "#ffffff"
+  }
 }

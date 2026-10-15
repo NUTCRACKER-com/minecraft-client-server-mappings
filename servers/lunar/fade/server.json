@@ -8,5 +8,28 @@
     "PVP",
     "FACTIONS"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, PvP, and more on Fade.",
+  "website": "https://fade.lv",
+  "store": "https://fade.lv/store",
+  "socials": {
+    "discord": "https://discord.gg/fade"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#fdc83b",
+    "secondary": "#44eff8"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fade/logo.png"
 }

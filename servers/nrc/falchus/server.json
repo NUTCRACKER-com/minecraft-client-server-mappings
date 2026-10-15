@@ -13,5 +13,15 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "HEALTH_INDICATORS"
+  ],
+  "website": "https://falchus.com",
+  "socials": {
+    "discord": "https://discord.gg/xnmnrbJrt6"
+  },
+  "disabledModules": [
+    "nameInfo"
+  ]
 }

@@ -7,5 +7,29 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Spanish Minecraft Java Network",
+  "store": "https://canndymc.tebex.io/",
+  "socials": {
+    "twitter": "Canndymc",
+    "discord": "https://discord.com/invite/QfC3ZZvCtw"
+  },
+  "versions": [
+    "1.8.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#df0cc6",
+    "secondary": "#ffffff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/canndymc/logo.png"
 }

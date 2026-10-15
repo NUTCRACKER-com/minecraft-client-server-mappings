@@ -10,5 +10,38 @@
     "PRISON"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "One of the longest running servers which offers a variety of gamemodes!",
+  "website": "https://mccentral.org/",
+  "store": "https://buy.mccentral.org/",
+  "socials": {
+    "twitter": "_mccentral",
+    "discord": "https://discord.com/invite/9jzwQDQ",
+    "youtube": "UCMjWosxS3lQY5JhwcvnoHWw",
+    "instagram": "mccentral_official",
+    "tiktok": "@mccentral_official",
+    "facebook": "mccentral.official"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#e3b34a",
+    "secondary": "#1a1c20"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mccentral/banner.gif"
 }

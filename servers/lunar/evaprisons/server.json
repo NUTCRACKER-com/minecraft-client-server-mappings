@@ -8,5 +8,24 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The most awesome Prison Experience!",
+  "store": "https://buy.evaprisons.com",
+  "socials": {
+    "discord": "https://discord.gg/gq2TTMr66b"
+  },
+  "versions": [
+    "1.20.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "gameTypes": [
+    "Prison",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#c20025",
+    "secondary": "#403d3d"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/evaprisons/banner.gif"
 }

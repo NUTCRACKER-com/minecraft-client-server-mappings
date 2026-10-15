@@ -9,5 +9,30 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Factions, Skyblock, and more on MineGames.",
+  "website": "https://minegames.us/",
+  "store": "https://store.minegames.us/",
+  "socials": {
+    "twitter": "minegamesus",
+    "discord": "https://discord.com/invite/7nqd7hpsNJ"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Factions",
+    "Skyblock",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#53bbea",
+    "secondary": "#0c5c84"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minegames/background.png"
 }

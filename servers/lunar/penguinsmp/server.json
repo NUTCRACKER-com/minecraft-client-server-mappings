@@ -8,5 +8,31 @@
     "SURVIVAL",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP, Survival, and more on PenguinSMP.",
+  "website": "https://penguinsmp.cl/",
+  "store": "https://store.penguinsmp.cl/",
+  "socials": {
+    "discord": "https://discord.com/invite/wJEVsDTUnf",
+    "instagram": "penguinsmp.cl",
+    "tiktok": "@.penguinsmp"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#6AB9F1",
+    "secondary": "#ffffff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/penguinsmp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/penguinsmp/background.png"
 }

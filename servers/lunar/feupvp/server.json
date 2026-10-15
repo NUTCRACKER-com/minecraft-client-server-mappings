@@ -8,5 +8,31 @@
     "MINIGAMES",
     "UHC"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "FeuPvP is currently in heavy development, coming soon!",
+  "website": "https://feupvp.net/",
+  "socials": {
+    "twitter": "feupvp",
+    "facebook": "feupvp"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#ff5555",
+    "secondary": "#fffffe"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/feupvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/feupvp/background.png"
 }

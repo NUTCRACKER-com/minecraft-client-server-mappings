@@ -9,5 +9,14 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "WEATHER_CHANGER",
+    "TIME_CHANGER"
+  ],
+  "socials": {
+    "youtube": "https://www.youtube.com/@zFlockii",
+    "tiktok": "https://www.tiktok.com/@zflockii",
+    "discord": "https://discord.gg/SWYtdJBXjq"
+  }
 }

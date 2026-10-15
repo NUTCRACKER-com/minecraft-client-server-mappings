@@ -6,5 +6,36 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Italian Minecraft server with Survival, events and an active community.",
+  "website": "https://aquaticmc.it",
+  "store": "https://store.aquaticmc.it",
+  "socials": {
+    "discord": "https://discord.gg/aquaticmc"
+  },
+  "versions": [
+    "1.21.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#7EE3F7",
+    "secondary": "#4D5AB5"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.aquaticmc.it/privacy.html",
+    "termsOfService": "https://www.aquaticmc.it/terms.html",
+    "rules": "https://www.aquaticmc.it/regolamento.html"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/aquaticmcita/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/aquaticmcita/banner.png"
 }

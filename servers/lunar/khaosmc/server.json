@@ -7,5 +7,27 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Spanish-speaking Minecraft network focused on Survival OP, PvP",
+  "store": "https://tienda.khaosmc.net/",
+  "socials": {
+    "discord": "https://discord.gg/khaosmc",
+    "tiktok": "@khaosmc"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "SA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#FF0000",
+    "secondary": "#1A1A1A"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/khaosmc/logo.png"
 }

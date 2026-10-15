@@ -8,5 +8,37 @@
     "PRISON",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames, Prison, and more on Minemalia.",
+  "website": "https://minemalia.org/",
+  "store": "https://store.minemalia.com/",
+  "socials": {
+    "twitter": "minemalia_mc",
+    "discord": "https://discord.com/invite/Z34d9xF",
+    "instagram": "minemalia_mc",
+    "tiktok": "@minemalia_mc"
+  },
+  "versions": [
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Prison",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#faae18",
+    "secondary": "#2ac1cc"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minemalia/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minemalia/background.png"
 }

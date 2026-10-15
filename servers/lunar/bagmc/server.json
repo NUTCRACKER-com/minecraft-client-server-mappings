@@ -9,5 +9,33 @@
     "SKYBLOCK"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames, PvP, and more on BagMC.",
+  "website": "https://bagmc.pl/",
+  "store": "https://bagmc.pl/servers",
+  "socials": {
+    "discord": "https://discord.com/invite/65JQDprgKa"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#f1be6f",
+    "secondary": "#822f5e"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bagmc/background.png"
 }

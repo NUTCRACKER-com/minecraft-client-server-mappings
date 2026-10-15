@@ -6,5 +6,37 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Hcf Styled server (Bunkers, Hcf, Kitmap, etc)",
+  "website": "https://www.inferno.rip",
+  "store": "https://store.inferno.rip",
+  "socials": {
+    "twitter": "infernohcf",
+    "discord": "https://discord.com/invite/gM6k2EuchM"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.16.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#Ff0000",
+    "secondary": "#Fbef51"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/inferno/logo.png"
 }

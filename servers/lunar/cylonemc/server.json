@@ -11,5 +11,29 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames, Parkour, and more on CyloneMC.",
+  "store": "https://shop.cylonemc.net/",
+  "socials": {
+    "twitter": "cylonemc",
+    "discord": "https://discord.com/invite/Urv66KG"
+  },
+  "versions": [
+    "1.19.4",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Parkour",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#FA6BDF",
+    "secondary": "#d760f8"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cylonemc/background.png"
 }

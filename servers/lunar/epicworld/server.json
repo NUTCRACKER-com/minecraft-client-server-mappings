@@ -9,5 +9,35 @@
     "ADVENTURE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The unique network, embark on your journey today.",
+  "website": "https://epicworld.gg/",
+  "socials": {
+    "discord": "https://discord.com/invite/BRuanmye6F",
+    "twitter": "epicworldgg",
+    "tiktok": "@epicworldgg",
+    "youtube": "@EpicWorldSMP"
+  },
+  "versions": [
+    "1.21.3",
+    "1.21.4",
+    "1.21.5"
+  ],
+  "primaryVersion": "1.21.3",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#3dc94c",
+    "secondary": "#332419"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/epicworld/background.png"
 }

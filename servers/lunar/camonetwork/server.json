@@ -8,5 +8,44 @@
     "CREATIVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The most fun Minetopia Roleplay server!",
+  "website": "https://camonetwork.eu/",
+  "store": "https://camonetwork.eu/webshop",
+  "wiki": "https://camonetwork.eu/articles",
+  "socials": {
+    "discord": "https://discord.com/invite/K9MxefEUaG",
+    "youtube": "@CamoNetwork",
+    "instagram": "camonetworknl",
+    "tiktok": "@camonetwork"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.10",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "nl"
+  ],
+  "gameTypes": [
+    "Roleplay",
+    "Creative"
+  ],
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#5aa9c3"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/camonetwork/background.png"
 }

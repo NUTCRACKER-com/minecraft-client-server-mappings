@@ -9,5 +9,28 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP, Skyblock, and more on BedlessMC Network.",
+  "store": "https://bedlessmc.com/store",
+  "socials": {
+    "discord": "https://discord.com/invite/dssSUZQ7Ee"
+  },
+  "versions": [
+    "1.8.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Skyblock",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#FF55FF",
+    "secondary": "#AA00AA"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bedlessmc/background.png"
 }

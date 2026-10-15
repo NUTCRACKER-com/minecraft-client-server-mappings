@@ -9,5 +9,29 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Discover new wonders on CrazyCombat",
+  "website": "https://crazycombat.net",
+  "store": "https://store.crazycombat.net/",
+  "socials": {
+    "youtube": "crazycombatmc",
+    "tiktok": "@crazycombatmc",
+    "instagram": "crazycombatmc"
+  },
+  "versions": [
+    "26.2"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Adventure",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#00FFEA",
+    "secondary": "#FF00F3"
+  }
 }

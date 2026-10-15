@@ -8,5 +8,28 @@
     "SURVIVAL",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Prison, Skyblock and more.",
+  "website": "https://ascendmc.net",
+  "store": "https://store.ascendmc.net",
+  "socials": {
+    "discord": "https://discord.gg/ascendmc"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Prison",
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#0055ff",
+    "secondary": "#ffffff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/ascendmc/logo.png"
 }

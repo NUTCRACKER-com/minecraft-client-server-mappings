@@ -8,5 +8,43 @@
     "PVP",
     "HARDCORE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, PvP, and more on Faction Network.",
+  "store": "https://tienda.faction.es",
+  "socials": {
+    "discord": "https://discord.com/invite/v5gmWT2mKz",
+    "twitter": "FactionNET",
+    "youtube": "@factionnetwork",
+    "tiktok": "@faction.network",
+    "twitch": "factionnet"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA",
+    "EU",
+    "SA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Hardcore"
+  ],
+  "colors": {
+    "primary": "#74FF2D",
+    "secondary": "#B6FF91"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/faction/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/faction/background.png"
 }

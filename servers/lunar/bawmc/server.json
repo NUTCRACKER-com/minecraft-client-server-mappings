@@ -14,5 +14,47 @@
     "PRACTICE",
     "CRYSTALPVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Brazilian Survival and Minigames server!",
+  "website": "https://bawmc.net",
+  "store": "https://loja.bawmc.net",
+  "socials": {
+    "discord": "https://discord.gg/bawmc",
+    "tiktok": "@excambaw",
+    "instagram": "Excambaw",
+    "youtube": "@excambaw"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "pt-BR",
+    "pt-PT"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Anarchy",
+    "Minigames",
+    "Survival",
+    "BoxPvP",
+    "Practice",
+    "Crystal PvP"
+  ],
+  "colors": {
+    "primary": "#00BDFC",
+    "secondary": "#00F8FC"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bawmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bawmc/background.png"
 }

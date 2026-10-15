@@ -8,5 +8,35 @@
     "PRISON",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Welcome to the ultimate Minecraft experience!",
+  "website": "https://www.blockdrop.org/index.php",
+  "store": "https://store.blockdrop.org/",
+  "socials": {
+    "discord": "https://discord.com/invite/JXEAfq8"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Factions",
+    "Prison",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#77ef6f",
+    "secondary": "#635ff4"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blockdrop/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blockdrop/background.png"
 }

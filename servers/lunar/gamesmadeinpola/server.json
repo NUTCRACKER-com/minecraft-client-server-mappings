@@ -7,5 +7,38 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Spanish-speaking server that offers fair gameplay for everyone.",
+  "website": "https://gamesmadeinpola.com",
+  "store": "https://tienda.gamesmadeinpola.com",
+  "socials": {
+    "instagram": "gamesmadeinpola.com",
+    "discord": "https://discord.com/invite/gmip"
+  },
+  "versions": [
+    "1.8.*",
+    "1.21"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#f59842",
+    "secondary": "#ffc363"
+  },
+  "compliance": {
+    "privacyPolicy": "https://tienda.gamesmadeinpola.com/privacy",
+    "termsOfService": "https://tienda.gamesmadeinpola.com/terms",
+    "rules": "https://rules.gamesmadeinpola.com/"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gamesmadeinpola/logo.png"
 }

@@ -6,5 +6,38 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Your Spanish Minecraft community specialized in survival gamemodes.",
+  "website": "https://nookure.net",
+  "store": "https://tienda.nookure.net",
+  "wiki": "https://wiki.nookure.net",
+  "socials": {
+    "twitter": "NookureNet",
+    "discord": "https://discord.com/invite/Q5bvpCnbUW",
+    "tiktok": "@nookurenet",
+    "youtube": "@NookureNet"
+  },
+  "versions": [
+    "1.18.2",
+    "1.19.4",
+    "1.20.6",
+    "1.21.4"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU",
+    "SA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#9cddf9",
+    "secondary": "#3ab4e8"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nookurenet/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nookurenet/background.png"
 }

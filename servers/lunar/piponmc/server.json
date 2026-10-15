@@ -7,5 +7,36 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "THE server that will not disappoint you.",
+  "website": "https://www.piponmc.pro",
+  "store": "https://piponmc.tebex.io",
+  "socials": {
+    "discord": "https://discord.com/invite/pipon-severs-999638091990056990"
+  },
+  "versions": [
+    "1.21.*",
+    "1.20.*",
+    "1.19.*",
+    "1.18.*",
+    "1.12.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA",
+    "EU",
+    "SA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#44a1e3",
+    "secondary": "#60f2f2"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/piponmc/logo.png"
 }

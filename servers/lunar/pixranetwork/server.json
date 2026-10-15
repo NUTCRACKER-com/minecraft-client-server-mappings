@@ -8,5 +8,29 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and Minigames on PixraNetwork.",
+  "website": "https://www.pixranetwork.asia/",
+  "store": "https://store.pixranetwork.asia/",
+  "socials": {
+    "tiktok": "@pixranetwork.asia",
+    "discord": "https://discord.gg/cxZuaSz8Sq",
+    "instagram": "pixranetwork.asia"
+  },
+  "versions": [
+    "1.8.9",
+    "1.21.4"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#519913",
+    "secondary": "#abe024"
+  }
 }

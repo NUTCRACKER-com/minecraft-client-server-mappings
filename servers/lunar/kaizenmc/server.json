@@ -11,5 +11,45 @@
     "COMPETITIVE",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A server designed for you!",
+  "website": "https://kaizenmc.gg",
+  "store": "https://kaizenmc.gg",
+  "socials": {
+    "twitter": "RedeKaizenMC",
+    "discord": "https://discord.gg/kaizenmc",
+    "instagram": "redekaizenmc",
+    "tiktok": "@redekaizenmc",
+    "youtube": "@RedeKaizenMC"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "pt-BR"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Practice",
+    "Competitive",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#9916d8",
+    "secondary": "#ed30ed"
+  },
+  "video": "Y4x7wZinVME",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kaizenmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kaizenmc/background.png"
 }

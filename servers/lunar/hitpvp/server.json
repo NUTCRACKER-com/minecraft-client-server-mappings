@@ -10,5 +10,52 @@
     "CRYSTALPVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "HitPvP Network - A new way to play PvP! 1.8 & modern combat, online rankings.",
+  "website": "https://www.hitpvp.net",
+  "store": "https://tienda.hitpvp.net",
+  "socials": {
+    "discord": "https://discord.gg/5vwjZ2K2A9",
+    "twitter": "HitpvpMC",
+    "youtube": "@Hitpvpmc",
+    "tiktok": "@hitpvpmc",
+    "instagram": "hitpvpmc"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*",
+    "26.3.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "KitPvP",
+    "Competitive",
+    "Crystal PvP"
+  ],
+  "colors": {
+    "primary": "#ff1822",
+    "secondary": "#ffe700"
+  },
+  "compliance": {
+    "termsOfService": "https://tienda.hitpvp.net/terminos/",
+    "support": "https://discord.gg/5vwjZ2K2A9"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hitpvp/banner.gif"
 }

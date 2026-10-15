@@ -9,5 +9,36 @@
     "PVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Classic Prison with an MMORPG Twist",
+  "website": "https://demonicaether.com",
+  "store": "https://store.demonicaether.com",
+  "socials": {
+    "twitter": "DemonicAetherMC",
+    "youtube": "DemonicAether",
+    "discord": "https://discord.com/invite/wabhJNZWMe"
+  },
+  "versions": [
+    "1.19.2",
+    "1.19.3",
+    "1.19.4",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.19.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Prison",
+    "PvP",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#ff0000",
+    "secondary": "#700000"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/demonicaether/background.png"
 }

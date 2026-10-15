@@ -11,5 +11,47 @@
     "PRISON",
     "LIFESTEAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A cross-platform network with Survival, Skyblock, Factions, Prison, and Pixelmon",
+  "website": "https://www.mc-complex.com/",
+  "store": "https://store.mc-complex.com/",
+  "socials": {
+    "discord": "https://discord.gg/ComplexVanilla"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.2",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Factions",
+    "Skyblock",
+    "Creative",
+    "Prison",
+    "Lifesteal"
+  ],
+  "colors": {
+    "primary": "#ecebed",
+    "secondary": "#000000"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/complex/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/complex/banner.gif"
 }

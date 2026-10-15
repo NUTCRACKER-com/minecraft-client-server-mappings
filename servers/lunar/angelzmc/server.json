@@ -6,5 +6,19 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A pastel, angel-themed Minecraft survival multiplayer community.",
+  "versions": [
+    "26.2"
+  ],
+  "primaryVersion": "26.2",
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#B784E3",
+    "secondary": "#FFB3D4"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/angelzmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/angelzmc/background.png"
 }

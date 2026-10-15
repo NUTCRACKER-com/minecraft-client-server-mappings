@@ -9,5 +9,34 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "DiosesMC - Official Minecraft server of Willyrex and Vegetta.",
+  "website": "https://diosesmc.net/",
+  "store": "https://tienda.diosesmc.net/",
+  "socials": {
+    "twitter": "DiosesMcOficial",
+    "discord": "https://discord.gg/diosesmc"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#fcd600",
+    "secondary": "#fcc267"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/diosesmc/logo.png"
 }

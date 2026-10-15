@@ -7,5 +7,28 @@
     "FACTIONS",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft Survival & Others",
+  "store": "https://tienda.aqualy.live",
+  "socials": {
+    "discord": "https://discord.gg/fvjTW8K5Qx"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Factions",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#75cae3",
+    "secondary": "#3883a7"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/aqualy/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/aqualy/background.png"
 }

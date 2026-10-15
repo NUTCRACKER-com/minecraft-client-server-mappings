@@ -10,5 +10,38 @@
     "SKYBLOCK",
     "CASUAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A custom Minecraft SMP with adventures and unique mechanics.",
+  "website": "https://criticalnetwork.top",
+  "store": "https://criticalnetwork.top/store",
+  "socials": {
+    "discord": "https://discord.com/invite/ugTuDYzfew",
+    "twitch": "ilycryptic",
+    "youtube": "@ilycryptic"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Practice",
+    "MMORPG",
+    "Skyblock",
+    "Casual"
+  ],
+  "colors": {
+    "primary": "#ff0000",
+    "secondary": "#570000"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/criticalnetwork/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/criticalnetwork/background.png"
 }

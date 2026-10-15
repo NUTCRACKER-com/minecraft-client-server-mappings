@@ -8,5 +8,35 @@
     "PVP",
     "UHC"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Prison, PvP, and more on EcuaCraft.",
+  "store": "https://shop.ecuacraft.com/",
+  "socials": {
+    "twitter": "EcuaCraftNT",
+    "discord": "https://discord.com/invite/ecuacraft",
+    "facebook": "ecuacraft"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Prison",
+    "PvP",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#da1b19",
+    "secondary": "#391300"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/ecuacraft/logo.png"
 }

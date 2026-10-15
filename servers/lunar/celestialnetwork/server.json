@@ -8,5 +8,40 @@
     "PRISON",
     "MMORPG"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A truly community-lead network for Skyblock and Prison",
+  "website": "https://celestial-network.com",
+  "store": "https://celestial-network.com",
+  "socials": {
+    "discord": "https://www.discord.gg/celestialnetwork"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Prison",
+    "MMORPG"
+  ],
+  "colors": {
+    "primary": "#b57ade",
+    "secondary": "#8c52b5"
+  },
+  "compliance": {
+    "privacyPolicy": "https://celestial-network.com/privacy",
+    "termsOfService": "https://celestial-network.com/terms",
+    "rules": "https://celestial-network.com/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/celestialnetwork/logo.png"
 }

@@ -11,5 +11,40 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Lostpiece is An MMORPG minecraft server based on Onepiece",
+  "website": "https://lostpiece.net",
+  "store": "https://store.lostpiece.net",
+  "socials": {
+    "discord": "https://discord.gg/lostpiece",
+    "tiktok": "@lostpiecemc",
+    "youtube": "@LostPieceMC"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvE",
+    "Adventure",
+    "MMORPG",
+    "Open World",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#fb542b",
+    "secondary": "#f9d0c6"
+  },
+  "compliance": {
+    "termsOfService": "https://lostpiece.net/terms",
+    "rules": "https://lostpiece.net/rules"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lostpiece/background.png"
 }

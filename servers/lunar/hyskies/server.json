@@ -7,5 +7,29 @@
     "SKYBLOCK"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Hyskies: A Minecraft server for community, creativity, and diverse gameplay!",
+  "store": "https://store.hyskies.net",
+  "socials": {
+    "tiktok": "@hyskies",
+    "discord": "https://discord.gg/4SEurzckQw",
+    "twitter": "@hyskies"
+  },
+  "versions": [
+    "1.21.4"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#42c5f5",
+    "secondary": "#FFFFFF"
+  }
 }

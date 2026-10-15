@@ -6,5 +6,38 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "MysticMC is the best Italian network for those who love adventure and community.",
+  "website": "https://www.mysticmc.it/",
+  "store": "https://store.mysticmc.it/",
+  "socials": {
+    "discord": "https://discord.gg/RfqM9mXHzJ",
+    "tiktok": "@mysticmcofficial_",
+    "youtube": "@MysticMCOfficialServer"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#C77D3E",
+    "secondary": "#D4A574"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mysticmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mysticmc/background.png"
 }

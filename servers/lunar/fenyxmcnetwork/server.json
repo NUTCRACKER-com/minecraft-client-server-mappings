@@ -7,5 +7,34 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "PvP, bosses, and adventure on a custom Minecraft world.",
+  "website": "https://fenyxnetwork.com",
+  "socials": {
+    "discord": "https://discord.gg/fenyxnetwork"
+  },
+  "versions": [
+    "1.16.5",
+    "1.17.1",
+    "1.18.2",
+    "1.19.4",
+    "1.20.6",
+    "1.21.7"
+  ],
+  "primaryVersion": "1.20.6",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#00C3FF",
+    "secondary": "#0F1117"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fenyxmcnetwork/logo.png"
 }

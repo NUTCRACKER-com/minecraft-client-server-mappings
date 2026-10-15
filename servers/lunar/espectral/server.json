@@ -8,5 +8,39 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The leading Spanish vanilla UHC server. Daily matches.",
+  "website": "https://espectral.es",
+  "store": "https://espectral.es/donaciones",
+  "socials": {
+    "discord": "https://discord.gg/QBUeB7TrS",
+    "twitter": "GamesEspectral"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA",
+    "SA",
+    "EU"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "UHC",
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#8822dd",
+    "secondary": "#FFD700"
+  },
+  "compliance": {
+    "rules": "https://espectral.es/informacion/conducta",
+    "support": "https://discord.gg/QBUeB7TrS"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/espectral/logo.png"
 }

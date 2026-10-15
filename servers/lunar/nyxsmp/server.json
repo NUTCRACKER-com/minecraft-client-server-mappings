@@ -10,5 +10,34 @@
     "COMPETITIVE",
     "ADVENTURE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Survive the Eternal Night - a dark fantasy MMORPG survival experience.",
+  "website": "https://nyxsmp.net/",
+  "socials": {
+    "discord": "https://discord.gg/p4DQJTHGBM"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "de",
+    "en"
+  ],
+  "gameTypes": [
+    "MMORPG",
+    "PvE",
+    "PvP",
+    "Competitive",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#534AB7",
+    "secondary": "#7F77DD"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nyxsmp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nyxsmp/banner.png"
 }

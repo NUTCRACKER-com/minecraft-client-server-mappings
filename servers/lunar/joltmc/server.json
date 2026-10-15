@@ -7,5 +7,36 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience survival gameplay on JoltMC.",
+  "website": "https://joltmc.net/",
+  "store": "https://store.joltmc.net",
+  "socials": {
+    "twitter": "joltmcs",
+    "discord": "https://discord.gg/jotlmc"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#ea8022",
+    "secondary": "#ffb03c"
+  },
+  "compliance": {
+    "rules": "https://joltmc.net/rules/",
+    "support": "https://joltmc.net/support/"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/joltmc/background.png"
 }

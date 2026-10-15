@@ -10,5 +10,39 @@
     "ANARCHY",
     "ONEBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Why don't you come in? - The best server.",
+  "store": "https://tienda.infection.fun/",
+  "socials": {
+    "discord": "https://discord.gg/infec",
+    "tiktok": "@infection_network",
+    "youtube": "@InfectionNetwork"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "PvE",
+    "Anarchy",
+    "OneBlock"
+  ],
+  "colors": {
+    "primary": "#FB0808",
+    "secondary": "#CE0000"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/infection/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/infection/background.png"
 }

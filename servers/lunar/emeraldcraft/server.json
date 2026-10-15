@@ -8,5 +8,32 @@
     "PRISON"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The best South-American Minecraft server",
+  "website": "https://emeraldcraftarg.buycraft.net/",
+  "store": "https://emeraldcraftarg.buycraft.net/",
+  "socials": {
+    "discord": "https://discord.gg/U2UJdpvNHS"
+  },
+  "versions": [
+    "1.8.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "es-EN",
+    "pt-BR"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#00ff11",
+    "secondary": "#008a09"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/emeraldcraft/background.png"
 }

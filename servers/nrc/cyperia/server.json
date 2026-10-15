@@ -9,5 +9,51 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://www.cyperia.net",
+  "store": "https://shop.cyperia.net",
+  "socials": {
+    "discord": "https://discord.cyperia.net",
+    "x": "https://x.com/playcyperia",
+    "youtube": "https://www.youtube.com/@playcyperia",
+    "instagram": "https://www.instagram.com/playcyperia",
+    "tiktok": "https://www.tiktok.com/@playcyperia"
+  },
+  "gamemodes": {
+    "challenges": {
+      "name": "Challenges",
+      "versions": [
+        "26.2"
+      ],
+      "description": "Custom challenge runs with timers, goals and modifiers, solo or in teams."
+    },
+    "bingo": {
+      "name": "Bingo",
+      "versions": [
+        "26.2"
+      ],
+      "description": "Race to complete nine random goals on a 3x3 card in items, entities or advancements mode."
+    },
+    "manhunt": {
+      "name": "Manhunt",
+      "versions": [
+        "26.2"
+      ],
+      "description": "Hunters chase a speedrunner who has to beat the Ender Dragon before being caught."
+    },
+    "oneblockrace": {
+      "name": "OneBlockRace",
+      "versions": [
+        "26.2"
+      ],
+      "description": "Random items drop on a single block, build your way through your lane and race the other teams."
+    },
+    "ragemode": {
+      "name": "Ragemode",
+      "versions": [
+        "26.2"
+      ],
+      "description": "Free-for-all arena shooter where every hit kills, fought with bow, sword and throwable axe."
+    }
+  }
 }

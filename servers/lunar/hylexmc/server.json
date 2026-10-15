@@ -12,5 +12,37 @@
     "LIFESTEAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames, PvP, and more on HylexMC.",
+  "website": "https://web.hylexmc.net/",
+  "store": "https://store.hylexmc.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/XMJZ3hh"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Survival",
+    "Practice",
+    "OneBlock",
+    "Lifesteal"
+  ],
+  "colors": {
+    "primary": "#44a48a",
+    "secondary": "#032427"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hylexmc/background.png"
 }

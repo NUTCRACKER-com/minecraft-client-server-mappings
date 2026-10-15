@@ -9,5 +9,39 @@
     "PVP",
     "PRACTICE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Hardcore Factions with custom classes, masks and competitive PvP.",
+  "website": "https://alpha.rip",
+  "store": "https://store.alpha.rip",
+  "socials": {
+    "telegram": "AlphaRIPNetwork",
+    "discord": "https://discord.gg/alpharip"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "HCF",
+    "Factions",
+    "PvP",
+    "Practice"
+  ],
+  "colors": {
+    "primary": "#FFD740",
+    "secondary": "#FFFFFF"
+  },
+  "compliance": {
+    "privacyPolicy": "https://alpha.rip/policy",
+    "rules": "https://alpha.rip/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/alpharip/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/alpharip/background.png"
 }

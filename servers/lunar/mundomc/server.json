@@ -10,5 +10,42 @@
     "TOWNY",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Earth map survival with cities, countries, elections and wars",
+  "website": "https://www.mundomc.com",
+  "store": "https://loja.mundomc.com",
+  "socials": {
+    "discord": "https://discord.gg/mundomc",
+    "youtube": "mundomc26",
+    "instagram": "mundomcserver",
+    "tiktok": "@mundomcserver"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*",
+    "26.3.*"
+  ],
+  "primaryVersion": "26.3",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "pt-BR"
+  ],
+  "gameTypes": [
+    "Earth",
+    "Towny",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#22d3ee",
+    "secondary": "#0a0b14"
+  },
+  "compliance": {
+    "rules": "https://www.mundomc.com/regras",
+    "termsOfService": "https://loja.mundomc.com/terms"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mundomc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mundomc/background.png"
 }

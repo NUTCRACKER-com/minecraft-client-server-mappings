@@ -8,5 +8,36 @@
     "PVP",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames, PvP, and more on acmc.",
+  "website": "https://acmc.pl/p10",
+  "store": "https://acmc.pl/offer",
+  "socials": {
+    "discord": "https://discord.com/invite/acmc",
+    "tiktok": "@acmc.pl",
+    "facebook": "ACMCPL"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#0ab0b1",
+    "secondary": "#bbbbbb"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/acmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/acmc/background.png"
 }

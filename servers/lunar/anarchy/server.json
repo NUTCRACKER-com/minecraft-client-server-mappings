@@ -8,5 +8,36 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Join anarchy.ac for a vanilla Minecraft anarchy experience with PvP, no resets,",
+  "website": "https://anarchy.ac/",
+  "store": "https://anarchy.tebex.io/",
+  "socials": {
+    "twitter": "anarchy_ac",
+    "youtube": "anarchyac",
+    "reddit": "achub",
+    "tiktok": "@anarchy.ac"
+  },
+  "versions": [
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#D24449",
+    "secondary": "#FEF28C"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/anarchy/background.png"
 }

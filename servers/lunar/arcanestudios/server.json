@@ -9,5 +9,37 @@
     "CREATIVE",
     "PRISON"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Enter the Arcane. Master every challenge.",
+  "website": "https://arcanemc.eu",
+  "store": "https://boutique.arcanemc.eu",
+  "socials": {
+    "discord": "https://discord.gg/arcn"
+  },
+  "versions": [
+    "1.8.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Creative",
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#000000",
+    "secondary": "#C0C0C0"
+  },
+  "compliance": {
+    "support": "https://discord.gg/arcn"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/arcanestudios/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/arcanestudios/background.png"
 }

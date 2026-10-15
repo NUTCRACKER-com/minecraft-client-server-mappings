@@ -9,5 +9,42 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "We are a Minecraft Server dedicated to bringing the old feel of Minecraft back.",
+  "website": "https://www.fearmc.net/",
+  "socials": {
+    "twitter": "FearMCGames",
+    "discord": "https://discord.gg/bGJu2QjC3A"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.16.5",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#f13d3d",
+    "secondary": "#ff8383"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.fearmc.net/privacy-policy",
+    "termsOfService": "https://www.fearmc.net/terms-of-service",
+    "rules": "https://www.fearmc.net/rules",
+    "support": "https://www.fearmc.net/contact"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fearmc/background.png"
 }

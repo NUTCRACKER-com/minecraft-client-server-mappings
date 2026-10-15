@@ -9,5 +9,33 @@
     "PRISON"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Fantasy Themed Minecraft Network",
+  "store": "https://store.crescentkingdom.com",
+  "socials": {
+    "discord": "https://discord.gg/crescentkingdom",
+    "instagram": "crescentkingd0m",
+    "tiktok": "@crescentkingdom",
+    "youtube": "crescent_kingdom"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#9441D7",
+    "secondary": "#DB53E5"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/crescentkingdom/background.png"
 }

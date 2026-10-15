@@ -12,5 +12,16 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "TNT_TIMER"
+  ],
+  "website": "https://breiwalkersmp.net",
+  "socials": {
+    "youtube": "https://www.youtube.com/@Breiwalker",
+    "discord": "https://discord.gg/nymBn3jgNu"
+  },
+  "disabledModules": [
+    "nameInfo"
+  ]
 }

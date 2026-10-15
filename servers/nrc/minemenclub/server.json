@@ -12,5 +12,36 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://minemen.club/",
+  "store": "https://store.minemen.club",
+  "socials": {
+    "discord": "http://minemen.club/discord",
+    "youtube": "http://youtube.com/@minemen_club",
+    "x": "http://twitter.com/Minemen_Network",
+    "tiktok": "https://www.tiktok.com/@minemen_club"
+  },
+  "gamemodes": {
+    "classic-games": {
+      "name": "Classic Games",
+      "versions": [
+        ">1.8"
+      ],
+      "description": "Different \"Classic\" gamemodes including Survival Games, UHC Meetup, UHC Games and Pot SG"
+    },
+    "classic-practice": {
+      "name": "Classic Practice",
+      "versions": [
+        ">1.8"
+      ],
+      "description": "1.8 KitPVP/Duels including all of your favorite 1.8 gamemodes"
+    },
+    "modern-practice": {
+      "name": "Modern Practice",
+      "versions": [
+        ">1.21"
+      ],
+      "description": "1.21+ KitPVP/Duels including all of your favorite 1.21+ gamemodes"
+    }
+  }
 }

@@ -8,5 +8,32 @@
     "PVE",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A true Minecraft experience without P2W elements.",
+  "socials": {
+    "twitter": "Luminion_net",
+    "discord": "https://discord.gg/ZYARzvCT64",
+    "youtube": "Luminion_net",
+    "instagram": "mc.luminion",
+    "tiktok": "@luminion.net",
+    "facebook": "luminion.net"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU",
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvE",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#4af7fd",
+    "secondary": "#05aef2"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/luminion/logo.png"
 }

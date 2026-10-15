@@ -8,5 +8,32 @@
     "OPENWORLD",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Explore a new world and new experiences",
+  "website": "https://nea-network.tebex.io/",
+  "socials": {
+    "discord": "https://discord.gg/668TSTw4hS"
+  },
+  "versions": [
+    "1.21"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Open World",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#FF5555",
+    "secondary": "#FFFFFF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/neanetwork/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/neanetwork/background.png"
 }

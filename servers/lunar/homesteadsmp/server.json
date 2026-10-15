@@ -9,5 +9,26 @@
     "FACTIONS"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "1.21+ | Lifesteal | SMP | great survival server for you & your friends!",
+  "socials": {
+    "discord": "https://discord.gg/wvnbHENS2j"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Open World",
+    "Survival",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#2ecc71",
+    "secondary": "#0515ff"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/homesteadsmp/backround.png"
 }

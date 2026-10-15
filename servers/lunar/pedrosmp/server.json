@@ -8,5 +8,45 @@
     "SURVIVAL",
     "HARDCORE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Hardcore Minecraft Server and SMP that allows Bedrock",
+  "website": "https://www.pedrosmp.net",
+  "store": "https://store.pedrosmp.net",
+  "socials": {
+    "twitter": "PedroSMP",
+    "telegram": "pedrosmp",
+    "discord": "https://discord.gg/pedrosmp"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.10",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Hardcore"
+  ],
+  "colors": {
+    "primary": "#9F2B68",
+    "secondary": "#DE3163"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.pedrosmp.net/privacy",
+    "termsOfService": "https://www.pedrosmp.net/terms",
+    "rules": "https://www.pedrosmp.net/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pedrosmp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pedrosmp/background.png"
 }

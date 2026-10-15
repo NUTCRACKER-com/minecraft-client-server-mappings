@@ -16,9 +16,30 @@
   "icon": "icon.png",
   "banner": "banner.png",
   "disabledModules": [
-    "freelook",
     "fullbright",
+    "freelook",
     "noFog"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "ARROW_TRAIL",
+    "PACK_TWEAKS",
+    "TNT_TIMER",
+    "WEATHER_CHANGER",
+    "TIME_CHANGER"
+  ],
+  "website": "https://elinskihausen.de",
+  "store": "https://store.elinskihausen.de",
+  "socials": {
+    "discord": "https://discord.elinskihausen.de"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "versions": [
+        "1.20 - 1.21.11"
+      ],
+      "description": "Classic Survival Mode"
+    }
+  }
 }

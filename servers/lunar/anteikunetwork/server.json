@@ -7,5 +7,31 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Very Cool PvP Server",
+  "website": "https://www.anteiku.net/",
+  "store": "https://store.anteiku.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/E3mApnW",
+    "twitter": "AnteikuNetwork",
+    "youtube": "UCv-DCyFZ9Db3rQc_94IdOzQ"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.7.10",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#FFFF55",
+    "secondary": "#55FF55"
+  }
 }

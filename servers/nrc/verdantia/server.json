@@ -12,5 +12,18 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://verdantia.de",
+  "socials": {
+    "discord": "https://dsc.gg/verdantia"
+  },
+  "gamemodes": {
+    "smp": {
+      "name": "SMP",
+      "versions": [
+        "1.21.11"
+      ],
+      "description": "SMP for building and more, there is also a Citybuild!"
+    }
+  }
 }

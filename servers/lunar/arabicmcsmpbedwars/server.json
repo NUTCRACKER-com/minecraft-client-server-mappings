@@ -7,5 +7,41 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "ArabicMC: SMP adventures and fast-paced BedWars battles",
+  "website": "https://web.arabicmc.org",
+  "store": "https://store.arabicmc.org",
+  "socials": {
+    "discord": "https://discord.gg/arabicmc"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "ar",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#fb542b",
+    "secondary": "#f9d0c6"
+  },
+  "compliance": {
+    "privacyPolicy": "https://web.arabicmc.org/privacy",
+    "termsOfService": "https://web.arabicmc.org/terms",
+    "rules": "https://web.arabicmc.org/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/arabicmcsmpbedwars/logo.png"
 }

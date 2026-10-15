@@ -8,5 +8,47 @@
     "PVP",
     "HARDCORE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Home of Competitive Minecraft PvP",
+  "website": "https://www.pera.mom",
+  "store": "https://tienda.pera.mom",
+  "socials": {
+    "discord": "https://discord.gg/peranet",
+    "twitter": "PeraNetwork",
+    "youtube": "@peramom",
+    "tiktok": "@pera.network"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA",
+    "EU",
+    "SA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Hardcore"
+  ],
+  "colors": {
+    "primary": "#74FF2D",
+    "secondary": "#B6FF91"
+  },
+  "compliance": {
+    "privacyPolicy": "https://tienda.pera.mom/terms/privacy",
+    "termsOfService": "https://tienda.pera.mom/terms/checkout",
+    "rules": "https://tienda.pera.mom/terms/impressum"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pera/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pera/background.png"
 }

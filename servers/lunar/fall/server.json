@@ -8,5 +8,37 @@
     "PVP",
     "HARDCORE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, PvP, and more on Fall Network.",
+  "store": "https://tienda.fall.cat",
+  "socials": {
+    "discord": "https://discord.gg/fallnet",
+    "tiktok": "@fallnetwork"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA",
+    "EU",
+    "SA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Hardcore"
+  ],
+  "colors": {
+    "primary": "#FFB368",
+    "secondary": "#FFEB8D"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fall/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fall/background.png"
 }

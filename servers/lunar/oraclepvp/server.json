@@ -8,5 +8,42 @@
     "PVE",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Home of the OneChunk Gamemode",
+  "store": "https://store.oraclepvp.net",
+  "wiki": "https://store.oraclepvp.net/wiki",
+  "socials": {
+    "twitter": "PlayOraclePvP",
+    "discord": "https://discord.gg/onechunk"
+  },
+  "versions": [
+    "1.21",
+    "1.20.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "NA",
+    "EU",
+    "OC"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "PvE",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#5EC4FF",
+    "secondary": "#C4E9FF"
+  },
+  "compliance": {
+    "privacyPolicy": "https://store.oraclepvp.net/privacy",
+    "termsOfService": "https://store.oraclepvp.net/terms",
+    "rules": "https://store.oraclepvp.net/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/oraclepvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/oraclepvp/background.png"
 }

@@ -8,5 +8,45 @@
     "PVP",
     "HARDCORE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Home of the BEST Hardcore experience in Minecraft...",
+  "website": "https://www.fresa.top",
+  "store": "https://tienda.fresa.top",
+  "socials": {
+    "discord": "https://discord.gg/fresa",
+    "twitter": "FresaNetwork",
+    "youtube": "@fresatop",
+    "tiktok": "@fresa.network"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Hardcore"
+  ],
+  "colors": {
+    "primary": "#FF3535",
+    "secondary": "#FF6C6C"
+  },
+  "compliance": {
+    "privacyPolicy": "https://tienda.fresa.top/terms/privacy",
+    "termsOfService": "https://tienda.fresa.top/terms/checkout",
+    "rules": "https://tienda.fresa.top/terms/impressum"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fresa/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fresa/background.png"
 }

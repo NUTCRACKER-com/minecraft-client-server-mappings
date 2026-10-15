@@ -8,5 +8,28 @@
     "MINIGAMES",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Server focused on PVP using Clans and amazing PowerItems!",
+  "website": "https://clanattack.com",
+  "socials": {
+    "discord": "https://discord.gg/89x63xW4Ye"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Competitive",
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#a268ea",
+    "secondary": "#290d40"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/clanattack/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/clanattack/background.png"
 }

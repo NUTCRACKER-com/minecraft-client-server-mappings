@@ -8,5 +8,35 @@
     "ADVENTURE",
     "OPENWORLD"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Server focused on the gameplay and performance of Minecraft players",
+  "website": "https://chronosmc.es/",
+  "store": "https://tienda.chronosmc.es/",
+  "socials": {
+    "twitter": "ChronosMC",
+    "discord": "https://discord.com/invite/zT26Gw4h5x"
+  },
+  "versions": [
+    "1.8.9",
+    "1.16.5",
+    "1.17.1",
+    "1.18.2",
+    "1.19.4",
+    "1.20.6",
+    "1.21.4"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Adventure",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#DF00FF",
+    "secondary": "#9100FF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/chronosmc/logo.png"
 }

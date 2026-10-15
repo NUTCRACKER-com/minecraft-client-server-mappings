@@ -8,5 +8,36 @@
     "PRACTICE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Brazilian PvP and Practice server",
+  "website": "https://orbitmc.club",
+  "socials": {
+    "discord": "https://discord.com/invite/6fkuKZMtKf",
+    "youtube": "@Hunt-mc-com",
+    "instagram": "huntmcnetwork",
+    "tiktok": "@huntmc.com"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "pt-BR",
+    "pt-PT",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Practice"
+  ],
+  "colors": {
+    "primary": "#F07000",
+    "secondary": "#F08000"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/orbitmc/background.png"
 }

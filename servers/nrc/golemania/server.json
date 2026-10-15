@@ -12,7 +12,27 @@
   "icon": "icon.png",
   "banner": "banner.png",
   "disabledModules": [
-    "freelook"
+    "freelook",
+    "nameInfo"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "HEALTH_INDICATORS"
+  ],
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars",
+      "versions": [
+        "26.2"
+      ],
+      "description": ""
+    },
+    "mines": {
+      "name": "Mines",
+      "versions": [
+        "26.2"
+      ],
+      "description": ""
+    }
+  }
 }

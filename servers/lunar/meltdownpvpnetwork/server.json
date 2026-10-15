@@ -8,5 +8,39 @@
     "FACTIONS",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Join MeltdownPvP on Lunar Client! Compete in PvP, Survival & more!",
+  "store": "https://meltdownpvp.buycraft.net/",
+  "socials": {
+    "discord": "https://discord.gg/M3D9RCekjJ",
+    "twitter": "MeltdownPvP",
+    "youtube": "meltdownpvpnetwork",
+    "instagram": "meltdownpvpnetwork",
+    "twitch": "meltdownpvpnetwork",
+    "tiktok": "@meltdownnetwork"
+  },
+  "versions": [
+    "1.8.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA",
+    "SA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Factions",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#8A2BE2",
+    "secondary": "#8A2BE2"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/meltdownpvpnetwork/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/meltdownpvpnetwork/banner.png"
 }

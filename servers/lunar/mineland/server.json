@@ -12,5 +12,43 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Mineland is platform in Minecraft with thousands of games built by players.",
+  "website": "https://mineland.net/",
+  "store": "https://mineland.net/index.php/store",
+  "socials": {
+    "twitter": "MinelandMV",
+    "discord": "https://discord.com/invite/JeKhkr22R7",
+    "youtube": "UCs6bVvrEeugMunxyemmLOEg",
+    "instagram": "minelandnetwork",
+    "reddit": "Mineland_MetaVerse",
+    "tiktok": "@minelandnetwork"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.12.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Creative",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#fb403f",
+    "secondary": "#e1e6e7"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mineland/background.png"
 }

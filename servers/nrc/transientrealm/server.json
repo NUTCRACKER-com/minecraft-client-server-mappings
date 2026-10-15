@@ -10,5 +10,20 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "store": "https://store.transientrealm.de/",
+  "socials": {
+    "discord": "https://discord.gg/2ru8r3Jedj",
+    "youtube": "https://www.youtube.com/@TransientRealmDE",
+    "tiktok": "https://www.tiktok.com/@transient_realm"
+  },
+  "gamemodes": {
+    "citybuild": {
+      "name": "CityBuild",
+      "versions": [
+        "1.21.8"
+      ],
+      "description": ""
+    }
+  }
 }

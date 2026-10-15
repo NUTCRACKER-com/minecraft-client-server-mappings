@@ -7,5 +7,37 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "AstralRealms is an SMP offering an exceptional experience and unique features!",
+  "website": "https://astralrealms.fr",
+  "store": "https://store.astralrealms.fr",
+  "wiki": "https://wiki.astralrealms.fr",
+  "socials": {
+    "discord": "https://discord.gg/astralrealms"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.10",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#267ad9",
+    "secondary": "#26d971"
+  },
+  "compliance": {
+    "privacyPolicy": "https://astralrealms.fr/privacy-policy",
+    "termsOfService": "https://astralrealms.fr/cgu",
+    "rules": "https://wiki.astralrealms.fr/welcome/rules/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/astralrealms/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/astralrealms/banner.gif"
 }

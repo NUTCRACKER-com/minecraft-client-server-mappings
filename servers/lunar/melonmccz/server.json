@@ -6,5 +6,30 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "CZ/SK Annihilation Server",
+  "store": "https://melonmc.cz/#donation",
+  "socials": {
+    "youtube": "@IvyCZ",
+    "tiktok": "@melonmc.cz",
+    "instagram": "melonmc.cz",
+    "discord": "https://discord.gg/ts5QzZKn68"
+  },
+  "versions": [
+    "1.7.10",
+    "1.8.9"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#55FF55",
+    "secondary": "#FFFF55"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/melonmccz/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/melonmccz/background.png"
 }

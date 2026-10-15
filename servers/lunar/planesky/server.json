@@ -7,5 +7,35 @@
     "SKYBLOCK",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play the best original skyblock with our community !",
+  "website": "https://planesky.fr/",
+  "store": "https://planesky.fr/shop/",
+  "socials": {
+    "discord": "https://discord.gg/g5em9ndXSk",
+    "youtube": "PlaneSky",
+    "tiktok": "@planesky_mc"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.16.5",
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#30c92e",
+    "secondary": "#372826"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/planesky/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/planesky/background.png"
 }

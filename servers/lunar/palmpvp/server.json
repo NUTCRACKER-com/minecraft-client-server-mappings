@@ -6,5 +6,28 @@
   "categories": [
     "FACTIONS"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Build your faction and conquer on PalmPvP.",
+  "store": "https://store.palmpvp.com/",
+  "socials": {
+    "discord": "https://discord.com/invite/palmpvp"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#FFA500",
+    "secondary": "#FFFF00"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/palmpvp/logo.png"
 }

@@ -7,5 +7,32 @@
     "PVP",
     "FACTIONS"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Western-themed PvP/Factions Minecraft server.",
+  "website": "https://www.kryxmc.fr",
+  "socials": {
+    "discord": "https://discord.gg/kryxmc"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#dba322",
+    "secondary": "#dba322"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kryxmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kryxmc/background.png"
 }

@@ -6,5 +6,32 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A friendly survival Minecraft server!",
+  "store": "https://store.coastsmp.net",
+  "socials": {
+    "tiktok": "@coastsmpmc",
+    "youtube": "@CoastSMP",
+    "instagram": "coastsmp_",
+    "discord": "https://discord.com/invite/coastsmp"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#00C4FF",
+    "secondary": "#00D2FF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/coastsmp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/coastsmp/background.png"
 }

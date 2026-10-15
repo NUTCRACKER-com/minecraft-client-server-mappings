@@ -7,5 +7,35 @@
     "OPENWORLD",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Garmopol: A German-speaking server with many modes like Citybuild since 2022!",
+  "website": "https://www.garmopol.de",
+  "store": "https://shop.garmopol.de",
+  "socials": {
+    "discord": "https://discord.gg/KQ2MnZQvVG",
+    "youtube": "garmopol",
+    "tiktok": "@garmopol",
+    "instagram": "garmopol"
+  },
+  "versions": [
+    "1.20.6",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "de"
+  ],
+  "gameTypes": [
+    "Open World",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#4537e1",
+    "secondary": "#2111d4"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/garmopol/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/garmopol/banner.gif"
 }

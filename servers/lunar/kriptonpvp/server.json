@@ -8,5 +8,37 @@
     "CREATIVE",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Minecraft community that adds new gamemodes everyday for players to enjoy.",
+  "website": "https://kriptonpvp.com/",
+  "store": "https://tienda.kriptonpvp.com/",
+  "socials": {
+    "discord": "https://discord.com/invite/Ngm4e5UdZf"
+  },
+  "versions": [
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Creative",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#1a7fd5",
+    "secondary": "#b03647"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kriptonpvp/logo.png"
 }

@@ -9,5 +9,40 @@
     "PRISON",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Discover a new Galaxy Dimension get ready for your Ascension",
+  "website": "https://ascendiamc.com/",
+  "store": "https://store.ascendiamc.com/",
+  "socials": {
+    "discord": "https://discord.com/invite/ascendiamc",
+    "instagram": "ascendiamcnetwork",
+    "telegram": "ascendiamc",
+    "tiktok": "@ascendiaserver"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Prison",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#a935d4",
+    "secondary": "#292828"
+  },
+  "compliance": {
+    "rules": "https://ascendiamc.com/rules",
+    "support": "https://discord.com/invite/ascendiamc"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/ascendiamc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/ascendiamc/background.png"
 }

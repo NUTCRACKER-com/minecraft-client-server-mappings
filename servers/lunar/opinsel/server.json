@@ -9,5 +9,34 @@
     "ROLEPLAY"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "OpInsel is a German Minecraft server featuring city building, Skyblock, and SMP.",
+  "website": "https://opinsel.net/",
+  "store": "https://shop.opinsel.net/",
+  "socials": {
+    "discord": "https://discord.gg/mU3WfZXqsa",
+    "youtube": "@opinsel",
+    "tiktok": "@opinsel"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#e2eef7",
+    "secondary": "#17174c"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/opinsel/background.png"
 }

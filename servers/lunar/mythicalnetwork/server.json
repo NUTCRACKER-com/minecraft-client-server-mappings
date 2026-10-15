@@ -8,5 +8,33 @@
     "ROLEPLAY"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Adventure and Roleplay on Mythical Network.",
+  "store": "https://shop.mythicalnetwork.com/",
+  "socials": {
+    "twitter": "PlayMythicalMC",
+    "discord": "https://discord.com/invite/mythicalnetwork"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Adventure",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#da7df3",
+    "secondary": "#fbab20"
+  }
 }

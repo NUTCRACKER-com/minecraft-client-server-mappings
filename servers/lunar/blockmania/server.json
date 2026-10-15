@@ -10,5 +10,30 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Parkour and PvP on BlockMania.",
+  "store": "http://shop.blockmania.com",
+  "socials": {
+    "discord": "https://discord.gg/GkqBP5J"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Parkour",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#00a1e7",
+    "secondary": "#98d8e9"
+  }
 }

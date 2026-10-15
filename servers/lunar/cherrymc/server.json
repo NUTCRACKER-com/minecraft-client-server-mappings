@@ -8,5 +8,32 @@
     "HARDCORE",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "CherryMC is a server when you play lifesteal and other modality!",
+  "website": "https://www.cherrymc.eu/",
+  "store": "https://store.cherrymc.eu",
+  "socials": {
+    "discord": "https://discord.com/invite/VjchP6dNrn"
+  },
+  "versions": [
+    "1.21.5"
+  ],
+  "primaryVersion": "1.21.5",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Hardcore",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#FF0000",
+    "secondary": "#FFFFFF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cherrymc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cherrymc/background.png"
 }

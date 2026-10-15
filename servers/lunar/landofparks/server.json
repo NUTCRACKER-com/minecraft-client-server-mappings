@@ -8,5 +8,30 @@
     "OPENWORLD"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft Theme Parks - Rides, events & fun",
+  "versions": [
+    "1.21.5"
+  ],
+  "primaryVersion": "1.21.5",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#c29a0a",
+    "secondary": "#fffefc"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/landofparks/background.png"
 }

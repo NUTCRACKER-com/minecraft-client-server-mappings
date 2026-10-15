@@ -10,5 +10,44 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play HCF, UHC, and more on Battle Network.",
+  "website": "https://battle.rip/",
+  "store": "https://store.battle.rip/",
+  "socials": {
+    "twitter": "BattleRIPNet",
+    "discord": "https://discord.gg/SWGVzs2DMb"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en",
+    "es-EN",
+    "fr",
+    "de",
+    "pl"
+  ],
+  "gameTypes": [
+    "HCF",
+    "UHC",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#e2b13f",
+    "secondary": "#bd2527"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/battle/background.png"
 }

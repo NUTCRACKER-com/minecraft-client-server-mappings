@@ -8,5 +8,49 @@
     "MINIGAMES",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Innovative French UHC/minigames server !",
+  "website": "https://eldium.fr/",
+  "store": "https://eldium.fr/shop",
+  "wiki": "https://eldium.fr/docs",
+  "socials": {
+    "twitter": "EldiumUHC",
+    "discord": "https://discord.com/invite/ZFczFUbxhS",
+    "youtube": "@EldiumUHC",
+    "instagram": "EldiumUHC"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "gameTypes": [
+    "UHC",
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#fece00",
+    "secondary": "#2197d7"
+  },
+  "compliance": {
+    "termsOfService": "https://eldium.fr/cgu",
+    "rules": "https://eldium.fr/reglement",
+    "support": "https://eldium.fr/support"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/eldium/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/eldium/background.png"
 }

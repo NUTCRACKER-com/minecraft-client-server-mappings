@@ -6,5 +6,32 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Home of Competitive Minecraft PvP",
+  "store": "http://store.nodpvp.eu",
+  "socials": {
+    "discord": "https://discord.com/invite/C4n5vwsj5d"
+  },
+  "versions": [
+    "1.18.2",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.18.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#FF55FF",
+    "secondary": "#FFFFFF"
+  },
+  "video": "2ibrP-K5nCY",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nodnetworkpvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nodnetworkpvp/background.png"
 }

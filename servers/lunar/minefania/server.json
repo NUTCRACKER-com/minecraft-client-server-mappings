@@ -9,5 +9,37 @@
     "OPENWORLD"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Where your adventure reaches a legendary level!",
+  "website": "https://www.minefania.lol",
+  "socials": {
+    "discord": "https://discord.com/invite/3a26YGMVzv"
+  },
+  "versions": [
+    "1.19.4",
+    "1.20",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvE",
+    "Survival",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#FCD05C"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minefania/background.png"
 }

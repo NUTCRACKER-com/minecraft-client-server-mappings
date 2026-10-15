@@ -9,5 +9,37 @@
     "OPENWORLD"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A revival of the original Killion Detention Center, a hardcore/OG prison server.",
+  "store": "https://https://buy.killionrevival.co/",
+  "socials": {
+    "discord": "https://discord.gg/kdc-relaunch",
+    "twitter": "killionrevival",
+    "instagram": "killionrevival",
+    "tiktok": "@killionrevival",
+    "youtube": "@KillionDetentionCenter-jc6jo"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21"
+  ],
+  "primaryVersion": "1.18.2",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Prison",
+    "Hardcore",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#FFBA08",
+    "secondary": "#201E1F"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/killion/background.png"
 }

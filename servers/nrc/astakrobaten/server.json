@@ -12,5 +12,9 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://astakrobaten.cc/",
+  "socials": {
+    "discord": "https://discord.gg/kXQ8Tdaytt"
+  }
 }

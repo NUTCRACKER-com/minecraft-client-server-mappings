@@ -9,5 +9,25 @@
     "PARKOUR"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Complete and fun Minigames Server",
+  "website": "https://nodelays.fr/",
+  "socials": {
+    "twitter": "nodelaysfr",
+    "discord": "https://discord.com/invite/J9R6VBQ"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Parkour"
+  ],
+  "colors": {
+    "primary": "#17ad17",
+    "secondary": "#f06b0c"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nodelays/background.png"
 }

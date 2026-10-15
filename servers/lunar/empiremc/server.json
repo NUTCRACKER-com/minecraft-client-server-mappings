@@ -8,5 +8,33 @@
     "PVP",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "EmpireMC Network is focused on bringing original gamemodes.",
+  "store": "https://tienda.empiremc.cc/",
+  "socials": {
+    "twitter": "empiremc_cc",
+    "discord": "https://discord.gg/decJVdFEfH",
+    "youtube": "UCAszhWeMT9tK66-hxbkJM8w",
+    "tiktok": "@empiremc_cc"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.5",
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#ad0006",
+    "secondary": "#f83a09"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/empiremc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/empiremc/background.png"
 }

@@ -7,5 +7,44 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Cool minigames & pvp server.",
+  "website": "https://www.florus.cc",
+  "store": "https://store.florus.cc",
+  "socials": {
+    "twitter": "FlorusNetwork",
+    "telegram": "FlorusNetwork",
+    "discord": "https://discord.gg/MEkBqvbxuH"
+  },
+  "versions": [
+    "1.7.10",
+    "1.8.9",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA",
+    "SA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#5DE2E7",
+    "secondary": "#E33638"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.florus.cc/privacy",
+    "termsOfService": "https://www.florus.cc/terms",
+    "rules": "https://www.florus.cc/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/florusnetwork/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/florusnetwork/background.png"
 }

@@ -8,5 +8,41 @@
     "SURVIVAL",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft OneBlock and SMP Network",
+  "website": "https://www.blockrealms.net",
+  "store": "https://store.blockrealms.net",
+  "socials": {
+    "discord": "https://discord.gg/blockrealms"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvE",
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#FFC727",
+    "secondary": "#E040FB"
+  },
+  "compliance": {
+    "privacyPolicy": "https://store.blockrealms.net/terms/privacy",
+    "termsOfService": "https://store.blockrealms.net/terms/checkout",
+    "rules": "https://store.blockrealms.net/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blockrealms/logo.png"
 }

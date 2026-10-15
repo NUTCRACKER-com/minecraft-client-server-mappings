@@ -8,5 +8,30 @@
     "PVE",
     "FACTIONS"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Factions, PvP, PvE",
+  "socials": {
+    "discord": "https://discord.com/invite/cidaris"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "PvP",
+    "PvE",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#536A80",
+    "secondary": "#122035"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cidaris/logo.png"
 }

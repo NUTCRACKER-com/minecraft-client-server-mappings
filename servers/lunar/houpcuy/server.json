@@ -11,5 +11,35 @@
     "MINIGAMES",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The Next Best PvP Server",
+  "website": "https://houpcuy.cc",
+  "store": "https://houpcuy.cc/store",
+  "socials": {
+    "discord": "https://discord.gg/NPje2kPgrp"
+  },
+  "versions": [
+    "1.8.*",
+    "1.7.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en",
+    "zh-CN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#ff60af",
+    "secondary": "#ffffff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/houpcuy/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/houpcuy/background.png"
 }

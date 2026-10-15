@@ -8,5 +8,32 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The Next Generation Competitive PvP Server",
+  "website": "https://www.kizuki.cc",
+  "store": "https://store.kizuki.cc",
+  "socials": {
+    "discord": "https://discord.gg/jBa9gmX6wS"
+  },
+  "versions": [
+    "1.8.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en",
+    "zh-CN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#ff60af",
+    "secondary": "#ffffff"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kizuki/background.png"
 }

@@ -10,5 +10,38 @@
     "PVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play on the best cross-platform SMP!",
+  "website": "https://cheesecake.gg/",
+  "store": "https://store.cheesecake.gg/",
+  "socials": {
+    "discord": "https://discord.com/invite/CheesecakeSMP",
+    "tiktok": "@cheesecakesmp",
+    "twitter": "CheesecakeSMP",
+    "twitch": "cheesecakesmp",
+    "youtube": "CheesecakeSMP",
+    "instagram": "cheesecake.smp",
+    "reddit": "cheesecakesmp"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#E77AC0",
+    "secondary": "#4D1D3C"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cheesecake/background.png"
 }

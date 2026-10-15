@@ -8,5 +8,32 @@
     "SURVIVAL",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience unique PvP, thrilling survival adventures, and much more!",
+  "website": "https://auroranetwork.hu",
+  "store": "https://auroranetwork.hu/stellar",
+  "socials": {
+    "twitter": "AuroraNetwrk",
+    "discord": "https://discord.gg/FAwQc7D"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#38BFD3",
+    "secondary": "#BCB1FF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/auroranetwork/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/auroranetwork/background.png"
 }

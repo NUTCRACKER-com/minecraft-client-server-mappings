@@ -7,5 +7,31 @@
     "SKYBLOCK",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "AddyCraft is a Minecraft network centered around different SkyBlock gamemodes",
+  "website": "https://addycraft.net/",
+  "store": "https://addycraft.net/store/",
+  "socials": {
+    "discord": "https://discord.com/invite/VcnzDAfXa7"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#3298f9",
+    "secondary": "#1fccc4"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/addycraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/addycraft/background.png"
 }

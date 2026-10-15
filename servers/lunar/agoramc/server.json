@@ -8,5 +8,36 @@
     "MINIGAMES",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "AgoraMC is a PvP minecraft server featuring dozens of minigames.",
+  "website": "https://agoramc.fr/",
+  "store": "https://store.agoramc.fr/",
+  "socials": {
+    "instagram": "agoramc.fr",
+    "tiktok": "@agoramc.fr",
+    "twitter": "agoramc",
+    "youtube": "AgoraMC-s5x",
+    "discord": "https://discord.gg/Dm8mBSzJrH"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "UHC",
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#f7b801",
+    "secondary": "#1C2541"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/agoramc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/agoramc/background.png"
 }

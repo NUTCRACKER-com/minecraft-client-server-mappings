@@ -9,5 +9,38 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Lifesteal, Survival, and 24/7 Events on FlareMC!",
+  "store": "https://store.flaremc.org/",
+  "socials": {
+    "twitter": "FlareMCorg",
+    "discord": "https://discord.com/invite/FlareMC"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#f8cd0a",
+    "secondary": "#e65701"
+  },
+  "compliance": {
+    "rules": "https://rules.flaremc.org",
+    "support": "https://discord.gg/flaremc"
+  },
+  "video": "lL54spfSAOM",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/flaremc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/flaremc/background.png"
 }

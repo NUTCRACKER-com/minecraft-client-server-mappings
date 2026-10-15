@@ -15,5 +15,48 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "We're a Minecraft Network consisting of KitPvP, Skyblock and Survival.",
+  "website": "https://invadedlands.net/",
+  "store": "https://store.invadedlands.net/",
+  "socials": {
+    "twitter": "invadedlands",
+    "discord": "https://discord.com/invite/WrrPtqJ",
+    "reddit": "InvadedLands"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Skyblock",
+    "Survival",
+    "KitPvP",
+    "Soup PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#f5bc04",
+    "secondary": "#2c2829"
+  },
+  "compliance": {
+    "privacyPolicy": "https://invadedlands.net/help/privacy-policy/",
+    "termsOfService": "https://invadedlands.net/help/terms/",
+    "rules": "https://invadedlands.net/threads/network-rules.48/"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/invadedlands/banner.png"
 }

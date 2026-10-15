@@ -9,5 +9,32 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Skyblock, and more on Crafted.pl.",
+  "website": "https://crafted.pl/",
+  "store": "https://crafted.pl/sklep/",
+  "socials": {
+    "discord": "https://discord.com/invite/EpfJPcpKXR",
+    "facebook": "CraftedPL"
+  },
+  "versions": [
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#efefef",
+    "secondary": "#13aee5"
+  }
 }

@@ -9,5 +9,39 @@
     "FACTIONS"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Prison, and more on Advancius.",
+  "website": "https://www.advancius.net/",
+  "store": "https://store.advancius.net/",
+  "socials": {
+    "twitter": "AdvanciusMC",
+    "discord": "https://discord.com/invite/yNh63ZX",
+    "twitch": "advanciusmc",
+    "youtube": "advanciusmc",
+    "instagram": "advanciusmc",
+    "reddit": "AdvanciusNetwork",
+    "tiktok": "@advanciusmc"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Prison",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#000000",
+    "secondary": "#000000"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/advancius/background.png"
 }

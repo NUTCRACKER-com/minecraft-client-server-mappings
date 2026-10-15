@@ -9,5 +9,36 @@
     "KITPVP",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Polish anarchy server with BoxPvP, KitPvP, SkyPvP and mace fights.",
+  "website": "https://krabmc.pl",
+  "store": "https://krabmc.pl/sklep",
+  "socials": {
+    "discord": "https://discord.gg/krabmc",
+    "tiktok": "@krabmcpl"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "Anarchy",
+    "BoxPvP",
+    "KitPvP",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#d13308",
+    "secondary": "#ffd700"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/krabmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/krabmc/background.png"
 }

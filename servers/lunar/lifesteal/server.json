@@ -10,5 +10,34 @@
     "HARDCORE",
     "PRACTICE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Battle for survival and wealth today on Lifesteal Network!",
+  "store": "https://store.lifesteal.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/lifestealnet",
+    "twitter": "LifestealNet"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Lifesteal",
+    "Survival",
+    "PvP",
+    "Hardcore",
+    "Practice"
+  ],
+  "colors": {
+    "primary": "#ef3660",
+    "secondary": "#e91400"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lifesteal/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lifesteal/background.png"
 }

@@ -11,5 +11,37 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "ArcherGames, PvP, Survival, Minigames and ZombieMania!",
+  "website": "https://www.boundlessmc.com",
+  "socials": {
+    "discord": "https://discord.gg/eMKSRd46UH"
+  },
+  "versions": [
+    "1.8.9",
+    "1.12.2",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvE",
+    "PvP",
+    "Competitive",
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#FF5555",
+    "secondary": "#FFFF55"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/boundlessmc/banner.png"
 }

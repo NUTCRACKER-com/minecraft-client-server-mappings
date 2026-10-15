@@ -9,5 +9,33 @@
     "OPENWORLD"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A German and English survival server with custom features",
+  "website": "https://cherrysmp.net",
+  "store": "https://store.cherrysmp.net",
+  "socials": {
+    "discord": "https://discord.gg/DEINCODE"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "de",
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvE",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#FF70BD",
+    "secondary": "#FF85C2"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cherrysmp/background.png"
 }

@@ -7,5 +7,34 @@
     "SURVIVAL",
     "PARKOUR"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Czech Minecraft server featuring the unique Origin minigame and parkour.",
+  "website": "https://www.badhub.cz",
+  "store": "https://store.badhub.cz",
+  "socials": {
+    "discord": "https://discord.com/invite/9vhUGpzrwt",
+    "tiktok": "@mc.badhub.cz",
+    "instagram": "badhub.cz"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Parkour"
+  ],
+  "colors": {
+    "primary": "#009013",
+    "secondary": "#ffffff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/badhub/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/badhub/background.png"
 }

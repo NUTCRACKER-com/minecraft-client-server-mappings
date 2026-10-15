@@ -7,5 +7,31 @@
     "SKYBLOCK",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Skyblock and PvP on Bluecraft.",
+  "store": "https://boutique.bleucraft.fr/",
+  "socials": {
+    "twitter": "bluecraftoff",
+    "discord": "https://discord.gg/Vqkmf4JMhw",
+    "youtube": "bleucraftofficiel",
+    "tiktok": "@bleucraftofficiel"
+  },
+  "versions": [
+    "1.19.4",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#930031",
+    "secondary": "#facc48"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bluecraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bluecraft/background.png"
 }

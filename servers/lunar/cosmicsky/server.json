@@ -6,5 +6,31 @@
   "categories": [
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Build your island empire on Cosmic Sky.",
+  "store": "https://www.buy.cosmicsky.net",
+  "socials": {
+    "discord": "https://discord.gg/cosmicsky"
+  },
+  "versions": [
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#55FFFF",
+    "secondary": "#FFFF55"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cosmicsky/logo.png"
 }

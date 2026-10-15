@@ -6,5 +6,34 @@
   "categories": [
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Home of the BEST Generators Server",
+  "store": "https://store.moneymc.net",
+  "socials": {
+    "discord": "https://www.discord.gg/moneymc"
+  },
+  "versions": [
+    "1.21.*",
+    "1.20.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#44a1e3",
+    "secondary": "#a854de"
+  },
+  "compliance": {
+    "rules": "https://www.store.moneymc.net/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/moneymc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/moneymc/background.png"
 }

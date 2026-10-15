@@ -7,5 +7,31 @@
     "SKYBLOCK",
     "ONEBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play MytheriaMC for the premium Skyblock and Oneblock experience",
+  "store": "https://mytheriamc.net",
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "OneBlock"
+  ],
+  "colors": {
+    "primary": "#FF55FF",
+    "secondary": "#AA00AA"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mytheriamc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mytheriamc/background.png"
 }

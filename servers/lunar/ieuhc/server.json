@@ -8,5 +8,25 @@
     "UHC"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames and UHC on Inazuma-Eleven UHC.",
+  "website": "https://www.ieuhc.fr/",
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#FFAE42",
+    "secondary": "#33c1ff"
+  }
 }

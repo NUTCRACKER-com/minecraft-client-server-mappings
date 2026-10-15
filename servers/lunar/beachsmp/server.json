@@ -6,5 +6,29 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Your favourite sunny Minecraft getaway",
+  "website": "https://beachsmp.com",
+  "versions": [
+    "1.21",
+    "26.1",
+    "26.1.1",
+    "26.1.2"
+  ],
+  "primaryVersion": "26.1.2",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#E8732A",
+    "secondary": "#F5C518"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/beachsmp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/beachsmp/background.png"
 }

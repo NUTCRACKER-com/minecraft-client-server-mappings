@@ -7,5 +7,38 @@
     "PRISON",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The home of unique experiences like no other.",
+  "website": "https://www.minelucky.net/",
+  "store": "https://store.minelucky.net/",
+  "socials": {
+    "twitter": "PlayMineLucky",
+    "discord": "https://discord.gg/eb7mTPYEJ3"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Prison",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#E26706",
+    "secondary": "#220B53"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minelucky/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minelucky/background.png"
 }

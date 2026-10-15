@@ -9,5 +9,31 @@
     "OPENWORLD"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Survival server with clans",
+  "website": "https://hyultra.gg",
+  "store": "https://loja.hyultra.gg",
+  "socials": {
+    "discord": "https://discord.gg/m98Fj6uWeD"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "pt-BR"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#FFA500",
+    "secondary": "#FFA500"
+  }
 }

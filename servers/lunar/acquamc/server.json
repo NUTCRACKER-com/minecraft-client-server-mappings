@@ -7,5 +7,31 @@
     "PVP",
     "PRACTICE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Italian PvP and Practice network.",
+  "website": "https://www.acquamc.eu/",
+  "store": "https://store.acquamc.eu/",
+  "socials": {
+    "discord": "https://discord.gg/RFMayeCvuE"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Practice"
+  ],
+  "colors": {
+    "primary": "#00f5d4",
+    "secondary": "#00b4d8"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/acquamc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/acquamc/background.png"
 }

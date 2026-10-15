@@ -6,5 +6,40 @@
   "categories": [
     "ROLEPLAY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Liteaccademy is a server founded in 2022/2023, Owner of @TropeaRoleplay",
+  "website": "https://www.liteaccademy.it",
+  "store": "https://www.liteaccademy.it/store/",
+  "socials": {
+    "discord": "https://discord.gg/BJbcTsbRuj",
+    "telegram": "liteaccademy"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.17.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#ff0000",
+    "secondary": "#383838"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.liteaccademy.it/privacy/",
+    "termsOfService": "https://www.liteaccademy.it/terms/"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/liteaccademy/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/liteaccademy/background.png"
 }

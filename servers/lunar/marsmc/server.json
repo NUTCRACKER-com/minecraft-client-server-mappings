@@ -9,5 +9,41 @@
     "CREATIVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Home of SUPER FUN minigames!",
+  "store": "https://store.marsmc.net",
+  "socials": {
+    "discord": "https://discord.gg/marsmc",
+    "youtube": "PlayMarsMC",
+    "twitter": "PlayMarsMC"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "ar",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Creative"
+  ],
+  "colors": {
+    "primary": "#3fc4d1",
+    "secondary": "#394047"
+  },
+  "video": "-oZlcake_44",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/marsmc/background.png"
 }

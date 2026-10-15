@@ -8,5 +8,33 @@
     "SURVIVAL",
     "OPENWORLD"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Survival server with clans",
+  "website": "https://lunariamc.it",
+  "store": "https://store.lunariamc.it",
+  "socials": {
+    "discord": "https://discord.gg/BPRnTcjAqt"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#8F00FF",
+    "secondary": "#A953EC"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lunariamc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lunariamc/background.png"
 }

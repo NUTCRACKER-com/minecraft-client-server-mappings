@@ -10,5 +10,36 @@
     "SKYBLOCK",
     "KITPVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play HCF, PvP, and more on CavePvP.",
+  "website": "https://cavepvp.com/",
+  "store": "https://store.cavepvp.com/",
+  "socials": {
+    "twitter": "CavePvPorg",
+    "discord": "https://discord.com/invite/cavepvp",
+    "telegram": "cavepvporg"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "HCF",
+    "PvP",
+    "Skyblock",
+    "KitPvP"
+  ],
+  "colors": {
+    "primary": "#db213a",
+    "secondary": "#3f3e4c"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cavepvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cavepvp/banner.gif"
 }

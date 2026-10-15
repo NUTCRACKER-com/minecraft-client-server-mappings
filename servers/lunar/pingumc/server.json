@@ -9,5 +9,39 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "PinguMC is a quiet server, suitable for players who want to relax.",
+  "website": "https://pingumc.com/",
+  "store": "https://shop.pingumc.com/",
+  "socials": {
+    "discord": "https://discord.gg/g9K4ZwGrBX"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU",
+    "NA",
+    "SA"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Creative",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#00a6ff",
+    "secondary": "#def3ff"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pingumc/background.png"
 }

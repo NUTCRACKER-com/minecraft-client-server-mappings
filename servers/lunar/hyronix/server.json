@@ -8,5 +8,29 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Next-generation Minecraft survival experience",
+  "website": "https://www.hyronix.cz/",
+  "store": "https://www.hyronix.cz/obchod",
+  "socials": {
+    "discord": "https://discord.com/invite/z29FZajvEA"
+  },
+  "versions": [
+    "1.21.11"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#A542FF",
+    "secondary": "#c797ff"
+  }
 }

@@ -11,5 +11,35 @@
     "ONEBLOCK"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience survival gameplay on Anarchia.",
+  "website": "https://anarchia.gg/",
+  "store": "https://anarchia.gg/shop",
+  "socials": {
+    "discord": "https://discord.com/invite/epnvKD6gHs",
+    "tiktok": "@anarchia.gg",
+    "youtube": "Sagi1"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.3"
+  ],
+  "primaryVersion": "1.17.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "Survival",
+    "BoxPvP",
+    "PvP",
+    "OneBlock"
+  ],
+  "colors": {
+    "primary": "#f2f2f3",
+    "secondary": "#fef334"
+  }
 }

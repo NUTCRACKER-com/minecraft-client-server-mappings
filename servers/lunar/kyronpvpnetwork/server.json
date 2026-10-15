@@ -7,5 +7,20 @@
     "HARDCORE",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Server Kitmap and HCF 1.7 - 1.8.9",
+  "versions": [
+    "1.7.10",
+    "1.8.9"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "Hardcore",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#1a1a1a",
+    "secondary": "#ff0000"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kyronpvpnetwork/logo.png"
 }

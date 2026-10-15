@@ -8,5 +8,35 @@
     "PVP",
     "UHC"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play HCF, PvP, and more on OverPvP.",
+  "website": "https://overpvp.com",
+  "store": "https://store.overpvp.com/",
+  "socials": {
+    "twitter": "PlayOverPvP",
+    "discord": "https://discord.gg/4Bec2DST29"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.9"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "HCF",
+    "PvP",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#008f39",
+    "secondary": "#89ac76"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/overpvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/overpvp/background.png"
 }

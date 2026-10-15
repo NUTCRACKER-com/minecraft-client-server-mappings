@@ -8,5 +8,38 @@
     "SURVIVAL",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The home of Prison, Survival-RPG, Skyblock, and many more.",
+  "website": "https://minevolt.club/",
+  "socials": {
+    "discord": "https://discord.com/invite/ZexE7am6bG",
+    "twitter": "minevolt_club",
+    "tiktok": "@minevolt_club"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Prison",
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#55ffff",
+    "secondary": "#55ffff"
+  },
+  "compliance": {
+    "rules": "https://rules.minevolt.club/"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minevolt/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minevolt/background.png"
 }

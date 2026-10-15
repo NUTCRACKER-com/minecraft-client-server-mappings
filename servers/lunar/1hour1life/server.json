@@ -9,5 +9,30 @@
     "OPENWORLD"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Spawn as a baby to a random player!",
+  "website": "http://1hour1life.net",
+  "socials": {
+    "discord": "https://discord.gg/m98Fj6uWeD"
+  },
+  "versions": [
+    "1.20.6"
+  ],
+  "primaryVersion": "1.20.6",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Roleplay",
+    "Survival",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#D93E3E"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/1hour1life/background.png"
 }

@@ -6,5 +6,30 @@
   "categories": [
     "ROLEPLAY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "NewHouse, the different Roleplay.",
+  "website": "https://www.newhouserp.it",
+  "socials": {
+    "telegram": "NewHouseRP",
+    "discord": "https://discord.com/invite/Qc7yHhCfpX"
+  },
+  "versions": [
+    "1.19.4",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#dec84e",
+    "secondary": "#8fccf2"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/newhouserp/logo.png"
 }

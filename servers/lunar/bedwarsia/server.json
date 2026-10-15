@@ -7,5 +7,44 @@
     "MINIGAMES",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Minecraft Bedwars server, for European players.",
+  "website": "https://bedwarsia.eu/",
+  "store": "https://store.bedwarsia.eu",
+  "socials": {
+    "twitter": "Bedwarsia",
+    "discord": "https://discord.gg/ChrwjUvWVN",
+    "youtube": "Bedwarsia"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#F7BB3B",
+    "secondary": "#492012"
+  },
+  "compliance": {
+    "rules": "https://bedwarsia.eu/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bedwarsia/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bedwarsia/background.png"
 }

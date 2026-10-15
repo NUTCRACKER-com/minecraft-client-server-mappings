@@ -8,5 +8,37 @@
     "PVE",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The biggest Minecraft Community in Greece, now available globally!",
+  "website": "https://houseofgamers.eu",
+  "store": "https://store.houseofgamers.eu",
+  "socials": {
+    "discord": "https://discord.com/invite/house-of-gamers-mc-761961550474248212",
+    "tiktok": "@houseofgamers"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "el",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "PvE",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#00D2F8",
+    "secondary": "#78D7FE"
+  },
+  "compliance": {
+    "rules": "https://houseofgamers.eu/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/houseofgamers/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/houseofgamers/backround.png"
 }

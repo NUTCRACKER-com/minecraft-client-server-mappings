@@ -7,5 +7,25 @@
     "FACTIONS"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Build your faction and conquer on Crusalis.",
+  "website": "https://crusalis.net/",
+  "store": "https://shop.crusalis.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/crusalis"
+  },
+  "versions": [
+    "1.19.3"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#ffffff",
+    "secondary": "#000000"
+  }
 }

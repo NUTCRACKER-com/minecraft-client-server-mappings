@@ -7,5 +7,30 @@
     "FACTIONS",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Factions and PvP on Ivonia.",
+  "website": "https://ivonia.fr/",
+  "store": "https://ivonia.fr/shop/categories/credits",
+  "socials": {
+    "discord": "https://discord.com/invite/ivonia",
+    "youtube": "ivonia_faction"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Factions",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#fdd451",
+    "secondary": "#403f7b"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/ivonia/logo.png"
 }

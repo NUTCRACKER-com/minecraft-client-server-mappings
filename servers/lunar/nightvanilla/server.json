@@ -8,5 +8,30 @@
     "PVP",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "NightVanilla is an active Minecraft Economy & CPvP server for Java & Bedrock",
+  "store": "https://shop.nightvanilla.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/nightvanilla",
+    "tiktok": "@itznightrider",
+    "twitch": "itznightrider_"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#9C1DDB",
+    "secondary": "#C51DDB"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nightvanilla/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nightvanilla/background.png"
 }

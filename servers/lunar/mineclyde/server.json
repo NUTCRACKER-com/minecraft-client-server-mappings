@@ -9,5 +9,36 @@
     "SKYBLOCK"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Factions, HCF, and more on Mineclyde.",
+  "website": "https://mineclyde.com/",
+  "store": "https://store.mineclyde.com/",
+  "socials": {
+    "twitter": "PlayMineclyde",
+    "discord": "https://discord.com/invite/mineclyde"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "Factions",
+    "HCF",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#55FFFF",
+    "secondary": "#00AAAA"
+  },
+  "compliance": {
+    "privacyPolicy": "https://store.mineclyde.com/privacy",
+    "termsOfService": "https://store.mineclyde.com/terms",
+    "rules": "https://mineclyde.com/rules/"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mineclyde/background.png"
 }

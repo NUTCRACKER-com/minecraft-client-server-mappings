@@ -9,5 +9,42 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A competitive Minecraft network featuring BedWars, SkyWars, and more.",
+  "website": "https://blocksmc.com/",
+  "store": "https://blocksmc.com/store",
+  "socials": {
+    "discord": "https://discord.gg/blocksmc",
+    "instagram": "BlocksMC",
+    "youtube": "blocksmcyoutube",
+    "tiktok": "@blocksmctiktok"
+  },
+  "versions": [
+    "1.8.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en",
+    "ar"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Prison",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#001414",
+    "secondary": "#008cd3"
+  },
+  "compliance": {
+    "privacyPolicy": "https://blocksmc.com/privacy-policy",
+    "termsOfService": "https://blocksmc.com/general-terms",
+    "rules": "https://blocksmc.com/rules",
+    "support": "https://blocksmc.com/support"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blocksmc/background.png"
 }

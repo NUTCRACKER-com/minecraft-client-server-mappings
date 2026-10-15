@@ -8,5 +8,46 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Enjoy a personalized survival experience and the best minigames!",
+  "website": "https://alcraft.es/",
+  "store": "https://alcraft.tebex.io/",
+  "socials": {
+    "facebook": "Al-Craft",
+    "twitter": "AlCraftNetwork",
+    "instagram": "alcraft.network",
+    "youtube": "AlCraftNetwork",
+    "discord": "https://discord.com/invite/SQVquSE"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "NA",
+    "SA",
+    "EU"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#1769D2",
+    "secondary": "#28A745"
+  },
+  "compliance": {
+    "privacyPolicy": "https://alcraft.es/privacy/",
+    "termsOfService": "https://alcraft.es/terms/",
+    "rules": "https://alcraft.es/rules/"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/alcraft/background.png"
 }

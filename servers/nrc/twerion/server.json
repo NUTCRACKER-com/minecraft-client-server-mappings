@@ -13,5 +13,85 @@
   "disabledModules": [
     "freelook"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "FREE_LOOK"
+  ],
+  "website": "https://www.twerion.net/",
+  "store": "https://twerion.net/shop",
+  "socials": {
+    "discord": "https://discord.com/invite/twerion"
+  },
+  "gamemodes": {
+    "kitrush": {
+      "name": "Kitrush",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "citybuild": {
+      "name": "CityBuild SMP",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "oneblock": {
+      "name": "OneBlock",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "lifesteal": {
+      "name": "Lifesteal SMP",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "elytrapvp": {
+      "name": "ElytraPvP",
+      "versions": [
+        "1.21<*"
+      ],
+      "description": ""
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "versions": [
+        "1.8<*"
+      ],
+      "description": ""
+    },
+    "fastbuilders": {
+      "name": "FastBuilders",
+      "versions": [
+        "1.8<*"
+      ],
+      "description": ""
+    },
+    "buildffa": {
+      "name": "BuildFFA",
+      "versions": [
+        "1.8<*"
+      ],
+      "description": ""
+    },
+    "practice": {
+      "name": "Practice",
+      "versions": [
+        "1.8<*"
+      ],
+      "description": ""
+    },
+    "skypvp": {
+      "name": "SkyPvP",
+      "versions": [
+        "1.8<*"
+      ],
+      "description": ""
+    }
+  }
 }

@@ -7,5 +7,42 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Your favorite 1.8 Bed Wars network in India. Play for free!",
+  "website": "https://www.bedwars.lol/",
+  "socials": {
+    "discord": "https://discord.gg/r5CZXeR4AX",
+    "youtube": "@mcbedwarslol"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#DC2626",
+    "secondary": "#FFFFFF"
+  },
+  "compliance": {
+    "rules": "https://www.bedwars.lol/rules"
+  },
+  "video": "_yOCV3HU38Y",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bedwarslol/background.png"
 }

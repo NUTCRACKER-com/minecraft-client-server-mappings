@@ -8,5 +8,39 @@
     "SURVIVAL",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive Minecraft server with PvP, Survival, and unique Minigames",
+  "website": "https://nooblandia.com/home/",
+  "store": "https://nooblandia.com/store/",
+  "wiki": "https://nooblandia.com/wiki/",
+  "socials": {
+    "telegram": "nooblandianetwork"
+  },
+  "versions": [
+    "1.21.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#00aaff",
+    "secondary": "#0055ff"
+  },
+  "compliance": {
+    "privacyPolicy": "https://nooblandia.com/docs/privacy/",
+    "termsOfService": "https://nooblandia.com/docs/tos/",
+    "rules": "https://nooblandia.com/wiki/regolamenti/"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nooblandia/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nooblandia/banner.gif"
 }

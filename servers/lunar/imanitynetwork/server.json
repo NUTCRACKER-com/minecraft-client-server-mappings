@@ -11,5 +11,35 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "PvP Network for players, by players.",
+  "website": "https://imanity.club",
+  "store": "https://store.imanity.club",
+  "socials": {
+    "discord": "https://discord.gg/imanity",
+    "twitter": "ImanityClub",
+    "youtube": "ImanityClub"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#50EBEC",
+    "secondary": "#FFFFFF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/imanitynetwork/logo.png"
 }

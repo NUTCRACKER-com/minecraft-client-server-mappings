@@ -8,5 +8,28 @@
     "CREATIVE",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Creative, and more on GamesIL.",
+  "store": "https://gamesil14.buycraft.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/gamesil"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Creative",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#0BE0F5",
+    "secondary": "#0BA0F5"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gamesil/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gamesil/background.png"
 }

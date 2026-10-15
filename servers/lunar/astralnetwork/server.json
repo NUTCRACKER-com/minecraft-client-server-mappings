@@ -9,5 +9,41 @@
     "MINIGAMES",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A premium Minecraft server offering quality gameplay and a strong community",
+  "website": "https://astralnetwork.net",
+  "store": "https://store.astralnetwork.net",
+  "socials": {
+    "youtube": "AstralNetwork6",
+    "discord": "https://discord.gg/hT7HVFsjds"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#59f6f6",
+    "secondary": "#003251"
+  },
+  "compliance": {
+    "privacyPolicy": "https://astralnetwork.net/privacy",
+    "termsOfService": "https://astralnetwork.net/terms",
+    "rules": "https://astralnetwork.net/rules"
+  },
+  "video": "jm6Nna1u-BA",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/astralnetwork/logo.png"
 }

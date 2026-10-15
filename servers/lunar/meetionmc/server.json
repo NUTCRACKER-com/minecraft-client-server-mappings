@@ -10,5 +10,40 @@
     "PVP",
     "PRISON"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Is there anything better than this? - Join now!",
+  "store": "https://tienda.meetionmc.com/",
+  "socials": {
+    "discord": "https://discord.gg/meetion",
+    "tiktok": "@meetion_network",
+    "youtube": "@meetion_network"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "NA",
+    "SA",
+    "EU"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#FB0808",
+    "secondary": "#9c0000"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/meetionmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/meetionmc/background.png"
 }

@@ -8,5 +8,52 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "French competitive UHC and Arena server featuring unique gamemodes and events.",
+  "website": "https://atlasmc.fr/",
+  "store": "https://atlasmc.fr/shop",
+  "wiki": "https://doc.atlasmc.fr/",
+  "socials": {
+    "discord": "https://discord.gg/atlasmc",
+    "twitter": "UHC_Atlas",
+    "youtube": "@AtlasUHC",
+    "tiktok": "@atlasuhc"
+  },
+  "versions": [
+    "1.8.9",
+    "1.12.2",
+    "1.16.5",
+    "1.17.1",
+    "1.18.2",
+    "1.19.4",
+    "1.20.4",
+    "1.20.6",
+    "1.21",
+    "1.21.4"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "gameTypes": [
+    "UHC",
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#FDE658",
+    "secondary": "#44C9EE"
+  },
+  "compliance": {
+    "privacyPolicy": "https://atlasmc.fr/politique-confidentialite",
+    "termsOfService": "https://atlasmc.fr/cgu",
+    "rules": "https://atlasmc.fr/reglement",
+    "support": "https://discord.gg/atlasmc"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/atlasuhc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/atlasuhc/banner.png"
 }

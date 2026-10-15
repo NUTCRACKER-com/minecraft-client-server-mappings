@@ -9,5 +9,36 @@
     "PVP",
     "PRISON"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Denmark's coolest server.",
+  "website": "https://mintmc.dk",
+  "store": "https://mintmc.dk/#butik",
+  "socials": {
+    "discord": "https://discord.gg/mintmc",
+    "tiktok": "@mintprison",
+    "twitter": "mintprisondk",
+    "youtube": "@mintprison"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#55FFFF",
+    "secondary": "#FFFFFF"
+  },
+  "compliance": {
+    "termsOfService": "https://mintmc.dk/terms-of-service",
+    "rules": "https://mintmc.dk/rules"
+  },
+  "video": "BCZVcf1atfU",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mintprison/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mintprison/background.png"
 }

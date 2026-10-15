@@ -9,5 +9,35 @@
     "ROLEPLAY"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A server suitable for all ages!",
+  "website": "https://www.newarceusmc.it",
+  "store": "https://store.newarceusmc.it",
+  "socials": {
+    "discord": "https://discord.com/invite/hjBQVb7AvM",
+    "telegram": "arceusmc"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.17.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Skyblock",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#ff7700",
+    "secondary": "#7b00ff"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/arceusmc/background.png"
 }

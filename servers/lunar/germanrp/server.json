@@ -6,5 +6,29 @@
   "categories": [
     "ROLEPLAY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Reallife Economy Roleplay",
+  "website": "https://germanrp.eu/forum/",
+  "store": "https://germanrpofficial.tebex.io/",
+  "socials": {
+    "twitter": "Germanrp3",
+    "discord": "https://discord.com/invite/Vd75V3H3fs",
+    "instagram": "germanrp.pr",
+    "tiktok": "@germanrp.pr"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#7b4900",
+    "secondary": "#394246"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/germanrp/logo.png"
 }

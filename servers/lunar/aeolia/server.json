@@ -10,5 +10,46 @@
     "CREATIVE",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Economy SMP, creative, and KitPVP",
+  "website": "https://aeolia.xyz",
+  "store": "https://aeolia.craftingstore.net",
+  "socials": {
+    "discord": "https://discord.gg/fhaTRMerZ9"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.10",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "en",
+    "de",
+    "fr"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Creative",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#f63fff",
+    "secondary": "#8521e2"
+  },
+  "compliance": {
+    "privacyPolicy": "https://aeolia.xyz/privacy",
+    "rules": "https://aeolia.xyz/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/aeolia/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/aeolia/background.png"
 }

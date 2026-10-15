@@ -10,5 +10,36 @@
     "PVP",
     "OPENWORLD"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A modern Minecraft network for casual and competitive players.",
+  "website": "https://kaide.gg",
+  "store": "https://kaide.gg/store",
+  "socials": {
+    "discord": "https://discord.gg/kaide"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Casual",
+    "Competitive",
+    "Survival",
+    "PvP",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#00AAAA",
+    "secondary": "#AAAAAA"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kaide/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kaide/background.png"
 }

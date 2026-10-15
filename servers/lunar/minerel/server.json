@@ -10,5 +10,30 @@
     "PVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP, Minigames, and more on Minerel.",
+  "store": "https://store.minerel.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/minerel"
+  },
+  "versions": [
+    "1.8.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20",
+  "regions": [
+    "AS",
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#4989f6"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minerel/background.png"
 }

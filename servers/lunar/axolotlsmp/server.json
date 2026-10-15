@@ -7,5 +7,34 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The place of the Axolotls",
+  "socials": {
+    "twitter": "Axolotl_SMP1",
+    "discord": "https://discord.gg/cMB2e4NCH3",
+    "youtube": "AxolotlySMP"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*",
+    "1.19.*",
+    "1.18.*"
+  ],
+  "primaryVersion": "1.21.3",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#DA08FB",
+    "secondary": "#1873FF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/axolotlsmp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/axolotlsmp/backround.png"
 }

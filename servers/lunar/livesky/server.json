@@ -8,5 +8,37 @@
     "ADVENTURE",
     "OPENWORLD"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Polish server with many modern features focused on EarthSMP and Survival",
+  "website": "https://livesky.pl/",
+  "store": "https://livesky.pl/shop",
+  "socials": {
+    "tiktok": "@freebanan6",
+    "discord": "https://discord.com/invite/mA3D2xRYEc"
+  },
+  "versions": [
+    "1.20.2",
+    "26.1.2"
+  ],
+  "primaryVersion": "1.20.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Adventure",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#FA8613",
+    "secondary": "#FFFFFF"
+  },
+  "compliance": {
+    "rules": "https://wiki.livesky.pl/informacje/regulaminy/regulamin-minecraft"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/livesky/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/livesky/background.png"
 }

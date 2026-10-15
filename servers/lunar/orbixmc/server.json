@@ -9,5 +9,41 @@
     "PRISON"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft Prisons Server",
+  "website": "https://orbixmc.com",
+  "store": "https://store.orbixmc.com",
+  "socials": {
+    "twitter": "playorbix",
+    "instagram": "playorbix",
+    "discord": "https://discord.gg/orbixmc",
+    "tiktok": "@playorbix",
+    "youtube": "@playorbix"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.6",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#007cff",
+    "secondary": "#00458f"
+  },
+  "compliance": {
+    "rules": "https://orbixmc.com/rules"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/orbixmc/background.png"
 }

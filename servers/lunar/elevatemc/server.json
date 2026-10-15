@@ -9,5 +9,43 @@
     "COMPETITIVE",
     "PRACTICE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "PotPvP, Practice and TeamFight server on legacy Minecraft",
+  "website": "https://elevatemc.com/",
+  "store": "https://store.elevatemc.com/",
+  "socials": {
+    "discord": "https://discord.com/invite/hctranked",
+    "telegram": "ElevateMC"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA",
+    "AF"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF",
+    "Competitive",
+    "Practice"
+  ],
+  "colors": {
+    "primary": "#00AAAA",
+    "secondary": "#55FFFF"
+  },
+  "compliance": {
+    "support": "https://elevatemc.com/tickets"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/elevatemc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/elevatemc/background.png"
 }

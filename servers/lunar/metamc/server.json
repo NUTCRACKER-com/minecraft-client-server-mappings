@@ -11,5 +11,35 @@
     "PRACTICE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Italian Minecraft server: Vanilla War, Survival, Towny and Oasis.",
+  "website": "https://www.metamc.it/",
+  "store": "https://store.metamc.it/",
+  "socials": {
+    "discord": "https://discord.gg/metamc",
+    "telegram": "MetaMCNews",
+    "youtube": "UCz6N14vFLjAweuZjkvlg1kA",
+    "tiktok": "@metamc.it"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Practice"
+  ],
+  "colors": {
+    "primary": "#f28536",
+    "secondary": "#1564a3"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/metamc/background.png"
 }

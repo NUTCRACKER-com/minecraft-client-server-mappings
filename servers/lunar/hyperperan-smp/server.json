@@ -8,5 +8,36 @@
     "PVE",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "HyperPeran SMP - Epic Java & Bedrock survival server!",
+  "website": "https://hyperperan-smp.com",
+  "store": "https://hypermarketplace.mysellix.io",
+  "socials": {
+    "discord": "https://discord.gg/hyperperan",
+    "instagram": "hyperperan",
+    "tiktok": "@hyperperan"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvE",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#f3b600",
+    "secondary": "#262d37"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hyperperan-smp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hyperperan-smp/background.png"
 }

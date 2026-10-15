@@ -8,5 +8,40 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The faithful MCZone/Avicus revival of Nebula — a Minecraft PvP gamemode",
+  "website": "https://www.mcnebula.net/",
+  "store": "https://www.mcnebula.net/store",
+  "socials": {
+    "discord": "https://discord.gg/kgWvJGKkt8"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#10b71b",
+    "secondary": "#232b2b"
+  },
+  "compliance": {
+    "rules": "https://www.mcnebula.net/rules"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mcnebula/background.png"
 }

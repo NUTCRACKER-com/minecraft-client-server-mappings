@@ -7,5 +7,30 @@
     "OPENWORLD"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "An Open-World MMORPG featuring Java and Bedrock crossplay",
+  "website": "https://occulto.quest",
+  "socials": {
+    "twitter": "OccultoStudios",
+    "youtube": "OccultoStudios",
+    "discord": "https://discord.gg/3Tst7gka4w"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#206B9C",
+    "secondary": "#14B2FA"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/occulto/background.png"
 }

@@ -11,5 +11,19 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "website": "https://yugtosmp.xyz",
+  "store": "https://yugtosmp.xyz/store",
+  "socials": {
+    "discord": "https://yugtosmp.xyz/discord"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Semi-Vanilla Survival Server"
+    }
+  }
 }

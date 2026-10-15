@@ -8,5 +8,32 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames and PvP on Nether Storm.",
+  "website": "https://www.nssv.pl/",
+  "store": "https://www.nssv.pl/sklep",
+  "socials": {
+    "discord": "https://discord.com/invite/CZPA3aM",
+    "facebook": "nsminecraft"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.12.2",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#f6a61a",
+    "secondary": "#fff721"
+  }
 }

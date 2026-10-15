@@ -9,5 +9,33 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Latin American network spanning Survival, PvP, and Minigames.",
+  "website": "https://elyoyo.com/",
+  "store": "https://elyoyo.tebex.io/",
+  "socials": {
+    "discord": "https://discord.gg/H8racy6xEA",
+    "twitter": "ElYoyoOfficial",
+    "youtube": "@ElYoyoOfficial",
+    "instagram": "ElYoyoOfficial"
+  },
+  "versions": [
+    "1.8.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA",
+    "SA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#FFD700"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/elyoyonetwork/background.png"
 }

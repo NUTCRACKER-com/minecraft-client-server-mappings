@@ -8,5 +8,32 @@
     "ADVENTURE",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "ManiaSky is THE Minecraft Oneblock",
+  "website": "https://maniasky.fr/",
+  "store": "https://maniasky.fr/shop",
+  "socials": {
+    "discord": "https://discord.gg/maniasky",
+    "tiktok": "@mania.sky"
+  },
+  "versions": [
+    "1.20.4"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "PvE",
+    "Adventure",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#A100FF",
+    "secondary": "#FF7B00"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/maniasky/logo.png"
 }

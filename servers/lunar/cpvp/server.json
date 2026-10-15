@@ -8,5 +8,36 @@
     "CRYSTALPVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Crystal PvP Battle royale server with custom features and a unique experience.",
+  "website": "https://cpvp.gg",
+  "store": "https://store.cpvp.gg",
+  "socials": {
+    "discord": "https://discord.gg/invite/royale"
+  },
+  "versions": [
+    "1.21.11",
+    "1.21.10",
+    "1.21.9",
+    "1.21.8"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Crystal PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#FF4ACF",
+    "secondary": "#FF4ACF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cpvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cpvp/background.png"
 }

@@ -6,5 +6,36 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A server offering modern survival-type experience",
+  "website": "https://www.mikart.net/",
+  "store": "https://store.mikart.eu/",
+  "socials": {
+    "discord": "https://discord.gg/SuXGbq24wA"
+  },
+  "versions": [
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#2cd12c",
+    "secondary": "#2cd1a2"
+  },
+  "compliance": {
+    "rules": "https://www.mikart.eu/docs/minecraft/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mikart/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mikart/background.png"
 }

@@ -10,5 +10,29 @@
     "UHC",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive PvP, UHC, and Survival all in one network.",
+  "website": "https://www.cherrypvp.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/6b55H5A957"
+  },
+  "versions": [
+    "1.21.11",
+    "26.1"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHC",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#fdd4e0",
+    "secondary": "#f7a2c6"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cherrypvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cherrypvp/background.png"
 }

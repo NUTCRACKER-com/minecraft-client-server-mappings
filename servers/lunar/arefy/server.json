@@ -9,5 +9,37 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Welcome to Arefy Network, the best Spanish Minecraft server.",
+  "website": "https://arefy.net/",
+  "store": "https://buy.arefy.net/",
+  "socials": {
+    "twitter": "ArefyNetwork",
+    "discord": "https://discord.com/invite/arefy",
+    "tiktok": "@arefynet",
+    "instagram": "arefynet"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20"
+  ],
+  "primaryVersion": "1.20",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Prison",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#F8B517",
+    "secondary": "#DD600B"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/arefy/banner.gif"
 }

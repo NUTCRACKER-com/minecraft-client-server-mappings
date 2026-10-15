@@ -8,5 +8,38 @@
     "FACTIONS",
     "ADVENTURE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Welcome to MinePiece, the best Minecraft server based on OnePiece! Explore the",
+  "website": "https://minepiece.net/",
+  "store": "https://store.minepiece.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/567B8MDVFS",
+    "youtube": "@PlayMinePiece",
+    "tiktok": "@playminepiece"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Factions",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#fdd035",
+    "secondary": "#9e2f14"
+  },
+  "compliance": {
+    "termsOfService": "https://minepiece.net/terms",
+    "rules": "https://minepiece.net/rules"
+  },
+  "video": "v5zShJHf1hQ",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minepiece/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minepiece/background.png"
 }

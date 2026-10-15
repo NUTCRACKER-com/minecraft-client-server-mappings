@@ -7,5 +7,27 @@
     "SURVIVAL",
     "ROLEPLAY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival and Roleplay on Evolucraft.",
+  "website": "https://evolucraft.fr/",
+  "store": "https://store.evolucraft.fr/",
+  "socials": {
+    "discord": "https://discord.com/invite/evolucraft"
+  },
+  "versions": [
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#43ffb3",
+    "secondary": "#d9f326"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/evolucraft/logo.png"
 }

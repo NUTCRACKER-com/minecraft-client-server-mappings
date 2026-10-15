@@ -7,5 +7,36 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "MuxCraft - #1 Potion PvP Server, the largest Minecraft server in Germany.",
+  "website": "https://muxcraft.eu/",
+  "store": "https://shop.muxcraft.eu/",
+  "socials": {
+    "twitter": "MuxCraft",
+    "discord": "https://discord.com/invite/EqrVXM7",
+    "youtube": "muxcraft",
+    "instagram": "muxcrafteu",
+    "tiktok": "@muxcraft"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#92fa5d",
+    "secondary": "#62c72c"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/muxcraft/logo.png"
 }

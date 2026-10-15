@@ -9,5 +9,31 @@
     "SKYBLOCK"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "(Minecraft) DiamondWorld, 1.13.2 - 1.18.1, (IP): mc.diamondworld.pro",
+  "website": "https://diamondworld.pro/",
+  "socials": {
+    "telegram": "dw_main",
+    "discord": "https://discord.com/invite/MwGxVRJKns"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Prison",
+    "Minigames",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#ff8b00",
+    "secondary": "#009ad5"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/diamondworld/background.png"
 }

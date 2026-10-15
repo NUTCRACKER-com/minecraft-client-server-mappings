@@ -8,5 +8,31 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Masuru is a Minecraft server that is a part of the Lilia Network!",
+  "socials": {
+    "discord": "https://discord.gg/lilia",
+    "youtube": "UCy9Kqxy7tJZGv4l2LX6xXVQ",
+    "instagram": "masuruproject",
+    "facebook": "MASURU.PAGE",
+    "twitter": "masuruproject"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#ff3ff9",
+    "secondary": "#ff9ff3"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/masuru/logo.png"
 }

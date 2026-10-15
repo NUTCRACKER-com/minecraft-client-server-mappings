@@ -7,5 +7,34 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Boundless excitement, where every block holds a game.",
+  "website": "https://www.mccade.net",
+  "store": "https://store.mccade.net",
+  "socials": {
+    "twitter": "playmccade",
+    "discord": "https://discord.com/invite/playmccade"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#E6A900",
+    "secondary": "#495bb3"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.mccade.net/privacy",
+    "termsOfService": "https://www.mccade.net/terms",
+    "rules": "https://www.mccade.net/rules"
+  }
 }

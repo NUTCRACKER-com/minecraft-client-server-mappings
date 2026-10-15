@@ -8,5 +8,37 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Welcome to our servers: OneBlock, BoxPvP, Survival Plots, LifeSteal SMP.",
+  "website": "https://axelcraft.pl",
+  "store": "https://axelcraft.pl/sklep",
+  "socials": {
+    "discord": "https://discord.gg/axelcraft",
+    "tiktok": "@axelcraftpl",
+    "youtube": "axelcraftpl",
+    "facebook": "AxelCraftPL"
+  },
+  "versions": [
+    "1.19.3",
+    "1.19.4",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#b97ffb",
+    "secondary": "#0ec6d6"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/axelcraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/axelcraft/background.png"
 }

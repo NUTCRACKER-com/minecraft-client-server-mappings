@@ -9,5 +9,40 @@
     "MINIGAMES",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The second server in Italy known as a KitPVP community",
+  "website": "https://www.echomc.it/",
+  "store": "https://store.echomc.it/",
+  "socials": {
+    "discord": "https://discord.gg/gwSSvmvgBZ",
+    "instagram": "echomc.it",
+    "telegram": "echomc",
+    "tiktok": "@echomc.it"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#1387ca",
+    "secondary": "#262d37"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/echomc/logo.png"
 }

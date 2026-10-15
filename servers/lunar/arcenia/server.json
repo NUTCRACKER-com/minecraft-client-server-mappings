@@ -6,5 +6,41 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Every start becomes a legend in Arcenia. Are you ready?",
+  "website": "https://www.arcenia.net",
+  "store": "https://arcenia.net/magaza",
+  "socials": {
+    "twitter": "Arcenianet",
+    "telegram": "lunarnetwork",
+    "discord": "https://discord.gg/x33reaDhAb"
+  },
+  "versions": [
+    "1.16.5",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.18.2",
+  "regions": [
+    "EU",
+    "AS"
+  ],
+  "languages": [
+    "en",
+    "tr"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#8f4cf5",
+    "secondary": "#a376e8"
+  },
+  "compliance": {
+    "privacyPolicy": "https://arcenia.net/gizlilik-sozlesmesi",
+    "termsOfService": "https://arcenia.net/gizlilik-sozlesmesi",
+    "rules": "https://arcenia.net/kurallar"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/arcenia/logo.png"
 }

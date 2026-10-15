@@ -9,5 +9,37 @@
     "PRISON"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A really cool and fantastic Minecraft server",
+  "store": "https://tienda.oclusmc.net",
+  "socials": {
+    "discord": "https://discord.com/invite/63JAtrXsWT"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#ee67ff",
+    "secondary": "#ff1bfd"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/oclusnetwork/background.png"
 }

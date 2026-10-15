@@ -10,5 +10,37 @@
     "PRACTICE",
     "COMPETITIVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play HCF and PvP on Dynamic Network.",
+  "store": "https://store.dynamicpvp.net/",
+  "socials": {
+    "twitter": "dynamicpvpnet",
+    "discord": "https://discord.com/invite/XpGVDZ49GP"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "HCF",
+    "PvP",
+    "KitPvP",
+    "Practice",
+    "Competitive"
+  ],
+  "colors": {
+    "primary": "#9c34b8",
+    "secondary": "#17151c"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/dynamicpvp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/dynamicpvp/background.png"
 }

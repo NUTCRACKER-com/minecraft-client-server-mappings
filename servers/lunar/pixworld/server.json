@@ -8,5 +8,41 @@
     "SKYBLOCK"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft survival and skyblock server",
+  "website": "https://pixworld.fr",
+  "store": "https://pixworld.fr/shop",
+  "socials": {
+    "discord": "https://discord.com/invite/Z6aDjUW",
+    "youtube": "@pixworldserveur1721"
+  },
+  "versions": [
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#ba2323",
+    "secondary": "#ffffff"
+  },
+  "compliance": {
+    "termsOfService": "https://pixworld.fr/p/cgu",
+    "rules": "https://pixworld.fr/p/reglement"
+  },
+  "video": "DzqebfitZ6M",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pixworld/background.png"
 }

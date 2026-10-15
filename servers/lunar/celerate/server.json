@@ -8,5 +8,41 @@
     "MINIGAMES",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A French 1.8+ minigame server with PvP action.",
+  "website": "https://celerate.fr/",
+  "socials": {
+    "discord": "https://discord.gg/yV6BdwRvK9"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.2",
+    "1.16.*",
+    "1.17.1",
+    "1.18.2",
+    "1.20.6",
+    "1.21.11",
+    "26.1.*",
+    "26.2"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#FFB600",
+    "secondary": "#FF8A00"
+  },
+  "compliance": {
+    "rules": "https://celerate.fr/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/celerate/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/celerate/background.png"
 }

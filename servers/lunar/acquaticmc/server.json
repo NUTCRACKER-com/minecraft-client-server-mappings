@@ -7,5 +7,36 @@
     "PVP",
     "ROLEPLAY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Weapon PvP & Semiroleplay Minecraft server.",
+  "socials": {
+    "telegram": "AcquaticMC",
+    "discord": "https://discord.com/invite/VcRjkjZkbS"
+  },
+  "versions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#36b7fb",
+    "secondary": "#277ceb"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/acquaticmc/logo.png"
 }

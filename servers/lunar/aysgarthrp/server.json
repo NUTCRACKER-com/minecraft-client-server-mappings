@@ -7,5 +7,31 @@
     "ROLEPLAY",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Step into an Italian medieval roleplay server and experience history firsthand",
+  "website": "https://aysgarthrp.it/",
+  "store": "https://store.aysgarthrp.it/",
+  "socials": {
+    "telegram": "AysgarthRP",
+    "discord": "https://discord.gg/yGQGNEn9bY"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Roleplay",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#cceeff",
+    "secondary": "#335a77"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/aysgarthrp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/aysgarthrp/background.png"
 }

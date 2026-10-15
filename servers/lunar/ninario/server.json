@@ -9,5 +9,39 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Ninario is a Minecraft server offering mini-games, PvP (practice), and SMP!",
+  "website": "https://ninario.fr",
+  "store": "https://ninario.fr/shop",
+  "socials": {
+    "twitter": "Ninario_",
+    "tiktok": "@ninariomc",
+    "discord": "https://discord.gg/KzPXY7RX35"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#f73131",
+    "secondary": "#a136c2"
+  },
+  "compliance": {
+    "rules": "https://ninariomc.gitbook.io/ninario"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/ninario/background.png"
 }

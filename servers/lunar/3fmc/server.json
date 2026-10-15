@@ -9,5 +9,35 @@
     "PRISON"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames, PvP, and more on 3FMC.",
+  "website": "https://3fmc.com/",
+  "store": "https://3fmc.com/store",
+  "socials": {
+    "discord": "https://discord.com/invite/Zehw9wP",
+    "youtube": "3fmcmedia",
+    "facebook": "LeagueOf3F"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#53d93a",
+    "secondary": "#e8c546"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/3fmc/background.png"
 }

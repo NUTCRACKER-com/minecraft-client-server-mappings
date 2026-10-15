@@ -8,5 +8,37 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Server to have fun and earn money!",
+  "website": "https://tienda.iceclub.live/",
+  "socials": {
+    "discord": "https://discord.gg/iceclub"
+  },
+  "versions": [
+    "1.8.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.6",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Prison",
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#08ACFB",
+    "secondary": "#FFFFFF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/iceclub/logo.png"
 }

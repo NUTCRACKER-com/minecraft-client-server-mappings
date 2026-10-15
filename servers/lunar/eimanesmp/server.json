@@ -8,5 +8,34 @@
     "SURVIVAL",
     "HARDCORE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Custom survival in a 1:543 earth map with town and nation building and roleplay",
+  "website": "https://eimanesmp.shop",
+  "store": "https://pixcd.shop/eimanesmp",
+  "socials": {
+    "discord": "https://discord.gg/eWJQN77GTJ",
+    "tiktok": "@eimanesmp",
+    "youtube": "UCVUMbsBSDOt1p1OlNT8QTBA"
+  },
+  "versions": [
+    "1.21.4"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "pt-BR"
+  ],
+  "gameTypes": [
+    "Roleplay",
+    "Survival",
+    "Hardcore"
+  ],
+  "colors": {
+    "primary": "#ec008d",
+    "secondary": "#ffffff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/eimanesmp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/eimanesmp/banner.png"
 }

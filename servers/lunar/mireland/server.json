@@ -6,5 +6,35 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Server open, join now!",
+  "store": "https://tienda.mireland.es",
+  "socials": {
+    "twitter": "mirelandnet",
+    "telegram": "mirelandnet",
+    "discord": "https://discord.com/invite/unKFuaRVmx"
+  },
+  "versions": [
+    "1.16.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#f5c533",
+    "secondary": "#e69138"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mireland/logo.png"
 }

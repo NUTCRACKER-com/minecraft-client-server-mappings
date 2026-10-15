@@ -6,5 +6,33 @@
   "categories": [
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Enjoy BoxPvP with friends on BeeHc!",
+  "store": "http://beehc.pl/",
+  "socials": {
+    "discord": "https://discord.com/invite/XeUSe3XvMN"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#f6e42c",
+    "secondary": "#674419"
+  },
+  "compliance": {
+    "termsOfService": "https://vishop.pl/shop/8333/page/4071"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/beehc/logo.png"
 }

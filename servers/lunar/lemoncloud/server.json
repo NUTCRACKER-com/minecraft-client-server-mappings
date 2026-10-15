@@ -9,5 +9,32 @@
     "CREATIVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "LemonCloud is a feature-packed Minecraft server which offers unique gamemodes",
+  "website": "https://lemoncloud.org/",
+  "store": "https://store.lemoncloud.org/",
+  "socials": {
+    "discord": "https://discord.com/invite/lemoncloud"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Factions",
+    "Creative"
+  ],
+  "colors": {
+    "primary": "#feeb17",
+    "secondary": "#f1f7fb"
+  }
 }

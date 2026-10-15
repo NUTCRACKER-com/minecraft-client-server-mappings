@@ -10,5 +10,29 @@
     "UHC",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play UHC and PvP on L'Antique - French Minecraft server.",
+  "socials": {
+    "twitter": "Antique_Network",
+    "discord": "https://discord.gg/lantique"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "UHC",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#DDA94B",
+    "secondary": "#1E4174"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lantique/logo.png"
 }

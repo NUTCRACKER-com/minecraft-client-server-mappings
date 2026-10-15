@@ -8,5 +8,32 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A dark, immersive Minecraft network built for long-term progression.",
+  "website": "https://darkenedskies.xyz",
+  "socials": {
+    "discord": "https://discord.com/invite/darkenedskies"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.10",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvE",
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#8A3FBF",
+    "secondary": "#1F1F1F"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/darkenedskies/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/darkenedskies/background.png"
 }

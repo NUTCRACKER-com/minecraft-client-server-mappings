@@ -7,5 +7,36 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience survival gameplay on FelesCraft Network.",
+  "store": "https://tienda.felescraft.com/",
+  "socials": {
+    "twitter": "felescraft",
+    "discord": "https://discord.gg/NWJSPAYzrU",
+    "instagram": "felescraft",
+    "tiktok": "@felescraft"
+  },
+  "versions": [
+    "1.16.5",
+    "1.17.1",
+    "1.18.2",
+    "1.19.4",
+    "1.20.6",
+    "1.21"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#4a5dff",
+    "secondary": "#4ad9ff"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/felescraft/background.png"
 }

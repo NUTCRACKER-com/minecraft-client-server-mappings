@@ -6,5 +6,37 @@
   "categories": [
     "UHC"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Discover a unique gaming experience on Eterny!",
+  "website": "https://www.eternyuhc.fr/",
+  "store": "https://shop.eternyuhc.fr",
+  "socials": {
+    "twitter": "eternyoff",
+    "discord": "https://discord.com/invite/eternyuhc",
+    "youtube": "UCuhkYVwMjRooVtIjJ9poaZg",
+    "tiktok": "@eternyoff"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#8659b1",
+    "secondary": "#eca81e"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/eterny/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/eterny/background.png"
 }

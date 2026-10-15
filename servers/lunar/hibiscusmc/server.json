@@ -9,5 +9,38 @@
     "OPENWORLD"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A revolutionary experience filled with custom mobs, blocks, and so much more",
+  "store": "https://store.hibiscusmc.com/",
+  "wiki": "https://hibiscuscreative.notion.site/HibiscusMC-Wiki-4667d3aeccaf4367b453d88c0bb26bbc",
+  "socials": {
+    "discord": "https://discord.gg/cGcyHccPJ6",
+    "youtube": "@HibiscusMC",
+    "tiktok": "@HibiscusMC",
+    "instagram": "hibiscusmc"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Adventure",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#d24c9f",
+    "secondary": "#8af213"
+  },
+  "compliance": {
+    "rules": "https://hibiscuscreative.notion.site/Rules-5eeaa8813233418da13ffb63c23ede20",
+    "support": "https://feedback.hibiscusmc.com/"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hibiscusmc/background.png"
 }

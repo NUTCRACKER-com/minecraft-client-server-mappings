@@ -11,8 +11,17 @@
   "icon": "icon.png",
   "banner": "banner.png",
   "disabledModules": [
+    "freelook",
     "autoText",
-    "freelook"
+    "nameInfo"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "ARROW_TRAIL",
+    "WEATHER_CHANGER",
+    "TIME_CHANGER"
+  ],
+  "socials": {
+    "youtube": "https://youtube.com/@waffelhdofficial"
+  }
 }

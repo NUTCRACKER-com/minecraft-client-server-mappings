@@ -8,5 +8,29 @@
     "PVP",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play HCF, PvP, and more on CandyPvP.",
+  "website": "https://candypvp.com/",
+  "store": "https://store.candypvp.com/",
+  "socials": {
+    "twitter": "CandyPvp",
+    "discord": "https://discord.gg/GPdurEzJGY",
+    "telegram": "candypvp",
+    "tiktok": "@candypvp"
+  },
+  "versions": [
+    "1.8.9",
+    "1.20.4"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "HCF",
+    "PvP",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#df0cc6",
+    "secondary": "#ffffff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/candypvp/logo.png"
 }

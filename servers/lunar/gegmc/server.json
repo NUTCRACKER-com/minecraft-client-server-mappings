@@ -8,5 +8,38 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "GegMC is THE Hispanic Minecraft server that will never disappoint you.",
+  "website": "https://www.gegmc.net",
+  "store": "https://tienda.gegmc.net",
+  "socials": {
+    "discord": "https://discord.gg/gegmc"
+  },
+  "versions": [
+    "1.21.*",
+    "1.20.*",
+    "1.19.*",
+    "1.18.*",
+    "1.17.*",
+    "1.16.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA",
+    "EU",
+    "SA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#44a1e3",
+    "secondary": "#9ee3ff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gegmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gegmc/background.png"
 }

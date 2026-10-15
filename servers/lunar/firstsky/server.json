@@ -6,5 +6,32 @@
   "categories": [
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "1st OneBlock server in France!",
+  "website": "https://firstsky.net/",
+  "store": "https://firstsky.net/shop/categories/credit",
+  "socials": {
+    "discord": "https://discord.gg/firstsky",
+    "twitch": "firstsky_oneblock"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#099DC2",
+    "secondary": "#16A828"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/firstsky/logo.png"
 }

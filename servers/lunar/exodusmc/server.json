@@ -8,5 +8,43 @@
     "PRISON",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Where your next adventure begins...",
+  "website": "https://www.exodusmc.org",
+  "store": "https://store.exodusmc.org",
+  "socials": {
+    "instagram": "exodusmcorg",
+    "discord": "https://discord.gg/exodusmc"
+  },
+  "versions": [
+    "1.8.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Prison",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#52ADFE",
+    "secondary": "#8CC8FF"
+  },
+  "compliance": {
+    "privacyPolicy": "https://discord.gg/exodusmc",
+    "termsOfService": "https://discord.gg/exodusmc",
+    "rules": "https://discord.gg/exodusmc"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/exodusmc/logo.png"
 }

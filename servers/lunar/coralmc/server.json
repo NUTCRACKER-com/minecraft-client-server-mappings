@@ -14,5 +14,45 @@
     "KITPVP",
     "ROLEPLAY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "CoralMC is the best server in Italy for those who enjoy healthy competition.",
+  "website": "https://www.coralmc.it/",
+  "store": "https://store.coralmc.it/",
+  "socials": {
+    "discord": "https://discord.com/invite/MGW42TXHBd",
+    "instagram": "coralmc.it",
+    "telegram": "CoralMC",
+    "tiktok": "@coralmc.it"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival",
+    "Practice",
+    "KitPvP",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#1387ca",
+    "secondary": "#262d37"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/coralmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/coralmc/background.png"
 }

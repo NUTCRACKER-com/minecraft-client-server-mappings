@@ -13,5 +13,22 @@
     "fovChanger",
     "zoom"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "FOV_CHANGER",
+    "ZOOM_MODULE"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/5x2hMYYdpk",
+    "youtube": "https://youtube.com/@Lukas__YTTT"
+  },
+  "gamemodes": {
+    "ffa": {
+      "name": "Free for All",
+      "versions": [
+        "1.21"
+      ],
+      "description": "Free for all"
+    }
+  }
 }

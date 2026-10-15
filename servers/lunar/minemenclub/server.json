@@ -17,5 +17,38 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and Minigames on Minemen Club.",
+  "website": "https://minemen.club/",
+  "store": "https://store.minemen.club/",
+  "socials": {
+    "twitter": "minemen_network",
+    "discord": "https://discord.com/invite/4gfk48gv9z",
+    "reddit": "MinemenClub"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.19.2",
+    "1.19.3",
+    "1.19.4",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "Practice",
+    "PvP",
+    "Competitive",
+    "Crystal PvP",
+    "Soup PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#e911e5",
+    "secondary": "#fffeff"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minemenclub/background.png"
 }

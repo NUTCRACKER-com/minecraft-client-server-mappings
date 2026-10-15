@@ -9,5 +9,46 @@
     "MINIGAMES",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Pakistan's premier Minecraft network — Survival, Skyblock, Bedwars and PvP",
+  "website": "https://legocraft.net",
+  "socials": {
+    "discord": "https://discord.com/invite/d5Yspfp"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "EU",
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Minigames",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#42a5f5",
+    "secondary": "#90caf9"
+  },
+  "compliance": {
+    "privacyPolicy": "https://legocraft.net/privacy",
+    "termsOfService": "https://legocraft.net/terms"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/legocraft/logo.png"
 }

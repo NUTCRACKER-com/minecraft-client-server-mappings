@@ -10,5 +10,75 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "store": "https://shop.hugosmp.net/",
+  "socials": {
+    "discord": "https://hugosmp.de/discord",
+    "tiktok": "https://www.tiktok.com/@hugosmp.net"
+  },
+  "gamemodes": {
+    "sword": {
+      "name": "Sword",
+      "versions": [
+        "ALL"
+      ],
+      "description": ""
+    },
+    "axe": {
+      "name": "Axe",
+      "versions": [
+        "ALL"
+      ],
+      "description": ""
+    },
+    "mace": {
+      "name": "Mace",
+      "versions": [
+        "ALL"
+      ],
+      "description": ""
+    },
+    "uhc": {
+      "name": "UHC",
+      "versions": [
+        "ALL"
+      ],
+      "description": ""
+    },
+    "netherite_op": {
+      "name": "Netherite OP",
+      "versions": [
+        "ALL"
+      ],
+      "description": ""
+    },
+    "pot": {
+      "name": "Pot",
+      "versions": [
+        "ALL"
+      ],
+      "description": ""
+    },
+    "smp": {
+      "name": "SMP",
+      "versions": [
+        "ALL"
+      ],
+      "description": ""
+    },
+    "vanilla": {
+      "name": "Vanilla",
+      "versions": [
+        "ALL"
+      ],
+      "description": ""
+    },
+    "hugosmp": {
+      "name": "HugoSMP",
+      "versions": [
+        "ALL"
+      ],
+      "description": ""
+    }
+  }
 }

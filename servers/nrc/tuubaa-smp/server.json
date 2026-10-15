@@ -11,7 +11,11 @@
   "icon": "icon.png",
   "banner": "banner.png",
   "disabledModules": [
-    "noFog"
+    "noFog",
+    "nameInfo"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "HEALTH_INDICATORS"
+  ]
 }

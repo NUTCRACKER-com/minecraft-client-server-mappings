@@ -7,5 +7,30 @@
     "PVP",
     "FACTIONS"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and Factions on Lowasia.",
+  "website": "https://lowasia.fr/",
+  "store": "https://boutique.lowasia.fr/",
+  "socials": {
+    "twitter": "McWorldof",
+    "discord": "https://discord.com/invite/9WyVv9zjMk",
+    "youtube": "UCvwVubglX67GOADdGHVbVJQ"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#f2b41c",
+    "secondary": "#372826"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lowasia/logo.png"
 }

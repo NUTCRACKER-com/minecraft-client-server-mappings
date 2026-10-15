@@ -9,5 +9,33 @@
     "PVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The original definitive South Asian PvP server.",
+  "website": "https://balancedguild.com/",
+  "store": "https://store.balancedguild.com",
+  "socials": {
+    "discord": "https://discord.gg/balanced-guild-1000313416436691027",
+    "youtube": "@balancedguild"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#1af1e6",
+    "secondary": "#e5dc18"
+  }
 }

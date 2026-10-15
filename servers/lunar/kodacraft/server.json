@@ -7,5 +7,28 @@
     "SURVIVAL",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Survival full of adventures and events in which you can participate!",
+  "store": "https://tienda.kodacraft.online",
+  "socials": {
+    "tiktok": "@kodacraft04",
+    "discord": "https://discord.gg/kodacraft"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "SA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#9478f3",
+    "secondary": "#2798f3"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kodacraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kodacraft/background.png"
 }

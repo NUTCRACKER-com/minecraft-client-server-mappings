@@ -7,5 +7,40 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "An Indian competitive PvP and minigames server",
+  "website": "https://bloodmc.net/",
+  "socials": {
+    "discord": "https://discord.gg/hrbw"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#ff0000",
+    "secondary": "#1a1a1a"
+  },
+  "compliance": {
+    "termsOfService": "https://bloodmc.net/legal/terms",
+    "privacyPolicy": "https://bloodmc.net/legal/privacy"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hrbw/logo.png"
 }

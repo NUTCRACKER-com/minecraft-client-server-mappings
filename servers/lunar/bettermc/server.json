@@ -8,5 +8,32 @@
     "SKYBLOCK",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Polish Minecraft Server",
+  "website": "https://www.bettermc.eu",
+  "store": "https://www.bettermc.eu",
+  "socials": {
+    "discord": "https://discord.gg/tcabTn3KA4"
+  },
+  "versions": [
+    "1.21.10"
+  ],
+  "primaryVersion": "1.21.10",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Skyblock",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#FFAB00",
+    "secondary": "#FFAB00"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bettermc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bettermc/background.png"
 }

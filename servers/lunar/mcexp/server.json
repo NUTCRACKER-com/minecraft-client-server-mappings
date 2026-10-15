@@ -8,5 +8,34 @@
     "ROLEPLAY"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Skyblock and Roleplay on MCEXP.",
+  "website": "https://minecraftexperience.it/",
+  "store": "https://shop.minecraftexperience.it/",
+  "socials": {
+    "discord": "https://discord.com/invite/XPqSg7SKRg",
+    "instagram": "minecraftexperience.it",
+    "tiktok": "@minecraftexperience.it"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#fbe135",
+    "secondary": "#000000"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mcexp/background.png"
 }

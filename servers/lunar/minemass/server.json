@@ -8,5 +8,34 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "PvP, adventure, community, creativity. Craft your legacy with MineMass!",
+  "website": "https://minemass.hu",
+  "store": "https://bolt.minemass.hu",
+  "socials": {
+    "tiktok": "@minemass",
+    "youtube": "@minemassmc",
+    "discord": "https://discord.com/invite/cvg8evusQZ"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.18.2",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#00BFFB",
+    "secondary": "#FBFBFB"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minemass/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minemass/background.png"
 }

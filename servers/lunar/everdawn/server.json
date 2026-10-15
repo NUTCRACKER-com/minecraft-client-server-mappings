@@ -11,5 +11,36 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Survival RPG with party dungeons, bosses, plots and a huge wild world",
+  "website": "https://everdawnmc.net",
+  "socials": {
+    "discord": "https://discord.gg/2d5A8Efab3"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*",
+    "26.3.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvE",
+    "Adventure",
+    "Open World",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#FFD36E",
+    "secondary": "#B28DFF"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/everdawn/background.png"
 }

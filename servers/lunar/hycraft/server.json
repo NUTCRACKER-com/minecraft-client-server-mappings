@@ -11,5 +11,40 @@
     "TYCOON"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames, PvP, and more on HyCraft Network.",
+  "website": "https://hycraft.us/",
+  "store": "https://store.hycraft.us/",
+  "socials": {
+    "twitter": "hycraftnw",
+    "discord": "https://discord.com/invite/hycraft",
+    "youtube": "HyCraft",
+    "twitch": "hycraftnw"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20",
+    "1.21"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Minigames",
+    "PvP",
+    "PvE",
+    "Tycoon"
+  ],
+  "colors": {
+    "primary": "#2f7cdb",
+    "secondary": "#e9aa65"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hycraft/banner.gif"
 }

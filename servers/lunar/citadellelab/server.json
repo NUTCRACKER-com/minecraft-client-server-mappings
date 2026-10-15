@@ -8,5 +8,29 @@
     "COMPETITIVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft event network, Cities and other minigames.",
+  "website": "https://citadellelab.fr",
+  "socials": {
+    "discord": "https://discord.gg/uD5wWEbrfJ"
+  },
+  "versions": [
+    "1.21.11"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Competitive"
+  ],
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#10182B"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/citadellelab/background.png"
 }

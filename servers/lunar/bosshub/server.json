@@ -7,5 +7,34 @@
     "SKYBLOCK",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Skyblock and Survival on BossHub.",
+  "store": "https://store.bosshub.net/",
+  "socials": {
+    "twitter": "goosetheboy",
+    "discord": "https://discord.com/invite/boss-hub",
+    "tiktok": "@goosetheboyy",
+    "youtube": "goosetheboy"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#bd0d0d",
+    "secondary": "#6a7274"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/bosshub/logo.png"
 }

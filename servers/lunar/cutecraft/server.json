@@ -8,5 +8,29 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Start your cute adventure!",
+  "store": "https://shop.cutecraft.net/",
+  "socials": {
+    "discord": "https://discord.gg/2QrU9ekSec"
+  },
+  "versions": [
+    "1.21.7"
+  ],
+  "primaryVersion": "1.21.7",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "de"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#ffc9ee",
+    "secondary": "#ffffff"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cutecraft/background.png"
 }

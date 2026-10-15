@@ -8,5 +8,40 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Practice, Bedwars, Skywars, PvP",
+  "website": "https://mightymc.club",
+  "store": "https://mightymc.club/store",
+  "socials": {
+    "instagram": "mightymc.club",
+    "discord": "https://discord.gg/Ur2bZbuHhc"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#44a1e3",
+    "secondary": "#a854de"
+  },
+  "compliance": {
+    "privacyPolicy": "https://mightymc.club/privacypolicy",
+    "termsOfService": "https://mightymc.club/termsofservice",
+    "rules": "https://mightymc.club/rules"
+  }
 }

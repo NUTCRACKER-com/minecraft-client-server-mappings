@@ -7,5 +7,40 @@
     "SURVIVAL",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Enter a world of blocks and adventures in Minelandia!",
+  "store": "https://tienda.minelandia.es/",
+  "wiki": "https://wiki.minelandia.es/",
+  "socials": {
+    "twitter": "MinelandiaES",
+    "discord": "https://discord.com/invite/ZHnXdCmC5W",
+    "youtube": "UCDRi3jq8H-O6b022nFp7BxA",
+    "tiktok": "@minelandiaoficial"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#e894da",
+    "secondary": "#fc00cb"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minelandia/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minelandia/background.png"
 }

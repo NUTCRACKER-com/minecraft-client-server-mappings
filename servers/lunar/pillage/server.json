@@ -9,5 +9,40 @@
     "PVP",
     "CASUAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Pillage is a Minecraft network built for community, variety, and great gameplay.",
+  "website": "https://pillage.net",
+  "socials": {
+    "twitter": "pillageofficial",
+    "discord": "https://discord.gg/pillage",
+    "youtube": "@pillageofficial",
+    "twitch": "pillageofficial",
+    "instagram": "pillageofficial",
+    "tiktok": "@pillageofficial",
+    "reddit": "PillageOfficial"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Open World",
+    "PvP",
+    "Casual"
+  ],
+  "colors": {
+    "primary": "#63FF63",
+    "secondary": "#000000"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pillage/logo.png"
 }

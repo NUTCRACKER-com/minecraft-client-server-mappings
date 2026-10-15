@@ -9,5 +9,34 @@
     "SURVIVAL",
     "CREATIVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "German Minecraft network with city builds and events.",
+  "website": "https://beeblocks.net/",
+  "store": "https://shop.beeblocks.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/rZSCj4VVYd",
+    "tiktok": "@beeblocks_net",
+    "youtube": "beeblocks_net",
+    "instagram": "beeblocks_net"
+  },
+  "versions": [
+    "1.21.4"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "de"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Creative"
+  ],
+  "colors": {
+    "primary": "#FCCA00",
+    "secondary": "#7BF728"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/beeblocks/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/beeblocks/background.png"
 }

@@ -7,5 +7,27 @@
     "LIFESTEAL",
     "BOXPVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Polish Minecraft server with Lifesteal, BoxPvP and SkyPvP.",
+  "website": "https://overplay.pl",
+  "versions": [
+    "1.21.5"
+  ],
+  "primaryVersion": "1.21.5",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "Lifesteal",
+    "BoxPvP"
+  ],
+  "colors": {
+    "primary": "#E21A16",
+    "secondary": "#5ACB16"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/overplay/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/overplay/background.png"
 }

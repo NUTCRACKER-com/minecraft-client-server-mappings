@@ -9,5 +9,39 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "MongolVibes is a chill Minecraft server for Mongolian gamers.",
+  "website": "https://www.mnvibes.org",
+  "store": "https://mnvibes.org/#store",
+  "socials": {
+    "twitter": "mnvibes",
+    "discord": "https://discord.com/invite/XKFtYsN7YF"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "AS",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#050053",
+    "secondary": "#00f5ff"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.mnvibes.org/#privacy",
+    "termsOfService": "https://www.mnvibes.org/#terms",
+    "rules": "https://www.mnvibes.org/#rules"
+  },
+  "video": "M_AQ9zDow8c",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/acapsmp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/acapsmp/background.png"
 }

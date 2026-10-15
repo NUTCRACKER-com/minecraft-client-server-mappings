@@ -7,5 +7,38 @@
     "MINIGAMES",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "French minigames server with original PvP games.",
+  "website": "https://pexal.fun",
+  "socials": {
+    "discord": "https://discord.gg/NV2qSnqN32"
+  },
+  "versions": [
+    "1.19.4",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*",
+    "26.3.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#8B3FEF",
+    "secondary": "#D185FC"
+  },
+  "compliance": {
+    "rules": "https://pexal.fun/regles"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pexal/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pexal/background.png"
 }

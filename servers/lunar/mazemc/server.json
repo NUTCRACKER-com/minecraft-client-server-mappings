@@ -9,5 +9,36 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "PvP Network for players, by players.",
+  "website": "https://mazemc.es",
+  "store": "https://mazemc.es/store",
+  "socials": {
+    "discord": "https://discord.gg/4qUxuNFmjZ",
+    "twitter": "MazeMCES",
+    "youtube": "MazeMCES"
+  },
+  "versions": [
+    "1.7.*",
+    "1.21.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHC",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#FFDC01",
+    "secondary": "#FFFFFF"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mazemc/background.png"
 }

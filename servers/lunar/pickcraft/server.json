@@ -9,5 +9,31 @@
     "PVP",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Java & Bedrock Minecraft network with Survival and unique minigames.",
+  "socials": {
+    "discord": "https://discord.gg/zzhXqZ2SKd"
+  },
+  "versions": [
+    "26.1.2"
+  ],
+  "primaryVersion": "26.1.2",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Minigames",
+    "PvP",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#fbb03b",
+    "secondary": "#16125b"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pickcraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/pickcraft/background.png"
 }

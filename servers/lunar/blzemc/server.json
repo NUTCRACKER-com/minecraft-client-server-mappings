@@ -9,5 +9,40 @@
     "SURVIVAL",
     "FACTIONS"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "BlzeMC is a competitive modern Minecraft PvP network.",
+  "store": "https://store.blzemc.net",
+  "socials": {
+    "discord": "https://discord.gg/blze"
+  },
+  "versions": [
+    "1.21.*",
+    "1.20.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.21.5",
+  "regions": [
+    "NA",
+    "EU",
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#F980EB",
+    "secondary": "#FF4CF1"
+  },
+  "compliance": {
+    "termsOfService": "https://store.blzemc.net/terms",
+    "privacyPolicy": "https://store.blzemc.net/terms/privacy",
+    "rules": "https://blze.net/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blzemc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blzemc/background.png"
 }

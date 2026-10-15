@@ -8,5 +8,33 @@
     "HARDCORE",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Skyblock, Hardcore, and more on Nasa.",
+  "website": "https://nasa.gg/",
+  "store": "https://store.nasa.gg/",
+  "socials": {
+    "discord": "https://discord.gg/nasagg",
+    "twitter": "https://twitter.com/playnasagg"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Hardcore",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#6e9eff",
+    "secondary": "#a68cff"
+  },
+  "compliance": {
+    "rules": "https://nasa.gg/rules/",
+    "support": "https://nasa.gg/support/"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nasa/logo.png"
 }

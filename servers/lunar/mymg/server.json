@@ -9,5 +9,37 @@
     "MINIGAMES",
     "CREATIVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Join the best Minecraft server network in Poland!",
+  "website": "https://mymg.pl/",
+  "store": "https://mymg.pl/sklep/",
+  "socials": {
+    "discord": "https://discord.com/invite/EzXCeaj68k",
+    "facebook": "mckingpl"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.18.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Minigames",
+    "Creative"
+  ],
+  "colors": {
+    "primary": "#9370e7",
+    "secondary": "#6432dc"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mymg/logo.png"
 }

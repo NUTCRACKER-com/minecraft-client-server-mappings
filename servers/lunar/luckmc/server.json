@@ -7,5 +7,39 @@
     "SKYBLOCK"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The Minecraft server you are looking for",
+  "website": "https://www.luckmc.net",
+  "store": "https://www.luckmc.net/magaza",
+  "socials": {
+    "tiktok": "@luckmcnet0",
+    "instagram": "luckmc.network",
+    "youtube": "@LuckMCNetwork",
+    "discord": "https://discord.gg/luckmc"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "gameTypes": [
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#00EB18",
+    "secondary": "#E9FFE8"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.luckmc.net/kagitlar/gizlilik-sozlesmesi",
+    "termsOfService": "https://www.luckmc.net/kagitlar/hizmet-politikasi",
+    "rules": "https://www.luckmc.net/kagitlar/kullanim-kosullari"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/luckmc/background.png"
 }

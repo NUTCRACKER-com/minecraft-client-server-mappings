@@ -8,5 +8,37 @@
     "SKYBLOCK",
     "ADVENTURE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Skyblock, and upcoming gamemodes for endless fun!",
+  "website": "https://meteorcraft.net/",
+  "store": "https://store.meteorcraft.net/",
+  "socials": {
+    "discord": "https://discord.gg/T7C4Aksbyc",
+    "tiktok": "@play.meteorcraft.net",
+    "twitter": "@meteorcraftt"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#EF423A",
+    "secondary": "#E0352E"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/meteorcraft/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/meteorcraft/background.png"
 }

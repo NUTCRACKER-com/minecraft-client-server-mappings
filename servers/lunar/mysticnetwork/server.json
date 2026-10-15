@@ -7,5 +7,33 @@
     "SURVIVAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A cross-platform network with Survival SMP,BOXPVP and Practice",
+  "website": "https://mystic-mc.net/",
+  "store": "https://store.mystic-mc.net/",
+  "socials": {
+    "discord": "https://discord.gg/XfgQrNYuKp"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "ar",
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#e8810c",
+    "secondary": "#f5f51b"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mysticnetwork/logo.png"
 }

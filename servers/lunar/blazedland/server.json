@@ -8,5 +8,35 @@
     "SURVIVAL",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A unique Survival and Skyblock server based in Romania.",
+  "website": "https://www.blazedland.ro",
+  "store": "https://store.blazedland.ro",
+  "socials": {
+    "tiktok": "@blazedland",
+    "discord": "https://discord.gg/blazedland"
+  },
+  "versions": [
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#FFB512",
+    "secondary": "#FFD270"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blazedland/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/blazedland/banner.gif"
 }

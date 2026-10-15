@@ -11,5 +11,35 @@
     "CASUAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "German network with Survival, CityBuild, PvP and a community island",
+  "socials": {
+    "discord": "https://discord.gg/Pe546se3FF",
+    "youtube": "@CrazyMineMC",
+    "tiktok": "@crazyminede"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "de"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Creative",
+    "PvP",
+    "KitPvP",
+    "Casual"
+  ],
+  "colors": {
+    "primary": "#FF7A18",
+    "secondary": "#FFD166"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/crazymine/background.png"
 }

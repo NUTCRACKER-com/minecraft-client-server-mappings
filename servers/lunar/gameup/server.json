@@ -10,5 +10,37 @@
     "ROLEPLAY"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP, Survival, and more on GameUP.",
+  "website": "https://mc.gameup.ir/",
+  "socials": {
+    "discord": "https://discord.gg/hfDwaVkPkH",
+    "twitter": "GameUP_ir",
+    "telegram": "GameUPir",
+    "instagram": "GameUPir"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#e0152d",
+    "secondary": "#ff5d52"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gameup/background.png"
 }

@@ -9,5 +9,33 @@
     "OPENWORLD"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Server focused on the gameplay and performance of Minecraft players",
+  "website": "https://oscuremc.net/",
+  "store": "https://tienda.oscuremc.net/",
+  "socials": {
+    "twitter": "oscuremc",
+    "discord": "https://discord.com/invite/oscuremc"
+  },
+  "versions": [
+    "1.8.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.2",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Adventure",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#800080",
+    "secondary": "#FFC0CB"
+  }
 }

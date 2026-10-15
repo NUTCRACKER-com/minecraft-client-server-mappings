@@ -8,5 +8,32 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive & Fun Minigames Server!",
+  "website": "https://naaranetwork.fr/",
+  "store": "https://naaranetwork.fr/shop",
+  "socials": {
+    "twitter": "NaaraNetwork",
+    "tiktok": "@naaranetwork",
+    "discord": "https://discord.gg/NaaraNetwork"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#da9220",
+    "secondary": "#a05222"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/naaranetwork/background.png"
 }

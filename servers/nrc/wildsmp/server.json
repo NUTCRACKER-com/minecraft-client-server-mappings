@@ -16,5 +16,25 @@
   "disabledModules": [
     "noFog"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "WEATHER_CHANGER",
+    "TIME_CHANGER"
+  ],
+  "website": "https://wildsmp-de.gitbook.io/wildsmp-wiki",
+  "store": "https://store.wildsmp.de",
+  "socials": {
+    "discord": "https://discord.gg/wildsmp",
+    "tiktok": "https://tiktok.com/@wildsmp.de",
+    "youtube": "https://www.youtube.com/@WildSMP_de"
+  },
+  "gamemodes": {
+    "smp": {
+      "name": "SMP",
+      "versions": [
+        ">1.21.7"
+      ],
+      "description": "Vanilla-ähnliches Survival-Erlebnis mit Custom-Features"
+    }
+  }
 }

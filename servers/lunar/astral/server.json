@@ -10,5 +10,36 @@
     "PRACTICE",
     "KITPVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and UHC on AstralMC.",
+  "store": "https://store.astralmc.cc/",
+  "socials": {
+    "twitter": "AstralNetworkCC",
+    "discord": "http://discord.gg/astralmc"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.9"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHC",
+    "HCF",
+    "Practice",
+    "KitPvP"
+  ],
+  "colors": {
+    "primary": "#ff5af0",
+    "secondary": "#060627"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/astral/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/astral/background.png"
 }

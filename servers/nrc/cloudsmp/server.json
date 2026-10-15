@@ -19,5 +19,31 @@
   "disabledModules": [
     "freelook"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "WEATHER_CHANGER",
+    "TIME_CHANGER"
+  ],
+  "website": "https://burstsmp.net",
+  "store": "https://store.burstsmp.net",
+  "socials": {
+    "discord": "https://discord.gg/burstsmp",
+    "tiktok": "https://www.tiktok.com/@burstsmpnet"
+  },
+  "gamemodes": {
+    "smp": {
+      "name": "SMP",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Classic survival experience."
+    },
+    "pvp": {
+      "name": "PVP",
+      "versions": [
+        "ALL"
+      ],
+      "description": "Competitive PvP gameplay."
+    }
+  }
 }

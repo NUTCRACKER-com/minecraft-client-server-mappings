@@ -16,5 +16,35 @@
   ],
   "icon": "icon.png",
   "banner": "banner.png",
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "ITEM_MODEL"
+  ],
+  "website": "https://server.castcrafter.de/",
+  "socials": {
+    "youtube": "https://www.youtube.com/@CastCrafter",
+    "instagram": "https://www.instagram.com/castagram_/",
+    "tiktok": "https://www.tiktok.com/@castcrafter",
+    "x": "https://x.com/castcrafter",
+    "discord": "https://discord.gg/castcrafter"
+  },
+  "gamemodes": {
+    "events": {
+      "name": "100+ Spieler Events",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "survival": {
+      "name": "Survival Server",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    }
+  },
+  "disabledModules": [
+    "nameInfo"
+  ]
 }

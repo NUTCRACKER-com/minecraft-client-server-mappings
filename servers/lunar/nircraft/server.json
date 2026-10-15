@@ -12,5 +12,49 @@
     "OPENWORLD"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A leveling SMP where anything you do levels you up.",
+  "website": "https://nircraft.com",
+  "store": "https://store.nircraft.com",
+  "wiki": "https://wiki.nircraft.com",
+  "socials": {
+    "discord": "https://discord.gg/tXpwAuC3fP",
+    "tiktok": "@nircraftmc"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Casual",
+    "MMORPG",
+    "PvP",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#A3FFF8",
+    "secondary": "#FCC0FF"
+  },
+  "compliance": {
+    "privacyPolicy": "https://nircraft.com/privacy",
+    "termsOfService": "https://nircraft.com/terms",
+    "rules": "https://nircraft.com/rules",
+    "support": "https://nircraft.com/support"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/nircraft/banner.png"
 }

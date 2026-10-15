@@ -13,7 +13,76 @@
   "icon": "icon.png",
   "banner": "banner.png",
   "disabledModules": [
-    "shieldBreak"
+    "shieldStatus",
+    "nameInfo"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "HEALTH_INDICATORS"
+  ],
+  "website": "https://www.melvin501.de",
+  "store": "https://shop.melvin501.de/",
+  "socials": {
+    "youtube": "https://melvin501.de/yt",
+    "discord": "https://melvin501.de/dc",
+    "tiktok": "https://melvin501.de/tiktok"
+  },
+  "gamemodes": {
+    "allegegenmelvin": {
+      "name": "AlleGegenMelvin",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "allegegenalle2": {
+      "name": "AlleGegenAlleV2",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "fangen": {
+      "name": "Fangen",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "getdown": {
+      "name": "GetDown",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "oneblockrace": {
+      "name": "OneBlockRace",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "speedrun": {
+      "name": "Speedrun",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "manhunt": {
+      "name": "ManHunt",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "bomberman": {
+      "name": "Bomberman",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    }
+  }
 }

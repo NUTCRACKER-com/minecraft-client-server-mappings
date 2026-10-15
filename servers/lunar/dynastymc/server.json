@@ -6,5 +6,31 @@
   "categories": [
     "PRISON"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The Italian prison you are looking for",
+  "socials": {
+    "telegram": "DynastyMCOfficial",
+    "discord": "https://discord.com/invite/srPJne3Dnn",
+    "tiktok": "@dynastymc_official"
+  },
+  "versions": [
+    "1.19.4",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#ffaa00",
+    "secondary": "#2d3033"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/dynastymc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/dynastymc/background.png"
 }

@@ -8,5 +8,36 @@
     "PVP",
     "ROLEPLAY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Czech Minecraft server with SlimeFun, RolePlay and more!",
+  "website": "https://hesovodoupe.cz/",
+  "socials": {
+    "discord": "https://discord.gg/invite/GFkcnGpjK2",
+    "instagram": "hesovodoupe.cz",
+    "tiktok": "@hesovodoupe.cz",
+    "facebook": "hesovodoupe.cz"
+  },
+  "versions": [
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#ffbf00",
+    "secondary": "#ffea00"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hesovodoupe/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hesovodoupe/background.png"
 }

@@ -11,7 +11,24 @@
   "banner": "banner.png",
   "disabledModules": [
     "fovChanger",
-    "freelook"
+    "freelook",
+    "nameInfo"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "TNT_TIMER"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/7Mm5yewgJf",
+    "tiktok": "https://www.tiktok.com/@jjwlyy"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "versions": [
+        "26.2>*"
+      ],
+      "description": ""
+    }
+  }
 }

@@ -8,5 +8,32 @@
     "PVE",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP, PvE, and more on ElixirMC.",
+  "store": "https://tienda.elixirmc.org/",
+  "socials": {
+    "discord": "https://discord.com/invite/elixirmc"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.3",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "PvE",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#ff55ff",
+    "secondary": "#f48fb1"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/elixirmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/elixirmc/background.png"
 }

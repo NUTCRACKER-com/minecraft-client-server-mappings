@@ -9,5 +9,28 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Japan PvP Server (From 2020)",
+  "socials": {
+    "discord": "https://discord.gg/zPzVG4yAeh",
+    "youtube": "lefiy_mc"
+  },
+  "versions": [
+    "1.7.10",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.7.10",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHC",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#00ff00",
+    "secondary": "#008000"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/leafpvp/background.png"
 }

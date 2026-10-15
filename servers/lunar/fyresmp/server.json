@@ -9,5 +9,34 @@
     "OPENWORLD",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play with Farex on FyreSMP",
+  "store": "https://store.fyresmp.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/fyresmp"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Crystal PvP",
+    "Open World",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ff8e00",
+    "secondary": "#f56004"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fyresmp/logo.png"
 }

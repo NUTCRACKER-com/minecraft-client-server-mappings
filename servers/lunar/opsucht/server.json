@@ -8,5 +8,28 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Your Minecraft CityBuild Network with survival and PvP gameplay.",
+  "website": "https://www.opsucht.net/",
+  "store": "https://shop.opsucht.net/",
+  "socials": {
+    "twitter": "OPSUCHT",
+    "discord": "https://discord.com/invite/BRNDrxCAxp",
+    "instagram": "opsuchtnet"
+  },
+  "versions": [
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#e2eef7",
+    "secondary": "#17174c"
+  }
 }

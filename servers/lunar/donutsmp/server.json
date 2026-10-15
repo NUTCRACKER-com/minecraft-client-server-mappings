@@ -11,5 +11,38 @@
     "HARDCORE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A Hardcore Minecraft Server and SMP that allows Bedrock",
+  "website": "https://store.donutsmp.net/home",
+  "store": "https://store.donutsmp.net/",
+  "socials": {
+    "twitter": "DrDonut099",
+    "discord": "https://discord.com/invite/donutsmp",
+    "youtube": "DrDonutt",
+    "tiktok": "@drdonutt"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Crystal PvP",
+    "Open World",
+    "PvP",
+    "Hardcore"
+  ],
+  "colors": {
+    "primary": "#1d8ff7",
+    "secondary": "#cac5be"
+  }
 }

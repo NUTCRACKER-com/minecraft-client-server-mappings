@@ -11,5 +11,38 @@
     "CRYSTALPVP",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Test your combat skills on CatPvP.",
+  "store": "https://store.catpvp.xyz/",
+  "socials": {
+    "discord": "https://discord.com/invite/cYZqwmFYFF"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU",
+    "AS",
+    "OC",
+    "NA"
+  ],
+  "gameTypes": [
+    "Practice",
+    "Competitive",
+    "Crystal PvP",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#00a1fb",
+    "secondary": "#0032b4"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/catpvp/logo.png"
 }

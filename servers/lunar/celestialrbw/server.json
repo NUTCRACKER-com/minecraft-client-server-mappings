@@ -8,5 +8,30 @@
     "PVP",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A competitive Ranked Bedwars server designed for ME players",
+  "website": "https://web.celestialrbw.fun",
+  "store": "https://store.celestialrbw.fun",
+  "socials": {
+    "youtube": "CelestialRBW",
+    "discord": "https://discord.gg/celestialrbw"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "AS",
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#00518f",
+    "secondary": "#378dcf"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/celestialrbw/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/celestialrbw/background.png"
 }

@@ -7,5 +7,32 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and Survival on GeologycMC Network.",
+  "website": "https://geologyc.lat/",
+  "store": "https://tienda.geologyc.lat/",
+  "socials": {
+    "discord": "https://discord.gg/9WaP3wTYvw"
+  },
+  "versions": [
+    "1.20.*",
+    "1.8.*",
+    "1.7.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#f0d000",
+    "secondary": "#0dc500"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/geologycmc/logo.png"
 }

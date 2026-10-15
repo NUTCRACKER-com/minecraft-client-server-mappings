@@ -8,5 +8,37 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Build your own games inside Minecraft. No mods, no code.",
+  "website": "https://mythicmc.net",
+  "store": "https://store.mythicmc.net",
+  "wiki": "https://wiki.mythicmc.net",
+  "socials": {
+    "twitter": "mythicmcdotnet",
+    "discord": "https://discord.gg/sqscMsQDPZ",
+    "youtube": "mythicmcnetwork",
+    "instagram": "mythicmcnetwork",
+    "reddit": "mythicmcnetwork",
+    "tiktok": "@mythicmcnetwork"
+  },
+  "versions": [
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "26.2",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Creative",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#FF266E",
+    "secondary": "#FF518E"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mythicmcnetwork/background.png"
 }

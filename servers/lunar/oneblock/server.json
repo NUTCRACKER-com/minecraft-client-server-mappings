@@ -8,5 +8,37 @@
     "ADVENTURE",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A French Oneblock server with unique gameplay and adventure features.",
+  "website": "https://oneblock.fr/",
+  "store": "https://store.oneblock.fr/",
+  "socials": {
+    "tiktok": "@oneblockfr",
+    "discord": "https://discord.com/invite/oneblock"
+  },
+  "versions": [
+    "1.21.3",
+    "1.21.4"
+  ],
+  "primaryVersion": "1.21.3",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Factions",
+    "Adventure",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#29f40d",
+    "secondary": "#8bf07d"
+  },
+  "compliance": {
+    "rules": "https://oneblock-2.gitbook.io/oneblock-wiki/informations-importantes/reglement-ig"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/oneblock/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/oneblock/background.png"
 }

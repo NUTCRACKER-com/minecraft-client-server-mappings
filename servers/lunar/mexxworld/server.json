@@ -8,5 +8,30 @@
     "SURVIVAL",
     "ADVENTURE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play ClashQuest on MexxWorld.",
+  "website": "https://mexxworld.org/",
+  "store": "https://mexxworld.org/#shop",
+  "socials": {
+    "telegram": "mexxworld",
+    "discord": "https://discord.gg/NsHGwzvJvT"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#8b5cf6",
+    "secondary": "#0f172a"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mexxworld/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mexxworld/background.png"
 }

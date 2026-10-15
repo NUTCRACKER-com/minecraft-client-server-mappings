@@ -8,5 +8,35 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Lifesteal SMP and FFA PvP on 1.21.11+. Team up, raid and steal hearts.",
+  "website": "https://khelmc.online",
+  "socials": {
+    "discord": "https://discord.gg/3enkBQ5Y6P"
+  },
+  "versions": [
+    "1.21.11",
+    "26.1",
+    "26.1.1",
+    "26.1.2",
+    "26.2"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Lifesteal",
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#e5232f",
+    "secondary": "#f4f1f3"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/khelmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/khelmc/banner.png"
 }

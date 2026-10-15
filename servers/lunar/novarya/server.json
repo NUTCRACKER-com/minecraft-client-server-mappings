@@ -8,5 +8,42 @@
     "MINIGAMES",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Novarya Prison+ server with fair grind, custom enchants and events !",
+  "website": "https://novarya.fr/",
+  "wiki": "https://novarya.fr/wiki/",
+  "socials": {
+    "discord": "https://discord.gg/mHST5jvmkg",
+    "tiktok": "@novarya_studios"
+  },
+  "versions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Prison",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#F23FD1"
+  },
+  "compliance": {
+    "rules": "https://novarya.fr/reglement-mc",
+    "support": "https://novarya.fr/support/tickets"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/novarya/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/novarya/background.png"
 }

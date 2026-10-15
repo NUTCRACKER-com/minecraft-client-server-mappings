@@ -8,5 +8,31 @@
     "PVP",
     "TYCOON"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "OP Survival and Gens featuring a unique economy, events, and ranks.",
+  "store": "https://tienda.akiogames.com",
+  "socials": {
+    "discord": "https://discord.com/invite/Yz4mbJprQf"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.8",
+  "regions": [
+    "SA",
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Tycoon"
+  ],
+  "colors": {
+    "primary": "#FC00F1",
+    "secondary": "#8638FD"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/akiogames/logo.png"
 }

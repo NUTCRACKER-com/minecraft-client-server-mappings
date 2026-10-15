@@ -16,5 +16,47 @@
     "COMPETITIVE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Cross-platform Minecraft server with Survival, Skyblock and Minigames.",
+  "website": "https://www.dojosmp.net/",
+  "store": "https://store.dojosmp.net/",
+  "socials": {
+    "discord": "https://discord.gg/dojosmp",
+    "youtube": "@dojosmp",
+    "tiktok": "@dojosmp",
+    "facebook": "dojosmp",
+    "instagram": "dojosmp"
+  },
+  "versions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "AS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "Minigames",
+    "PvP",
+    "PvE",
+    "Practice",
+    "Competitive"
+  ],
+  "colors": {
+    "primary": "#A000FF",
+    "secondary": "#00F7FF"
+  },
+  "compliance": {
+    "privacyPolicy": "https://dojosmp.net/privacy",
+    "termsOfService": "https://dojosmp.net/terms",
+    "rules": "https://dojosmp.net/rules",
+    "support": "https://dojosmp.net/support"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/dojosmp/background.png"
 }

@@ -8,5 +8,40 @@
     "MINIGAMES",
     "ADVENTURE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play exciting and fun minigames and rpg, with your friends for free on alchemist",
+  "website": "https://www.alchemistnetwork.org",
+  "store": "https://www.alchemistnetwork.org/store",
+  "socials": {
+    "discord": "https://discord.gg/6y5QghB"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#44a1e3",
+    "secondary": "#a854de"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.alchemistnetwork.org/help/privacy-policy/",
+    "termsOfService": "https://www.alchemistnetwork.org/help/terms/",
+    "rules": "https://www.alchemistnetwork.org/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/alchemist/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/alchemist/background.png"
 }

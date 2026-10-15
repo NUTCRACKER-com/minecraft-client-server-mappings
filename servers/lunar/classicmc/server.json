@@ -7,5 +7,35 @@
     "SURVIVAL",
     "VANILLA"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Semi-Vanilla SMP with no map resets, griefing, or cheating.",
+  "website": "https://classicmc.top/en-us",
+  "socials": {
+    "discord": "https://discord.com/invite/q6QM7TtCDw",
+    "tiktok": "@classicmc.top"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Vanilla"
+  ],
+  "colors": {
+    "primary": "#4CAF50",
+    "secondary": "#1B5E20"
+  },
+  "compliance": {
+    "rules": "https://classicmc.top/en-us/#rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/classicmc/logo.png"
 }

@@ -6,5 +6,29 @@
   "categories": [
     "HCF"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A hardcore factions experience built for the true PvP grinder.",
+  "store": "https://store.havenmc.cc",
+  "socials": {
+    "discord": "https://discord.gg/havenmc"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "HCF"
+  ],
+  "colors": {
+    "primary": "#2f00c5",
+    "secondary": "#3d85c6"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/havenmc/logo.png"
 }

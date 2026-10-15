@@ -11,5 +11,45 @@
     "ROLEPLAY"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Formed by passionate players who venture into Minigames!",
+  "website": "https://hylex.gg/",
+  "store": "https://hylex.gg/collections",
+  "socials": {
+    "twitter": "hylexmc",
+    "discord": "https://discord.gg/hylex",
+    "youtube": "UCZmIJ5CZXYt-pTVfVwpMjFA",
+    "instagram": "hylexmc",
+    "tiktok": "@hylexoficial",
+    "twitch": "hylexmc"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.5",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "pt-BR",
+    "pt-PT"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Factions",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#1e647d",
+    "secondary": "#e7cd2b"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hylex/background.png"
 }

@@ -7,5 +7,25 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "MinecraftOnline is the oldest Minecraft server online, hosting Freedonia.",
+  "website": "https://minecraftonline.com",
+  "store": "https://minecraftonline.com/donate.html",
+  "socials": {
+    "discord": "https://discord.gg/minecraftonline"
+  },
+  "versions": [
+    "1.12.2"
+  ],
+  "primaryVersion": "1.12.2",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#21b59c",
+    "secondary": "#6b4a19"
+  }
 }

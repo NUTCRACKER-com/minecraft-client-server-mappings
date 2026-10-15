@@ -11,5 +11,41 @@
     "MINIGAMES",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, Minigames, and more on CraftCube.",
+  "website": "https://craftcube.pl/",
+  "store": "https://craftcube.pl/#shop",
+  "socials": {
+    "discord": "https://discord.gg/craftcube",
+    "tiktok": "@craftcube_"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "gameTypes": [
+    "Survival",
+    "OneBlock",
+    "KitPvP",
+    "Practice",
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ffd503",
+    "secondary": "#652002"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/craftcube/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/craftcube/background.png"
 }

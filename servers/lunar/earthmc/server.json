@@ -11,5 +11,32 @@
     "OPENWORLD"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience survival gameplay on EarthMC.",
+  "website": "https://earthmc.net/",
+  "store": "https://store.earthmc.net/category/premium/",
+  "socials": {
+    "twitter": "OfficialEarthMC",
+    "discord": "https://discord.gg/6rAnxd8",
+    "instagram": "Officialearthmc",
+    "reddit": "EarthMC"
+  },
+  "versions": [
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Earth",
+    "PvP",
+    "Towny",
+    "Open World"
+  ],
+  "colors": {
+    "primary": "#3b66c9",
+    "secondary": "#68a73c"
+  }
 }

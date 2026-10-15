@@ -8,5 +8,38 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Eclipsia is a minigame server",
+  "website": "https://www.eclipsia.fr",
+  "store": "https://www.eclipsia.fr/shop",
+  "socials": {
+    "twitter": "Eclipsia_MC",
+    "discord": "https://discord.com/invite/vedzVWA",
+    "youtube": "EclipsiaMC",
+    "instagram": "eclipsia.fr",
+    "tiktok": "@eclipsia.fr"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.12.2",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#0091ff",
+    "secondary": "#0091ff"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/eclipsia/background.png"
 }

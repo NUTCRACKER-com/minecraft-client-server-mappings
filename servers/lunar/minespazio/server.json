@@ -9,5 +9,39 @@
     "PVP",
     "PRISON"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival, PvP, and more on MineSpazio Network.",
+  "store": "https://tienda.minespazio.com/",
+  "socials": {
+    "twitter": "MinespazioNT",
+    "discord": "https://discord.com/invite/tWNe7vkwaE",
+    "youtube": "UCe8TFqy23ReYse_wswjdGoA",
+    "tiktok": "@minespazio"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.3",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Prison"
+  ],
+  "colors": {
+    "primary": "#ffc12e",
+    "secondary": "#7b431d"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minespazio/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minespazio/background.png"
 }

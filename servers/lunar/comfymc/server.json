@@ -8,5 +8,45 @@
     "MINIGAMES",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Italian Bedwars Server.",
+  "website": "https://www.comfymc.it/",
+  "store": "https://www.comfymc.it/store",
+  "socials": {
+    "discord": "https://discord.gg/comfymc",
+    "telegram": "ComfyMC",
+    "tiktok": "@comfymc.it"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#D86D38",
+    "secondary": "#171717"
+  },
+  "compliance": {
+    "rules": "https://www.comfymc.it/regolamento",
+    "support": "https://discord.gg/comfymc"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/comfymc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/comfymc/background.png"
 }

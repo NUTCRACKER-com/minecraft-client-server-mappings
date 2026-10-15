@@ -9,5 +9,33 @@
     "PVP",
     "KITPVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Cross-platform Survival with a chaotic crystal flair.",
+  "store": "https://store.crystalchaos.net/",
+  "socials": {
+    "twitter": "CrystalChaosMC",
+    "discord": "https://discord.gg/HwrMhdYZNf"
+  },
+  "versions": [
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Crystal PvP",
+    "PvP",
+    "KitPvP"
+  ],
+  "colors": {
+    "primary": "#ecb94f",
+    "secondary": "#4F81EC"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/crystalchaos/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/crystalchaos/background.png"
 }

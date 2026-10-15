@@ -11,5 +11,43 @@
     "PVP",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Fun-filled Minecraft server packed with a healthy dose of silliness.",
+  "website": "https://badgames.de/",
+  "store": "https://shop.badgames.de/",
+  "socials": {
+    "discord": "https://discord.gg/DrmAWdeQyY"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU",
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#FF55FF",
+    "secondary": "#AA00AA"
+  },
+  "compliance": {
+    "privacyPolicy": "https://badgames.de/privacy/",
+    "termsOfService": "https://badgames.de/terms/",
+    "rules": "https://badgames.de/rules/",
+    "support": "https://support.badgames.de"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/badgames/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/badgames/background.png"
 }

@@ -9,5 +9,35 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames and PvP on CentrumPvP.",
+  "website": "https://centrumpvp.pl/",
+  "store": "https://centrumpvp.pl/sklep",
+  "socials": {
+    "discord": "https://discord.com/invite/tcesyNyaCf",
+    "tiktok": "@centrumpvp",
+    "facebook": "centrumpvppl"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#f7c102",
+    "secondary": "#0d0702"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/centrumpvp/background.png"
 }

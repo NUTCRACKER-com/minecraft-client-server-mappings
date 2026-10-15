@@ -8,5 +8,31 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play PvP and Survival on CurseMC Network.",
+  "store": "https://tienda.cursemc.com",
+  "socials": {
+    "discord": "https://discord.gg/ctn9uFT8nr",
+    "twitter": "cursemcnet"
+  },
+  "versions": [
+    "1.21.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#A500F8",
+    "secondary": "#A500F8"
+  }
 }

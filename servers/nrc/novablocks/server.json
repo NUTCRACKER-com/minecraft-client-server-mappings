@@ -12,9 +12,18 @@
   "icon": "icon.png",
   "banner": "banner.png",
   "disabledModules": [
-    "autoText",
+    "fullbright",
     "freelook",
-    "fullbright"
+    "autoText",
+    "nameInfo"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "WEATHER_CHANGER",
+    "TIME_CHANGER"
+  ],
+  "website": "https://novablocks.eu",
+  "socials": {
+    "discord": "https://discord.gg/yh623gKz2v"
+  }
 }

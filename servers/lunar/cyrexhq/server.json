@@ -9,5 +9,27 @@
     "BOXPVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive based server",
+  "store": "https://store.cyrexhq.lat",
+  "socials": {
+    "discord": "https://discord.gg/D7GzNUD3FY"
+  },
+  "versions": [
+    "1.20.4",
+    "1.21.1"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "KitPvP",
+    "BoxPvP"
+  ],
+  "colors": {
+    "primary": "#D4AF37",
+    "secondary": "#FFD700"
+  }
 }

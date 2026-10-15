@@ -8,5 +8,42 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft server focused on custom Survival experiences.",
+  "store": "https://tienda.minebone.net",
+  "wiki": "https://wiki.minebone.net/",
+  "socials": {
+    "twitter": "mine_bone",
+    "discord": "https://discord.gg/invite/UYXv9Xgth4",
+    "youtube": "minebonenetwork"
+  },
+  "versions": [
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.10",
+  "regions": [
+    "EU",
+    "SA"
+  ],
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#555555",
+    "secondary": "#AAAAAA"
+  },
+  "compliance": {
+    "rules": "https://wiki.minebone.net/reglas/",
+    "support": "https://dc.minebone.net"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minebone/background.png"
 }

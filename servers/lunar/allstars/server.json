@@ -8,5 +8,27 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "French UHC competition for the best of the best.",
+  "socials": {
+    "discord": "https://discord.gg/as-uhc"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "UHC",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#B0023F",
+    "secondary": "#EC5E8E"
+  }
 }

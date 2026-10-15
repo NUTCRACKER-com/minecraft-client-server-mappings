@@ -8,5 +8,41 @@
     "SURVIVAL",
     "FACTIONS"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Enjoy a unique experience!",
+  "store": "https://tienda.hyrady.com",
+  "socials": {
+    "twitter": "hyradynetwork",
+    "tiktok": "@hyradynetwork",
+    "discord": "https://discord.gg/8JBzSnqPE5"
+  },
+  "versions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.20.4",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#08fb71",
+    "secondary": "#3bd785"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hyradynetwork/logo.png"
 }

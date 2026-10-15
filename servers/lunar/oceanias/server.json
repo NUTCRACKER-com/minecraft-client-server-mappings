@@ -12,5 +12,45 @@
     "PRACTICE",
     "LIFESTEAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The premier destination for Oceania-based Minecraft players.",
+  "store": "https://store.oceanias.net",
+  "socials": {
+    "twitter": "oceaniasnetwork",
+    "discord": "https://discord.com/invite/YP3qGFP2nf",
+    "youtube": "@webceanias",
+    "reddit": "oceanias",
+    "tiktok": "@oceanias"
+  },
+  "versions": [
+    "1.7.10",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "OC"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHC",
+    "Survival",
+    "Practice",
+    "Lifesteal"
+  ],
+  "colors": {
+    "primary": "#BF00FF",
+    "secondary": "#9400FF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/oceanias/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/oceanias/background.png"
 }

@@ -12,7 +12,120 @@
   "banner": "banner.png",
   "disabledModules": [
     "fovChanger",
-    "freelook"
+    "freelook",
+    "nameInfo"
   ],
-  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0)."
+  "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
+  "otherDisabledModules": [
+    "TNT_TIMER"
+  ],
+  "website": "https://www.gommehd.net/",
+  "store": "https://shop.gommehd.net/",
+  "socials": {
+    "x": "https://x.com/GommeHDnet",
+    "discord": "https://discord.com/invite/GommeHDnet",
+    "youtube": "https://www.youtube.com/GommeHDnet",
+    "instagram": "https://www.instagram.com/gommehdnetwork",
+    "tiktok": "https://www.tiktok.com/@gommehdnetwork"
+  },
+  "gamemodes": {
+    "bingo": {
+      "name": "Bingo",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "bedwars": {
+      "name": "BedWars",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "citybuild": {
+      "name": "CityBuild",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "gommunity": {
+      "name": "Gommunity",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "duels": {
+      "name": "Duels",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "moneymaker": {
+      "name": "MoneyMaker",
+      "versions": [
+        "1.8<*"
+      ],
+      "description": ""
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "jumpleague": {
+      "name": "JumpLeague",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "hideandseek": {
+      "name": "Hide'n'Seek",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "masterbuilders": {
+      "name": "MasterBuilders",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "partygames": {
+      "name": "PartyGames",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "ttt": {
+      "name": "TTT",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "itemchaos": {
+      "name": "ItemChaos",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    },
+    "ffa": {
+      "name": "FFA",
+      "versions": [
+        "1.21.11<*"
+      ],
+      "description": ""
+    }
+  }
 }

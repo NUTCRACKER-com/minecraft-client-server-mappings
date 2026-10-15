@@ -7,5 +7,30 @@
     "SURVIVAL",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The best Italian vanilla server",
+  "website": "https://ghostcube.it",
+  "socials": {
+    "discord": "https://discord.gg/mnjmkzdgAD"
+  },
+  "versions": [
+    "1.21.10"
+  ],
+  "primaryVersion": "1.21.10",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#D93E3E"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/ghostcube/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/ghostcube/background.png"
 }

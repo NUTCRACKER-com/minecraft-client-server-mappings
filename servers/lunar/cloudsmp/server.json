@@ -7,5 +7,29 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "The Best Anarchry Minecraft Server Out",
+  "socials": {
+    "discord": "https://discord.gg/cloudsmpfr",
+    "tiktok": "@cloudsmpfrr"
+  },
+  "versions": [
+    "1.21.5",
+    "1.21.6"
+  ],
+  "primaryVersion": "1.21.5",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#B810C4",
+    "secondary": "#716E6E"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/cloudsmp/background.png"
 }

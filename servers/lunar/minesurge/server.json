@@ -8,5 +8,33 @@
     "PRISON",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Factions, Prison, and more on MineSurge Network.",
+  "website": "https://minesurge.org/",
+  "store": "https://store.minesurge.org/",
+  "socials": {
+    "discord": "https://discord.com/invite/Pm92xEDPWq"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.19.4",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Factions",
+    "Prison",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#de9e14",
+    "secondary": "#3b3437"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/minesurge/logo.png"
 }

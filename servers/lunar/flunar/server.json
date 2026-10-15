@@ -7,5 +7,28 @@
     "SURVIVAL",
     "CASUAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "German Minecraft network with SMP, Citybuild, Skyblock and casual modes.",
+  "website": "https://flunar.de",
+  "versions": [
+    "26.1.*",
+    "26.2.*",
+    "26.3.*"
+  ],
+  "primaryVersion": "26.3",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "de"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Casual"
+  ],
+  "colors": {
+    "primary": "#e8e8e6",
+    "secondary": "#111111"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/flunar/logo.png"
 }

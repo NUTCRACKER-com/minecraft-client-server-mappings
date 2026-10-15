@@ -8,5 +8,31 @@
     "SURVIVAL",
     "ROLEPLAY"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Creative, Survival, and more on HeavenCube.",
+  "store": "https://heavencube.fr/shop",
+  "socials": {
+    "discord": "https://discord.com/invite/TuRxVsv93K"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.2",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Creative",
+    "Survival",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#FFC520",
+    "secondary": "#FFFE0B"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/heavencube/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/heavencube/background.png"
 }

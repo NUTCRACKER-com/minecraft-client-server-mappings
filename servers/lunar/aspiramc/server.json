@@ -9,5 +9,32 @@
     "ADVENTURE"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A fun minecraft server with a unique concept full of roleplay!",
+  "socials": {
+    "discord": "https://discord.gg/esvAQVkd"
+  },
+  "versions": [
+    "1.21.5"
+  ],
+  "primaryVersion": "1.21.5",
+  "regions": [
+    "EU",
+    "NA",
+    "SA"
+  ],
+  "languages": [
+    "en",
+    "nl"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Roleplay",
+    "Adventure"
+  ],
+  "colors": {
+    "primary": "#3BAEFF",
+    "secondary": "#FFFFFF"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/aspiramc/banner.png"
 }

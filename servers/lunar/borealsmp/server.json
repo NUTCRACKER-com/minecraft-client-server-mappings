@@ -8,5 +8,30 @@
     "CASUAL",
     "PVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Experience CartPvP gameplay on BorealSMP.",
+  "socials": {
+    "discord": "https://discord.gg/9ARZG5hrGE"
+  },
+  "versions": [
+    "1.21.11",
+    "26.1.*",
+    "26.2.*",
+    "26.3.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Casual",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#00B7FF",
+    "secondary": "#4376FF"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/borealsmp/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/borealsmp/background.png"
 }

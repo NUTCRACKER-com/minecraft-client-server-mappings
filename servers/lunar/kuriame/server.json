@@ -8,5 +8,37 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "KURIAME.LT - We create together!",
+  "website": "https://kuriame.lt/",
+  "store": "https://kuriame.lt/paslaugos",
+  "socials": {
+    "instagram": "kuriamelt",
+    "youtube": "@kuriameserveris",
+    "discord": "https://discord.com/invite/sKTwwGSgEc"
+  },
+  "versions": [
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "lt"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ff4d01",
+    "secondary": "#808080"
+  },
+  "compliance": {
+    "privacyPolicy": "https://kuriame.lt/privacy",
+    "termsOfService": "https://kuriame.lt/terms",
+    "rules": "https://kuriame.lt/taisykles"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/kuriame/background.png"
 }

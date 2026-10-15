@@ -8,5 +8,27 @@
     "PVP",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "ENCUBOS | The new era of MC!",
+  "store": "https://store.encubos.eu",
+  "socials": {
+    "twitter": "encubosnt",
+    "discord": "https://discord.gg/jJ6h7cZ3pF"
+  },
+  "versions": [
+    "1.8.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#5CBBFC",
+    "secondary": "#C6DEF1"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/encubos/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/encubos/background.png"
 }

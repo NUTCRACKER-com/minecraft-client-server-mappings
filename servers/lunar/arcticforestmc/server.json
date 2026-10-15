@@ -8,5 +8,39 @@
   "categories": [
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "ArcticForest - Wilderness Survival | Created in 2014.",
+  "website": "http://arcticforestmc.net",
+  "store": "http://store.arcticforestmc.net/",
+  "socials": {
+    "discord": "https://discord.gg/EAEM9Td6Xh",
+    "twitter": "ArcticForestMC",
+    "youtube": "@ArcticForestMC",
+    "instagram": "arcticforestmc_net"
+  },
+  "versions": [
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.12.2",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#84d3f1",
+    "secondary": "#333333"
+  },
+  "compliance": {
+    "rules": "http://arcticforestmc.net/rules"
+  },
+  "video": "A3Y4F2yi7oo",
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/arcticforestmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/arcticforestmc/background.png"
 }

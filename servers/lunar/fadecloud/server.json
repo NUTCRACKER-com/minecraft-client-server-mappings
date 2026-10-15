@@ -8,5 +8,35 @@
     "SKYBLOCK",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Minecraft, Prison, OPPrison, Skyblock, Hypixel, TopMinecraftServer, bestServer,",
+  "website": "https://fadecloud.com/",
+  "store": "https://store.fadecloud.com/",
+  "socials": {
+    "twitter": "FadeCloudNW",
+    "discord": "https://discord.com/invite/fadecloud"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Prison",
+    "Skyblock",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#56b8c7",
+    "secondary": "#835189"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fadecloud/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fadecloud/background.png"
 }

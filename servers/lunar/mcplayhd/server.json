@@ -8,5 +8,32 @@
     "PVP",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minigames and PvP on McPlayHD Network.",
+  "website": "https://mcplayhd.net/",
+  "store": "https://store.mcplayhd.net/",
+  "socials": {
+    "twitter": "mcplayhdnet",
+    "discord": "https://discord.com/invite/fk2C5XEYJs",
+    "reddit": "McPlayHD"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#fe7303",
+    "secondary": "#7a756f"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mcplayhd/logo.png"
 }

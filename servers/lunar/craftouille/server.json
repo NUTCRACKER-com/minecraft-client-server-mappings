@@ -7,5 +7,30 @@
     "MINIGAMES",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Craftouille.fr is a fun French Minecraft server with unique adventures! to play!",
+  "website": "https://craftouille.fr",
+  "socials": {
+    "discord": "https://discord.gg/WpmvCnK2P9"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.11",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#F66809",
+    "secondary": "#BF4545"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/craftouille/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/craftouille/background.png"
 }

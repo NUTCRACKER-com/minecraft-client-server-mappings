@@ -8,5 +8,27 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A competitive network featuring Lifesteal, KitPvP, Duels, and 1.21 Survival.",
+  "store": "https://store.lampnetwork.xyz",
+  "socials": {
+    "discord": "https://discord.com/invite/nUAtpDK9p9"
+  },
+  "versions": [
+    "1.8.9",
+    "1.21"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#0055FF",
+    "secondary": "#FFFFFF"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/lamp/background.png"
 }

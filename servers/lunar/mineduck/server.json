@@ -9,5 +9,36 @@
     "MINIGAMES"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Welcome to MineDuck, the Spanish Minecraft server.",
+  "website": "https://mineduck.es/",
+  "store": "https://tienda.mineduck.es/",
+  "socials": {
+    "twitter": "MineduckNetWork",
+    "instagram": "mineducknt",
+    "discord": "https://discord.com/invite/wr6jFda"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Survival",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#E79124",
+    "secondary": "#EFB66C"
+  }
 }

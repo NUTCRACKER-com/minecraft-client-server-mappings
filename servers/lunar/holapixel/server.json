@@ -8,5 +8,41 @@
     "PVP",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Minecraft minigames for free and have fun!",
+  "website": "https://www.holapixel.ir",
+  "store": "https://store.holapixel.ir",
+  "wiki": "https://wiki.holapixel.ir/",
+  "socials": {
+    "discord": "https://discord.gg/r9ucPHyv4P",
+    "youtube": "HolaPixel-IR",
+    "instagram": "HolaPixelOfficial"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#1E90FF",
+    "secondary": "#9378ff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/holapixel/logo.png"
 }

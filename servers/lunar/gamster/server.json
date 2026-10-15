@@ -15,5 +15,48 @@
     "BOXPVP",
     "KITPVP"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "We have ensured that we offer you the most secure systems",
+  "website": "https://www.gamster.org/",
+  "store": "https://web.gamster.org/",
+  "socials": {
+    "twitter": "GamsterOrg",
+    "discord": "https://discord.com/invite/gamster",
+    "instagram": "the_real_gamster_official",
+    "facebook": "GamsterOfficial",
+    "tiktok": "@gamstercommunity"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.18.2",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Creative",
+    "Survival",
+    "Skyblock",
+    "Prison",
+    "Factions",
+    "Anarchy",
+    "BoxPvP",
+    "KitPvP",
+    "Parkour",
+    "Practice",
+    "Soup PvP"
+  ],
+  "colors": {
+    "primary": "#7b4900",
+    "secondary": "#394246"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gamster/logo.png"
 }

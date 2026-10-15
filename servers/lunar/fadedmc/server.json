@@ -8,5 +8,50 @@
     "PVP",
     "PVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A competitive PvP server, soon featuring Lifesteal.",
+  "website": "https://fadedmc.net/",
+  "store": "https://store.fadedmc.net/",
+  "socials": {
+    "discord": "https://discord.gg/5cNqNx437j"
+  },
+  "versions": [
+    "1.19.2",
+    "1.19.3",
+    "1.19.4",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21",
+    "1.21.1",
+    "1.21.3",
+    "1.21.4"
+  ],
+  "primaryVersion": "1.21.1",
+  "regions": [
+    "EU",
+    "AS",
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "PvE"
+  ],
+  "colors": {
+    "primary": "#0a2540",
+    "secondary": "#1e90ff"
+  },
+  "compliance": {
+    "privacyPolicy": "https://fadedmc.net/privacy/",
+    "termsOfService": "https://fadedmc.net/terms/",
+    "rules": "https://fadedmc.net/rules"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fadedmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/fadedmc/background.png"
 }

@@ -8,5 +8,26 @@
     "SKYBLOCK",
     "SURVIVAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Skyblock and Survival on Chorus.",
+  "website": "https://chorus.hu/",
+  "socials": {
+    "discord": "https://discord.gg/e6KPCY7M7w"
+  },
+  "versions": [
+    "1.21.*"
+  ],
+  "primaryVersion": "1.21.4",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#d276ff",
+    "secondary": "#d276ff"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/chorus/logo.png"
 }

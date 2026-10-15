@@ -8,5 +8,24 @@
     "PVP"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Network dedicated to competitive PvP gamemodes!",
+  "store": "https://store-kerum.tebex.io/",
+  "socials": {
+    "twitter": "kerumoficialmc",
+    "discord": "https://discord.gg/jfQTuC8W5f"
+  },
+  "versions": [
+    "1.8.*",
+    "1.7.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "gameTypes": [
+    "HCF",
+    "PvP"
+  ],
+  "colors": {
+    "primary": "#ff0015",
+    "secondary": "#ffffff"
+  }
 }

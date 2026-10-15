@@ -9,5 +9,31 @@
     "SKYBLOCK",
     "CASUAL"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Survival, Anarchy, Skyblock, and more soon.",
+  "website": "https://inkysplanet.com",
+  "versions": [
+    "26.1.2"
+  ],
+  "primaryVersion": "26.1.2",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Anarchy",
+    "Skyblock",
+    "Casual"
+  ],
+  "colors": {
+    "primary": "#8EDBFF",
+    "secondary": "#7CFFB2"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/inkysplanet/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/inkysplanet/banner.png"
 }

@@ -9,5 +9,36 @@
     "PRISON",
     "UHC"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A competitive Minecraft PvP server with innovative features!",
+  "website": "https://krypticmc.net/",
+  "store": "https://krypticmc.net/store",
+  "socials": {
+    "discord": "https://discord.com/invite/PmuCDKgxkA",
+    "youtube": "@rigbot"
+  },
+  "versions": [
+    "1.8.9",
+    "1.12.2",
+    "1.21.4"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Prison",
+    "UHC"
+  ],
+  "colors": {
+    "primary": "#C23C96",
+    "secondary": "#5A1E52"
+  },
+  "compliance": {
+    "rules": "https://krypticmc.net/rules",
+    "support": "https://krypticmc.net/support"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/krypticmc/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/krypticmc/background.png"
 }

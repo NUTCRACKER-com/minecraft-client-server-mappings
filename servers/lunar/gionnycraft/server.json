@@ -7,5 +7,38 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "GionnyCraft is a simple and quality server! Enjoy!",
+  "website": "https://www.gionnycraft.it/",
+  "store": "https://gionnycraft.tebex.io/",
+  "socials": {
+    "discord": "https://discord.com/invite/ePhbDGhEKn",
+    "instagram": "gionnycraft",
+    "telegram": "GionnyCraft",
+    "tiktok": "@gionnycraft"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#c603fc",
+    "secondary": "#c26fd9"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/gionnycraft/background.png"
 }

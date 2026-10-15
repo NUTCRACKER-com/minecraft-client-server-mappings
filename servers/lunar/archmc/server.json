@@ -13,5 +13,37 @@
     "PVP",
     "CREATIVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Rule Your Own Game.",
+  "website": "https://arch.mc/",
+  "store": "https://store.arch.mc/",
+  "socials": {
+    "discord": "https://discord.gg/archmc"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "AS",
+    "NA",
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Practice",
+    "KitPvP",
+    "Survival",
+    "Lifesteal",
+    "PvP",
+    "Creative"
+  ],
+  "colors": {
+    "primary": "#f50217",
+    "secondary": "#787373"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/archmc/logo.png"
 }

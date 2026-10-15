@@ -8,5 +8,29 @@
     "ROLEPLAY"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Play Survival and Roleplay on Cometcraft Network.",
+  "website": "https://ccnetmc.com/",
+  "store": "https://ccnet.tebex.io/",
+  "socials": {
+    "discord": "https://discord.com/invite/Xn35DhyPQq"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*",
+    "1.20"
+  ],
+  "primaryVersion": "1.20",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Roleplay"
+  ],
+  "colors": {
+    "primary": "#f5921d",
+    "secondary": "#e9be5b"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/ccnetmc/background.png"
 }

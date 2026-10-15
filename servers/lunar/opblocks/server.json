@@ -10,5 +10,42 @@
     "COBBLEMON",
     "CREATIVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A high-quality Minecraft Prison, Skyblock, and Survival SMP server",
+  "website": "https://opblocks.com/",
+  "store": "https://store.opblocks.com/",
+  "socials": {
+    "twitter": "opblocks",
+    "discord": "https://discord.com/invite/tXPUtSPTMN",
+    "youtube": "UC3uucqNHTcwadJKG2Hrnfow",
+    "tiktok": "@opblocks"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Prison",
+    "Survival",
+    "Skyblock",
+    "Cobblemon",
+    "Creative"
+  ],
+  "colors": {
+    "primary": "#9638b5",
+    "secondary": "#e8becc"
+  },
+  "compliance": {
+    "rules": "https://opblocks.com/rules/"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/opblocks/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/opblocks/banner.gif"
 }

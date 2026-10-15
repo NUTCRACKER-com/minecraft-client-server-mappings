@@ -8,5 +8,41 @@
     "PVE",
     "SKYBLOCK"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "LegendCraft is the #1 MMORPG in Italy",
+  "website": "https://www.legendcraft.it/",
+  "store": "https://store.legendcraft.it",
+  "socials": {
+    "discord": "https://discord.com/invite/M9SnDz7yRk",
+    "youtube": "@LegendCraftStudios",
+    "instagram": "legendcraft.it",
+    "tiktok": "@legendcraft_off",
+    "telegram": "LegendCraft1"
+  },
+  "versions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.1",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "PvE",
+    "Skyblock"
+  ],
+  "colors": {
+    "primary": "#CD7F32",
+    "secondary": "#DAA06D"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/legendcraft/logo.png"
 }

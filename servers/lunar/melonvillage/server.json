@@ -6,5 +6,29 @@
   "categories": [
     "FACTIONS"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "A SMP server with a focus on community and fun.",
+  "store": "https://shop.melonvillage.net",
+  "socials": {
+    "discord": "https://discord.gg/54aMaXTJkH"
+  },
+  "versions": [
+    "1.21.10"
+  ],
+  "primaryVersion": "1.21.10",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Factions"
+  ],
+  "colors": {
+    "primary": "#FF0000",
+    "secondary": "#00FF44"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/melonvillage/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/melonvillage/background.png"
 }

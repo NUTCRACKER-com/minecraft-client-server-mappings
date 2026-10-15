@@ -9,5 +9,32 @@
     "OPENWORLD",
     "COMPETITIVE"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Competitive survival PvP with a deep economy, events, and custom progression.",
+  "store": "https://buy.mcpimps.com",
+  "socials": {
+    "discord": "https://discord.gg/uSMmp7vZdB"
+  },
+  "versions": [
+    "1.8.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Open World",
+    "Competitive"
+  ],
+  "colors": {
+    "primary": "#55FFFF",
+    "secondary": "#AAAAAA"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mcpimps/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/mcpimps/background.png"
 }

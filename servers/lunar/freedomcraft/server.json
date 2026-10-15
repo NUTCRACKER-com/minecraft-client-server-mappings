@@ -12,5 +12,39 @@
     "SURVIVAL"
   ],
   "icon": "icon.png",
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Face a world of challenging dungeons with class abilities and powerful gear!",
+  "website": "https://freedomcraftmc.com/",
+  "store": "https://www.freedomcraft.shop/",
+  "socials": {
+    "twitter": "FreedomCraftMC",
+    "discord": "https://discord.com/invite/freedomcraft"
+  },
+  "versions": [
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryVersion": "1.20.2",
+  "regions": [
+    "NA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Adventure",
+    "Parkour",
+    "Survival"
+  ],
+  "colors": {
+    "primary": "#0A52C7",
+    "secondary": "#FFFFFF"
+  },
+  "compliance": {
+    "privacyPolicy": "https://freedomcraftmc.com/privacy",
+    "termsOfService": "https://freedomcraftmc.com/terms",
+    "rules": "https://freedomcraftmc.com/rules"
+  },
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/freedomcraft/background.png"
 }

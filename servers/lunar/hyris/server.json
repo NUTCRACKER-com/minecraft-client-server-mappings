@@ -11,5 +11,41 @@
     "COMPETITIVE",
     "MINIGAMES"
   ],
-  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC)."
+  "notes": "Imported from LunarClient/ServerMappings (MIT, Copyright (c) 2023 Moonsworth, LLC).",
+  "description": "Brazilian Minecraft server with HG, Duels, Practice, BedWars and Minigames.",
+  "store": "https://hyris.com.br/loja",
+  "socials": {
+    "discord": "https://discord.gg/GRcCBC7FsB",
+    "tiktok": "@hyris.gg"
+  },
+  "versions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryVersion": "1.8.9",
+  "regions": [
+    "SA"
+  ],
+  "languages": [
+    "pt-BR"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Practice",
+    "Competitive",
+    "Minigames"
+  ],
+  "colors": {
+    "primary": "#F5A623",
+    "secondary": "#FFD54A"
+  },
+  "iconUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hyris/logo.png",
+  "bannerUrl": "https://raw.githubusercontent.com/LunarClient/ServerMappings/master/servers/hyris/background.png"
 }
