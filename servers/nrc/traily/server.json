@@ -11,5 +11,8 @@
   "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
   "otherDisabledModules": [
     "TNT_TIMER"
+  ],
+  "disabledModules": [
+    "tntTimer"
   ]
 }

@@ -149,7 +149,11 @@
           "killFx",
           "stopwatch",
           "soundMix",
-          "backup"
+          "backup",
+          "tntTimer",
+          "arrowTrail",
+          "timeChanger",
+          "weatherChanger"
         ]
       }
     },

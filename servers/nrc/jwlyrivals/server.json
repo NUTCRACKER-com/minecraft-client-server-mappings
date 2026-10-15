@@ -12,6 +12,7 @@
   "disabledModules": [
     "fovChanger",
     "freelook",
+    "tntTimer",
     "nameInfo"
   ],
   "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",

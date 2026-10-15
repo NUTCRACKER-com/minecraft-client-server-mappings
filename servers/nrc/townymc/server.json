@@ -10,7 +10,11 @@
   "icon": "icon.png",
   "banner": "banner.png",
   "disabledModules": [
+    "arrowTrail",
     "autoText",
+    "tntTimer",
+    "weatherChanger",
+    "timeChanger",
     "nameInfo"
   ],
   "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",

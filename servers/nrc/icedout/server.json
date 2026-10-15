@@ -11,7 +11,10 @@
   "icon": "icon.png",
   "banner": "banner.png",
   "disabledModules": [
-    "noFog"
+    "noFog",
+    "arrowTrail",
+    "tntTimer",
+    "timeChanger"
   ],
   "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
   "otherDisabledModules": [

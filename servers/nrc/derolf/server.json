@@ -14,7 +14,9 @@
   "banner": "banner.png",
   "disabledModules": [
     "fovChanger",
-    "nameInfo"
+    "nameInfo",
+    "tntTimer",
+    "arrowTrail"
   ],
   "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
   "otherDisabledModules": [

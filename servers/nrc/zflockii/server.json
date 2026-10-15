@@ -18,5 +18,9 @@
     "youtube": "https://www.youtube.com/@zFlockii",
     "tiktok": "https://www.tiktok.com/@zflockii",
     "discord": "https://discord.gg/SWYtdJBXjq"
-  }
+  },
+  "disabledModules": [
+    "weatherChanger",
+    "timeChanger"
+  ]
 }

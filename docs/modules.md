@@ -34,6 +34,10 @@ Diese IDs gehören in `disabledModules`.
 | `horseHud` | Reit-Stats |
 | `betterInfo` | Better Informations |
 | `noFog` | NoFog |
+| `tntTimer` | TNT-Timer |
+| `arrowTrail` | Arrow Trail |
+| `timeChanger` | Time Changer |
+| `weatherChanger` | Weather Changer |
 | `fovChanger` | FOV-Changer |
 | `nametags` | Nametags |
 | `autoText` | Auto-Text |

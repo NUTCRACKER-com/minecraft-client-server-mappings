@@ -22,6 +22,7 @@
     "discord": "https://discord.gg/nymBn3jgNu"
   },
   "disabledModules": [
-    "nameInfo"
+    "nameInfo",
+    "tntTimer"
   ]
 }

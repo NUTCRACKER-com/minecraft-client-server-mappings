@@ -15,13 +15,13 @@
   "banner": "banner.png",
   "disabledModules": [
     "autoText",
-    "itemHighlight"
+    "itemHighlight",
+    "weatherChanger",
+    "tntTimer"
   ],
   "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
   "otherDisabledModules": [
-    "PACK_TWEAKS",
-    "WEATHER_CHANGER",
-    "TNT_TIMER"
+    "PACK_TWEAKS"
   ],
   "website": "https://avesclub.net",
   "socials": {

@@ -12,7 +12,9 @@
   "banner": "banner.png",
   "disabledModules": [
     "freelook",
-    "itemHighlight"
+    "itemHighlight",
+    "weatherChanger",
+    "timeChanger"
   ],
   "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
   "otherDisabledModules": [

@@ -12,7 +12,10 @@
   "banner": "banner.png",
   "disabledModules": [
     "freelook",
+    "arrowTrail",
     "autoText",
+    "weatherChanger",
+    "timeChanger",
     "nameInfo"
   ],
   "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",

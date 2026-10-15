@@ -19,5 +19,8 @@
   "socials": {
     "discord": "https://discord.gg/jDj54zcQdB",
     "youtube": "https://www.youtube.com/@ClashCubeNetzwerk"
-  }
+  },
+  "disabledModules": [
+    "timeChanger"
+  ]
 }

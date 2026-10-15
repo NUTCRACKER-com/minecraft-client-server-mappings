@@ -18,15 +18,15 @@
   "disabledModules": [
     "fullbright",
     "freelook",
-    "noFog"
+    "noFog",
+    "arrowTrail",
+    "tntTimer",
+    "weatherChanger",
+    "timeChanger"
   ],
   "notes": "Imported from NoRiskClient/nrc-server-mappings (GPL-3.0).",
   "otherDisabledModules": [
-    "ARROW_TRAIL",
-    "PACK_TWEAKS",
-    "TNT_TIMER",
-    "WEATHER_CHANGER",
-    "TIME_CHANGER"
+    "PACK_TWEAKS"
   ],
   "website": "https://elinskihausen.de",
   "store": "https://store.elinskihausen.de",
