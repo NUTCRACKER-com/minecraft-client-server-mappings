@@ -1,14 +1,20 @@
-// node scripts/validate.js – prüft alle servers/*/server.json (Pflichtfelder, bekannte Modul-IDs, Dateien vorhanden, keine doppelten Adressen).
+// node scripts/validate.js – prüft alle servers/{nut,lunar,nrc}/<id>/server.json (Pflichtfelder, bekannte Modul-IDs, Dateien vorhanden, keine doppelten Adressen).
 const fs = require("fs");
 const path = require("path");
 const schema = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "schema", "server.schema.json"), "utf8"));
 const known = new Set(schema.properties.disabledModules.items.enum);
-const dir = path.join(__dirname, "..", "servers");
+const root = path.join(__dirname, "..", "servers");
+const entries = [];
+for (const g of fs.readdirSync(root)) {
+  const gp = path.join(root, g);
+  if (!fs.statSync(gp).isDirectory()) continue;
+  if (g.startsWith("_")) { entries.push([g, gp]); continue; }
+  for (const d of fs.readdirSync(gp)) entries.push([d, path.join(gp, d)]);
+}
 let errors = 0;
 const seen = new Map();
 const fail = (m) => { console.error("FEHLER: " + m); errors++; };
-for (const d of fs.readdirSync(dir)) {
-  const base = path.join(dir, d);
+for (const [d, base] of entries) {
   if (!fs.statSync(base).isDirectory()) continue;
   if (!/^_?[a-z0-9-]+$/.test(d)) fail(d + ": Ordnername nur a-z, 0-9, -");
   let s;

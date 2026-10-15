@@ -8,7 +8,7 @@ Einträge aus **diesem** Repo haben immer Vorrang.
 
 ## Einen Server hinzufügen
 
-1. Ordner `servers/<kurzname>/` anlegen (nur `a-z`, `0-9`, `-`).
+1. Ordner `servers/nut/<kurzname>/` anlegen (`servers/lunar/` und `servers/nrc/` sind importierte Quellen, siehe THIRD_PARTY.md) (nur `a-z`, `0-9`, `-`).
 2. `server.json` nach [`schema/server.schema.json`](schema/server.schema.json) schreiben – Vorlage: [`servers/_example/server.json`](servers/_example/server.json).
 3. Optional `icon.png` (quadratisch, mind. 128×128) und `banner.png`/`banner.webp`/`banner.gif` (16:9) danebenlegen.
 4. `node scripts/validate.js` ausführen (oder die Prüfung im Pull Request abwarten).
