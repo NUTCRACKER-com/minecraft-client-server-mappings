@@ -1,0 +1,161 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "NUTclient server mapping",
+  "type": "object",
+  "required": [
+    "name",
+    "addresses"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 120
+    },
+    "addresses": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9.-]+$"
+      }
+    },
+    "categories": {
+      "type": "array",
+      "maxItems": 10,
+      "items": {
+        "type": "string",
+        "pattern": "^[A-Z]+$"
+      }
+    },
+    "icon": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9._-]+\\.(png|webp|gif|jpg)$"
+    },
+    "banner": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9._-]+\\.(png|webp|gif|jpg)$"
+    },
+    "rulesUrl": {
+      "type": "string",
+      "pattern": "^https://"
+    },
+    "disabledModules": {
+      "type": "array",
+      "maxItems": 200,
+      "items": {
+        "type": "string",
+        "enum": [
+          "lowFire",
+          "zoom",
+          "hitColor",
+          "hudStyle",
+          "itemScale",
+          "screens",
+          "particles",
+          "crosshair",
+          "grouping",
+          "hitDisplay",
+          "cooldown",
+          "elytraHud",
+          "reminder",
+          "hitboxes",
+          "shieldBreak",
+          "armorHud",
+          "potionHud",
+          "itemHud",
+          "vanillaHud",
+          "logoHud",
+          "notifications",
+          "crystal",
+          "safety",
+          "discordStatus",
+          "packs",
+          "totems",
+          "inventoryHud",
+          "horseHud",
+          "betterInfo",
+          "noFog",
+          "fovChanger",
+          "nametags",
+          "autoText",
+          "chatUtils",
+          "splitChat",
+          "smooth",
+          "guiScale",
+          "chatTime",
+          "autocorrect",
+          "bedFix",
+          "nutMark",
+          "intelligentModules",
+          "betterImages",
+          "serverList",
+          "friendChat",
+          "gallery",
+          "chatPlus",
+          "blockOutline",
+          "f3plus",
+          "fluidOptimizer",
+          "fullbright",
+          "betterMove",
+          "bucketFix",
+          "tooltips",
+          "streamer",
+          "cosmeticsPlus",
+          "social",
+          "noDeadHit",
+          "dropConfirm",
+          "flightSpeed",
+          "waypoints",
+          "clientEdit",
+          "design",
+          "trapHelper",
+          "enemyTotems",
+          "nameInfo",
+          "noDeathAnim",
+          "particleVisor",
+          "damageTint",
+          "foodHud",
+          "freelook",
+          "freecam",
+          "hpViewer",
+          "noItemRender",
+          "beDistance",
+          "mmcss",
+          "aimSlow",
+          "dmgDir",
+          "camFx",
+          "lightOverlay",
+          "itemHighlight",
+          "techBlocks",
+          "crystalHelp",
+          "confirmDisconnect",
+          "tabEdit",
+          "hideArmor",
+          "mouseTweaks",
+          "itemPhysics",
+          "itemChanges",
+          "nowPlaying",
+          "particleList",
+          "shieldStatus",
+          "containerSearch",
+          "itemNames",
+          "totemPop",
+          "pvpClean",
+          "tiers",
+          "betterPvp",
+          "killFx",
+          "stopwatch",
+          "soundMix",
+          "backup"
+        ]
+      }
+    },
+    "notes": {
+      "type": "string",
+      "maxLength": 400
+    }
+  }
+}

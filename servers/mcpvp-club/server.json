@@ -1,0 +1,25 @@
+{
+  "name": "PvP Club",
+  "addresses": [
+    "mcpvp.club"
+  ],
+  "categories": [
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.webp",
+  "rulesUrl": "https://mcpvp.club/rules",
+  "disabledModules": [
+    "freecam",
+    "freelook",
+    "autoText",
+    "clientEdit",
+    "design",
+    "betterPvp",
+    "aimSlow",
+    "mouseTweaks",
+    "flightSpeed",
+    "techBlocks"
+  ],
+  "notes": "Regeln: keine Automatisierung, kein Mod, der etwas ermöglicht, was ohne ihn nicht geht (Allowed/Disallowed-Mods-Liste auf der Regelseite)."
+}

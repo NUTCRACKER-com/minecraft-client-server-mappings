@@ -1,0 +1,19 @@
+{
+  "name": "Beispiel-Server",
+  "addresses": [
+    "play.example.com",
+    "example.com"
+  ],
+  "categories": [
+    "PVP",
+    "SURVIVAL"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "rulesUrl": "https://example.com/rules",
+  "disabledModules": [
+    "freecam",
+    "autoText"
+  ],
+  "notes": "Regeln verbieten Freecam und Automatisierung."
+}

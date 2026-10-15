@@ -1,0 +1,25 @@
+{
+  "name": "MCPVP",
+  "addresses": [
+    "mcpvp.com",
+    "play.mcpvp.com"
+  ],
+  "categories": [
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "rulesUrl": "https://www.mcpvp.com/servers",
+  "disabledModules": [
+    "freecam",
+    "freelook",
+    "autoText",
+    "clientEdit",
+    "design",
+    "betterPvp",
+    "aimSlow",
+    "mouseTweaks",
+    "flightSpeed",
+    "techBlocks"
+  ],
+  "notes": "Vorläufig dieselben Sperren wie PvP Club."
+}
