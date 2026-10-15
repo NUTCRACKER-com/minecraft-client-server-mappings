@@ -28,6 +28,10 @@ Einträge aus **diesem** Repo haben immer Vorrang.
 
 Gesperrte Module lassen sich auf dem Server nicht einschalten und kommen beim Verlassen automatisch zurück.
 
+## Fremde Daten
+
+Siehe [THIRD_PARTY.md](THIRD_PARTY.md).
+
 ## Lizenz
 
 Das Backend gleicht die Server täglich mit den öffentlichen Mappings von Lunar Client, Tyranis und NoRisk Client ab; Server-Besitzer müssen sich dort nicht extra eintragen.
