@@ -1,0 +1,25 @@
+{
+  "name": "GatoUHC",
+  "addresses": [
+    "gatouhc.com"
+  ],
+  "categories": [
+    "PVP"
+  ],
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "disabledModules": [
+    "freecam",
+    "freelook",
+    "autoText",
+    "clientEdit",
+    "design",
+    "betterPvp",
+    "aimSlow",
+    "mouseTweaks",
+    "flightSpeed",
+    "techBlocks",
+    "fullbright"
+  ],
+  "notes": "Rules forbid freecam, freelook, automation and PvP-assist modules."
+}
